@@ -1,0 +1,14 @@
+[
+  {
+    "number": 1,
+    "title": "Detect Chessboard",
+    "user": "KGuz",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-11-21T20:29:34Z",
+    "closed_at": "2024-01-28T14:37:20Z",
+    "merged_at": "2024-01-28T14:37:20Z",
+    "state": "closed",
+    "html_url": "https://github.com/KGuz/chessie/pull/1"
+  }
+]

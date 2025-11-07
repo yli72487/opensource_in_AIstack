@@ -1,0 +1,34 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+WoosukKwon,Woosuk Kwon,"University of California, Berkeley",https://woosuk.me,"Berkeley, CA",,,"CS PhD student at UC Berkeley, building @vllm-project",woosuk_k,8,1113,226,2019-01-05T08:40:50Z,2025-10-20T12:10:46Z
+DarkLight1337,Cyrus Leung,,,Hong Kong,,,PhD Candidate @ HKUST,,12,277,0,2018-11-12T12:03:46Z,2025-09-29T11:24:44Z
+youkaichao,youkaichao,@vllm-project,https://youkaichao.github.io,"Beijing, China",,,Ph.D. from Tsinghua University. Core maintainer of @vllm-project .,KaichaoYou,78,2950,4788,2016-11-03T11:27:18Z,2025-08-21T13:47:06Z
+mgoin,Michael Goin,@vllm-project @redhatofficial @neuralmagic,,Boston,,True,"Open source inference optimization
+@vllm-project | @redhat | @neuralmagic",mgoin_,74,289,63,2013-01-05T22:07:32Z,2025-11-04T06:02:24Z
+hmellor,Harry Mellor,@huggingface @vllm-project,,,,,ML Engineer @huggingface,,19,103,4,2016-06-16T19:08:23Z,2025-11-03T20:04:09Z
+Isotr0py,Isotr0py,Sun Yat-Sen University,https://isotr0py.github.io/,"Guangdong, China",,,🐳 Master's degree candidate.,,39,189,26,2018-07-18T08:19:34Z,2025-10-14T07:03:57Z
+njhill,Nick Hill,Red Hat,,"San Jose, California",,,,,32,177,1,2016-01-29T14:37:45Z,2025-08-11T22:33:46Z
+jeejeelee,Jee Jee Li,,,"Chengdu, China",,,,,10,73,15,2016-06-03T15:25:55Z,2025-10-08T23:53:01Z
+simon-mo,Simon Mo,,,"Berkeley, CA",,True,"maintains @vllm-project, working on serving systems since 2017",simon_mo_,112,880,2,2016-08-19T06:18:24Z,2025-09-29T18:49:57Z
+ywang96,Roger Wang,,https://rogerw.io,,,,,rogerw0108,17,182,29,2023-06-09T22:57:49Z,2025-11-06T01:57:20Z
+russellb,Russell Bryant,"Red Hat, Inc., @vllm-project",,"Charleston, SC, USA",,,Distinguished Engineer @ Red Hat,,137,345,56,2010-06-19T07:30:49Z,2025-10-10T18:55:23Z
+reidliu41,Reid,,,,,,"JUST DO IT!
+",,22,11,8,2020-02-26T07:20:27Z,2025-06-28T11:58:54Z
+yewentao256,Wentao Ye,,wentao.site,Boston,,True,,,28,92,12,2018-11-11T13:56:10Z,2025-10-06T16:09:00Z
+zhuohan123,Zhuohan Li,vLLM / Meta,https://zhuohan.li, San Francisco Bay Area,,True,"building @vllm-project at Meta |
+🎓 cs phd @ 🌁 uc berkeley | 
+machine learning system | 
+the real agi is the friends we made along the way",zhuohan123,21,1453,131,2016-02-18T07:59:42Z,2025-11-05T07:23:04Z
+tlrmchlsmth,Tyler Michael Smith,Red Hat,,,,,"Chief Architect, Inference Engineering @ Red Hat | 
+Committer @vllm-project ",,36,114,58,2011-12-02T21:01:13Z,2025-11-04T12:28:02Z
+LucasWilkinson,Lucas Wilkinson,,,,,,,,33,55,5,2014-09-21T21:59:11Z,2025-11-05T05:00:48Z
+robertgshaw2-redhat,Robert Shaw,@RedHatOfficial,,Boston,,,vllm and llm-d,robertshaw21,75,217,136,2022-09-26T13:51:33Z,2025-11-05T21:54:37Z
+NickLucche,Nicolò Lucchesi,Red Hat,,,,,I like ML that runs fast (and sometimes works too).,,43,97,18,2015-01-26T09:34:44Z,2025-10-15T13:42:57Z
+heheda12345,Chen Zhang,Tsinghua University,heheda12345.github.io,,,,,,46,283,52,2017-01-19T07:02:10Z,2025-10-30T22:38:54Z
+varun-sundar-rabindranath,Varun Sundar Rabindranath,Red Hat,,"Boston, MA",,,"Software Engineer interested in the research areas Machine Learning, Natural Language Processing, Information Retrieval, Program Synthesis and Computer Vision",,21,15,2,2013-01-22T10:08:14Z,2025-11-05T23:18:52Z
+chaunceyjiang,Chauncey,@DaoCloud ,,,,,"Karmada/OpenELB approver
+cilium/istio member
+
+",,79,109,79,2016-03-20T11:03:57Z,2025-10-25T11:31:10Z
+tdoublep,Thomas Parnell,@IBM ,https://researcher.watson.ibm.com/researcher/view.php?person=zurich-TPA,"Zürich, Switzerland",,,Principle Research Scientist @IBM | Committer @vllm-project ,,17,52,4,2014-06-20T16:38:43Z,2025-10-28T07:28:59Z
+bigPYJ1151,"Li, Jiang",@intel ,,,,,,,15,30,27,2019-02-18T12:15:19Z,2025-10-22T19:08:36Z
+comaniac,Cody Yu,@openai,https://comaniac.github.io,"San Francisco, CA",,,LLM systems,,56,390,11,2014-07-25T01:14:14Z,2025-04-29T18:32:43Z

@@ -1,0 +1,19 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+Borda,Jirka Borovec,,,Prague,,True,"Computer Vision
+ & Machine Learning
+ & Bio-Medical Imaging
+ & #DeepLearn
+ & Kaggle Master",,114,3786,336,2013-11-25T21:58:35Z,2025-10-29T12:11:13Z
+aniketmaurya,Aniket Maurya,@CelestoAI Ex-@Lightning-AI ,https://aniketmaurya.com,"London, United Kingdom",theaniketmaurya@gmail.com,True,Research Engineer @Lightning-AI ⚡️ ,aniketmaurya,225,438,136,2016-08-14T07:37:24Z,2025-11-01T11:29:48Z
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+dmitsf,Dmitry Frolov,Staff SWE @ Lightning AI,,"New York, United States",,True,@gridai @Lightning-AI  @PyTorchLightning ,,58,30,1,2013-02-20T09:39:02Z,2025-10-12T15:10:38Z
+ethanwharris,Ethan Harris,@Lightning-AI,,,ethanwharris@gmail.com,,Staff Research Engineer @Lightning-AI ,,29,183,25,2014-11-06T15:56:37Z,2025-10-25T11:27:12Z
+gigio1023,Sungho Park,Naver,https://sunghogigio.com/posts/,,relilau00@gmail.com,,,,51,71,63,2015-03-10T13:03:59Z,2025-11-04T06:38:57Z
+kaushikb11,Kaushik B,,kaushikbokka@gmail.com,San Francisco,,True,LLMs go brrrr,kaushik_bokka,82,138,86,2018-11-23T09:31:17Z,2025-11-07T08:30:43Z
+krshrimali,Kushashwa Ravi Shrimali,@deshaw,https://www.youtube.com/c/kushashwaraviShrimali,India,,True,"Software Engineer | Python, C/C++, Rust",kushashwa,125,362,182,2016-06-17T15:05:04Z,2025-11-06T06:19:58Z
+lantiga,Luca Antiga,Lightning AI,lantiga.github.io,"Bergamo, Italy",luca.antiga@gmail.com,,"CTO at Lightning AI / Co-founder at Orobix, Orobix Life, Tensorwerk",lantiga,54,736,133,2010-01-27T17:03:44Z,2025-10-27T16:00:26Z
+otaj,Ota,,,,,,,,12,9,0,2013-11-29T10:28:53Z,2025-10-18T12:14:25Z
+pre-commit-ci[bot],,,,,,,,,0,0,0,2020-06-13T00:09:59Z,2020-06-13T00:09:59Z
+pritamsoni-hsr,Pritam Soni,,,India,,,"setTimeout(..., 0)",pritamsoni_hsr,27,9,16,2016-10-25T08:40:25Z,2025-11-06T20:49:47Z
+rohitgr7,Rohit Gupta,"ML Lead @premAI-io | Previously @shopadvisor-ai, Mazaal AI, @Lightning-AI, @EpisourceLLC",,"Dubai, India",rohitgr1998@gmail.com,True,I like to build ML products,imgrohit,61,154,92,2017-08-06T17:50:29Z,2025-11-06T14:29:26Z
+yurijmikhalevich,Yurij Mikhalevich,Makes magic at @QAWolf 🐺,mikhalevi.ch,,yurij@mikhalevi.ch,,,theyurij,64,165,43,2013-04-18T04:45:11Z,2025-09-26T21:47:35Z

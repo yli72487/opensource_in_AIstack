@@ -1,0 +1,86 @@
+[
+  {
+    "number": 33,
+    "title": "Configure Renovate",
+    "user": "renovate-bot",
+    "user_type": "User",
+    "is_human": false,
+    "created_at": "2024-05-01T14:32:05Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai/pull/33"
+  },
+  {
+    "number": 30,
+    "title": "Fixtests",
+    "user": "manishatGit",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-05-19T16:09:37Z",
+    "closed_at": "2023-05-19T16:10:03Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai/pull/30"
+  },
+  {
+    "number": 27,
+    "title": "update from main ",
+    "user": "catwang42",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-10-29T09:00:35Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai/pull/27"
+  },
+  {
+    "number": 18,
+    "title": "Correct 404 link to YAML file",
+    "user": "kardiff18",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-03-21T20:27:28Z",
+    "closed_at": "2022-08-31T12:49:59Z",
+    "merged_at": "2022-08-31T12:49:59Z",
+    "state": "closed",
+    "html_url": "https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai/pull/18"
+  },
+  {
+    "number": 15,
+    "title": "replace hard-coded BQ location with variable name",
+    "user": "lvaylet",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-01-26T20:34:01Z",
+    "closed_at": "2022-08-31T12:49:42Z",
+    "merged_at": "2022-08-31T12:49:42Z",
+    "state": "closed",
+    "html_url": "https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai/pull/15"
+  },
+  {
+    "number": 14,
+    "title": "fix typo",
+    "user": "lvaylet",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-01-26T20:26:34Z",
+    "closed_at": "2022-08-31T12:49:32Z",
+    "merged_at": "2022-08-31T12:49:32Z",
+    "state": "closed",
+    "html_url": "https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai/pull/14"
+  },
+  {
+    "number": 13,
+    "title": "update requirements to install local package",
+    "user": "graciofilipe",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2021-12-08T11:03:38Z",
+    "closed_at": "2021-12-08T11:07:39Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai/pull/13"
+  }
+]

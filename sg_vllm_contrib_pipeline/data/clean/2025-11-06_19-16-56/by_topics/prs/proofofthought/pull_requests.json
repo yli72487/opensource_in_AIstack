@@ -1,0 +1,38 @@
+[
+  {
+    "number": 3,
+    "title": "Update issue templates",
+    "user": "DebarghaG",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-10-17T21:25:45Z",
+    "closed_at": "2025-10-17T21:26:47Z",
+    "merged_at": "2025-10-17T21:26:47Z",
+    "state": "closed",
+    "html_url": "https://github.com/DebarghaG/proofofthought/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Adding an SMT backend, improving benchmarks, adding docs webpages and postprocessors.",
+    "user": "DebarghaG",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-10-17T20:49:51Z",
+    "closed_at": "2025-10-17T20:51:12Z",
+    "merged_at": "2025-10-17T20:51:12Z",
+    "state": "closed",
+    "html_url": "https://github.com/DebarghaG/proofofthought/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Add a \"HOWITWORKS.md\" to explain how ProofOfThought works",
+    "user": "ttulttul",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-10-04T20:57:39Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/DebarghaG/proofofthought/pull/1"
+  }
+]

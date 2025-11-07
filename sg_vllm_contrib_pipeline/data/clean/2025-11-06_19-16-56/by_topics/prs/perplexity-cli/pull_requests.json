@@ -1,0 +1,26 @@
+[
+  {
+    "number": 5,
+    "title": "Change shebang to use env for Python",
+    "user": "pr0way",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-10-30T20:44:39Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/dawid-szewc/perplexity-cli/pull/5"
+  },
+  {
+    "number": 4,
+    "title": "Fix local installation commands in README",
+    "user": "pr0way",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-10-30T20:35:24Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/dawid-szewc/perplexity-cli/pull/4"
+  }
+]

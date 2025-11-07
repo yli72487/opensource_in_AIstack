@@ -1,0 +1,26 @@
+[
+  {
+    "number": 2,
+    "title": "Fix typos in README.md",
+    "user": "robin-ede",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-07-11T18:52:33Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/bentoml/Fraud-Detection-Model-Serving/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Adding some styling  to make it feels coherent with other project",
+    "user": "jianshen92",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-05-09T00:07:49Z",
+    "closed_at": "2023-05-10T05:31:23Z",
+    "merged_at": "2023-05-10T05:31:23Z",
+    "state": "closed",
+    "html_url": "https://github.com/bentoml/Fraud-Detection-Model-Serving/pull/1"
+  }
+]

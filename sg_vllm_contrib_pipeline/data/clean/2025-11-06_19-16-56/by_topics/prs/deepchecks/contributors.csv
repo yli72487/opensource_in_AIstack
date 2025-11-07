@@ -1,0 +1,68 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+BioGeek,Jeroen Van Goey,@instadeepai,http://jeroen.vangoey.be,"Cape Town, South Africa",,True,"Staff Research engineer at @instadeepai – Machine Learning for personalized cancer vaccines, de novo peptide sequencing and signal peptides.",BioGeek,270,189,119,2009-03-02T12:32:22Z,2025-11-05T14:53:13Z
+DanArlowski,,,http://www.linkedin.com/in/dan-arlowski,Israel,,,DevOps Engineer,,17,4,0,2019-12-21T12:59:36Z,2025-10-07T12:13:44Z
+DanBasson,,,,,,True,,,13,0,0,2018-12-27T22:46:24Z,2025-10-21T12:04:11Z
+DanielAvdar,Daniel Avdar,,,,,,ML Engineer,,44,8,44,2020-06-01T16:55:05Z,2025-10-20T12:09:13Z
+ItayGabbay,Itay Gabbay,,,,itaygabb@gmail.com,,,,24,23,1,2016-08-05T13:43:52Z,2025-10-10T09:54:12Z
+JKL98ISR,Jonathan Liberman,,,,,,,,3,9,1,2017-03-10T08:05:28Z,2025-07-02T09:06:11Z
+MichaelMarien,Michael Marien,,,Belgium,,,,,18,6,0,2015-08-17T07:42:42Z,2025-10-25T10:24:07Z
+Nadav-Barak,Nadav Barak,,https://www.linkedin.com/in/nadavbarak/,,,,ML Researcher at Deepchecks,,10,18,7,2020-06-20T13:54:37Z,2025-02-26T13:59:20Z
+NaincyKumariKnoldus,,,,,,,,,161,10,0,2021-07-06T07:10:39Z,2025-11-06T13:35:25Z
+OlivierBinette,Olivier Binette,Duke University,https://olivierbinette.ca/,"Durham, NC",,True,Research Scientist @ Upstart // Duke Statistical Science PhD,,119,96,223,2011-05-12T22:49:13Z,2025-09-21T20:14:53Z
+RayanAAY-ops,Ray,,https://www.kaggle.com/rayanaay,France,aitaliyahia.rayane.pro@gmail.com,,Under the stars.,,54,12,10,2019-09-13T13:57:00Z,2025-01-24T10:32:40Z
+RonItay,,,,,,,,,7,0,0,2017-11-08T19:48:26Z,2025-09-13T10:05:48Z
+Tak,Levi Bard,,,,,,,,58,126,1,2009-10-20T17:59:12Z,2025-09-10T04:29:54Z
+TheSolY,Sol,,,,,,,,6,1,0,2022-02-10T09:24:59Z,2025-09-21T09:40:09Z
+allcontributors[bot],,,,,,,,,0,0,0,2019-01-07T12:57:03Z,2019-01-07T12:57:03Z
+alphabetagamer,Lokin Sethia,,lokin.dev,"Bangalore,India",,True,Teach me senpai,,28,7,9,2017-12-23T16:57:42Z,2025-08-02T09:33:17Z
+arterm-sedov,,cmwlab.com,,,,,"UX & technical writer, localization engineer, developer",,33,12,19,2020-05-31T00:51:41Z,2025-07-29T19:49:21Z
+assaf-gerner,Assaf,Deepchecks,,,,,,,0,0,0,2024-06-23T13:11:26Z,2025-10-22T20:07:03Z
+benisraeldan,DBI,,,,,,,,1,3,1,2018-08-12T07:18:54Z,2024-08-21T15:08:53Z
+bgalvao,Bernardo Galvão,Moonpay,https://bernardo-galvao.dev,Portugal,,True,,brnr_d1,44,27,46,2016-02-10T10:03:24Z,2025-10-05T19:30:20Z
+cemalgurpinar,Cemal GURPINAR,,,,,,,,9,8,5,2018-02-21T20:47:21Z,2025-06-04T16:53:34Z
+chelseatroy,Chelsea Troy,Mozilla,http://www.chelseatroy.com,Chicago,,True,I write about code and folks seem to like it: chelseatroy.com,HeyChelseaTroy,130,224,29,2013-10-22T06:31:47Z,2025-10-19T00:10:26Z
+chris-santiago,Chris Santiago,,,,,,,,64,6,7,2018-07-06T00:41:33Z,2025-04-25T13:15:28Z
+daavoo,David de la Iglesia Castro,@mozilla-ai,,Autocaravana,daviddelaiglesiacastro@gmail.com,,,,101,268,192,2015-05-30T23:00:48Z,2025-11-04T17:01:22Z
+deepchecks-bot,,,,,,,,,0,1,0,2021-11-10T09:43:54Z,2021-12-06T15:00:42Z
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+dnth,Dickson Neoh,,dicksonneoh.com,"Kuala Lumpur, Malaysia",dickson.neoh@gmail.com,True,Full stack AI engineer specializing in deploying computer vision models on edge devices for real-time inference.,dicksonneoh7,130,251,771,2014-03-01T01:33:48Z,2025-10-30T08:01:27Z
+dsjoench,(Joseph) Cho-Hang Ng,,,"Lehi, UT",,True,"Software engineer, Machine Learning",,11,12,18,2019-03-21T23:24:13Z,2025-05-16T23:12:31Z
+eltociear,Ikko Eltociear Ashimine,,,"Tokyo, Japan",,,"AI-driven developer @ Tokyo.
+Loves 🎸/🐈/🍛/🏝/⛰",,61,1248,6,2016-10-05T07:58:42Z,2025-10-20T01:14:54Z
+eyal352,Eyal C,@VONQ,,"Amsterdam, The Netherlands",,True,Technical Solutions Engineer,,24,16,21,2016-01-27T10:18:27Z,2025-09-30T14:48:32Z
+fossabot,fossabot,@fossas,https://fossa.com,Dependency Heaven,support@fossa.io,,Your friendly neighborhood FOSSA bot. Opens PRs to add a @fossas scan status to your README. Also opens PRs to remediate vulnerabilities in your dependencies.,,24159,424,0,2017-06-30T06:04:31Z,2025-11-03T16:19:54Z
+harsh-deepchecks,Harsh Jain,,,,,,,,2,2,0,2023-06-11T17:23:03Z,2024-01-31T15:17:29Z
+hjain5164,Harsh Jain,Springworks,,India,hjain5164@gmail.com,True, 👨🏽‍💻 Open-Source Contributor | SDE - II @ Springworks | Ex-TCS | NodeJS | Python | ReactJS | Azure DevOps | Author @ Educative.io,,68,14,0,2016-07-15T16:06:17Z,2025-10-14T13:17:23Z
+idow09,Ido Weiss,,https://about.me/ido.weiss,Israel,idow09@gmail.com,,,,27,4,5,2014-12-04T09:05:22Z,2025-08-28T11:45:11Z
+imarquart,Ingo Marquart,statworx,http://www.ingomarquart.de,,,,,,23,2,3,2022-04-01T11:24:48Z,2025-11-03T22:13:17Z
+jhwohlgemuth,Jason Wohlgemuth,Oak Ridge National Laboratory,,"Knoxville, TN",,True,Jesus follower. Husband. Father of 3. Progressive programming polyglot pursuing perfect software. Geospatial Data scientist @ORNL. ,jhwohlgemuth,85,59,94,2014-01-12T18:00:29Z,2025-11-01T11:27:35Z
+julienschuermans,Julien Schuermans,Powernaut,,Belgium,,,Machine Learning Engineer @Powernaut ,,12,6,1,2015-10-01T15:12:15Z,2025-10-13T07:35:34Z
+kishore-s-15,Kishore Sampath,"Khoury College of Computer Sciences, Northeastern University",,"Boston, MA",skishore2602.dev@gmail.com,True,MS AI @ Northeastern | Applied Machine Learning | Building AI-enabled data-driven software applications,Kishore_s_15,52,11,13,2019-10-17T14:26:57Z,2025-09-27T20:25:42Z
+kishore-s-gitaa,Kishore,GITAA Pvt. Ltd.,,"Chennai, Tamil Nadu, India",,,,,0,0,0,2021-06-25T10:10:12Z,2023-06-12T05:52:07Z
+manijhariya,Manish Kumar,,,,,True,,,24,3,2,2019-03-26T08:53:40Z,2024-04-01T09:36:14Z
+matanper,,,,,,,,,16,13,0,2014-11-20T17:47:06Z,2025-11-06T14:33:10Z
+mend-bolt-for-github[bot],,,,,,,,,0,0,0,2018-08-29T21:10:23Z,2022-05-29T14:19:59Z
+mglowacki100,OrdoAbChao,,,,,,,,14,9,57,2013-12-01T10:27:21Z,2025-08-26T20:02:01Z
+myarmenia,Hayk Arakelyan,Webex Technologies LLC,www.webex.am,"Armenia, Yerevan",info@webex.am,,Programmer since 1999,,69,1,3,2016-10-31T12:59:20Z,2025-11-06T07:49:12Z
+nirbenz,Nir Ben-Zvi,Nir Ben-Zvi,www.nirbenzvi.com,Tel Aviv,me@nirbenzvi.com,,"Machine/Deep Learning Consultant. I help companies with ML & computer vision.
+Ex: http://trigo.tech, Amazon, Disney.",nir_benz,15,5,1,2013-07-03T13:04:09Z,2025-10-09T09:46:39Z
+nirhutnik,Nir Hutnik,Deepchecks,,,,,,,1,5,0,2021-10-11T13:20:43Z,2023-08-29T16:43:54Z
+nissimofir,Ofir Nissim,,,,,,,,0,0,0,2016-12-18T16:02:18Z,2023-09-25T18:20:12Z
+noamzbr,Noam Bressler,@deepchecks ,,,noamzbr@gmail.com,,,,3,14,1,2016-03-08T19:30:49Z,2025-06-12T08:58:54Z
+ongraphpythondev,,,,,,,,,207,3,1,2019-05-27T06:50:20Z,2025-10-21T11:04:56Z
+osw282,Oscar,Fuzzy Labs,,Everywhere,,,24/7,,16,6,11,2017-01-23T21:39:00Z,2025-10-24T13:44:52Z
+ozelias,Oz Elias,,,,,,,,3,0,0,2017-01-15T19:37:48Z,2025-05-08T21:41:20Z
+rcwoolston,Richard W,,,,rcwoolston@gmail.com,,,,12,0,1,2013-11-16T22:26:50Z,2025-01-14T03:15:02Z
+renovate[bot],,,,,,,,,0,0,0,2017-06-02T07:04:12Z,2017-06-14T20:22:02Z
+rmminusrslash,,,,,,,Machine Learning Engineer,,25,32,22,2012-10-09T11:03:18Z,2025-11-03T14:06:45Z
+shaypal5,Shay Palachy-Affek,@DataHackIL ,http://www.shaypalachy.com/,Israel,,True,Interested in doing data science and developing open source tools in Python.,shaypal5,65,242,39,2011-07-15T15:36:44Z,2025-10-20T04:42:38Z
+shayts7,Shay Tsadok,,,,shayts7@gmail.com,True,,,20,4,3,2013-03-04T14:19:14Z,2025-10-19T11:53:29Z
+shir22,,,,,,,,,9,14,1,2017-11-20T17:45:17Z,2025-11-01T06:43:07Z
+shiritdvir,,,,,,,,,4,0,0,2019-08-06T12:55:33Z,2023-09-19T08:01:55Z
+shivshankardayal,Shiv Shankar Dayal,ashtavakra.org,https://ashtavakra.org,"Nalnda, India",,,Programmer/System Administrator,,48,22,0,2010-07-04T12:33:17Z,2025-10-02T10:39:08Z
+snyk-bot,Snyk bot,@Snyk,https://snyk.io,,,,"Snyk's bot, opens pull requests to fix known vulnerabilities in your dependencies. Check out https://snyk.io/ to learn more.",,4,1114,0,2016-06-03T16:01:12Z,2025-10-31T13:43:04Z
+thewchan,Matt Chan,,,,,,"Data scientist working for a large media and telecom company. Side hobby: redistributing packages on Conda; engraving classical music, and EBook production.",,346,20,0,2019-04-17T01:42:52Z,2025-09-05T21:18:49Z
+vargasa,Andres Vargas,Shell,https://www.andresv.co,"Denver, CO",andres.vargas@cern.ch,True,Ph.D. Physics | CERN,,26,12,33,2016-01-21T16:25:46Z,2025-10-09T11:38:11Z
+vc1492a,Valentino Constantinou,Infactory,https://www.valentino.io/,"San Francisco, California",,True,"Data Engineer at @infactory-io, Open Source Software Contributor",,31,185,276,2012-07-28T20:06:59Z,2025-10-21T18:44:52Z
+yromanyshyn,Yurii Romanyshyn,starnavi,,"Ukraine, Lviv",,,,,2,4,0,2020-09-21T08:58:40Z,2023-01-13T07:16:16Z
+zeerd,Charles Chan,Neusoft Automotives,https://www.zeerd.com,"Dalian,Liaoning",,,一个懂点儿心理咨询的软件架构师。,emneg_zeerd,21,9,8,2010-09-07T05:37:38Z,2025-10-27T11:27:06Z

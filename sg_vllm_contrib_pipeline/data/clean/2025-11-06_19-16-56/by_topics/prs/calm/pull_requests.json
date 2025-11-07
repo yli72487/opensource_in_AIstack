@@ -1,0 +1,74 @@
+[
+  {
+    "number": 6,
+    "title": "Implement initial Metal port",
+    "user": "zeux",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-04-11T21:35:14Z",
+    "closed_at": "2024-04-11T23:11:15Z",
+    "merged_at": "2024-04-11T23:11:15Z",
+    "state": "closed",
+    "html_url": "https://github.com/zeux/calm/pull/6"
+  },
+  {
+    "number": 5,
+    "title": "Optional compile time support for half-precision matmul",
+    "user": "zeux",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-03-13T02:18:16Z",
+    "closed_at": "2024-03-13T08:02:25Z",
+    "merged_at": "2024-03-13T08:02:25Z",
+    "state": "closed",
+    "html_url": "https://github.com/zeux/calm/pull/5"
+  },
+  {
+    "number": 4,
+    "title": "Implement stage profiler for coop kernel",
+    "user": "zeux",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-03-03T22:24:01Z",
+    "closed_at": "2024-03-04T02:00:06Z",
+    "merged_at": "2024-03-04T02:00:06Z",
+    "state": "closed",
+    "html_url": "https://github.com/zeux/calm/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Create SGConvert.py",
+    "user": "Chicook",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-02-03T11:51:36Z",
+    "closed_at": "2024-02-07T01:24:33Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/zeux/calm/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Get rid of jsmn dependency",
+    "user": "zeux",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-01-08T05:58:35Z",
+    "closed_at": "2024-01-08T17:13:31Z",
+    "merged_at": "2024-01-08T17:13:31Z",
+    "state": "closed",
+    "html_url": "https://github.com/zeux/calm/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Implement support for Phi-2 model",
+    "user": "zeux",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-01-06T18:29:35Z",
+    "closed_at": "2024-01-06T18:33:46Z",
+    "merged_at": "2024-01-06T18:33:46Z",
+    "state": "closed",
+    "html_url": "https://github.com/zeux/calm/pull/1"
+  }
+]

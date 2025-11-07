@@ -1,0 +1,122 @@
+[
+  {
+    "number": 10,
+    "title": "Bump flask from 1.1.2 to 2.3.2",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2023-05-01T21:41:04Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/Vatsalparsaniya/Mnist-Model-Deploy/pull/10"
+  },
+  {
+    "number": 9,
+    "title": "Bump tensorflow-cpu from 2.5.1 to 2.11.1",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2023-03-24T21:57:05Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/Vatsalparsaniya/Mnist-Model-Deploy/pull/9"
+  },
+  {
+    "number": 8,
+    "title": "Bump tensorflow-cpu from 2.5.1 to 2.9.3",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2022-11-21T20:47:11Z",
+    "closed_at": "2023-03-24T21:57:08Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/Vatsalparsaniya/Mnist-Model-Deploy/pull/8"
+  },
+  {
+    "number": 7,
+    "title": "Bump numpy from 1.18.4 to 1.22.0",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2022-06-22T02:07:17Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/Vatsalparsaniya/Mnist-Model-Deploy/pull/7"
+  },
+  {
+    "number": 6,
+    "title": "Bump tensorflow-cpu from 2.5.1 to 2.7.2",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2022-05-26T20:07:58Z",
+    "closed_at": "2022-11-21T20:47:14Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/Vatsalparsaniya/Mnist-Model-Deploy/pull/6"
+  },
+  {
+    "number": 5,
+    "title": "Bump tensorflow-cpu from 2.5.1 to 2.6.4",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2022-05-24T16:40:33Z",
+    "closed_at": "2022-05-26T20:08:01Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/Vatsalparsaniya/Mnist-Model-Deploy/pull/5"
+  },
+  {
+    "number": 4,
+    "title": "Bump tensorflow-cpu from 2.5.1 to 2.5.3",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2022-02-09T23:27:03Z",
+    "closed_at": "2022-05-24T16:40:36Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/Vatsalparsaniya/Mnist-Model-Deploy/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Bump tensorflow-cpu from 2.5.1 to 2.5.2",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2021-11-10T19:38:34Z",
+    "closed_at": "2022-02-09T23:27:06Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/Vatsalparsaniya/Mnist-Model-Deploy/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Bump tensorflow-cpu from 2.2.1 to 2.5.1",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2021-08-25T14:39:43Z",
+    "closed_at": "2021-08-26T04:50:46Z",
+    "merged_at": "2021-08-26T04:50:46Z",
+    "state": "closed",
+    "html_url": "https://github.com/Vatsalparsaniya/Mnist-Model-Deploy/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Bump tensorflow-cpu from 2.2.0 to 2.2.1",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2020-09-25T18:37:02Z",
+    "closed_at": "2020-09-25T19:06:56Z",
+    "merged_at": "2020-09-25T19:06:56Z",
+    "state": "closed",
+    "html_url": "https://github.com/Vatsalparsaniya/Mnist-Model-Deploy/pull/1"
+  }
+]

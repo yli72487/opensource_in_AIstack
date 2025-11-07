@@ -1,0 +1,14 @@
+[
+  {
+    "number": 1,
+    "title": "docs: add PromptBuilder.cc to Productivity & Business Agents list",
+    "user": "nicklaunches",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-10-25T17:24:00Z",
+    "closed_at": "2025-10-30T01:41:44Z",
+    "merged_at": "2025-10-30T01:41:44Z",
+    "state": "closed",
+    "html_url": "https://github.com/rembertdesigns/AI-Agent-Platforms-Automation-Tools/pull/1"
+  }
+]

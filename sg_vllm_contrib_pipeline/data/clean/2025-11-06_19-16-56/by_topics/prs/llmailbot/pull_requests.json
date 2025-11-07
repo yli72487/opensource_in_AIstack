@@ -1,0 +1,50 @@
+[
+  {
+    "number": 4,
+    "title": "Load API keys from files (to enable docker secrets)",
+    "user": "jbchouinard",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-03-21T22:17:08Z",
+    "closed_at": "2025-03-21T22:20:59Z",
+    "merged_at": "2025-03-21T22:20:59Z",
+    "state": "closed",
+    "html_url": "https://github.com/jbchouinard/llmailbot/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Improve docker stack compatibliity and docs",
+    "user": "jbchouinard",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-03-21T21:17:28Z",
+    "closed_at": "2025-03-21T21:21:41Z",
+    "merged_at": "2025-03-21T21:21:41Z",
+    "state": "closed",
+    "html_url": "https://github.com/jbchouinard/llmailbot/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Feature: configuration helper commands",
+    "user": "jbchouinard",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-03-21T17:10:32Z",
+    "closed_at": "2025-03-21T17:18:35Z",
+    "merged_at": "2025-03-21T17:18:35Z",
+    "state": "closed",
+    "html_url": "https://github.com/jbchouinard/llmailbot/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "CI: build docker images and push to docker hub",
+    "user": "jbchouinard",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-03-20T22:11:26Z",
+    "closed_at": "2025-03-20T22:42:58Z",
+    "merged_at": "2025-03-20T22:42:58Z",
+    "state": "closed",
+    "html_url": "https://github.com/jbchouinard/llmailbot/pull/1"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "number": 12,
+    "title": "stable windows build ",
+    "user": "Abinesh-Mathivanan",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-09-23T15:55:55Z",
+    "closed_at": "2025-09-23T16:02:29Z",
+    "merged_at": "2025-09-23T16:02:29Z",
+    "state": "closed",
+    "html_url": "https://github.com/monkesearch/monkeSearch/pull/12"
+  },
+  {
+    "number": 11,
+    "title": "Updated docs to reflect linux support",
+    "user": "simplycode07",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-09-23T07:09:59Z",
+    "closed_at": "2025-09-23T07:20:36Z",
+    "merged_at": "2025-09-23T07:20:36Z",
+    "state": "closed",
+    "html_url": "https://github.com/monkesearch/monkeSearch/pull/11"
+  },
+  {
+    "number": 10,
+    "title": "first stable windows implementation ",
+    "user": "Abinesh-Mathivanan",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-09-22T16:43:51Z",
+    "closed_at": "2025-09-23T16:00:43Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/monkesearch/monkeSearch/pull/10"
+  },
+  {
+    "number": 9,
+    "title": "Added script to dump index for linux",
+    "user": "simplycode07",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-09-22T05:07:34Z",
+    "closed_at": "2025-09-22T14:48:58Z",
+    "merged_at": "2025-09-22T14:48:58Z",
+    "state": "closed",
+    "html_url": "https://github.com/monkesearch/monkeSearch/pull/9"
+  },
+  {
+    "number": 7,
+    "title": "Added pydantic to requirements.txt as it's needed in query_gen.py",
+    "user": "bilawalriaz",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-09-03T10:59:51Z",
+    "closed_at": "2025-09-03T11:16:52Z",
+    "merged_at": "2025-09-03T11:16:52Z",
+    "state": "closed",
+    "html_url": "https://github.com/monkesearch/monkeSearch/pull/7"
+  },
+  {
+    "number": 6,
+    "title": "Cleanup and refactor in FileSearchParser",
+    "user": "simplycode07",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-09-02T12:33:30Z",
+    "closed_at": "2025-09-02T19:16:11Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/monkesearch/monkeSearch/pull/6"
+  },
+  {
+    "number": 4,
+    "title": "Re-added the requirements.txt to the correct root location",
+    "user": "ahmedsultan0",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-08-24T18:23:12Z",
+    "closed_at": "2025-08-25T04:04:48Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/monkesearch/monkeSearch/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Moved the requirements.txt to the correct root location",
+    "user": "ahmedsultan0",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-08-24T18:12:09Z",
+    "closed_at": "2025-08-24T18:14:32Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/monkesearch/monkeSearch/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "add video",
+    "user": "Kishlay-notabot",
+    "user_type": "User",
+    "is_human": false,
+    "created_at": "2025-08-21T07:02:54Z",
+    "closed_at": "2025-08-21T07:03:04Z",
+    "merged_at": "2025-08-21T07:03:04Z",
+    "state": "closed",
+    "html_url": "https://github.com/monkesearch/monkeSearch/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Initial_Prototype",
+    "user": "Kishlay-notabot",
+    "user_type": "User",
+    "is_human": false,
+    "created_at": "2025-08-21T05:52:03Z",
+    "closed_at": "2025-08-21T05:53:39Z",
+    "merged_at": "2025-08-21T05:53:38Z",
+    "state": "closed",
+    "html_url": "https://github.com/monkesearch/monkeSearch/pull/1"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "number": 3,
+    "title": "fixes the task type label and num tokens issue",
+    "user": "saeid93",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-05-15T10:15:10Z",
+    "closed_at": "2024-05-16T05:13:18Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/James-QiuHaoran/LLM-serving-with-proxy-models/pull/3"
+  }
+]

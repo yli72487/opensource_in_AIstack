@@ -1,0 +1,4 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+fossabot,fossabot,@fossas,https://fossa.com,Dependency Heaven,support@fossa.io,,Your friendly neighborhood FOSSA bot. Opens PRs to add a @fossas scan status to your README. Also opens PRs to remediate vulnerabilities in your dependencies.,,24159,424,0,2017-06-30T06:04:31Z,2025-11-03T16:19:54Z
+saivarunk,Varun Kruthiventi,@Fanatics,https://varunk.me,Hyderabad,,True,"Python, AI",,42,20,21,2012-12-06T03:51:53Z,2025-10-20T11:45:54Z

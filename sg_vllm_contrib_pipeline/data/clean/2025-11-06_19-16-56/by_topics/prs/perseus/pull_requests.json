@@ -1,0 +1,110 @@
+[
+  {
+    "number": 9,
+    "title": "Bump grpcio from 1.22.0 to 1.53.0 in /code/runner",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2023-07-05T20:56:52Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/cake-lab/perseus/pull/9"
+  },
+  {
+    "number": 8,
+    "title": "Bump pillow from 9.0.1 to 9.3.0 in /code/runner",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2022-11-22T10:14:28Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/cake-lab/perseus/pull/8"
+  },
+  {
+    "number": 7,
+    "title": "Bump numpy from 1.21.0 to 1.22.0 in /code/runner",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2022-06-22T05:00:30Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/cake-lab/perseus/pull/7"
+  },
+  {
+    "number": 6,
+    "title": "Bump numpy from 1.17.0 to 1.21.0 in /code/runner",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2022-03-12T23:32:21Z",
+    "closed_at": "2022-03-12T23:33:13Z",
+    "merged_at": "2022-03-12T23:33:13Z",
+    "state": "closed",
+    "html_url": "https://github.com/cake-lab/perseus/pull/6"
+  },
+  {
+    "number": 5,
+    "title": "Bump pillow from 6.1.0 to 9.0.1 in /code/runner",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2022-03-12T00:22:54Z",
+    "closed_at": "2022-03-12T23:31:53Z",
+    "merged_at": "2022-03-12T23:31:53Z",
+    "state": "closed",
+    "html_url": "https://github.com/cake-lab/perseus/pull/5"
+  },
+  {
+    "number": 4,
+    "title": "Bump pillow from 6.1.0 to 9.0.0 in /code/runner",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2022-01-13T02:30:13Z",
+    "closed_at": "2022-03-12T00:22:57Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/cake-lab/perseus/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Bump pillow from 6.1.0 to 8.3.2 in /code/runner",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2021-09-08T01:51:37Z",
+    "closed_at": "2022-01-13T02:30:15Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/cake-lab/perseus/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Bump pillow from 6.1.0 to 8.2.0 in /code/runner",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2021-06-08T21:14:19Z",
+    "closed_at": "2021-09-08T01:51:39Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/cake-lab/perseus/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Bump pillow from 6.1.0 to 8.1.1 in /code/runner",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2021-03-19T12:07:55Z",
+    "closed_at": "2021-06-08T21:14:22Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/cake-lab/perseus/pull/1"
+  }
+]

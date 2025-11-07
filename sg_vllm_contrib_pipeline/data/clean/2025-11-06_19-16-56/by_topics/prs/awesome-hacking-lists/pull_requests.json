@@ -1,0 +1,14 @@
+[
+  {
+    "number": 3,
+    "title": "Added Vulert into README.md",
+    "user": "ankitdn",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-05-07T15:00:15Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/taielab/awesome-hacking-lists/pull/3"
+  }
+]

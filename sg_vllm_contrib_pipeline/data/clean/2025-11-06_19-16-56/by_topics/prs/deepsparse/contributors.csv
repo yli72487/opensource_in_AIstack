@@ -1,0 +1,64 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+Beth-Kosis,,,,,,,,,0,0,0,2022-11-08T19:23:42Z,2022-12-05T19:30:43Z
+Chibukach,,,,,,,,,11,3,0,2017-10-30T17:33:54Z,2025-06-10T10:25:40Z
+EricPedley,Eric Pedley,,ericpedley.github.io,,epedley@uci.edu,True,Robotics & Autonomous Vehicles enjoyer,,81,28,19,2019-03-17T20:48:56Z,2025-10-21T00:52:51Z
+InquestGeronimo,zeroshot,,https://index.quantumstat.com,,,,,,15,5,2,2021-02-14T20:51:11Z,2025-06-23T01:11:08Z
+KSGulin,Konstantin Gulin,Neural Magic,,Los Angeles,,,Mostly ML and Estimation Theory,,2,12,4,2020-06-06T17:19:01Z,2025-10-24T15:01:39Z
+LucasWilkinson,Lucas Wilkinson,,,,,,,,33,55,5,2014-09-21T21:59:11Z,2025-11-05T05:00:48Z
+ProExpertProg,Luka Govedič,Red Hat,proexpertprog.github.io,"Cambridge, MA",,,"@vllm-project maintainer | vLLM performance @redhatofficial |
+MIT B.S. 2022, M. Eng. 2023 |
+HPC, C++ & CUDA",,26,51,9,2015-03-07T18:05:19Z,2025-11-04T03:02:30Z
+RS-labhub,Rohan Sharma,@llmware-ai,rohan-sharma-portfolio.vercel.app/,India,specialrohansharma200@gmail.com,,"Hi there!🧟
+You're the most beautiful person I've ever met!
+
+Building @developersHub",rrs00179,146,108,23,2022-11-04T04:53:07Z,2025-11-03T14:24:39Z
+SageMoore,Sage Moore,@neuralmagic,,,,,Software Engineer @neuralmagic ,,1,15,1,2014-02-20T18:56:47Z,2025-07-16T13:27:07Z
+Satrat,Sara Adkins,Suno,saraadkins.com,"Boston, MA",sara.adkins65@gmail.com,True,,,29,62,11,2014-09-18T15:10:32Z,2025-11-03T15:48:16Z
+SkalskiP,Piotr Skalski,@roboflow,https://huggingface.co/SkalskiP,127.0.0.1,piotr.skalski92@gmail.com,,Open Source Lead @roboflow | Founder @ makesense.ai,skalskip92,110,6372,133,2017-03-01T08:37:23Z,2025-10-12T07:18:27Z
+Willtor,William Leiserson,,,,wml@alum.rpi.edu,,,,16,17,1,2010-10-05T18:53:02Z,2024-02-13T22:30:38Z
+abhinavnmagic,,,,,,,,,3,1,0,2023-01-03T18:16:35Z,2024-08-16T20:16:56Z
+adrianosantospb,Adriano A. Santos,Ro-Main Conception | IMV Technologies,https://medium.com/@adrianosantospb,Québec - CA,adriano.nego@gmail.com,True,"PhD in Computer ScienceAI leader | Software Architect at Ro-Main/IMV |
+NVIDIA DL Ambassador and 
+NVIDIA-Certified Associate: Generative AI Multimodal
+",,100,128,9,2014-03-15T17:14:21Z,2025-09-20T14:15:35Z
+alexm-redhat,Alexander Matveev,RedHat,https://redhat.com,"Boston, MA, USA",,,@vllm-project,,9,32,1,2020-01-11T14:11:57Z,2025-10-24T15:18:54Z
+andy-neuma,Andy Linfoot,@redhat,,,,,,,1,9,0,2021-02-08T18:57:01Z,2025-07-14T12:26:21Z
+anmarques,Alexandre Marques,Neural Magic,,"Somerville, Massachusetts USA",almarque@redhat.com,,Scientist specialized in numerical models and computational algorithms. Focus on Machine Learning.,,5,9,0,2016-04-12T15:40:50Z,2025-10-01T19:32:41Z
+apurvnagvenkar,,,,,,,,,50,2,0,2014-08-20T18:34:57Z,2025-05-17T13:00:14Z
+bfineran,Benjamin Fineran,Scale AI,https://www.linkedin.com/in/benjaminfineran,,,,"ML @scaleapi | formerly @neuralmagic @google, @facebook, @upenn",,13,79,2,2015-03-04T16:17:44Z,2025-11-04T12:49:11Z
+bhargavshirin,Bhargav Shirin Nalamati,GITAM,Bhargavshirinnalamati,"Bangalore,Karnataka",bnalamat@gitam.in,,,,163,15,2,2022-06-01T12:29:35Z,2025-11-01T13:03:36Z
+bnellnm,,Red Hat,,,,,,,2,10,0,2019-03-27T20:54:01Z,2025-10-23T19:51:03Z
+corey-nm,,,,,,,,,5,1,0,2022-07-18T15:02:22Z,2022-11-22T14:45:14Z
+davidberenstein1957,David Berenstein,@Giskard-AI & @PrunaAI ,,Madrid,david.m.berenstein@gmail.com,,"ML & DevRel at 🤗 @Giskard-AI & @PrunaAI ||👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committing",davidberen1957,78,245,126,2017-01-21T17:44:29Z,2025-10-14T06:47:14Z
+dbarbuzzi,Domenic Barbuzzi,Red Hat,https://www.barbuzzi.dev,"MA, USA",contact+github@barbuzzi.dev,True,,,28,6,0,2011-02-28T16:40:34Z,2025-11-05T14:21:52Z
+dbogunowicz,,,,,,,,,2,16,0,2022-01-04T06:08:56Z,2024-07-11T11:30:25Z
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+dhuangnm,,Neural Magic,https://neuralmagic.com/,Boston,,,,,1,9,0,2020-11-23T20:00:47Z,2025-03-24T01:05:17Z
+dnth,Dickson Neoh,,dicksonneoh.com,"Kuala Lumpur, Malaysia",dickson.neoh@gmail.com,True,Full stack AI engineer specializing in deploying computer vision models on edge devices for real-time inference.,dicksonneoh7,130,251,771,2014-03-01T01:33:48Z,2025-10-30T08:01:27Z
+dsikka,Dipika Sikka,"@neuralmagic, Columbia University",https://www.linkedin.com/in/dipika-sikka/,New York,ds3822@columbia.edu,,"Machine Learning Engineer @ Neural Magic ||
+
+University of Waterloo 🍁",,14,41,9,2016-09-17T16:39:04Z,2025-10-26T22:01:34Z
+eldarkurtic,Eldar Kurtić,,,,,,,_EldarKurtic,36,19,2,2014-09-23T18:15:57Z,2025-11-06T14:47:16Z
+eltociear,Ikko Eltociear Ashimine,,,"Tokyo, Japan",,,"AI-driven developer @ Tokyo.
+Loves 🎸/🐈/🍛/🏝/⛰",,61,1248,6,2016-10-05T07:58:42Z,2025-10-20T01:14:54Z
+govindr-nm,Govind Ramnarayan,Neural Magic,,,,,,,0,0,0,2021-01-12T15:16:54Z,2022-06-20T14:48:50Z
+horheynm,George,RedHat,,,,,gohashi.tech@gmail.com,,6,8,17,2017-05-03T23:30:55Z,2025-09-06T00:50:24Z
+jeanniefinks,Jeannie Finks,Neural Magic,,,,,,,2,15,1,2020-11-16T15:48:21Z,2025-05-28T21:19:22Z
+johnnynunez,Johnny,NVIDIA,http://johnnynunez.github.io/,Barcelona,,,"@NVIDIA AI Researcher
+",johnnync13,306,0,0,2016-10-09T13:03:10Z,2025-11-04T21:03:39Z
+kevinaer,Kevin Escobar Rodriguez,Block,,,,,,,0,10,4,2015-01-16T20:09:03Z,2025-10-05T00:21:19Z
+kylesayrs,Kyle Sayers,@RedHatOfficial,,Boston,,,Accelerating ML inference @RedHatOfficial ,,56,38,80,2016-02-06T23:45:28Z,2025-11-06T20:08:22Z
+luis5tb,Luis Tomas Bolivar,Red Hat,https://luis5tb.github.io,Spain,,,,luis5tb,65,17,1,2013-10-30T19:01:31Z,2025-08-29T11:52:55Z
+maheshs11,mahesh,,,bangalore,shivarajmahesh11@gmail.com,True,"Mechatronics engineer who was inspired by Iron man movie and dreamt of building such kind of a system , I would like to explore this field as much as possible..",,44,6,38,2014-04-12T01:01:30Z,2025-04-27T11:21:13Z
+markurtz,Mark Kurtz,Red Hat,https://www.linkedin.com/in/markkurtzjr/,Boston,mark.j.kurtz@gmail.com,,"Member of Technical Staff at @redhat - making AI faster, cheaper, and smarter",markurtz_,8,50,2,2015-05-18T15:48:30Z,2025-11-05T16:44:14Z
+mgoin,Michael Goin,@vllm-project @redhatofficial @neuralmagic,,Boston,mgoin@redhat.com,True,"Open source inference optimization
+@vllm-project | @redhat | @neuralmagic",mgoin_,74,292,63,2013-01-05T22:07:32Z,2025-11-04T06:02:24Z
+mohitd404,Mohit Dhote,,,India,,,,,64,6,2,2023-10-04T10:06:33Z,2024-10-17T10:25:56Z
+mwitiderrick,Derrick Mwiti,,mwiti.com,Remote,,,ML,_mwitiderrick,110,124,58,2014-12-14T18:18:23Z,2025-10-30T08:36:08Z
+natuan,Tuan Nguyen,,,"Waltham, MA, USA",atnhan@gmail.com,,,,35,12,0,2012-11-04T19:00:37Z,2025-10-10T00:08:14Z
+rahul-tuli,Rahul Tuli,@redhat,,Dehradun,rtuli@redhat.com,,Machine Learning Engineer,,41,45,24,2017-01-27T05:12:21Z,2025-11-04T12:47:49Z
+rgreenberg1,Rob Greenberg,Red Hat,,,,,LLM Inference @redhat,,2,3,1,2022-03-02T18:40:43Z,2025-07-08T10:57:07Z
+robertgshaw2-redhat,Robert Shaw,@RedHatOfficial,,Boston,,,vllm and llm-d,robertshaw21,75,219,136,2022-09-26T13:51:33Z,2025-11-05T21:54:37Z
+shubhra,Shubhra Pandit,,http://www.shubhrapandit.com,United States,shubhra.pandit@gmail.com,,,,22,5,0,2010-03-10T23:48:32Z,2025-06-18T00:06:01Z
+tlrmchlsmth,Tyler Michael Smith,Red Hat,,,,,"Chief Architect, Inference Engineering @ Red Hat | 
+Committer @vllm-project ",,36,115,58,2011-12-02T21:01:13Z,2025-11-04T12:28:02Z

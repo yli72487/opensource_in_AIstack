@@ -1,0 +1,62 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+Bslabe123,Brendan Slabe,,,,,,,,9,6,5,2011-10-13T18:07:04Z,2025-10-24T18:50:15Z
+DiegoLelis,Diego Lelis,....,https://www.linkedin.com/in/diego-lelis/,Vancouver,,,"A committed and curious SRE! 
+",diegolelis88,48,4,5,2014-08-09T19:58:18Z,2025-10-14T08:52:19Z
+Edwinhr716,Edwin Hernandez ,Google,,"Seattle, WA",,,Software Engineer,,27,6,0,2021-06-24T13:20:39Z,2025-09-25T15:07:23Z
+JesseStutler,Jesse Stutler,@Huawei,https://jessestutler.github.io/,"Hangzhou,China",,,Approver of @volcano-sh,,32,19,9,2018-04-19T14:58:58Z,2025-11-04T07:01:25Z
+KeerthanaAP,Keerthana Arumugam," IBM-ISDL , RedHatOfficial",,"Bangalore,India",,,,,22,1,0,2016-03-19T12:13:53Z,2025-09-30T05:55:54Z
+LuyuZhang00,Barry_zhang,Shanghai JiaoTong University,,Shanghai,zhangluyu809@gmail.com,,@Huawei ,,43,46,249,2020-07-03T01:14:17Z,2025-10-29T10:20:12Z
+Nihat-AYDIN,Muhammed Nihat Aydın,,,"Türkiye, İstanbul",,,Devops Engineer,,22,13,49,2021-09-03T21:32:19Z,2025-11-05T11:25:09Z
+TaeSooRhee-moreh,,,,,,,,,2,0,0,2021-11-15T01:42:47Z,2025-10-16T08:07:58Z
+Zeel-Patel,Zeel Patel,,,,,,SDE @ Uber,,13,2,5,2018-08-06T11:25:07Z,2025-09-03T07:34:11Z
+ahg-g,Abdullah Gharaibeh,Google,,Seattle,,,,,15,164,1,2018-06-18T14:26:32Z,2025-09-29T15:58:27Z
+andreyvelich,Andrey Velichkevich,Apple,https://www.linkedin.com/in/andrey-velichkevich/,London,andrey.velichkevich@gmail.com,True,@kubeflow Steering Committee | @kubernetes WG Batch | Work at Apple,andreyvelichk,64,148,4,2017-08-17T20:28:56Z,2025-10-09T15:02:27Z
+andyzhangx,Andy Zhang,Microsoft,https://www.linkedin.com/in/andy-zhang-a7bb9676/,Shanghai,xiazhang@microsoft.com,True,"Work at Microsoft AKS team on @kubernetes. Focus on AI inference and storage drivers on k8s 
+slack: andyzhang @kubernetes",andyzhangxz,89,889,0,2013-04-17T06:53:03Z,2025-11-04T12:31:58Z
+anshuman-agarwala,Anshuman Agarwala,IBM,,India,,,,,33,7,4,2017-06-14T10:41:12Z,2025-09-16T02:57:16Z
+ardaguclu,Arda Güçlü,Red Hat,https://ardaguclu.github.io/,Türkiye,,,,,69,71,0,2015-02-24T07:18:53Z,2025-07-10T11:19:09Z
+askulkarni2,Apoorva Kulkarni,AWS,,Southern California,,,"Prin. Specialist Solutions Architect, Containers @AWS",askulkarni,202,68,15,2013-06-27T04:42:01Z,2025-10-21T06:02:57Z
+astefanutti,Antonin Stefanutti,Red Hat,https://ttt.io,"Paris, France",,,👨🏻‍💻🚀,,37,266,14,2010-08-16T17:32:02Z,2025-09-29T16:13:37Z
+caozhuozi,Xudong Wang,PayPal,,Shanghai,,,,,81,21,505,2020-07-27T02:26:05Z,2025-08-07T02:54:36Z
+carlory,杨朱 · Kiki,DaoCloud,https://carlory.github.io/,Shanghai,baofa.fan@daocloud.io,,,,95,125,146,2017-05-04T12:08:20Z,2025-10-21T07:15:24Z
+chewong,Ernest Wong,,,,,,,,22,63,0,2015-01-16T05:17:30Z,2025-10-21T17:41:48Z
+chiragjn,Chirag Jain,@truefoundry ,https://chiragjn.github.io,"Mumbai, India",jain.chirag925@gmail.com,True,Machine Learning Engineer,,74,226,400,2014-12-25T09:14:24Z,2025-10-25T14:02:54Z
+congcongke,zhanweidu,,,,zhanweidu@163.com,,,,50,3,2,2014-11-12T08:04:19Z,2025-10-28T07:20:56Z
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+dims,Davanum Srinivas,Nvidia,https://hachyderm.io/@dims,Massachusetts,davanum@gmail.com,,,dims,382,979,9,2008-09-05T13:02:45Z,2025-08-28T02:04:02Z
+googs1025,CYJiang,Open to new work opportunities.,googs1025@gmail.com,Chengdu,,,Cloud Native Beginner |  LLM learninger |  AI-infra learninger | ex-ByteDance | @kubernetes Member,googs1025,228,179,503,2021-06-24T02:28:54Z,2025-10-31T09:46:37Z
+gujingit,gujing,Peking University,,,gu.jing@pku.edu.cn,,"2016-2019 Peking University Master
+2019-2024 Alibaba Cloud
+",,34,29,4,2014-10-29T08:25:17Z,2025-11-01T07:59:57Z
+jjk-g,Jason Kramberger,Google,,,,,,,7,1,0,2022-05-19T17:48:13Z,2025-10-30T22:52:22Z
+jonathan-innis,Jonathan Innis,@figma,,"Seattle, WA",hello@jonathaninnis.com,,Figma | Core Maintainer of Karpenter ☸ ,,85,128,42,2017-03-10T20:25:49Z,2025-11-06T17:10:34Z
+justinsb,Justin Santa Barbara,Google,,United States,justinsb@google.com,,,,241,572,0,2009-07-02T02:55:16Z,2025-10-04T02:49:55Z
+k8s-infra-cherrypick-robot,,,,,,,,,46,5,0,2021-09-09T18:45:48Z,2024-01-27T00:31:51Z
+kannon92,Kevin Hannon,Red Hat,,"Cleveland, Ohio",,,Kubernetes  Developer at Red Hat,,109,85,68,2013-03-05T20:56:15Z,2025-10-25T14:14:08Z
+kerthcet,Kante Yin,,ky.dev,"Cambridge, UK",kerthcet@gmail.com,True,Building AI Infrastructure @hiverge @InftyAI ,kerthcet,112,214,0,2016-04-09T11:40:29Z,2025-11-05T18:35:03Z
+liurupeng,RupengLiu,Google,,,rupliu@google.com,,,,11,4,1,2014-10-05T02:09:18Z,2025-01-03T18:11:49Z
+lixin010,Xin Li,,,,,,,,2,2,8,2017-12-19T04:23:11Z,2025-05-13T13:58:09Z
+ls-2018,,,,Beijing,acejilam@gmail.com,,Time flies away without delay.,,124,23,155,2018-04-28T23:55:39Z,2025-11-04T00:30:45Z
+mahdikhashan,Mahdi Khashan,,,,,,,,81,0,0,2019-12-11T12:21:24Z,2025-10-31T13:49:52Z
+mbobrovskyi,Mykhailo Bobrovskyi,@epam,,"Ukraine, Marhanets",mikhail.bobrovsky@gmail.com,,,,49,14,0,2015-08-22T18:38:43Z,2025-10-30T06:41:36Z
+nayihz,nayihz,,,SZ,,,,,24,16,114,2020-05-22T07:24:43Z,2025-07-20T08:23:50Z
+nicolasochem,Nicolas Ochem,MIDL.dev,http://nicolasochem.github.io,San Francisco,,,,nicolasochem,72,58,14,2009-06-08T08:06:07Z,2025-10-06T15:54:53Z
+nicole-lihui,Nicole LiHui 🥜,DaoCloud,,Shanghai,nicolelihui@outlook.com,,Curiosity is the first virtue of the learners.,,47,29,69,2018-10-16T12:43:19Z,2025-10-15T10:37:53Z
+pacoxu,Paco Xu,"@DaoCloud Co,.Ltd, Shanghai",https://pacoxu.wordpress.com/,"Shanghai, China ",roollingstone@gmail.com,,"Kubernetes Contributor, Football Fan(Valencia and Liverpool), a Go enthusiast (both Golang and Weiqi/Go)",xu_paco,282,739,694,2012-07-20T07:29:48Z,2025-11-04T04:35:08Z
+panpan0000,Peter Pan,DaoCloud,,,peter.pan@daocloud.io,,"Father, DogKeeper, Cloud Native Believer",,146,67,49,2015-08-31T05:31:56Z,2025-10-14T07:32:37Z
+pierewoj,Jakub Pierewoj,,https://pierewoj.com,,kuba@pierewoj.com,True,,,28,22,2,2012-11-23T23:56:08Z,2025-10-13T21:24:04Z
+rphillips,Ryan Phillips,Red Hat,,"Austin, TX",rphillips@redhat.com,,,,197,199,95,2008-03-02T19:00:27Z,2025-10-15T18:35:10Z
+singeleaf,,,,,,,,,11,0,0,2020-09-24T08:04:30Z,2025-10-09T07:42:10Z
+synthe102,Léonard Suslian,@mistralai,suslian.engineer,"Côtes d'Armor, France",,,Compute infrastructure @mistralai ,,34,17,14,2019-11-26T11:56:48Z,2025-10-08T21:00:56Z
+tsj-30,S J Tharun,IBM,,"Bangalore, India",Tharun.SJ@ibm.com,,,,25,1,3,2025-01-27T08:35:04Z,2025-10-11T15:24:27Z
+vie-serendipity,,,,HangZhou,,,,,39,11,31,2020-01-20T03:31:24Z,2025-11-01T12:15:26Z
+wangshulei098,wangshulei,,,,,,,,15,0,3,2018-11-29T06:50:39Z,2025-10-08T08:46:27Z
+wewang58,Wen Wang,Red Hat,https://github.com/wewang58,China-Beijing,wewang@redhat.com,,,,51,3,2,2015-05-18T08:21:29Z,2025-09-25T07:05:52Z
+wqlparallel,Qianlong,,,,,,,,13,4,6,2018-02-20T02:12:21Z,2025-05-29T11:42:23Z
+xgchena,Xiaoguang Chen,,,,,,,,2,4,2,2020-07-14T16:17:07Z,2025-05-08T01:40:27Z
+xigang,Xigang Wang,,,"Beijing, China",wangxigang2014@gmail.com,True,,XigangWang,84,76,100,2013-01-25T05:03:05Z,2025-10-31T06:29:55Z
+yafengio,MARATRIX,,,"Beijing, China",,,"Yet another developer in AI Infra | Cloud Native :: [@weibocom, @meili, mogujie, @baidu]",,82,46,413,2018-12-06T16:38:35Z,2025-10-20T02:17:57Z
+yankay,Kay Yan,DaoCloud,,"Shanghai, China ",yankaycom@gmail.com,,"不积跬步无以至千里，不积小流无以成江河
+(Rome was not built in one day.)",,129,273,340,2012-02-24T11:49:40Z,2025-09-05T04:59:42Z
+zhouzhifeisdcn,,,,,,,,,20,0,0,2019-04-04T07:58:54Z,2025-07-10T09:57:25Z
+zmvictor,Ming Zhu,Microsoft,,"Redmond, WA, U.S.A",zmvictorcruse@gmail.com,,,,56,3,8,2011-03-28T07:51:35Z,2025-09-29T21:20:00Z

@@ -1,0 +1,62 @@
+[
+  {
+    "number": 20,
+    "title": "added download model file",
+    "user": "nitinbhardwaj00",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-05-10T23:06:45Z",
+    "closed_at": "2025-05-10T23:07:00Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/nogibjj/mlops-template/pull/20"
+  },
+  {
+    "number": 19,
+    "title": "rebuilding repo from new fork",
+    "user": "andrewkroening",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-11-08T01:09:55Z",
+    "closed_at": "2022-11-08T01:12:46Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/nogibjj/mlops-template/pull/19"
+  },
+  {
+    "number": 18,
+    "title": "Revert \"adding tensorflow requirements in Dockerfile\"",
+    "user": "HarTigran",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-11-07T04:48:38Z",
+    "closed_at": "2022-11-07T04:52:54Z",
+    "merged_at": "2022-11-07T04:52:54Z",
+    "state": "closed",
+    "html_url": "https://github.com/nogibjj/mlops-template/pull/18"
+  },
+  {
+    "number": 17,
+    "title": "Create sklearn hello world example for Issue #9",
+    "user": "Vancool",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-11-06T17:28:10Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/nogibjj/mlops-template/pull/17"
+  },
+  {
+    "number": 16,
+    "title": "adding tensorflow requirements in Dockerfile",
+    "user": "celisa",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-10-31T19:28:58Z",
+    "closed_at": "2022-11-07T04:29:30Z",
+    "merged_at": "2022-11-07T04:29:30Z",
+    "state": "closed",
+    "html_url": "https://github.com/nogibjj/mlops-template/pull/16"
+  }
+]

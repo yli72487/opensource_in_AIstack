@@ -1,0 +1,24 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+20100215,Wayne Dayata,,https://20100215.github.io/,,,,"BS Computer Science graduate in University of San Carlos (2024) | Programmer | Data, AI, and Web Enthusiast",,50,65,61,2021-05-24T12:05:21Z,2025-08-05T13:42:46Z
+Lee-W,Wei Lee,,https://blog.wei-lee.me/,Taiwan,weilee.rx@gmail.com,True,A Python Developer from Taiwan 🇹🇼,clleew,110,243,128,2013-08-02T05:52:43Z,2025-11-04T09:16:00Z
+TJaniF,Tamara Janina Fingerlin,Astronomer,,Switzerland,,,Senior Developer Advocate @astronomer ,,43,69,12,2021-09-03T18:13:36Z,2025-10-17T09:26:23Z
+bismuthsalamander,Cliff Smith,Trail of Bits,,,,,profile photo: https://commons.wikimedia.org/wiki/File:Bi-crystal.jpg,,19,3,2,2015-08-07T01:18:12Z,2025-10-21T16:35:27Z
+carterjfulcher,Carter Fulcher,,,,,,,,39,0,0,2016-10-23T00:35:01Z,2025-10-31T22:04:09Z
+davidgxue,David Xue,Pinterest,,"New York, NY",,,"Open source contributor to transformers & GPTQModel ||
+
+Machine Learning Engineer @ Pinterest. Prev @ HiveAI, Meta & Amazon",,8,9,9,2017-03-11T19:17:44Z,2025-06-03T06:54:56Z
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+jlaneve,Julian LaNeve,,,"New York, NY",,,CTO @astronomer ,,37,56,15,2013-08-17T22:18:56Z,2025-10-10T14:03:05Z
+katiebrady-astro,Katie Brady,@astronomer,,,,,,,3,0,0,2021-12-22T14:41:26Z,2025-09-30T18:06:55Z
+kaxil,Kaxil Naik,@astronomer ,,United Kingdom,,,"Senior Director of Engineering at @astronomer .
+Committer & PMC Member, Apache Airflow. Open source advocate.",kaxil,30,420,130,2014-09-17T19:45:40Z,2025-10-28T11:36:47Z
+lzdanski,Laura Zdanski,,,,,,,,13,5,0,2017-02-08T16:37:27Z,2025-10-12T00:00:35Z
+mpgreg,,,,,,,,,24,1,0,2015-04-25T10:30:33Z,2025-08-30T14:51:31Z
+pankajastro,Pankaj Singh,Astronomer,,India,,,Sr. Software Engineer at @astronomer  | Airflow Committer,,15,16,2,2022-02-01T08:58:42Z,2025-08-14T13:40:58Z
+pankajkoti,Pankaj Koti,@astronomer,,"Pune, India",pankajkoti699@gmail.com,True,"Apache Airflow Committer, 
+Open Source Engineering @astronomer ",PankajKoti,15,31,14,2014-12-16T09:00:50Z,2025-11-01T01:54:42Z
+petedejoy,Pete DeJoy,Astronomer,petedejoy.com,,,,open source stuff @ astronomer,petedejoy,23,16,10,2017-09-18T19:43:30Z,2025-10-09T18:40:15Z
+phanikumv,Phani Kumar,@astronomer ,,,,,"Airflow Engineering @astronomer , Apache Airflow Committer",,4,6,0,2021-11-15T13:56:28Z,2025-10-21T15:04:49Z
+sunank200,Ankit Chaurasia,@astronomer ,https://ankitchaurasia.info/,,,True,,,53,15,15,2014-09-05T17:23:39Z,2025-10-18T11:30:50Z
+venkatajagannath,Venkata Jagannath,Shopify,,,,,"Senior Engineer, Applied ML",,6,1,0,2024-02-17T19:55:30Z,2025-10-31T16:53:23Z
+weaviate-git-bot,Weaviate Git Bot,Weaviate,https://weaviate.io,Hyperspace,,,I'm a bot that looks at Weaviate related stuff - beep boop,weaviate_io,265,7,0,2021-05-10T14:48:53Z,2024-03-18T00:21:10Z

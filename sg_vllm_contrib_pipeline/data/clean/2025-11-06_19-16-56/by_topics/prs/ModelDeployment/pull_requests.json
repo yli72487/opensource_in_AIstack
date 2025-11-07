@@ -1,0 +1,86 @@
+[
+  {
+    "number": 12,
+    "title": "Remove {aurelius} from ModelDeployment CTV",
+    "user": "coatless",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-08-02T21:20:35Z",
+    "closed_at": "2022-08-02T21:21:26Z",
+    "merged_at": "2022-08-02T21:21:26Z",
+    "state": "closed",
+    "html_url": "https://github.com/cran-task-views/ModelDeployment/pull/12"
+  },
+  {
+    "number": 9,
+    "title": "Add vetiver to \"Deployment through cloud/server\"",
+    "user": "juliasilge",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-03-09T04:44:21Z",
+    "closed_at": "2022-03-09T05:36:55Z",
+    "merged_at": "2022-03-09T05:36:55Z",
+    "state": "closed",
+    "html_url": "https://github.com/cran-task-views/ModelDeployment/pull/9"
+  },
+  {
+    "number": 8,
+    "title": "Add as a co-maintainer",
+    "user": "coatless",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2021-12-23T03:40:38Z",
+    "closed_at": "2021-12-23T04:27:10Z",
+    "merged_at": "2021-12-23T04:27:10Z",
+    "state": "closed",
+    "html_url": "https://github.com/cran-task-views/ModelDeployment/pull/8"
+  },
+  {
+    "number": 6,
+    "title": "add {lightgbm}",
+    "user": "jameslamb",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2021-08-28T03:46:06Z",
+    "closed_at": "2021-08-28T04:07:39Z",
+    "merged_at": "2021-08-28T04:07:38Z",
+    "state": "closed",
+    "html_url": "https://github.com/cran-task-views/ModelDeployment/pull/6"
+  },
+  {
+    "number": 5,
+    "title": "update RestRserve link",
+    "user": "dselivanov",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2020-05-26T08:27:49Z",
+    "closed_at": "2020-05-26T12:05:04Z",
+    "merged_at": "2020-05-26T12:05:04Z",
+    "state": "closed",
+    "html_url": "https://github.com/cran-task-views/ModelDeployment/pull/5"
+  },
+  {
+    "number": 3,
+    "title": "Delete duplicate words",
+    "user": "shrektan",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-02-01T16:16:58Z",
+    "closed_at": "2019-02-01T16:34:44Z",
+    "merged_at": "2019-02-01T16:34:44Z",
+    "state": "closed",
+    "html_url": "https://github.com/cran-task-views/ModelDeployment/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Add mleap",
+    "user": "kevinykuo",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2018-05-01T15:38:28Z",
+    "closed_at": "2018-05-01T15:56:47Z",
+    "merged_at": "2018-05-01T15:56:47Z",
+    "state": "closed",
+    "html_url": "https://github.com/cran-task-views/ModelDeployment/pull/2"
+  }
+]

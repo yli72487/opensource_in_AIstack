@@ -1,0 +1,14 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+AaronFriel,Aaron Friel,@openai,,"San Francisco, CA",,,,,230,103,26,2011-05-15T06:10:57Z,2025-10-12T15:37:52Z
+GindaChen,Junda Chen,,gindachen.github.io,"San Diego, CA",,True,MLSys @ UCSD CS PhD ,,203,206,235,2017-09-28T18:33:28Z,2025-11-02T19:04:23Z
+TheMrCodes,TheMrCodes,,,,,,,,19,4,2,2017-04-27T15:08:50Z,2025-10-10T11:42:36Z
+blmarket,"Jeong, Heon",Undisclosed company name,blmarket.net,"Vancouver BC, Canada",blmarket@gmail.com,,,,85,33,3,2010-01-29T13:26:12Z,2024-12-31T16:24:38Z
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+dluc,Devis Lucato,Microsoft,https://dev.ai,Seattle WA // Venice area Italy // London UK,,True,Engineer @Microsoft. Author of Semantic Kernel and Kernel Memory.,,168,269,26,2010-08-20T15:50:58Z,2025-10-26T11:25:26Z
+eltociear,Ikko Eltociear Ashimine,,,"Tokyo, Japan",,,"AI-driven developer @ Tokyo.
+Loves 🎸/🐈/🍛/🏝/⛰",,61,1248,6,2016-10-05T07:58:42Z,2025-10-20T01:14:54Z
+emrekiciman,Emre Kıcıman,,,,,,,,4,54,2,2013-11-19T16:32:06Z,2025-10-31T09:31:44Z
+kevinmingtarja,Kevin Mingtarja,,www.kevinmingtarja.com,san francisco 🌁,,,,kevin_mingtarja,104,53,92,2020-08-14T07:09:44Z,2025-10-29T01:53:05Z
+lemmy,Markus Alexander Kuppe,@NVIDIA,lemmster.de,"Redmond, USA",github.com@lemmster.de,True,,,110,293,0,2009-05-26T15:31:22Z,2025-10-15T20:12:15Z
+mmoskal,Michał Moskal,@OpenAI,https://moskal.me,"Seattle, WA, USA",michal@moskal.me,,,,118,206,0,2015-01-23T17:52:22Z,2025-10-21T19:40:52Z
+s-zanella,Santiago Zanella-Beguelin,Microsoft,aka.ms/sz,"Cambridge, UK",,,"I am a member of the Confidential Computing group at Microsoft Research. I have an interest in Programming Languages, Verification, and Cryptography.",,25,49,12,2014-04-30T16:53:03Z,2025-10-29T16:15:04Z

@@ -1,0 +1,4 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+RealIndrit,,Genesis IT,https://realIndrit.xyz,,,,,,10,8,32,2017-09-22T19:24:19Z,2025-10-09T17:40:14Z
+matteocarnelos,Matteo Carnelos,Zpark AB,,"Conegliano, Veneto, Italy",matteo.carnelos98@gmail.com,,Rust Embedded Software Engineer,,13,27,0,2017-04-15T17:54:43Z,2025-10-06T13:05:52Z
+salsasteve,Steve,MAYKr.xyz,,,,True,,salsasteve,67,6,89,2017-10-19T17:40:22Z,2025-10-14T14:13:36Z

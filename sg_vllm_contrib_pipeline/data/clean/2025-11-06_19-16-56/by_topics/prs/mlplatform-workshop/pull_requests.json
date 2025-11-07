@@ -1,0 +1,14 @@
+[
+  {
+    "number": 2,
+    "title": "add analytics",
+    "user": "Nicarod",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2021-11-03T09:26:26Z",
+    "closed_at": "2021-11-03T09:45:39Z",
+    "merged_at": "2021-11-03T09:45:39Z",
+    "state": "closed",
+    "html_url": "https://github.com/aporia-ai/mlplatform-workshop/pull/2"
+  }
+]

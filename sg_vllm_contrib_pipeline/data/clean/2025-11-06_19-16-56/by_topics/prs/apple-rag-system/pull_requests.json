@@ -1,0 +1,26 @@
+[
+  {
+    "number": 3,
+    "title": "Add iCloud mail support to rag pipeline.",
+    "user": "BelG13",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-06-24T17:17:25Z",
+    "closed_at": "2025-06-24T17:25:08Z",
+    "merged_at": "2025-06-24T17:25:08Z",
+    "state": "closed",
+    "html_url": "https://github.com/BelG13/apple-rag-system/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Auto sync",
+    "user": "BelG13",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-06-22T18:20:24Z",
+    "closed_at": "2025-06-22T18:20:33Z",
+    "merged_at": "2025-06-22T18:20:33Z",
+    "state": "closed",
+    "html_url": "https://github.com/BelG13/apple-rag-system/pull/2"
+  }
+]

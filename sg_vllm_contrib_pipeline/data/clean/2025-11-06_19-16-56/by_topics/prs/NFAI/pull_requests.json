@@ -1,0 +1,38 @@
+[
+  {
+    "number": 3,
+    "title": "refactor: restructure model handling",
+    "user": "NicuTheodorAlexandru",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-04-26T19:00:23Z",
+    "closed_at": "2025-04-26T19:03:36Z",
+    "merged_at": "2025-04-26T19:03:35Z",
+    "state": "closed",
+    "html_url": "https://github.com/NicuTheodorAlexandru/NFAI/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Optimizations",
+    "user": "NicuTheodorAlexandru",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-04-24T19:14:33Z",
+    "closed_at": "2025-04-24T19:17:35Z",
+    "merged_at": "2025-04-24T19:17:34Z",
+    "state": "closed",
+    "html_url": "https://github.com/NicuTheodorAlexandru/NFAI/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "multiple improvements and split project up",
+    "user": "NicuTheodorAlexandru",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-04-21T17:57:46Z",
+    "closed_at": "2025-04-21T18:01:11Z",
+    "merged_at": "2025-04-21T18:01:11Z",
+    "state": "closed",
+    "html_url": "https://github.com/NicuTheodorAlexandru/NFAI/pull/1"
+  }
+]

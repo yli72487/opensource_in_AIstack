@@ -1,0 +1,62 @@
+[
+  {
+    "number": 19,
+    "title": "Fix: wrong content for offloadKernel",
+    "user": "serendipity-zk",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-09-20T10:19:57Z",
+    "closed_at": "2024-09-20T10:20:19Z",
+    "merged_at": "2024-09-20T10:20:19Z",
+    "state": "closed",
+    "html_url": "https://github.com/efeslab/Nanoflow/pull/19"
+  },
+  {
+    "number": 18,
+    "title": "Fix: offload kernels",
+    "user": "serendipity-zk",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-09-20T10:06:55Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/efeslab/Nanoflow/pull/18"
+  },
+  {
+    "number": 17,
+    "title": "Add Qwen2, Llama3 70B, Llama3.1 70B, Llama3 8B, Llama3.1 8B. Include result reproducing scripts. ",
+    "user": "serendipity-zk",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-09-19T19:16:49Z",
+    "closed_at": "2024-09-19T19:17:03Z",
+    "merged_at": "2024-09-19T19:17:03Z",
+    "state": "closed",
+    "html_url": "https://github.com/efeslab/Nanoflow/pull/17"
+  },
+  {
+    "number": 9,
+    "title": "docs: update README.md",
+    "user": "eltociear",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-09-02T14:47:08Z",
+    "closed_at": "2024-09-02T22:45:30Z",
+    "merged_at": "2024-09-02T22:45:30Z",
+    "state": "closed",
+    "html_url": "https://github.com/efeslab/Nanoflow/pull/9"
+  },
+  {
+    "number": 6,
+    "title": "Fix link error and auto build library.",
+    "user": "AlongWY",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-08-29T02:26:25Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/efeslab/Nanoflow/pull/6"
+  }
+]

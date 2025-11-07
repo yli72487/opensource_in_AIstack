@@ -1,0 +1,50 @@
+[
+  {
+    "number": 5,
+    "title": "Fix examples",
+    "user": "matteocarnelos",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-01-21T18:32:32Z",
+    "closed_at": "2025-01-22T11:28:27Z",
+    "merged_at": "2025-01-22T11:28:27Z",
+    "state": "closed",
+    "html_url": "https://github.com/matteocarnelos/microflow-rs/pull/5"
+  },
+  {
+    "number": 4,
+    "title": "Add CITATION.cff for citation",
+    "user": "RealIndrit",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-12-03T20:19:58Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/matteocarnelos/microflow-rs/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "pinning esp-hal version",
+    "user": "salsasteve",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-08-13T00:45:11Z",
+    "closed_at": "2024-08-27T15:07:38Z",
+    "merged_at": "2024-08-27T15:07:38Z",
+    "state": "closed",
+    "html_url": "https://github.com/matteocarnelos/microflow-rs/pull/3"
+  },
+  {
+    "number": 1,
+    "title": "Initial implementation",
+    "user": "matteocarnelos",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-07-02T15:44:45Z",
+    "closed_at": "2023-07-02T15:45:12Z",
+    "merged_at": "2023-07-02T15:45:12Z",
+    "state": "closed",
+    "html_url": "https://github.com/matteocarnelos/microflow-rs/pull/1"
+  }
+]

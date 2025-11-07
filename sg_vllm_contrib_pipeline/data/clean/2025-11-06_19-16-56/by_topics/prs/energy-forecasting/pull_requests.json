@@ -1,0 +1,62 @@
+[
+  {
+    "number": 28,
+    "title": "Changes to airflow docker and docker-compose files for Mac compatibility",
+    "user": "FUenal",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-02-19T06:46:09Z",
+    "closed_at": "2024-02-19T12:23:51Z",
+    "merged_at": "2024-02-19T12:23:51Z",
+    "state": "closed",
+    "html_url": "https://github.com/iusztinpaul/energy-forecasting/pull/28"
+  },
+  {
+    "number": 23,
+    "title": "Add instructions to fix 'poetry install' in OSX",
+    "user": "lorisrossi",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-11-10T18:10:46Z",
+    "closed_at": "2023-12-19T20:17:26Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/iusztinpaul/energy-forecasting/pull/23"
+  },
+  {
+    "number": 21,
+    "title": "poetry envs hopsworks update to backend version 3.4.1",
+    "user": "jonasbechthold",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-10-26T08:06:21Z",
+    "closed_at": "2023-10-26T12:11:11Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/iusztinpaul/energy-forecasting/pull/21"
+  },
+  {
+    "number": 17,
+    "title": "Typo - \"overviewn\"",
+    "user": "kevmo",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-09-30T01:16:37Z",
+    "closed_at": "2023-09-30T08:24:22Z",
+    "merged_at": "2023-09-30T08:24:22Z",
+    "state": "closed",
+    "html_url": "https://github.com/iusztinpaul/energy-forecasting/pull/17"
+  },
+  {
+    "number": 5,
+    "title": "Resolving librdkafka and LightGBM compatibility issues with macOS M1/M2 chips",
+    "user": "gao-hongnan",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-06-03T10:04:40Z",
+    "closed_at": "2023-06-24T11:59:01Z",
+    "merged_at": "2023-06-24T11:59:01Z",
+    "state": "closed",
+    "html_url": "https://github.com/iusztinpaul/energy-forecasting/pull/5"
+  }
+]

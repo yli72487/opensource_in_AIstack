@@ -1,0 +1,50 @@
+[
+  {
+    "number": 7,
+    "title": "Bump elemental golem version to v0.3.1",
+    "user": "noco-ai",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-05-01T15:45:19Z",
+    "closed_at": "2024-05-01T15:45:27Z",
+    "merged_at": "2024-05-01T15:45:27Z",
+    "state": "closed",
+    "html_url": "https://github.com/noco-ai/spellbook-docker/pull/7"
+  },
+  {
+    "number": 4,
+    "title": "v0.3.0 release",
+    "user": "noco-ai",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-03-02T20:58:21Z",
+    "closed_at": "2024-03-02T21:16:14Z",
+    "merged_at": "2024-03-02T21:16:14Z",
+    "state": "closed",
+    "html_url": "https://github.com/noco-ai/spellbook-docker/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Bug fix for hard coded URL",
+    "user": "noco-ai",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-01-21T22:46:18Z",
+    "closed_at": "2024-01-21T22:46:31Z",
+    "merged_at": "2024-01-21T22:46:31Z",
+    "state": "closed",
+    "html_url": "https://github.com/noco-ai/spellbook-docker/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "V0.2.0",
+    "user": "noco-ai",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-12-24T18:48:54Z",
+    "closed_at": "2023-12-24T18:49:00Z",
+    "merged_at": "2023-12-24T18:49:00Z",
+    "state": "closed",
+    "html_url": "https://github.com/noco-ai/spellbook-docker/pull/2"
+  }
+]

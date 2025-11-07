@@ -1,0 +1,98 @@
+[
+  {
+    "number": 12,
+    "title": "Create LICENSE",
+    "user": "lmaxwell",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2021-02-25T02:11:22Z",
+    "closed_at": "2021-02-25T02:11:29Z",
+    "merged_at": "2021-02-25T02:11:29Z",
+    "state": "closed",
+    "html_url": "https://github.com/lmaxwell/Armednn/pull/12"
+  },
+  {
+    "number": 11,
+    "title": "Add SharedData and MKL compile and modify the README",
+    "user": "fanpengustc",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-03-16T13:05:42Z",
+    "closed_at": "2019-03-17T10:38:45Z",
+    "merged_at": "2019-03-17T10:38:45Z",
+    "state": "closed",
+    "html_url": "https://github.com/lmaxwell/Armednn/pull/11"
+  },
+  {
+    "number": 10,
+    "title": "modify debug log",
+    "user": "fanpengustc",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-03-13T09:37:07Z",
+    "closed_at": "2019-03-13T10:55:36Z",
+    "merged_at": "2019-03-13T10:55:36Z",
+    "state": "closed",
+    "html_url": "https://github.com/lmaxwell/Armednn/pull/10"
+  },
+  {
+    "number": 7,
+    "title": "Typo",
+    "user": "lmaxwell",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-01-10T03:31:17Z",
+    "closed_at": "2019-01-10T03:31:30Z",
+    "merged_at": "2019-01-10T03:31:30Z",
+    "state": "closed",
+    "html_url": "https://github.com/lmaxwell/Armednn/pull/7"
+  },
+  {
+    "number": 6,
+    "title": "conv1d using im2col",
+    "user": "lmaxwell",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-01-08T01:49:34Z",
+    "closed_at": "2019-01-08T01:49:43Z",
+    "merged_at": "2019-01-08T01:49:43Z",
+    "state": "closed",
+    "html_url": "https://github.com/lmaxwell/Armednn/pull/6"
+  },
+  {
+    "number": 5,
+    "title": "Activation",
+    "user": "lmaxwell",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-01-07T19:01:56Z",
+    "closed_at": "2019-01-07T19:02:18Z",
+    "merged_at": "2019-01-07T19:02:18Z",
+    "state": "closed",
+    "html_url": "https://github.com/lmaxwell/Armednn/pull/5"
+  },
+  {
+    "number": 4,
+    "title": "Allocator",
+    "user": "lmaxwell",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-01-06T22:12:12Z",
+    "closed_at": "2019-01-06T22:52:49Z",
+    "merged_at": "2019-01-06T22:52:49Z",
+    "state": "closed",
+    "html_url": "https://github.com/lmaxwell/Armednn/pull/4"
+  },
+  {
+    "number": 1,
+    "title": "Dev armed ",
+    "user": "lmaxwell",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-01-02T19:53:14Z",
+    "closed_at": "2019-01-02T19:53:28Z",
+    "merged_at": "2019-01-02T19:53:28Z",
+    "state": "closed",
+    "html_url": "https://github.com/lmaxwell/Armednn/pull/1"
+  }
+]

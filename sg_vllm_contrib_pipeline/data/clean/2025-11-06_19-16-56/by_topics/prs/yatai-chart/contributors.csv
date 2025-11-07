@@ -1,0 +1,9 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+aarnphm,Aaron Pham,,aarnphm.xyz,"Toronto, Canada",contact@aarnphm.xyz,True,,aarnphm_,44,479,177,2017-06-28T08:09:01Z,2025-11-01T10:51:56Z
+heartcored98,JaeYoung Jo,"Autopedia Co., Ltd",https://medium.com/@kevin.jo,Seoul,kevin.jo@autopediacar.com,,"Lead Product Engineer (ML/Robotics)
+
+I am striving to ensure that you can trust and purchase your next car by building an AI-driven robotic vehicle inspection",,41,149,13,2017-10-23T02:27:10Z,2025-11-05T01:48:43Z
+knechtionscoding,Hans Knecht,@datagravity-ai ,knechtions.info,,hans@anomalo.com,True,Site Reliability Engineering/DevOps/Platform Engineering,,59,21,8,2013-11-26T11:06:55Z,2025-09-29T05:27:55Z
+parano,Chaoyu,,https://www.linkedin.com/in/parano/,"San Francisco, CA",paranoyang@gmail.com,,"Founder/CEO of BentoML, previously @databricks, ML/AI Platforms & Systems, Product Design",chaoyu_,84,461,94,2010-11-20T04:07:09Z,2025-10-20T11:29:22Z
+yetone,yetone,@Isoform,,China,yetoneful@gmail.com,True,ohh,yetone,614,5943,1002,2011-11-19T14:26:08Z,2025-10-30T13:45:07Z
+yubozhao,Bozhao,@Isoform ,https://isoform.ai,San Francisco,,True,"Founder @Isoform, previously founder @bentoml ",bozhao,216,245,541,2011-03-15T12:59:56Z,2025-11-05T22:57:15Z

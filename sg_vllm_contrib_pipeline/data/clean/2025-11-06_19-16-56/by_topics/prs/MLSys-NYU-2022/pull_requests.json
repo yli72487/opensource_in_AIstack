@@ -1,0 +1,122 @@
+[
+  {
+    "number": 10,
+    "title": "Light edits",
+    "user": "EthanRosenthal",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-12-02T18:31:47Z",
+    "closed_at": "2022-12-02T18:38:02Z",
+    "merged_at": "2022-12-02T18:38:02Z",
+    "state": "closed",
+    "html_url": "https://github.com/jacopotagliabue/MLSys-NYU-2022/pull/10"
+  },
+  {
+    "number": 9,
+    "title": "Add Week 7",
+    "user": "EthanRosenthal",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-10-14T04:35:40Z",
+    "closed_at": "2022-10-14T04:35:47Z",
+    "merged_at": "2022-10-14T04:35:47Z",
+    "state": "closed",
+    "html_url": "https://github.com/jacopotagliabue/MLSys-NYU-2022/pull/9"
+  },
+  {
+    "number": 8,
+    "title": "Add Week 6",
+    "user": "EthanRosenthal",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-10-07T16:28:12Z",
+    "closed_at": "2022-10-07T16:28:17Z",
+    "merged_at": "2022-10-07T16:28:16Z",
+    "state": "closed",
+    "html_url": "https://github.com/jacopotagliabue/MLSys-NYU-2022/pull/8"
+  },
+  {
+    "number": 7,
+    "title": "Add Week 5 materials",
+    "user": "EthanRosenthal",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-10-07T02:01:56Z",
+    "closed_at": "2022-10-07T02:02:03Z",
+    "merged_at": "2022-10-07T02:02:03Z",
+    "state": "closed",
+    "html_url": "https://github.com/jacopotagliabue/MLSys-NYU-2022/pull/7"
+  },
+  {
+    "number": 6,
+    "title": "Add week 4",
+    "user": "EthanRosenthal",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-09-23T03:49:19Z",
+    "closed_at": "2022-09-23T03:51:09Z",
+    "merged_at": "2022-09-23T03:51:09Z",
+    "state": "closed",
+    "html_url": "https://github.com/jacopotagliabue/MLSys-NYU-2022/pull/6"
+  },
+  {
+    "number": 5,
+    "title": "Clean up some unused files and typos",
+    "user": "EthanRosenthal",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-09-16T17:50:19Z",
+    "closed_at": "2022-09-16T17:50:24Z",
+    "merged_at": "2022-09-16T17:50:24Z",
+    "state": "closed",
+    "html_url": "https://github.com/jacopotagliabue/MLSys-NYU-2022/pull/5"
+  },
+  {
+    "number": 4,
+    "title": "Add week 3 materials",
+    "user": "EthanRosenthal",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-09-16T17:41:59Z",
+    "closed_at": "2022-09-16T17:42:07Z",
+    "merged_at": "2022-09-16T17:42:07Z",
+    "state": "closed",
+    "html_url": "https://github.com/jacopotagliabue/MLSys-NYU-2022/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Add week 2 pre lecture materials",
+    "user": "EthanRosenthal",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-09-09T03:29:50Z",
+    "closed_at": "2022-09-09T03:29:56Z",
+    "merged_at": "2022-09-09T03:29:56Z",
+    "state": "closed",
+    "html_url": "https://github.com/jacopotagliabue/MLSys-NYU-2022/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Add week 1 slides",
+    "user": "EthanRosenthal",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-09-03T03:05:34Z",
+    "closed_at": "2022-09-03T03:05:42Z",
+    "merged_at": "2022-09-03T03:05:41Z",
+    "state": "closed",
+    "html_url": "https://github.com/jacopotagliabue/MLSys-NYU-2022/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Add week 1 materials",
+    "user": "EthanRosenthal",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-08-28T19:12:10Z",
+    "closed_at": "2022-08-28T19:12:38Z",
+    "merged_at": "2022-08-28T19:12:38Z",
+    "state": "closed",
+    "html_url": "https://github.com/jacopotagliabue/MLSys-NYU-2022/pull/1"
+  }
+]

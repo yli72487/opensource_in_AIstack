@@ -1,0 +1,19 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+Ch4s3,Chase Gilliam,PepsiCo eComm,https://by-cha.se/,East Coast,chase.gilliam@gmail.com,,Elixir developer and Engineering Lead,ChaseGilliam,117,65,24,2012-07-09T15:20:58Z,2025-10-26T11:27:02Z
+JoeMcB,Joe Burns,TeePublic.com,https://www.joemcb.com,"Chicago, IL",joseph.burns@gmail.com,,,,15,12,3,2011-05-19T21:06:41Z,2025-10-31T13:54:10Z
+bradleyjames,Brad Reynolds,,,,,,,,21,19,6,2008-08-07T16:06:23Z,2024-02-18T23:33:50Z
+carlthuringer,Carl Thuringer,,http://carlthuringer.com,"Chicago, IL",,,,,73,10,6,2010-07-10T22:31:47Z,2025-10-25T13:17:41Z
+dnurzynski,Damian Nurzyński,,,"Warsaw, Poland",,True,,,35,28,40,2010-02-23T21:34:43Z,2025-10-24T13:17:59Z
+elucid,Justin Giancola,,https://justinappears.com,"Toronto, ON",justin.giancola@gmail.com,,,,72,62,11,2008-03-12T03:25:47Z,2025-10-11T12:22:06Z
+gitter-badger,The Gitter Badger,Gitter,https://gitter.im,Safe in the Gitter den,badger@gitter.im,,,,38284,619,0,2014-08-21T22:34:39Z,2025-08-08T13:14:21Z
+jherdman,James Herdman,@nulogy ,,"Toronto, ON",,,"Developer at @nulogy (formerly @PrecisionNutrition). Passionate singer of bedtime songs, and sometimes boulderer.",,198,105,85,2008-03-17T19:09:52Z,2025-09-25T16:11:25Z
+jrabramson,Jesse Abramson,,http://www.jessesabramson.com,Canada,jrabramson@gmail.com,,,,20,6,1,2014-01-17T23:31:51Z,2025-10-08T02:12:57Z
+kwerle,Kurt Werle,http://collaborativedrug.com,http://www.collaborativedrug.com,"San Luis Obispo, CA",kurt@CircleW.org,,,,33,18,0,2008-09-05T16:06:45Z,2023-07-02T17:37:14Z
+lkowalick,Lindsay Kowalick,,,,,,,,34,16,0,2011-03-25T14:13:44Z,2025-10-10T16:20:00Z
+lukegalea,Luke Galea,,ideaforge.org,Toronto,luke@ideaforge.org,,"Technology leader. Lover of code (Ruby, Elixir, SQL) and food. Father of two. AI enthusiast. Remote work aficionado.",,41,78,29,2008-07-21T16:28:18Z,2025-10-05T12:51:32Z
+olleolleolle,Olle Jonsson,Auctionet ✨ ,http://ollehost.dk/,sunny Malmö in Sweden,olle.jonsson@gmail.com,,,,1590,393,352,2008-02-13T08:24:32Z,2025-10-29T10:47:15Z
+quainjn,Jake Quain,Parachute Health,http://parachutehealth.com,NYC,,True,,,31,15,5,2010-10-20T21:27:27Z,2024-11-22T15:10:13Z
+rcy,Ryan Yeske,,,"Creston, BC",,True,,,128,38,37,2009-07-01T09:16:43Z,2025-10-22T23:35:54Z
+tonywok,Tony Schneider,@rwx-research ,https://webhaus.tonywok.com,"Columbus, OH",tony@tonywok.com,True,,,72,66,63,2009-03-10T18:36:57Z,2025-09-18T23:37:30Z
+viveksoundrapandi,Vivek Soundrapandi,ThoughtWorks,http://www.iamvivek.in,Chennai,vivekhas3@gmail.com,,,,59,13,16,2012-02-13T14:45:15Z,2025-07-18T05:42:03Z
+xn,Christian Trosclair,Trosclairity,trosclairity.com,"New Orleans, LA",,,,,103,37,28,2008-03-05T17:21:57Z,2025-10-15T03:30:14Z

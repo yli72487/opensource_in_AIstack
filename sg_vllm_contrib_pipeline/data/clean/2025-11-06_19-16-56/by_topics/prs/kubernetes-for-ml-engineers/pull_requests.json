@@ -1,0 +1,26 @@
+[
+  {
+    "number": 2,
+    "title": "smal fix to kind load docker-image",
+    "user": "angelinux",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-02-24T09:49:39Z",
+    "closed_at": "2025-02-27T13:05:13Z",
+    "merged_at": "2025-02-27T13:05:13Z",
+    "state": "closed",
+    "html_url": "https://github.com/Paulescu/kubernetes-for-ml-engineers/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Small correction to uv commands",
+    "user": "angelinux",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-02-24T09:36:47Z",
+    "closed_at": "2025-02-27T13:04:22Z",
+    "merged_at": "2025-02-27T13:04:22Z",
+    "state": "closed",
+    "html_url": "https://github.com/Paulescu/kubernetes-for-ml-engineers/pull/1"
+  }
+]

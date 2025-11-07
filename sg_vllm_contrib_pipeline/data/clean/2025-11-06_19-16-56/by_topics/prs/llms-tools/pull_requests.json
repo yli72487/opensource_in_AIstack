@@ -1,0 +1,110 @@
+[
+  {
+    "number": 10,
+    "title": "Kiln AI under Agents",
+    "user": "sfierro",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-10-07T22:38:36Z",
+    "closed_at": "2025-10-12T20:31:07Z",
+    "merged_at": "2025-10-12T20:31:07Z",
+    "state": "closed",
+    "html_url": "https://github.com/PetroIvaniuk/llms-tools/pull/10"
+  },
+  {
+    "number": 9,
+    "title": "Added dmwithme under chatbots",
+    "user": "dmwithme",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-08-10T15:35:38Z",
+    "closed_at": "2025-08-10T20:33:07Z",
+    "merged_at": "2025-08-10T20:33:07Z",
+    "state": "closed",
+    "html_url": "https://github.com/PetroIvaniuk/llms-tools/pull/9"
+  },
+  {
+    "number": 8,
+    "title": "Add new tools",
+    "user": "luka0990",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-07-31T08:43:41Z",
+    "closed_at": "2025-08-04T10:22:02Z",
+    "merged_at": "2025-08-04T10:22:02Z",
+    "state": "closed",
+    "html_url": "https://github.com/PetroIvaniuk/llms-tools/pull/8"
+  },
+  {
+    "number": 7,
+    "title": "Update README.md",
+    "user": "magic-ant",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-06-11T08:02:38Z",
+    "closed_at": "2025-06-16T12:30:00Z",
+    "merged_at": "2025-06-16T12:30:00Z",
+    "state": "closed",
+    "html_url": "https://github.com/PetroIvaniuk/llms-tools/pull/7"
+  },
+  {
+    "number": 6,
+    "title": "Added SciSummary to list of tools",
+    "user": "maxheckel",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-03-04T23:02:13Z",
+    "closed_at": "2025-03-08T22:24:50Z",
+    "merged_at": "2025-03-08T22:24:50Z",
+    "state": "closed",
+    "html_url": "https://github.com/PetroIvaniuk/llms-tools/pull/6"
+  },
+  {
+    "number": 4,
+    "title": "Add aiimagegenerator.org to README.md",
+    "user": "imagegenerator-ai",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-12-12T07:50:15Z",
+    "closed_at": "2025-01-26T19:20:15Z",
+    "merged_at": "2025-01-26T19:20:15Z",
+    "state": "closed",
+    "html_url": "https://github.com/PetroIvaniuk/llms-tools/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "adding Sourcetable to product list",
+    "user": "mceoin",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-11-21T00:58:50Z",
+    "closed_at": "2024-11-24T19:10:01Z",
+    "merged_at": "2024-11-24T19:10:01Z",
+    "state": "closed",
+    "html_url": "https://github.com/PetroIvaniuk/llms-tools/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Update README.md with Mirascope links",
+    "user": "wcbudz",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-05-16T15:40:44Z",
+    "closed_at": "2024-05-18T13:10:48Z",
+    "merged_at": "2024-05-18T13:10:48Z",
+    "state": "closed",
+    "html_url": "https://github.com/PetroIvaniuk/llms-tools/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "AI Gateway Tool",
+    "user": "saif-shines",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-05-08T04:47:52Z",
+    "closed_at": "2024-05-12T15:53:40Z",
+    "merged_at": "2024-05-12T15:53:40Z",
+    "state": "closed",
+    "html_url": "https://github.com/PetroIvaniuk/llms-tools/pull/1"
+  }
+]

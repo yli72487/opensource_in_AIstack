@@ -1,0 +1,62 @@
+[
+  {
+    "number": 5,
+    "title": "Bump flask from 2.1.1 to 2.3.2 in /virtual-env",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2023-05-02T08:27:16Z",
+    "closed_at": "2023-05-02T08:29:13Z",
+    "merged_at": "2023-05-02T08:29:13Z",
+    "state": "closed",
+    "html_url": "https://github.com/hamedonline/ml-workflow/pull/5"
+  },
+  {
+    "number": 4,
+    "title": "Bump werkzeug from 2.2.2 to 2.2.3 in /virtual-env",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2023-02-16T10:34:58Z",
+    "closed_at": "2023-02-16T10:37:13Z",
+    "merged_at": "2023-02-16T10:37:13Z",
+    "state": "closed",
+    "html_url": "https://github.com/hamedonline/ml-workflow/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Bump waitress from 2.1.1 to 2.1.2 in /virtual-env",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2023-01-22T14:58:35Z",
+    "closed_at": "2023-01-22T15:00:43Z",
+    "merged_at": "2023-01-22T15:00:43Z",
+    "state": "closed",
+    "html_url": "https://github.com/hamedonline/ml-workflow/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Bump joblib from 1.1.0 to 1.2.0 in /virtual-env",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2023-01-22T14:54:57Z",
+    "closed_at": "2023-01-22T14:56:15Z",
+    "merged_at": "2023-01-22T14:56:15Z",
+    "state": "closed",
+    "html_url": "https://github.com/hamedonline/ml-workflow/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Bump waitress from 2.0.0 to 2.1.1 in /virtual-env",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2022-03-27T08:46:16Z",
+    "closed_at": "2022-03-28T16:48:48Z",
+    "merged_at": "2022-03-28T16:48:48Z",
+    "state": "closed",
+    "html_url": "https://github.com/hamedonline/ml-workflow/pull/1"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "number": 10,
+    "title": "Bump werkzeug from 0.16.0 to 2.2.3",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2023-02-15T22:52:30Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/thenetcircle/logistik/pull/10"
+  },
+  {
+    "number": 9,
+    "title": "Bump certifi from 2018.4.16 to 2022.12.7",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2022-12-08T02:29:07Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/thenetcircle/logistik/pull/9"
+  },
+  {
+    "number": 8,
+    "title": "Bump codecov from 2.0.15 to 2.0.16",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2022-07-15T18:41:13Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/thenetcircle/logistik/pull/8"
+  },
+  {
+    "number": 7,
+    "title": "Bump urllib3 from 1.26.4 to 1.26.5",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2021-06-01T21:57:50Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/thenetcircle/logistik/pull/7"
+  },
+  {
+    "number": 6,
+    "title": "Bump eventlet from 0.22.1 to 0.31.0",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2021-05-08T16:46:32Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/thenetcircle/logistik/pull/6"
+  },
+  {
+    "number": 5,
+    "title": "Bump flask-cors from 3.0.8 to 3.0.9",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2021-05-06T19:50:40Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/thenetcircle/logistik/pull/5"
+  },
+  {
+    "number": 4,
+    "title": "Bump pyyaml from 4.2b1 to 5.4",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2021-03-25T21:44:41Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/thenetcircle/logistik/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Bump jinja2 from 2.10.1 to 2.11.3",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2021-03-19T22:27:48Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/thenetcircle/logistik/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Bump werkzeug from 0.15.6 to 0.16.0",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2019-10-22T01:33:02Z",
+    "closed_at": "2019-11-26T06:10:11Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/thenetcircle/logistik/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Bump werkzeug from 0.14.1 to 0.15.3",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2019-10-21T15:28:45Z",
+    "closed_at": "2019-10-22T01:33:04Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/thenetcircle/logistik/pull/1"
+  }
+]

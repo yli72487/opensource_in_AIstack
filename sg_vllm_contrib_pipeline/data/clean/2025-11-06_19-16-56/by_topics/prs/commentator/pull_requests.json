@@ -1,0 +1,74 @@
+[
+  {
+    "number": 6,
+    "title": "Fixed styling issues",
+    "user": "DreadedHippy",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-06-18T15:59:20Z",
+    "closed_at": "2023-06-18T18:35:32Z",
+    "merged_at": "2023-06-18T18:35:32Z",
+    "state": "closed",
+    "html_url": "https://github.com/Stosan/commentator/pull/6"
+  },
+  {
+    "number": 5,
+    "title": "feat: imported google \"Inconsolata\" font.",
+    "user": "DreadedHippy",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-06-17T14:47:48Z",
+    "closed_at": "2023-06-17T20:10:55Z",
+    "merged_at": "2023-06-17T20:10:55Z",
+    "state": "closed",
+    "html_url": "https://github.com/Stosan/commentator/pull/5"
+  },
+  {
+    "number": 4,
+    "title": "Python",
+    "user": "Stosan",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-06-17T00:10:08Z",
+    "closed_at": "2023-06-17T00:11:13Z",
+    "merged_at": "2023-06-17T00:11:13Z",
+    "state": "closed",
+    "html_url": "https://github.com/Stosan/commentator/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Update styles.css",
+    "user": "Stosan",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-06-16T23:59:10Z",
+    "closed_at": "2023-06-16T23:59:21Z",
+    "merged_at": "2023-06-16T23:59:21Z",
+    "state": "closed",
+    "html_url": "https://github.com/Stosan/commentator/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Python",
+    "user": "Stosan",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-06-16T23:39:47Z",
+    "closed_at": "2023-06-16T23:40:06Z",
+    "merged_at": "2023-06-16T23:40:06Z",
+    "state": "closed",
+    "html_url": "https://github.com/Stosan/commentator/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "added screen-grab",
+    "user": "Stosan",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-06-16T16:22:45Z",
+    "closed_at": "2023-06-16T16:22:58Z",
+    "merged_at": "2023-06-16T16:22:58Z",
+    "state": "closed",
+    "html_url": "https://github.com/Stosan/commentator/pull/1"
+  }
+]

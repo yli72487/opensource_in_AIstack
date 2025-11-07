@@ -1,0 +1,14 @@
+[
+  {
+    "number": 1,
+    "title": "Fix Flask app structure for Render deployment compatibility",
+    "user": "Copilot",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2025-09-15T16:27:23Z",
+    "closed_at": "2025-09-15T16:28:26Z",
+    "merged_at": "2025-09-15T16:28:26Z",
+    "state": "closed",
+    "html_url": "https://github.com/BhattAyush17/Loan-Dash-X/pull/1"
+  }
+]

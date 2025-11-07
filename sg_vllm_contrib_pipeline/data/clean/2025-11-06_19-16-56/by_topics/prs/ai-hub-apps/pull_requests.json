@@ -1,0 +1,122 @@
+[
+  {
+    "number": 109,
+    "title": "Create android.yml",
+    "user": "DILUSHA86",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-10-06T15:43:07Z",
+    "closed_at": "2025-10-06T18:28:57Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/quic/ai-hub-apps/pull/109"
+  },
+  {
+    "number": 98,
+    "title": "Updated the versions of torch and torchvision",
+    "user": "Abbilaash",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-08-22T17:04:56Z",
+    "closed_at": "2025-09-02T18:16:40Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/quic/ai-hub-apps/pull/98"
+  },
+  {
+    "number": 96,
+    "title": "Create Mohit Rajput",
+    "user": "mr2318575-create",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-08-16T06:36:49Z",
+    "closed_at": "2025-08-18T22:10:43Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/quic/ai-hub-apps/pull/96"
+  },
+  {
+    "number": 93,
+    "title": "docs(whipser): correct export command in README",
+    "user": "Alkhayal7",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-08-08T16:15:48Z",
+    "closed_at": "2025-09-02T18:16:25Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/quic/ai-hub-apps/pull/93"
+  },
+  {
+    "number": 92,
+    "title": "docs(whisper): correct export command in README",
+    "user": "Alkhayal7",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-08-08T16:00:48Z",
+    "closed_at": "2025-08-08T16:01:58Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/quic/ai-hub-apps/pull/92"
+  },
+  {
+    "number": 91,
+    "title": "docs(whisper): correct export command in README",
+    "user": "Alkhayal7",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-08-08T15:53:40Z",
+    "closed_at": "2025-08-08T15:59:49Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/quic/ai-hub-apps/pull/91"
+  },
+  {
+    "number": 84,
+    "title": "OpenAI Compatible Endpoint using Genie SDK",
+    "user": "hemangsrr",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-06-23T13:34:46Z",
+    "closed_at": "2025-11-07T00:35:35Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/quic/ai-hub-apps/pull/84"
+  },
+  {
+    "number": 51,
+    "title": "Enhance ChatMessage with timing metrics for message processing",
+    "user": "mjnong",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-02-24T08:51:32Z",
+    "closed_at": "2025-09-30T00:19:12Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/quic/ai-hub-apps/pull/51"
+  },
+  {
+    "number": 23,
+    "title": "Add QCS8550",
+    "user": "scsonic",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-11-28T16:50:38Z",
+    "closed_at": "2025-01-20T04:37:59Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/quic/ai-hub-apps/pull/23"
+  },
+  {
+    "number": 10,
+    "title": "feat: select model in android super resolution app",
+    "user": "tumuyan",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-11-02T14:11:26Z",
+    "closed_at": "2025-09-30T00:19:13Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/quic/ai-hub-apps/pull/10"
+  }
+]

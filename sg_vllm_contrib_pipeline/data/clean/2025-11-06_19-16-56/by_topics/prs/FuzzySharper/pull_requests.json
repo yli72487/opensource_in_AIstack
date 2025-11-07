@@ -1,0 +1,62 @@
+[
+  {
+    "number": 5,
+    "title": "Tests",
+    "user": "arielpintof",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-12-19T04:07:24Z",
+    "closed_at": "2022-12-19T04:07:36Z",
+    "merged_at": "2022-12-19T04:07:36Z",
+    "state": "closed",
+    "html_url": "https://github.com/b-tapia-morales/FuzzySharper/pull/5"
+  },
+  {
+    "number": 4,
+    "title": "Defuzzify",
+    "user": "b-tapia-morales",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-12-18T17:46:54Z",
+    "closed_at": "2022-12-18T17:47:01Z",
+    "merged_at": "2022-12-18T17:47:01Z",
+    "state": "closed",
+    "html_url": "https://github.com/b-tapia-morales/FuzzySharper/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Defuzzify",
+    "user": "b-tapia-morales",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-12-18T02:59:29Z",
+    "closed_at": "2022-12-18T02:59:45Z",
+    "merged_at": "2022-12-18T02:59:45Z",
+    "state": "closed",
+    "html_url": "https://github.com/b-tapia-morales/FuzzySharper/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Only continuous functions",
+    "user": "b-tapia-morales",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-11-26T17:50:47Z",
+    "closed_at": "2022-11-26T17:50:54Z",
+    "merged_at": "2022-11-26T17:50:54Z",
+    "state": "closed",
+    "html_url": "https://github.com/b-tapia-morales/FuzzySharper/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Integer and double membership.functions refactoring",
+    "user": "b-tapia-morales",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-08-09T05:31:57Z",
+    "closed_at": "2022-08-09T05:32:04Z",
+    "merged_at": "2022-08-09T05:32:04Z",
+    "state": "closed",
+    "html_url": "https://github.com/b-tapia-morales/FuzzySharper/pull/1"
+  }
+]

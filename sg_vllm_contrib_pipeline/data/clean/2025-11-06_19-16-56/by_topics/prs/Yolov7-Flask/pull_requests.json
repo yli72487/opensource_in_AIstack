@@ -1,0 +1,14 @@
+[
+  {
+    "number": 3,
+    "title": "Update .gitignore",
+    "user": "artitsamchooosri",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-09-19T07:28:11Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/Michael-OvO/Yolov7-Flask/pull/3"
+  }
+]

@@ -1,0 +1,5 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+Galileo-Galilei,Yolan Honoré-Rougé,,,,,,"Maintainer of Kedro (@kedro-org), author of kedro-mlflow and kedro-pandera",,15,70,177,2017-06-15T08:42:09Z,2025-10-15T11:45:11Z
+cshaley,Charlie Haley,,https://www.linkedin.com/in/charliehaley,"Dallas, TX",,,,,34,20,41,2014-02-20T18:07:58Z,2025-08-17T21:14:33Z
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+github-actions[bot],,,,,,,,,0,0,0,2018-07-30T09:30:16Z,2018-09-18T23:02:41Z

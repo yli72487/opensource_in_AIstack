@@ -1,0 +1,26 @@
+[
+  {
+    "number": 2,
+    "title": "Add VLLM benchmark code and graphs.",
+    "user": "unaidedelf8777",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-11-12T03:14:11Z",
+    "closed_at": "2024-11-12T03:14:29Z",
+    "merged_at": "2024-11-12T03:14:29Z",
+    "state": "closed",
+    "html_url": "https://github.com/unaidedelf8777/faster-outlines/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Fixed sync and decode",
+    "user": "unaidedelf8777",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-11-10T20:45:46Z",
+    "closed_at": "2024-11-10T20:46:59Z",
+    "merged_at": "2024-11-10T20:46:59Z",
+    "state": "closed",
+    "html_url": "https://github.com/unaidedelf8777/faster-outlines/pull/1"
+  }
+]

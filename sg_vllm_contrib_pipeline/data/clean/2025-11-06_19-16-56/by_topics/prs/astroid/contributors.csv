@@ -1,0 +1,239 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+AWhetter,Ashley Whetter,@dneg ,,"Vancouver, BC, Canada",,,,,66,54,0,2012-12-20T13:58:40Z,2025-10-28T23:16:43Z
+AleksMat,Matej Aleksandrov,Google,https://www.linkedin.com/in/matej-aleksandrov/,Munich,,,,,29,39,1,2014-11-08T15:57:16Z,2025-10-19T11:42:20Z
+Alphadelta14,Heather Lapointe,@datarobot ,,"Massachusetts, USA",alpha@alphaservcomputing.solutions,,,BetterIsHeather,118,20,6,2010-11-14T07:44:47Z,2025-08-16T20:14:32Z
+BasPH,Bas Harenslak,,,,,,,,42,155,20,2013-12-23T20:06:35Z,2025-11-05T17:14:35Z
+Chasarr,Charlie Ringström,Schneider Electric,,"Sweden, Lund",,,,,25,5,9,2017-12-11T11:52:08Z,2025-11-03T14:42:20Z
+ColinKennedy,Colin Kennedy,The Mill,colinkennedy.github.io,"Los Angeles, California",colinvfx@gmail.com,,A VFX pipeline developer,,140,183,0,2014-12-07T04:38:30Z,2025-07-13T19:29:28Z
+CrepeGoat,Becker A.,,,,awqatty.b@gmail.com,True,Just a guy that likes numbers. And crepes.,,51,6,14,2013-11-05T18:35:28Z,2025-11-04T04:07:40Z
+DanielNoord,Daniël van Noord,@channable,,The Netherlands,,,"Maintainer of pylint, astroid and pydocstringformatter. Passionate about open source and Python development tools.",,20,59,11,2015-08-05T18:51:06Z,2025-11-06T07:57:02Z
+DavidCain,David Cain,Color,dcain.me,"Salt Lake City, UT",,,,,66,41,19,2011-07-07T18:01:37Z,2025-10-14T18:33:20Z
+DudeNr33,Andreas Finkler,Siemens Mobility GmbH,,"Nuremberg, Germany",,,,,29,13,10,2013-03-21T09:57:56Z,2025-11-06T12:28:44Z
+FelixMoelder,Felix Mölder,University of Duisburg-Essen,,"Viersen, Germany",felix.moelder@uk-essen.de,,,,36,12,0,2016-07-16T14:33:54Z,2025-10-22T12:15:03Z
+Funth0mas,,,,,,,,,3,1,0,2018-09-26T20:17:05Z,2025-05-02T06:57:32Z
+GergelyKalmar,Gergely Kalmár,,,"Zurich, Switzerland",,,Data Architect,,2,0,0,2013-10-03T08:52:31Z,2025-10-27T09:35:29Z
+Hnasar,Hash,,,,,,,,51,32,141,2010-11-01T20:41:42Z,2025-11-01T15:21:13Z
+HoverHell,,,,,hoverhell@gmail.com,,,,56,20,0,2010-03-25T04:25:40Z,2025-07-06T15:46:38Z
+JCZuurmond,Cor,Xebia Data,,Amsterdam,,,"Demystifying data, {Data, Machine Learning, Analytics} Engineer",,44,43,5,2013-11-15T09:30:23Z,2025-10-25T09:48:06Z
+Jamie-,Jamie Scott,,https://www.jamiescott.me,UK,,,Living life breaking things and putting them back together again. At least when I'm not chasing Nyan Cat through the digital sky.,,32,22,10,2013-04-08T19:52:55Z,2025-10-14T18:22:27Z
+JulianJvn,,,,,,,,,1,0,0,2023-03-21T11:03:45Z,2025-09-10T11:57:09Z
+JulienPalard,Julien Palard,,https://mdk.fr,"Paris, France",julien@palard.fr,,@python Core Developer,sizeof,110,401,0,2010-04-08T12:55:45Z,2025-08-29T21:12:13Z
+Kludex,Marcelo Trylesinski,@pydantic,https://www.fastapiexpert.com/,"Utrecht, Netherlands",marcelotryle@gmail.com,True,"Software Engineer @ Pydantic 🇧🇷🇺🇾🇮🇹
+Uvicorn & Starlette maintainer 🦄🌟
+FastAPI Expert ⚡",marcelotryle,153,2679,2,2014-04-20T14:19:16Z,2025-10-28T07:47:37Z
+Mic92,Jörg Thalheim,no,https://thalheim.io,::1,,True,,,776,1152,2,2009-06-17T04:11:42Z,2025-11-03T12:25:02Z
+NeilGirdhar,Neil Girdhar,,,,,,,,45,53,20,2011-04-14T20:15:45Z,2025-07-21T12:26:29Z
+OEP,Paul Kilgo,,,"Irvine, CA",paulkilgo+github@gmail.com,,,,85,11,6,2010-04-06T16:03:19Z,2024-01-31T06:00:53Z
+PCManticore,Claudiu Popa,,,,pcmanticore@gmail.com,,,,60,145,359,2010-10-21T11:52:08Z,2025-08-27T12:39:51Z
+Pierre-Sassoulas,Pierre Sassoulas,,,,,,"pylint maintainer among others, working in the green energy sector by profession, and in video games, open-source and tutoring by passion.",,70,108,45,2013-09-19T11:26:36Z,2025-11-06T20:58:51Z
+Redoubts,,,,,,,,,13,1,2,2012-09-27T07:12:32Z,2025-11-01T01:24:00Z
+Rogdham,,,https://www.rogdham.net/,,,,,,48,22,1,2013-03-28T09:57:46Z,2025-11-06T18:13:28Z
+S3ntinelX,,,,,,,,,1,3,1,2017-01-17T17:32:19Z,2025-05-29T16:10:01Z
+SK8-infi,Shivansh Katiyar,ABV-IIITM ,,Gwalior,shivansh.katiyar1712@gmail.com,,,,95,4,0,2024-09-30T17:19:05Z,2025-10-27T12:05:16Z
+SupImDos,Hayden Richards,@BrightpathProgress  ,https://www.supimdos.com,Western Australia,,,"Yes, that is my sausage dog",,8,7,4,2020-03-30T04:07:39Z,2025-05-18T22:43:56Z
+Synrom,,,,,,,,,15,1,2,2017-07-18T20:14:00Z,2025-10-29T13:45:59Z
+The-Compiler,Florian Bruhin,Bruhin Software,https://bruhin.software/,"Winterthur, Switzerland",github.com@the-compiler.org,,"Likes Python. Writing qutebrowser, a vim-like browser. pytest maintainer, with trainings/coaching via Bruhin Software.",the_compiler,50,1232,32,2011-02-18T19:07:04Z,2025-11-02T15:30:15Z
+UsamaSadiq,Usama Sadiq,@arbisoft,usamasadiq.us,"Lahore, Pakistan",usama7274@gmail.com,True,Core Contributor (@openedx)  | Principal Software Engineer (@arbisoft)  | DevOps Consultant,,13,37,21,2018-07-31T13:16:48Z,2025-10-22T10:50:19Z
+WenJinfeng,,,,,,,,,14,15,0,2019-06-03T03:42:07Z,2025-09-05T09:46:34Z
+Zac-HD,Zac Hatfield-Dodds,Anthropic,zhd.dev,San Francisco,,,"Researcher, maintainer of libraries, speaker at conferences, PSF Fellow.",,134,426,0,2015-05-04T06:45:13Z,2025-10-15T17:03:06Z
+aatle,,,,,,,,,9,2,0,2024-04-29T04:58:08Z,2025-10-07T06:37:09Z
+aboellinger,Antoine Boellinger,,,,,,,,23,19,41,2013-10-18T12:32:36Z,2025-08-24T11:13:14Z
+adam-grant-hendry,,,,,,,My personal GitHub repo.,,22,3,1,2019-12-29T22:42:22Z,2025-08-04T03:07:02Z
+akamat10,Akhil Kamat,,,,,,,,3,0,0,2024-08-17T09:55:03Z,2025-02-23T19:18:18Z
+alexmojaki,Alex Hall,@pydantic,https://futurecoder.io/,South Africa,alex.mojaki@gmail.com,,Python metaprogrammer,,128,878,1,2013-02-18T15:10:19Z,2025-10-20T12:20:19Z
+alonme,alm,,,,,,,,26,0,3,2017-02-17T15:13:43Z,2025-10-16T19:43:58Z
+anubh-v,Anubhav,,,Singapore,,True,,,28,10,13,2018-01-20T06:31:46Z,2025-08-31T07:28:35Z
+areveny,Arianna,Google,areveny.com,"Austin, Texas",,,She/her,,7,3,4,2021-10-19T23:53:53Z,2025-09-09T00:17:17Z
+arusahni,Aru Sahni,@OsoHQ,http://arusahni.net,"Washington, DC",,,"Tinkerer, hoopy frood, and believer in the open web.",IAmAru,86,74,83,2009-10-14T02:07:07Z,2025-09-09T13:52:31Z
+ashahba,Abolfazl Shahbazi,,,"Portland, OR",,True,Software Engineer(Operations and Tools),,35,132,1,2015-05-13T21:43:25Z,2025-11-01T11:32:19Z
+asottile,anthony sottile,,,,,,@pre-commit @pytest-dev,codewithanthony,77,5884,23,2012-06-02T19:54:37Z,2025-10-25T00:39:46Z
+atodorov,Alexander Todorov,@kiwitcms ,http://atodorov.org,"Sofia, Bulgaria",atodorov@otb.bg,True,,atodorov_,163,186,21,2011-08-24T18:57:24Z,2025-10-23T11:21:02Z
+avylove,Avram Lubkin,,https://rockhopper.net,"Rockville, Maryland",avylove@rockhopper.net,,,,30,14,2,2015-11-30T22:38:13Z,2024-06-15T18:08:25Z
+azeemba,Azeem Bande-Ali,,https://azeemba.com/,"New York, NY",,,Maker of Things,,88,37,51,2012-08-16T03:51:47Z,2025-07-04T19:41:14Z
+belm0,John Belmonte,,,,john@neggie.net,,,,84,109,4,2012-05-05T13:50:24Z,2025-10-03T04:25:35Z
+biancapower,Bianca Power,Macuject,https://biancapower.com/,"Sydney, Australia",bianca@biancapower.com,,,,184,130,74,2017-07-16T05:19:22Z,2025-10-15T05:02:43Z
+bje-,Ben Elliston,,,"Canberra, Australia",,,,,42,15,1,2013-05-03T03:44:36Z,2025-04-25T12:49:22Z
+bocekm,Michal Bocek,,,,mbocek@redhat.com,,,,28,7,2,2014-11-21T14:08:01Z,2025-10-10T11:33:10Z
+brendanator,Brendan Maginnis,@sourcery-ai,https://sourcery.ai,London,,,Founder @sourcery-ai ,brendanator_dev,49,69,0,2012-02-15T19:05:21Z,2025-10-21T10:15:25Z
+brycepg,Bryce Guinta,Freelance Software Engineer,bryceguinta.us,USA,,True,,,68,21,14,2010-10-16T12:10:15Z,2025-09-21T03:54:13Z
+cclauss,Christian Clauss,Christian Clauss,,Switzerland,cclauss@me.com,True,Working hard to find and fix bugs in software and to ensure that Python code is properly ported to Python 3.  Building related tools and automated systems.,,4563,4938,72,2013-02-26T21:56:38Z,2025-11-02T14:21:32Z
+cdce8p,Marc Mueller,,,Germany,,,,,40,102,1,2017-07-12T21:50:39Z,2025-11-07T00:10:43Z
+ceridwen,,,,,,,,,25,10,0,2014-07-25T13:50:46Z,2024-12-29T04:28:23Z
+cfranklin11,Craig Franklin,,,"Melbourne, Australia",,,,,36,9,6,2014-12-28T04:13:56Z,2025-10-27T11:37:53Z
+chrisphilip322,Chris Philip,@google,,,cmgp@google.com,,,,33,4,1,2013-04-05T07:26:29Z,2025-08-14T23:16:05Z
+cipherboy,Alexander Scheel,@GitLab,https://cipherboy.com,"St. Paul, MN",alexander.m.scheel@gmail.com,,"Open source cryptography & violin - ex-Red Hat, ex-Canonical, ex-Hashicorp Vault, ex-Keyfactor; now at GitLab.
+
+
+OpenBao TSC Chair & Dev WG Chair.",,196,262,484,2011-07-14T01:50:10Z,2025-10-23T11:28:07Z
+clavedeluna,Dani Alcala,,http://danilito19.github.io/,"San Francisco, CA",,,Formerly @danilito19,,13,2,3,2022-09-04T23:19:33Z,2025-08-05T13:32:40Z
+colatkinson,Colin Atkinson,,https://colatkinson.site,"New York, NY",,,,,57,25,17,2014-01-28T19:55:54Z,2025-09-16T05:09:00Z
+cool-RR,Ram Rachum,Tufts University,http://r.rachum.com,"Tel-Aviv, Israel",ram@rachum.com,True,AI Safety Researcher at Tufts University · ALTER AI Safety alumnus · Scientific Council Member at IAEAI · Fellow of the @psf,,233,533,4,2009-02-22T09:12:10Z,2025-10-09T07:55:13Z
+correctmost,,,,,,,,,19,0,0,2023-05-22T17:28:42Z,2025-11-05T15:40:11Z
+cpennington,Calen Pennington,Reify Health,vengefulpickle.com,"Arlington, MA",calen.pennington@gmail.com,,Staff Engineer at @reifyhealth,,109,110,12,2008-10-21T20:51:54Z,2025-09-15T14:07:26Z
+crazybolillo,Antonio,,blog.zoftko.com,,,,Bringing horrible ideas to life,,35,4,0,2018-06-07T04:44:32Z,2025-09-08T02:13:57Z
+dashea,David Shea,,,,reallylongword@gmail.com,,,,45,11,0,2013-05-13T17:58:41Z,2025-05-29T01:12:44Z
+david-yz-liu,David Liu,University of Toronto,https://www.cs.toronto.edu/~david/,"Toronto, Canada",david@cs.toronto.edu,,,,16,143,0,2013-01-21T22:16:40Z,2025-10-28T11:29:57Z
+dbaty,Damien Baty,,,,damien@damienbaty.com,,,,28,7,0,2010-11-07T17:32:59Z,2024-05-21T16:00:30Z
+dbaum,,,,,,,,,2,10,0,2008-07-01T16:32:11Z,2020-02-11T19:45:11Z
+dcolascione,Daniel Colascione,,,"Melbourne Beach, FL",dancol@dancol.org,,,,42,117,5,2010-07-13T22:47:52Z,2025-10-27T16:17:00Z
+deepyaman,Deepyaman Datta,Maintainer @kedro,https://www.linkedin.com/in/deepyaman/,"Salt Lake City, Utah, United States",deepyaman.datta@utexas.edu,,,DeepyamanDatta,138,66,0,2015-08-27T23:25:07Z,2025-10-21T04:49:46Z
+degustaf,Derek Gustafson,,,"Buffalo, NY",,,,,69,15,13,2015-07-25T01:31:15Z,2025-09-06T21:34:49Z
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+dgilman,David Gilman,,http://gilslotd.com,"Charlotte, NC",,,import gilman,,63,36,18,2010-09-14T00:54:15Z,2025-10-24T20:19:51Z
+dhirschfeld,Dave Hirschfeld,,,"Brisbane, Australia",dave.hirschfeld@gmail.com,,Full-Stack Analytics Engineer,,276,81,3,2011-06-28T09:47:46Z,2025-10-20T19:51:52Z
+dimp-pl,Zmicier Prybysh,,,,me@dimp.pl,,,,20,24,26,2011-03-14T12:34:23Z,2025-09-18T09:34:03Z
+doranid,,,,,,,,,5,0,0,2014-01-19T00:40:03Z,2022-04-20T07:52:19Z
+dwo,Robin Tweedie,@odysseyml,,"London, UK",,,"Previously: @wayveai (@robin-wayve), @skyscanner, @songkick.",,15,32,35,2009-09-26T17:09:03Z,2025-09-01T08:34:31Z
+elfring,Markus Elfring,,,,elfring@users.sourceforge.net,True,,,72,59,0,2011-03-09T19:13:22Z,2023-09-14T08:19:11Z
+emmanuel-ferdman,Emmanuel Ferdman,,,Israel,,,MS Computer Science with a focus on Machine Learning and Computer Vision. Full-time software developer at @Intel.,,40,105,0,2018-01-15T22:24:08Z,2025-10-23T14:52:27Z
+ericvergnaud,Eric Vergnaud,,,,,True,,,29,60,0,2013-01-21T19:53:46Z,2025-11-05T09:49:03Z
+euresti,David Euresti,,,,david@euresti.com,,,,18,23,0,2011-09-26T20:24:16Z,2025-08-05T20:44:58Z
+fchapoton,Frédéric Chapoton,,https://irma.math.unistra.fr/~chapoton/,,,,,,236,31,1,2013-09-13T20:25:26Z,2025-08-19T08:11:59Z
+federicobond,Federico Bond,,https://federicobond.com/,"Sydney, Australia",federicobond@gmail.com,,,,178,308,117,2009-10-12T00:58:21Z,2025-10-30T22:31:34Z
+felixonmars,Felix Yan,Arch Linux @archlinux,https://felixc.at,"Wuhan, China",felixonmars@archlinux.org,,"Arch Linux Developer, RISC-V Porter, probably a fox.
+
+PGP Key: 0x786C63F330D7CB92",felixonmars,1678,3258,175,2011-08-26T12:35:50Z,2025-11-01T09:36:19Z
+fizbin,Daniel Martin,,http://snowplow.org/martin,,fizbin@gmail.com,,,,18,16,7,2013-04-10T02:20:45Z,2025-11-02T21:15:38Z
+fmigneault,Francis Charette-Migneault,@crim-ca,https://www.linkedin.com/in/francis-charette-migneault/,"Montréal, Québec, Canada",francis.charette.migneault@gmail.com,,"Senior Software Developer at the Computer Research Institute of Montréal (CRIM). Geospatial, Machine Learning and Computer Vision. Master’s in Engineering.",fmigneault1,80,27,5,2016-05-04T19:46:51Z,2025-11-05T22:11:09Z
+ftartaggia,francesco tartaggia,,,,,,,,13,12,2,2010-09-07T12:59:09Z,2024-09-24T13:45:40Z
+g-rocket,Gavin S. Yancey,,https://gavin.yancey.io/,"Berkeley, CA",gyancey@hmc.edu,,,,54,13,8,2011-11-10T21:29:45Z,2025-08-18T21:01:17Z
+gavento,Tomáš Gavenčiak,Alignment of Complex Systems,gavento.cz,Prague,gavento@gmail.com,,"Researcher at @acsresearch working on AI theory of alignment, game theory, and complex LLM agent interactions.",,49,49,6,2011-08-03T12:13:51Z,2024-11-17T00:16:46Z
+ghost,Deleted user,,,"Nothing to see here, move along.",,,"Hi, I'm @ghost! I take the place of user accounts that have been deleted.
+:ghost:
+",,0,11756,0,2008-05-13T06:14:25Z,2018-04-10T17:22:33Z
+github-actions[bot],,,,,,,,,0,0,0,2018-07-30T09:30:16Z,2018-09-18T23:02:41Z
+giuseppe,Giuseppe Scrivano,Red Hat,https://www.scrivano.org,"Rome, Italy",giuseppe@scrivano.org,True,"Software engineer at Red Hat Inc.
+",gscrivano,167,486,0,2009-03-26T14:00:53Z,2025-11-05T12:24:37Z
+gpshead,Gregory P. Smith,,,"SF Bay Area, CA",,,,,70,318,59,2009-03-30T02:13:39Z,2025-10-11T00:38:31Z
+grayjk,,,,,,,,,3,0,0,2012-09-27T13:42:16Z,2025-06-06T12:40:28Z
+gyermolenko,Grygorii Iermolenko,,,Ukraine,,True,,,47,43,10,2015-02-11T20:23:15Z,2025-02-17T17:12:04Z
+hippo91,,,,,,True,,,26,7,13,2015-03-28T13:44:08Z,2025-10-17T11:31:42Z
+hmc-cs-mdrissi,Mehdi Drissi,Snap,,California,,,"I am a math/cs graduate of Harvey Mudd. I’ve worked as an ML engineer at Ouster, Tiktok, and Snap on computer vision, recommender systems, and ml platform.",,29,7,4,2016-01-21T00:42:41Z,2025-11-06T18:11:25Z
+hofrob,Robert Hofer,,,,,,,,9,8,27,2011-09-17T10:43:35Z,2025-10-27T10:02:29Z
+hroncok,Miro Hrončok,"Red Hat, FIT CTU",https://hroncok.cz,"Bratkovice u Velvar, Czechia",miro@hroncok.cz,,"Free software engineer at Red Hat, mostly working on @fedora-python and 3D printing in Fedora.
+Teacher at @cvut and @3DprintFIT. Python enthusiast at @pyvec.",,687,305,7,2012-09-22T21:04:20Z,2025-10-24T13:20:03Z
+hugovk,Hugo van Kemenade,@sovereigntech,https://hugovk.dev,"Helsinki, Finland",,,"Python 3.14 & 3.15 release manager, core developer, Sovereign Tech Fellow, PSF Fellow, open-source maintainer, PEP editor, NaNoGenMo organiser",,1320,1053,252,2012-01-12T09:14:31Z,2025-11-06T10:40:23Z
+imih,Iva Miholic,,,"London, UK",ivamiho@gmail.com,True,,,18,14,24,2012-12-24T20:19:24Z,2025-10-01T09:13:34Z
+ioanatia,Ioana Tagirta,@elastic ,,,,,,,20,7,4,2015-11-26T12:16:23Z,2025-05-20T09:50:02Z
+isidentical,Batuhan Taskaya,@fal-ai,https://cute.glass/,San Francisco,batuhan@python.org,True,"@fal, @PSF fellow, @python core developer. ",isidentical,124,764,91,2019-02-05T14:59:44Z,2025-10-30T00:49:28Z
+jacobbogdanov,Jacob Bogdanov,,,Boston MA,,,Software Engineer,,14,0,0,2019-03-07T12:40:00Z,2025-07-07T13:51:17Z
+jacobtylerwalls,Jacob Walls,Django Software Foundation,,"Brooklyn, NY",,,"Django Fellow
+
+ex-@azavea and @fargeo",,34,134,2,2018-04-23T18:26:21Z,2025-11-06T15:31:49Z
+jayaddison,James Addison,,https://www.reciperadar.com/,,,,,,25,95,274,2019-09-10T16:00:18Z,2025-10-22T23:03:16Z
+jeffwidman,Jeff Widman,,http://jeffwidman.com/,"Bellingham, WA",jeff@jeffwidman.com,,"Christian, husband, father, and late-night open-source maintainer. Making a difference one commit at a time.",,27,432,57,2010-11-16T04:51:42Z,2025-11-07T04:16:21Z
+jgarst,Jared Garst,,http://jhgarst.work,,jhg@fastmail.com,,,,21,14,1,2011-09-09T19:57:50Z,2025-10-17T13:46:38Z
+joao-faria-dev,Joao Faria,,,Brazil,joaovitorfaria.dev@gmail.com,,Just having fun,,9,0,7,2025-10-28T01:22:59Z,2025-10-28T02:37:39Z
+jstriebel,Jonathan Striebel,Aignostics,https://jonathanstriebel.de,,,True,,jostriebel,33,49,61,2014-04-07T21:05:08Z,2025-10-13T05:54:42Z
+justinfx,Justin Israel,@wetadigital ,https://www.justinfx.com,"Wellington, New Zealand",justinisrael@gmail.com,,Senior Software Engineer at Wētā FX,,48,350,8,2010-05-20T16:42:56Z,2025-08-21T19:56:10Z
+jwilk,Jakub Wilk,,,,jwilk@jwilk.net,True,,,168,0,0,2009-10-19T06:59:32Z,2025-10-30T09:43:53Z
+kasium,kasium,,,Germany,,,Developer from Germany,,14,14,3,2015-11-18T12:45:51Z,2025-10-26T11:35:03Z
+kavins14,Kavin,,,Toronto,,,dabbling in code 💻,,12,6,9,2016-04-08T15:06:13Z,2025-11-02T23:17:42Z
+keichi,Keichi Takahashi,University of Osaka,https://keichi.dev,"Osaka, Japan",hello@keichi.dev,True,,_keichi_,124,142,102,2011-05-16T15:41:05Z,2025-10-07T07:46:21Z
+keszybz,Zbigniew Jędrzejewski-Szmek,Red Hat,,Warsaw,,,Working on open source stuff at Red Hat.,,192,275,3,2010-07-30T20:11:30Z,2025-06-01T19:11:51Z
+kianmeng,Ang,,https://www.kianmeng.org,"Kuala Lumpur, Malaysia",kianmeng@cpan.org,True,Old software plumber hopping through different GitHub repositories at @myfloss on a daily basis.,,14,145,27,2009-10-03T09:29:04Z,2025-11-06T15:02:14Z
+kloczek,Tomasz Kłoczko,TKloczko Limited,,"Milton Keynes, UK",,True,,,104,41,1,2017-08-23T15:28:16Z,2025-02-22T11:50:43Z
+knedlsepp,Josef Kemetmüller,,http://knedlsepp.at,"Vienna, Austria",,True,1 number cruncher.,,87,54,146,2013-01-16T17:35:09Z,2025-11-03T21:25:13Z
+kodonnell,,,,,,,,,10,7,0,2014-07-18T21:52:02Z,2025-11-04T19:49:21Z
+kriek,,,,,,,,,4,1,0,2011-05-10T10:04:16Z,2025-09-19T08:08:53Z
+lazka,Christoph Reiter,,http://lazka.github.io,Graz,reiter.christoph@gmail.com,,ᅟ,,195,338,39,2011-08-19T22:23:56Z,2025-10-16T08:39:38Z
+lezeroq,Artsiom Kaval,,,Germany,,,,,7,8,13,2011-09-24T12:12:51Z,2025-11-06T13:41:29Z
+limburgher,Gwyn Ciesla,Fedora Project,http://cecinestpasunefromage.wordpress.com/,,gwync@protonmail.com,,she/her/hers,,8,7,0,2012-09-17T16:38:37Z,2025-10-21T15:51:10Z
+lmedioni,,Logilab,,,,,,,3,1,0,2010-10-12T17:19:33Z,2020-02-27T02:04:54Z
+lovetox,lovetox,,,,philipp@hoerist.com,,,,28,12,0,2014-09-04T22:08:50Z,2025-10-13T09:50:20Z
+ltcmelo,Leandro T. C. Melo,,http://ltcmelo.com,Belo Horizonte,ltcmelo@gmail.com,,,,11,73,0,2012-11-27T20:59:30Z,2025-04-17T17:23:29Z
+luca-digrazia,Luca Di Grazia,,https://www.lucadigrazia.com/,"St Gallen, Switzerland",,,Great Minds Fellow at HSG,,44,14,12,2017-04-01T07:50:12Z,2025-10-16T14:45:43Z
+mariocj89,Mario Corchero,@bloomberg,,"Madrid, Spain, EU.",mariocj89@gmail.com,,"TL/Developer at @bloomberg, @psf Fellow Member, @python-spain VP (2018-20), Chair @PyLondinium, #PyConES17, @pyconcharlas and a general community passionate! 😄",,45,71,0,2013-02-26T21:52:53Z,2025-10-09T17:14:54Z
+markmcclain,,,,,,,,,31,15,1,2010-11-16T18:30:07Z,2025-08-05T00:11:16Z
+marmarek,Marek Marczykowski-Górecki,,,,,,Lead developer at @QubesOS,,246,476,1,2011-04-13T09:58:59Z,2025-10-14T11:28:09Z
+martimlobao,Martim Lobao,Revelio Labs,martimlobao.com,"New York, NY",,True,"Machine teacher. Jack of m trades, master of n≤m. 
+Senior data engineer @RevelioLabs. 
+Formerly @peopledatalabs @AndroidPolice",martimlobao,30,39,205,2014-01-17T15:41:34Z,2025-09-28T19:53:19Z
+mathieui,mathieui,@wallix,https://mathieui.net,"Paris, France",,True,,,48,43,7,2011-02-23T21:51:30Z,2025-08-04T19:29:27Z
+matusvalo,mv-python,,,,,,,,39,0,0,2011-06-03T08:36:58Z,2025-08-26T04:58:33Z
+mbdevpl,Mateusz Bysiek,,https://mbdevpl.github.io/,Japan,,True,Python + HPC = ?,,91,61,39,2011-12-18T00:03:07Z,2025-06-25T03:22:58Z
+mbyrnepr2,Mark Byrne,,,Rotterdam,,,,,15,7,10,2017-09-08T08:58:22Z,2025-11-03T14:20:16Z
+mharding-hpe,Mitch Harding,HPE / Cray,,"Pittsburgh, PA",mitchell.harding@hpe.com,,,,21,1,0,2021-01-07T19:27:32Z,2025-10-13T18:49:32Z
+michael-k,Michael K.,,,"North Ayrshire, Scotland",,True,he/him,,341,67,43,2009-11-11T22:33:11Z,2025-10-17T23:16:55Z
+mitya57,Dmitry Shachnev,The Interface Financial Group,https://mitya57.me/,,,,,,146,90,17,2012-01-26T09:49:05Z,2025-10-11T21:14:06Z
+mmaslowskicc,Michał Masłowski,,,,,,,,19,4,0,2015-01-14T16:09:08Z,2025-06-20T12:22:05Z
+moylop260,Moisés López - https://www.vauxoo.com/,Vauxoo,http://www.vauxoo.com,México,moylop260@vauxoo.com,,,,155,91,4,2014-02-10T22:28:39Z,2025-11-05T22:31:47Z
+msuozzo,Matthew Suozzo,,,,,,,,77,63,5,2012-01-30T23:56:13Z,2025-11-05T19:57:40Z
+mtelka,Marcel Telka,,,,,,,,110,10,0,2012-12-09T08:02:13Z,2025-06-11T17:01:29Z
+mthuurne,Maarten ter Huurne,@ProtixIT,,"Eindhoven, the Netherlands",maarten@treewalker.org,True,,,32,58,0,2010-04-18T14:56:55Z,2025-02-28T17:08:27Z
+mymedia2,Nicholas Guriev,,,"Moscow, Russia",,,,,73,44,0,2014-10-12T10:47:39Z,2025-09-29T18:02:17Z
+mzfr,Mehtab Zafar,,https://mzfr.me/,,,True,,,68,406,83,2016-01-09T14:27:35Z,2025-10-01T07:10:17Z
+nathannaveen,Nathan Naveen,@bomfather,,,,,Co-Founder of Bomfather,,61,31,1,2018-08-12T14:54:21Z,2025-10-27T14:15:48Z
+nelfin,Andrew Haigh,,,,,,,,37,10,16,2010-02-18T06:29:15Z,2025-10-10T11:25:24Z
+ngie-eign,Enji Cooper,,https://ngie-eign.github.io,,,True,FreeBSD: ngie@,,101,59,8,2012-03-25T20:06:24Z,2025-11-03T16:24:17Z
+nickdrozd,Nick Drozd,,nickdrozd.github.io,"Baltimore, MD",nicholasdrozd@gmail.com,True,,,62,92,4,2016-03-04T01:32:40Z,2025-11-06T15:04:32Z
+noah-weingarden,,,,,,,,,5,3,4,2017-11-17T03:43:44Z,2025-09-22T07:34:38Z
+noirbee,Nicolas Noirbent,,https://noirbent.fr,Paris,,True,,,25,11,0,2010-11-08T10:18:21Z,2024-08-20T09:42:21Z
+oprypin,Oleh Prypin,,http://pryp.in/,"Munich, Germany",,,,,115,319,1,2010-08-20T23:26:48Z,2025-10-10T11:25:40Z
+ostr00000,,,,,,,,,28,4,1,2016-11-17T14:49:07Z,2025-06-29T15:06:04Z
+otaithleigh,P. Talley,,,,,,,,26,20,0,2016-04-24T00:53:56Z,2025-10-19T11:41:20Z
+paper42,Emi Vasilková,,https://comfy.city/,"Brno, Czech Republic",,,,,94,60,0,2016-11-21T16:57:33Z,2025-10-29T11:52:56Z
+pavan-msys,,,,,,,,,10,0,0,2023-10-31T15:26:51Z,2025-10-26T15:39:06Z
+pdeblanc,,,,,,,,,18,6,1,2014-03-07T19:18:50Z,2025-10-10T00:53:22Z
+perrinjerome,Jérome Perrin,,,Japan,perrinjerome@gmail.com,,,,122,20,28,2010-12-13T18:09:07Z,2025-08-22T10:50:26Z
+pkolbus,Peter Kolbus,,,"Plymouth, MI, USA",,,,,20,1,0,2016-01-12T01:08:05Z,2025-11-04T02:21:48Z
+plucury,plucury,AriesApp,,"Chengdu, China",plucury@gmail.com,,,,61,29,27,2009-11-29T15:14:30Z,2025-03-01T02:46:08Z
+ppentchev,Peter Pentchev,,,,roam@ringlet.net,,,,84,20,0,2010-10-25T14:00:42Z,2024-06-02T07:44:37Z
+pre-commit-ci[bot],,,,,,,,,0,0,0,2020-06-13T00:09:59Z,2020-06-13T00:09:59Z
+priv-kweihmann,Konrad Weihmann,,https://bitbakesoda.blogspot.com,"Berlin, Germany",,True,,,73,26,3,2019-01-22T19:03:36Z,2025-01-02T15:43:17Z
+pylint-backport[bot],,,,,,,,,0,0,0,2025-05-18T17:07:20Z,2025-09-03T20:20:22Z
+renefritze,René Fritze,Senior Engineer @arup-group ,https://rene.fritze.me/,Germany,,,,,224,51,3,2009-01-19T23:30:02Z,2025-10-21T15:49:27Z
+ringohoffman,Matthew Hoffman,@google-deepmind,,"San Francisco, CA",,,UTCS '20,,54,9,10,2017-04-21T05:11:09Z,2025-08-10T00:07:21Z
+rioj7,rioj7,,,,,,,,51,15,0,2018-05-02T15:42:24Z,2025-05-21T13:23:07Z
+rjarry,Robin Jarry,Red Hat,,"Paris, France",,,,,57,41,0,2010-11-08T11:16:12Z,2025-10-28T11:25:37Z
+rogalski,Łukasz Rogalski,,http://stackoverflow.com/users/2912340,"Gdańsk, Poland",rogalski.91@gmail.com,True,,,51,23,46,2014-10-31T17:00:39Z,2025-04-30T20:24:01Z
+royw,Roy Wright,,GitHub.com/royw,"Chappell Hill, Texas",,True,,,45,12,2,2008-12-14T05:00:55Z,2025-10-21T09:20:33Z
+rr-,Dash,,https://wind.garden/,Poland,,,,,43,275,38,2011-09-12T19:56:51Z,2025-10-21T21:32:04Z
+rtpg,Raphael Gaschignard,,rtpg.co,"Brisbane, Australia",,,"Programmer (Mostly Python).
+
+Currently open for work",,110,31,14,2012-02-04T18:18:56Z,2025-10-25T05:15:24Z
+sbrunner,Stéphane Brunner,@camptocamp,,Lausanne,stephane.brunner@camptocamp.com,,,,106,51,6,2010-08-04T10:17:02Z,2025-10-07T11:27:37Z
+scop,Ville Skyttä,@UpCloudLtd ,,Finland,,,,,211,238,0,2009-07-27T17:33:09Z,2025-11-05T11:04:06Z
+serhiy-storchaka,Serhiy Storchaka,,,Ukraine,,,,SerhiyStorchaka,19,525,11,2013-02-21T12:14:41Z,2025-10-12T06:55:16Z
+shadchin,Alexander Shadchin,Yandex,,"Armenia, Erevan",alexandr.shadchin@gmail.com,True,,,116,69,2,2009-03-08T11:42:32Z,2023-08-16T17:26:34Z
+sighingnow,Tao He,@alibaba ,https://sighingnow.github.io,"Beijing, China",sighingnow@gmail.com,True,,,281,430,985,2014-04-03T00:41:11Z,2025-09-17T06:25:54Z
+sjhewitt,Simon Hewitt,,http://blog.sjhewitt.co.uk,,,,,,101,31,0,2010-02-20T16:59:37Z,2025-10-29T11:22:31Z
+skshetry,,,,,,,,,131,103,28,2016-04-28T10:18:51Z,2025-10-07T09:47:07Z
+smontanaro,Skip Montanaro,,,,skip.montanaro@gmail.com,,,,46,26,2,2013-01-30T13:01:51Z,2025-01-18T01:14:07Z
+smurfix,Matthias Urlichs,noris network AG,http://matthias.urlichs.de,"Nürnberg, Germany",matthias@urlichs.de,True,"I am getting off Github.
+
+My repositories will migrate to
+Radicle (primary), codeberg.org/Smurf (alternate) and git.smurf.noris.de (read-only).",,260,135,19,2010-04-04T06:40:56Z,2025-09-08T18:38:00Z
+sodul,Stephane Odul,,,,,,,,22,6,0,2012-03-05T21:07:49Z,2025-01-27T06:04:10Z
+srikiraju,Srikanth Raju,Affirm,,"San Francisco, CA",,,yaml guy,,33,27,43,2011-01-25T15:06:30Z,2025-08-23T05:00:00Z
+sscherfke,Stefan Scherfke,,https://stefan.sofa-rockers.org,,,,,sscherfke,51,39,3,2010-12-06T08:09:11Z,2025-10-20T09:03:02Z
+stanislavlevin,Stanislav Levin,,,"Russia, Obninsk",slev@altlinux.org,,,,84,2,0,2017-08-21T09:02:28Z,2025-10-15T11:46:08Z
+superbobry,Sergei Lebedev,Software Engineer at @deepmind,,"London, UK",,,,,118,546,40,2010-01-20T00:49:54Z,2025-11-06T12:24:01Z
+swails,Jason Swails,Iambic Therapeutics,,"Allentown, PA",,,,,85,109,10,2011-05-10T12:27:31Z,2025-09-30T16:06:08Z
+tejaschauhan36912,,,,,,,,,45,28,419,2020-01-09T12:41:21Z,2025-07-16T04:31:31Z
+temyurchenko,,,gitlab.com/artemyurchenko,,,,,,21,5,1,2018-11-08T17:00:38Z,2025-11-02T06:00:30Z
+thejcannon,Josh Cannon,,https://thejcannon.github.io/resume/,Deep in the heart of Texas,,,,,37,32,2,2013-03-24T15:46:29Z,2025-09-30T15:55:37Z
+timkpaine,Tim Paine,@Point72,https://tim.paine.nyc,"New York, NY, USA",,True,"@Point72, @ColumbiaOSS",timkpaine,119,1075,126,2012-12-22T14:31:45Z,2025-11-06T05:03:44Z
+timmartin,Tim Martin,@airsupply-solutions ,http://blog.asymptotic.co.uk/,,,True,,,34,19,10,2009-02-22T22:07:53Z,2024-11-25T15:47:19Z
+tirkarthi,Karthikeyan Singaravelan,Visa Inc,tirkarthi.github.io,"Bangalore, India",tir.karthi@gmail.com,,Python Core developer. Apache Airflow committer. Open source contributions to Python ecosystem.,tirkarthi,251,242,206,2013-03-26T07:44:43Z,2025-10-23T11:31:45Z
+tmr232,Tamir Bahar,,https://tamir.dev,Israel,,,,tmr232,167,200,7,2012-01-27T22:55:49Z,2025-09-08T16:40:32Z
+tristanlatr,,,,,,,,,87,0,0,2016-06-16T04:38:19Z,2025-11-05T16:37:04Z
+tushar-deepsource,Tushar Sadhwani,@deepsourcelabs ,https://tushar.lol,"Bengaluru, India",,,Personal: @tusharsadhwani,sadhlife,94,4,3,2021-06-30T16:57:39Z,2024-10-09T10:01:49Z
+tusharsadhwani,Tushar Sadhwani,@zigindia,tush.ar,"Bengaluru, India",tushar.sadhwani000@gmail.com,,Python / Zig. Twitter: @tusharisanerd,tusharisanerd,200,357,34,2018-09-19T13:33:35Z,2025-10-12T05:19:49Z
+twmr,Thomas Wimmer,IMS Nanofabrication GmbH,,Vienna,,True,senior python developer/architect,,89,27,26,2010-02-19T09:01:30Z,2025-10-23T04:53:57Z
+uilianries,Uilian Ries,@conan-io,https://uilianries.github.io/,Tierra de Conejos,uilianries@gmail.com,,"Software developer, interested on open source community, embedded systems and DevOps. Contributing to @bincrafters, @conan-io and @taocpp.
+
+",uilianries,349,169,61,2013-06-28T16:29:07Z,2025-09-27T15:41:31Z
+upgradeQ,,,,,,,,,10,15,5,2016-04-09T07:12:22Z,2025-10-24T18:14:44Z
+vallsv,Valentin Valls,ESRF,http://www.esrf.fr/,"Grenoble, France",valentin.valls@esrf.fr,,,,63,3,0,2014-05-14T09:23:41Z,2025-10-08T07:48:44Z
+vtermanis,Vilnis Termanis,Iotics,https://iotics.com,,,,,,14,11,0,2013-12-05T09:27:36Z,2025-01-07T19:28:50Z
+webknjaz,🇺🇦 Sviatoslav Sydorenko (Святослав Сидоренко),@Ansible Core Engineering Team @ @RedHatOfficial,https://webknjaz.me,"Mikulov, CZ ↜ Brno, CZ ↜ Brovary/Kyiv, UA",webknjaz+github/profile@redhat.com,,"🇺🇦 #StandWithUkraine
+ · traveler
+ · oversees @aio-libs CI
+ · maintains @CherryPy & pip-tools
+ · made Octomachinery & alls-green & pypi-publish",,450,993,2128,2011-01-22T22:11:04Z,2025-10-30T20:41:34Z
+wgehalo,wgehalo,,http://foresthex.com,,,,,,20,1,0,2014-01-22T17:50:00Z,2025-11-06T12:30:57Z
+yueyinqiu,yueyinqiu,,,,yueyinqiu@outlook.com,,Click and help him to add a bio.,,80,20,14,2016-04-30T09:15:17Z,2025-10-09T13:25:15Z
+zadamah,,,,,,,,,0,0,1,2013-06-24T23:53:59Z,2022-12-13T14:24:11Z
+zapstar,Thirumal Venkat,"Software Engineer, @RafaySystems",https://www.thirumal.in,"Bangalore, India",,,Company Account: @thirumal-rafay,thirumalvenkat_,17,11,0,2012-05-13T14:13:08Z,2025-08-02T16:56:02Z
+zenlyj,Zen Lee,,,Singapore,,,,,12,1,0,2019-07-31T19:03:12Z,2025-08-21T07:06:49Z

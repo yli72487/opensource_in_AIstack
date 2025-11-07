@@ -1,0 +1,14 @@
+[
+  {
+    "number": 1,
+    "title": "docs: update README.md",
+    "user": "eltociear",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-12-01T10:43:30Z",
+    "closed_at": "2024-12-01T11:00:39Z",
+    "merged_at": "2024-12-01T11:00:39Z",
+    "state": "closed",
+    "html_url": "https://github.com/AlbanPerli/Noema-Declarative-AI/pull/1"
+  }
+]

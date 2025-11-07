@@ -1,0 +1,98 @@
+[
+  {
+    "number": 13,
+    "title": "read checkpoint in as float data",
+    "user": "garrisonhh",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-05-15T18:18:34Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/cgbur/llama2.zig/pull/13"
+  },
+  {
+    "number": 11,
+    "title": "Update main.zig",
+    "user": "RohanVashisht1234",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-11-28T17:33:38Z",
+    "closed_at": "2025-01-15T18:37:48Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/cgbur/llama2.zig/pull/11"
+  },
+  {
+    "number": 10,
+    "title": "update to zig 0.14",
+    "user": "mindon",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-11-18T07:42:16Z",
+    "closed_at": "2024-11-21T19:47:07Z",
+    "merged_at": "2024-11-21T19:47:07Z",
+    "state": "closed",
+    "html_url": "https://github.com/cgbur/llama2.zig/pull/10"
+  },
+  {
+    "number": 9,
+    "title": "Patch for zig version 13",
+    "user": "RohanVashisht1234",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-10-29T10:04:36Z",
+    "closed_at": "2024-11-21T19:47:44Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/cgbur/llama2.zig/pull/9"
+  },
+  {
+    "number": 8,
+    "title": "update to zig-0.12.0-dev.3434+e90583f5d",
+    "user": "arrufat",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-03-25T01:22:55Z",
+    "closed_at": "2024-04-05T22:55:48Z",
+    "merged_at": "2024-04-05T22:55:48Z",
+    "state": "closed",
+    "html_url": "https://github.com/cgbur/llama2.zig/pull/8"
+  },
+  {
+    "number": 7,
+    "title": "Support utf8 prompts",
+    "user": "cgbur",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-08-16T02:45:16Z",
+    "closed_at": "2023-08-16T02:45:21Z",
+    "merged_at": "2023-08-16T02:45:21Z",
+    "state": "closed",
+    "html_url": "https://github.com/cgbur/llama2.zig/pull/7"
+  },
+  {
+    "number": 4,
+    "title": "Replace mmap with reading in weights",
+    "user": "cgbur",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-08-15T02:30:27Z",
+    "closed_at": "2023-08-15T02:30:38Z",
+    "merged_at": "2023-08-15T02:30:38Z",
+    "state": "closed",
+    "html_url": "https://github.com/cgbur/llama2.zig/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Spelling",
+    "user": "cgbur",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-08-12T16:25:04Z",
+    "closed_at": "2023-08-12T16:25:18Z",
+    "merged_at": "2023-08-12T16:25:18Z",
+    "state": "closed",
+    "html_url": "https://github.com/cgbur/llama2.zig/pull/3"
+  }
+]

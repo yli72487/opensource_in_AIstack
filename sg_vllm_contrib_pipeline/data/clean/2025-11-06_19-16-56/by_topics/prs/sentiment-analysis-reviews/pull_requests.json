@@ -1,0 +1,74 @@
+[
+  {
+    "number": 6,
+    "title": "Revert \"Prod live sample\"",
+    "user": "EAlmazanG",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-02-03T19:15:42Z",
+    "closed_at": "2025-02-03T19:16:00Z",
+    "merged_at": "2025-02-03T19:16:00Z",
+    "state": "closed",
+    "html_url": "https://github.com/EAlmazanG/sentiment-analysis-reviews/pull/6"
+  },
+  {
+    "number": 5,
+    "title": "Prod live sample",
+    "user": "EAlmazanG",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-02-03T19:15:11Z",
+    "closed_at": "2025-02-03T19:15:20Z",
+    "merged_at": "2025-02-03T19:15:20Z",
+    "state": "closed",
+    "html_url": "https://github.com/EAlmazanG/sentiment-analysis-reviews/pull/5"
+  },
+  {
+    "number": 4,
+    "title": "Streamlit",
+    "user": "EAlmazanG",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-10-30T16:23:02Z",
+    "closed_at": "2024-11-04T17:30:35Z",
+    "merged_at": "2024-11-04T17:30:35Z",
+    "state": "closed",
+    "html_url": "https://github.com/EAlmazanG/sentiment-analysis-reviews/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Sentiment",
+    "user": "EAlmazanG",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-10-17T15:43:40Z",
+    "closed_at": "2024-10-17T15:43:47Z",
+    "merged_at": "2024-10-17T15:43:47Z",
+    "state": "closed",
+    "html_url": "https://github.com/EAlmazanG/sentiment-analysis-reviews/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Scrapper and Data Cleaning",
+    "user": "EAlmazanG",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-09-24T19:17:49Z",
+    "closed_at": "2024-09-24T19:34:53Z",
+    "merged_at": "2024-09-24T19:34:53Z",
+    "state": "closed",
+    "html_url": "https://github.com/EAlmazanG/sentiment-analysis-reviews/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Generate file structure and test the initial version of the scraper to see if it's possible ",
+    "user": "EAlmazanG",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-09-18T13:08:19Z",
+    "closed_at": "2024-09-18T13:08:26Z",
+    "merged_at": "2024-09-18T13:08:26Z",
+    "state": "closed",
+    "html_url": "https://github.com/EAlmazanG/sentiment-analysis-reviews/pull/1"
+  }
+]

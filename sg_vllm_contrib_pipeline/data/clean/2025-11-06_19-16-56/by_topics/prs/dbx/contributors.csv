@@ -1,0 +1,58 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+AnastasiaProkaieva,Anastasia Prokaieva,,,Paris,,,"AI Architect, speaker, mentor, book co-author. X-Databricks & X-Google",,41,22,16,2021-08-05T07:34:26Z,2025-11-05T13:58:03Z
+MaxDBX,Max Thöne,Databricks,,Singapore,,,,,6,2,0,2019-11-07T14:25:00Z,2023-10-04T04:32:09Z
+RickyDepop,RiccardoTonini,,,,,,,,11,0,5,2020-01-27T12:21:48Z,2025-08-21T08:11:57Z
+SSM-david-lynn,,,,,,,,,0,0,0,2021-08-26T16:03:38Z,2023-04-11T17:09:31Z
+Serpinex3,,,,Ulm,fabian.singhofer@liebherr.com,,,,8,0,0,2015-11-05T19:19:59Z,2025-10-30T13:17:15Z
+Vakha,Alex Vakhmenin,,,,,,,,6,1,0,2012-06-03T10:00:10Z,2024-12-16T18:16:46Z
+aholten,Anthony Holten,Capital One,anthonyholten.com,United States,,,"Anthony Holten works on big data pipelines and solves computational problems at scale.
+Currently a Senior Software Engineer at Capital One.",,10,5,25,2015-11-22T21:44:16Z,2025-07-26T22:35:51Z
+alapinsk,Andrzej Łapiński,,,,,,,,23,6,32,2013-09-23T16:21:04Z,2025-06-27T10:09:03Z
+alexott,Alex Ott,Alex Ott's Consulting,http://alexott.net,"Paderborn, Germany",alexott@gmail.com,True,"Lead Specialist SA  at Databricks. Previously principal SA at DataStax, Apache Zeppelin committer, software architect at McAfee, and other companies",alexott_en,152,657,34,2008-10-22T07:47:33Z,2025-09-13T10:36:09Z
+allebacco,Alessandro Bacchini,Camlin Italy s.r.l. @henesissrl,,"Castell'Arquato (PC), Italy",allebacco@gmail.com,,,,26,5,6,2015-04-09T13:52:52Z,2025-10-07T14:36:24Z
+attilaszuts,,Datapao,,,,,,,20,13,16,2018-11-15T20:56:57Z,2025-08-22T13:52:29Z
+bthorsted,Bjarne Thorsted Nicolajsen,Agency for Green Transition and Aquatic Environment,,Denmark,,,,,13,1,2,2011-06-30T07:38:16Z,2025-11-03T12:57:15Z
+chasdevs,Chas DeVeas,@Eppo-exp,,"Washington, D.C.",chasdevs@gmail.com,,,,27,6,3,2014-08-18T17:46:46Z,2025-10-25T14:59:17Z
+copdips,Xiang ZHU,,copdips.com,"Paris, FR",,,,,47,53,34,2015-06-28T06:01:08Z,2025-11-06T17:02:16Z
+ctdio,Charlie Duong,@tryopine,ctdio.dev,"Durham, NC",charlie.duong@hey.com,,,_ctdio,99,81,148,2014-11-07T18:33:29Z,2025-10-31T17:42:35Z
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+dinispeixoto,Dinis Peixoto,@checkout @cesium @coderdojobraga ,dinispeixoto.com,London,dinispeixoto96@gmail.com,,Machine Learning Engineer @checkout,dinispeixoto,33,94,70,2015-10-06T20:33:16Z,2025-10-28T11:42:56Z
+domcorvasce,Domenico Corvasce,@primait,domcorvasce.com,Italy,dcorvasce@outlook.com,,,,19,21,65,2020-02-22T15:59:21Z,2025-08-17T14:17:57Z
+dumontvi,Vishal Dumont,,,"Toronto, Canada",dumo1997@gmail.com,,Data Engineer,,14,1,0,2016-06-23T04:34:02Z,2025-11-04T19:22:04Z
+eLVas,Ivan Vasiunyk,,,Berlin,i.vasiunyk@gmail.com,,,,23,6,29,2014-02-26T19:02:00Z,2025-07-08T21:48:53Z
+elenamartina,Elena Martina,Spotift,www.linkedin.com/in/elena-martina/,"London, UK",elenamartina98@gmail.com,,Data Engineer @Spotify,,16,11,1,2017-03-11T13:32:07Z,2025-03-11T12:57:35Z
+fbunau,Florin Bunau,@LeadIQ,,Cluj Napoca,florin.bunau@gmail.com,,"FP, DE, DS, ML
+
+@fbunau",,10,12,2,2011-08-25T11:47:18Z,2025-04-29T11:10:24Z
+fjakobs,Fabian Jakobs,Databricks,,Amsterdam,,,,fjakobs,123,228,13,2008-12-17T08:40:46Z,2025-11-06T13:19:24Z
+gchandra10,Ganesh Chandrasekaran,@databricks,http://www.ganeshchandrasekaran.com,NJ,gchandra@gmail.com,,"Big Data Solution Architect | Adjunct Professor | Mentor.
+
+My thoughts and opinions are my own and don't represent the companies I work for.",gchandra,85,16,7,2017-06-05T18:25:56Z,2025-10-29T23:31:18Z
+greentim,,,,,,,,,2,0,0,2016-03-04T20:27:43Z,2025-10-25T11:31:02Z
+guiferviz,guiferviz,,https://guiferviz.com/,Spain,,,,,34,15,2,2015-03-14T13:55:16Z,2025-09-06T17:01:22Z
+herb-k,Herbert Kaiser,,,,,,,,4,0,0,2016-04-12T14:53:48Z,2025-08-05T09:17:11Z
+j-4,Stefan Hammer,,,"Linz, Austria",,True,Software and Data Engineer,,1,22,25,2012-03-07T13:55:45Z,2025-06-27T11:17:23Z
+jckegelman,John Kegelman,,,,,,,,9,1,0,2014-08-04T21:43:34Z,2024-12-14T23:22:04Z
+jiri-vinarek,Jiří Vinárek,Mews,,"Prague, Czech Republic",,,,,8,7,2,2012-09-28T14:36:25Z,2025-11-06T08:25:39Z
+jspreddy,Sai Phaninder Reddy Jonnala,,http://www.jspreddy.info,"Charlotte, NC, USA",,True,,,92,16,37,2012-09-07T20:01:05Z,2024-11-28T21:09:22Z
+justinTM,JM,,,,,,,,42,17,97,2014-10-09T23:32:59Z,2025-10-23T21:12:22Z
+matthayes,Matthew Hayes,Databricks,,San Francisco Bay Area,,,,,31,97,10,2010-02-28T04:42:10Z,2025-09-05T17:32:09Z
+mikelese,Michael Lese,,,San Francisco,,,,,8,4,1,2013-03-05T21:51:46Z,2025-08-21T23:19:06Z
+mitchstockdale,Mitch Stockdale,@octoenergy ,,,mitchellastockdale@gmail.com,,,,6,6,3,2017-06-12T23:57:16Z,2025-10-27T03:10:18Z
+mshtelma,Michael Shtelma,Databricks,https://www.linkedin.com/in/mshtelma/,"Frankfurt, Germany",mshtelma@gmail.com,,,,55,33,28,2012-08-14T13:35:49Z,2025-10-12T21:55:51Z
+nfx,Serge Smertin,@databricks,https://ssmertin.com,"Amsterdam, Netherlands",,,,,20,272,6,2010-04-29T14:18:04Z,2025-10-12T08:19:47Z
+nididpi,Wei Wu,,,,,,,,1,0,0,2016-04-04T01:43:01Z,2025-05-19T13:56:10Z
+pietern,Pieter Noordhuis,,http://twitter.com/pnoordhuis,,pcnoordhuis@gmail.com,,,,53,747,4,2008-05-09T22:53:45Z,2025-11-04T20:53:27Z
+rafaelvp-db,Rafael Pierre,,https://llmshowto.com/,Amsterdam,,,"I am a lost soul, I shot myself with rock 'n roll",MLOpsHowTo,103,20,16,2022-01-17T11:49:01Z,2023-09-04T08:54:00Z
+renardeinside,Ivan Trusov,@databricks,https://renardeinside.github.io/,Berlin,,,Solutions Architect @ Databricks,,67,104,70,2013-07-10T07:13:37Z,2025-10-05T20:29:36Z
+roelschr,Igor Gustavo Hoelscher,@miroapp,,"Amsterdam, NL",,True,Data Science | ML in Production | MLOps | Computer Vision,roelschr,24,10,7,2016-05-24T18:05:15Z,2025-10-06T20:22:30Z
+saadansari-db,,,,,,,,,4,0,0,2022-10-11T12:36:16Z,2025-05-12T16:11:48Z
+scholer,Rasmus Scholer,Vestas,https://www.linkedin.com/in/rasmusscholer,"Aarhus, Denmark",rasmusscholer@gmail.com,,"Creating models and algorithms to monitor the health of wind turbines all over the world. #CMS #ConditionMonitoringSystems #VibrationAnalysis
+#GreenEnergy
+",,125,36,30,2009-10-12T12:52:38Z,2025-10-27T08:33:32Z
+skylarbpayne,Skylar Payne,,subscribe.skylarbpayne.com,California,skylar@usemotion.com,,"Empowering early-stage engineering teams to confidently launch AI users love, permanently ditching those 3 AM production fire alarms.",skylar_b_payne,38,34,3,2013-06-26T06:29:04Z,2025-10-10T04:06:26Z
+taro-kayo,,,,Japan,,,,,1,0,0,2018-07-05T12:18:15Z,2025-11-03T01:41:35Z
+tianzhou,Tianzhou,Bytebase,https://www.linkedin.com/in/tianzhouchen,"Sunnyvale, CA",,,"Chief Sketching Officer @bytebase, curator @star-history, (re)started Postgres @Google",tianzhouchen,14,454,2,2010-03-25T16:15:55Z,2025-11-01T10:23:36Z
+tmacedo,Tiago Macedo,,,,,,,,31,32,13,2008-07-01T14:30:20Z,2025-08-06T08:29:55Z
+tyler-richardett,Tyler Richardett,@FreeOurVote,,"Chicago, IL",tyler.richardett@gmail.com,,,,23,8,2,2017-07-07T01:43:39Z,2025-11-07T02:15:30Z
+yinxi-db,Yinxi-Databricks,Databricks,,,,,,,12,4,1,2021-03-16T14:31:37Z,2025-06-25T16:31:19Z

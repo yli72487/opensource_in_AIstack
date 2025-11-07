@@ -1,0 +1,65 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+Cassini-chris,Dr. Christoph Mittendorf,Google,www.EpicML.net,"Munich, Germany",,True,"Dad, Triathlete (IRONMAN), Machine Learning Specialist, Googler, Astronomer, Chess Player!
+",Chris4Athletics,40,14,6,2017-12-02T09:33:17Z,2025-10-30T17:40:55Z
+CharlesCNorton,,@voxel51 ,https://huggingface.co/phanerozoic,,,,Machina Vincit Omnia,,387,156,9,2023-06-03T22:04:39Z,2025-11-01T01:32:03Z
+Emporea,,,,,,,,,0,0,0,2016-09-03T10:30:05Z,2025-09-23T13:14:17Z
+GilesBathgate,Giles Bathgate,,http://www.gilesbathgate.com/,United Kingdom,,,,,38,21,5,2010-10-18T15:21:32Z,2025-10-09T20:56:47Z
+MCVelasquez45,Mark  C  Velasquez,The Last Mile,www.thelastmile.org,California,mark.velasquez@email.phoenix.edu,,"👋 Hi, I’m a Remote Instructor with The Last Mile  and founder of the  Vector Square Coding program.
+",,33,17,33,2024-02-17T01:44:37Z,2025-10-18T17:27:10Z
+MarcSzafraniec,,,,,,True,,,13,27,1,2015-08-06T11:27:52Z,2025-10-21T21:09:01Z
+MrYxJ,coder,,,BeiJin,,,Interested in LLM、NLP，DL,,41,0,0,2016-08-21T06:01:24Z,2025-08-09T14:29:46Z
+Pratham-Nayak1,,,,,,,,,1,0,1,2025-01-26T01:17:02Z,2025-10-15T03:40:35Z
+RahulMR42,Rahul M R,Oracle ,,India,rahulmasquee@gmail.com,,Principal Solutions Architect - OCI,,194,30,10,2016-11-15T15:30:56Z,2025-10-23T09:54:15Z
+Simontwice,Szymon Antoniak,,,,,,"Core LLM research + wrestling with formal math
+
+||
+Head of Consumption for Eastern Europe @Lao-Gan-Ma",,9,9,0,2020-11-15T22:34:17Z,2025-08-29T13:57:18Z
+SydalsITC,,,,,,,,,9,0,0,2023-11-12T18:32:47Z,2025-10-26T21:22:12Z
+VictorNanka,Kexiang Shan,Legalon Technologies,,Japan,victornanka@gmail.com,True,,,24,25,95,2017-07-13T15:55:19Z,2025-11-01T02:18:14Z
+VinayKokate22,,,,,,,,,58,4,2,2022-09-30T17:17:04Z,2025-09-29T10:32:37Z
+Wauplin,Lucain,@huggingface ,,,,,,,96,341,0,2015-04-04T23:40:45Z,2025-08-08T12:07:40Z
+aahouzi,Anas Ahouzi,@NVIDIA,,"Paris, France",,,AI Performance Engineer @NVIDIA,,16,25,2,2022-09-05T14:20:45Z,2025-06-29T08:03:31Z
+abdullatifcodes,Abdul Latif Ibn Yahaya,,,Washington DC Metro,,,"Pursuing 99th percentile efficiency with a systems and security mindset. Learning to design scalable, secure, and efficient architectures.",,3,0,1,2022-08-30T13:43:47Z,2025-10-11T08:51:38Z
+andsteing,Andreas Steiner,Google,,Zürich,,,"Research engineer at Google Brain, Zürich.",andreaspsteiner,22,94,1,2015-11-27T17:18:36Z,2025-11-02T12:41:11Z
+arch-btw,,,,,,,,,2,0,0,2019-11-12T12:35:50Z,2025-11-06T17:28:21Z
+bhargavyagnik,Bhargav Yagnik,,https://www.bhargavyagnik.com/,,,True,AI enthusiast. Tinkerer,YagnikBhargav,103,77,147,2018-07-29T06:32:09Z,2025-10-27T12:06:17Z
+bionicles,bion howard,,atomiclogic.com,"Hilton Head Island, South Carolina",bion@atomiclogic.com,,,,282,102,1299,2016-12-12T21:01:09Z,2025-09-04T23:47:36Z
+bofenghuang,Bofeng Huang,,,"Paris, France",,,,bofenghuang1,40,109,130,2018-04-08T14:36:06Z,2025-10-13T08:23:23Z
+cornzz,,Stadt.Land.Netz,https://corny.me,TU Dresden,,,,,32,14,15,2018-06-06T14:29:48Z,2025-10-21T11:57:23Z
+devendrachaplot,Devendra Chaplot,Thinking Machines Lab,https://devendrachaplot.github.io/,,,,"Thinking Machines Lab.
+Past: Mistral AI, Meta AI, PhD@CMU, B.Tech in CS@IITB.",dchaplot,29,479,0,2011-10-04T18:18:12Z,2025-09-17T05:10:12Z
+didier-durand,Didier Durand,AWS,https://www.linkedin.com/in/ddurand/,Switzerland / France,,,"I work for AWS engineering: GenAI/LLM/ML. cloud+linux, mainframe migrations, k8s/containers, DevOps+CI/CD. Engineer by training, IT geek by passion.",didierdurand,103,121,2,2012-11-30T05:18:35Z,2025-08-30T14:55:33Z
+diegolascasas,Diego de las Casas,,,United Kingdom,diegolascasas@gmail.com,True,,,12,108,14,2013-07-15T21:16:08Z,2025-11-05T16:27:35Z
+eltociear,Ikko Eltociear Ashimine,,,"Tokyo, Japan",,,"AI-driven developer @ Tokyo.
+Loves 🎸/🐈/🍛/🏝/⛰",,61,1248,6,2016-10-05T07:58:42Z,2025-10-20T01:14:54Z
+harper-carroll,Harper Carroll,@harpercarrollai,harpercarroll.com,"San Francisco, CA",,,"Master’s + Bachelor’s degrees in Computer Science specializing in AI & Machine Learning @stanford
+AI @meta @facebook",harperscarroll,16,275,2,2016-07-08T20:05:21Z,2025-11-03T18:06:42Z
+infwinston,Wei-Lin Chiang,,https://infwinston.github.io,,,,CS PhD student at UC Berkeley,infwinston,13,365,0,2011-11-19T07:28:12Z,2025-08-16T04:32:04Z
+juliendenize,Julien Denize,Mistral AI,juliendenize.github.io/,France,,,ML Engineer @ Mistral AI,,24,22,7,2018-06-26T14:37:51Z,2025-09-23T15:41:03Z
+kikirizki,Kiki R,,kikirizki.github.io,,,,,,95,39,49,2014-06-25T19:38:24Z,2025-11-05T02:19:05Z
+ktdjiren,Aman Rawat,,,,,,,,12,2,4,2023-10-05T04:04:43Z,2025-08-22T13:49:58Z
+lerela,Lé,,https://fasfox.com/en/,,,,,,41,27,1,2014-06-22T14:31:56Z,2025-09-16T06:29:35Z
+luv-bansal,Luv Bansal,,,,,,,,25,16,9,2020-08-27T10:06:41Z,2025-10-03T13:14:51Z
+martin0258,Martin,,,,,,,,63,22,6,2011-10-11T06:36:57Z,2025-10-10T11:49:10Z
+michel-ds,Michel,@networklocum ,,,,,Forward Deployed Data Scientist at Lantum.,,19,14,3,2020-05-06T13:32:24Z,2025-10-01T18:01:31Z
+moritztng,Moritz Thüning,Technical University Munich,,"Munich, Germany",moritz.thuening@gmail.com,True,,moritzthuening,35,71,0,2016-05-22T18:29:31Z,2025-08-20T17:04:16Z
+nheagy,Nate Heagy,,heagy.com,"Victoria, BC",,,"EM at Pinterest, ex-Tweep, ex-Automattician. I like Swift.",,24,19,1,2010-12-10T03:16:24Z,2025-08-17T04:09:54Z
+nicholasjpaterno,Nick Paterno,,,,,True,Engineer,,38,62,1,2018-09-19T15:47:41Z,2025-10-19T13:45:44Z
+nikcode9,nik,,,,,,,,93,0,1,2023-04-03T15:22:31Z,2025-10-28T20:02:56Z
+numaroth,,,,,,,,,4,0,0,2013-05-29T13:56:40Z,2022-01-24T15:30:51Z
+oscarbroddegard,Oscar Broddegård,,,,,,,,2,0,1,2023-04-18T12:04:05Z,2025-11-07T06:45:19Z
+pandora-s-git,pandora,,,,,,"Ready to open the jar... soon... at any time...
+
+Well meanwhile, let's have some fun with some projects !",,24,27,1,2023-03-22T18:35:11Z,2025-08-23T03:05:54Z
+patrickvonplaten,Patrick von Platen,,,,,,,,97,2002,47,2016-11-12T20:26:02Z,2025-11-05T22:06:17Z
+quantumsheep,Nathanael Demacon,@Scaleway,https://mouton.dev,France,,True,(ﾉ◕ヮ◕)ﾉ*:・ﾟ✧,qtmsheep,212,163,37,2014-04-12T09:42:27Z,2025-11-06T08:54:44Z
+rajveer43,Rockerz,,https://rajveer43.github.io/rajveer-rathod/,Ahmedabad,rajveer.rathod1301@gmail.com,True, On the quest for acquiring knowledge,Rajveer13Rathod,127,62,109,2020-04-30T09:00:24Z,2025-11-02T05:57:33Z
+sachinsshetty,Sachin Shetty,@slabstech @dwani-ai,https://dwani.ai,Pale Blue Dot,,True,.,gaganyatri,22,19,3,2017-03-03T17:35:40Z,2025-10-31T10:49:07Z
+sarveshwar-s,,,,,,,ML Engineer,,20,5,0,2020-01-05T02:46:02Z,2025-05-31T22:57:38Z
+sethupavan12,Seth,,,"London, United Kingdom",,True,AI Engineer. Previously at @Microsoft,,64,49,39,2020-02-09T20:25:24Z,2025-09-03T18:55:59Z
+siwer,,,,,,,,,13,3,1,2014-10-30T09:46:26Z,2025-05-22T09:41:37Z
+slmatrix,Bilal Siddiqui,,,,,True,,,10,4,5,2015-09-23T18:18:21Z,2025-02-18T19:15:48Z
+sophiamyang,Sophia Yang,Mistral AI,,,,,,sophiamyang,47,422,25,2018-05-21T20:47:55Z,2025-06-14T11:38:59Z
+theophilegervet,Theo,Carnegie Mellon University,https://theophilegervet.github.io,Pittsburgh,theophile.gervet@gmail.com,,"Research Scientist @ MistralAI. Past: Meta AI, PhD @ CMU",,35,47,2,2015-09-14T13:52:41Z,2025-10-25T20:34:52Z
+timlacroix,,,,,,,,,8,150,0,2013-07-12T17:27:17Z,2025-11-03T09:33:57Z
+webchick,Angie Byron,@temporalio,https://webchick.net/,"Vancouverish, BC",,,,webchick,100,256,26,2010-07-15T01:14:57Z,2025-11-02T06:03:38Z

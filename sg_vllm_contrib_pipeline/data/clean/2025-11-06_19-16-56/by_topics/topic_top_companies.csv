@@ -1,0 +1,12 @@
+topic,company_norm,unique_contributors
+llm-inference,Intel,226
+mlops,Google,143
+llm-serving,NVIDIA,103
+model-serving,Red Hat,77
+llm-ops,@Kong,36
+inference-engine,Intel,31
+model-deployment,Microsoft,28
+ai-inference,@intel,11
+model-inference,@bentoml,3
+open-source-llm,@bentoml,3
+open-source-ai,@CampusTech,1

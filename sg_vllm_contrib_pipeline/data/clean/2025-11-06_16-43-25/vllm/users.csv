@@ -1,0 +1,1051 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+WoosukKwon,Woosuk Kwon,"University of California, Berkeley",https://woosuk.me,"Berkeley, CA",woosuk.kwon@berkeley.edu,,"CS PhD student at UC Berkeley, building @vllm-project",woosuk_k,8,1113,226,2019-01-05T08:40:50Z,2025-10-20T12:10:46Z
+DarkLight1337,Cyrus Leung,,,Hong Kong,tlleungac@connect.ust.hk,,PhD Candidate @ HKUST,,12,277,0,2018-11-12T12:03:46Z,2025-09-29T11:24:44Z
+youkaichao,youkaichao,@vllm-project,https://youkaichao.github.io,"Beijing, China",,,Ph.D. from Tsinghua University. Core maintainer of @vllm-project .,KaichaoYou,78,2951,4788,2016-11-03T11:27:18Z,2025-08-21T13:47:06Z
+mgoin,Michael Goin,@vllm-project @redhatofficial @neuralmagic,,Boston,mgoin@redhat.com,True,"Open source inference optimization
+@vllm-project | @redhat | @neuralmagic",mgoin_,74,289,63,2013-01-05T22:07:32Z,2025-11-04T06:02:24Z
+hmellor,Harry Mellor,@huggingface @vllm-project,,,,,ML Engineer @huggingface,,19,103,4,2016-06-16T19:08:23Z,2025-11-03T20:04:09Z
+Isotr0py,Isotr0py,Sun Yat-Sen University,https://isotr0py.github.io/,"Guangdong, China",mozf@mail2.sysu.edu.cn,,🐳 Master's degree candidate.,,39,189,26,2018-07-18T08:19:34Z,2025-10-14T07:03:57Z
+njhill,Nick Hill,Red Hat,,"San Jose, California",,,,,32,177,1,2016-01-29T14:37:45Z,2025-08-11T22:33:46Z
+jeejeelee,Jee Jee Li,,,"Chengdu, China",pandaleefree@gmail.com,,,,10,73,15,2016-06-03T15:25:55Z,2025-10-08T23:53:01Z
+simon-mo,Simon Mo,,,"Berkeley, CA",simon.mo@hey.com,True,"maintains @vllm-project, working on serving systems since 2017",simon_mo_,112,880,2,2016-08-19T06:18:24Z,2025-09-29T18:49:57Z
+ywang96,Roger Wang,,https://rogerw.io,,,,,rogerw0108,17,182,29,2023-06-09T22:57:49Z,2025-11-06T01:57:20Z
+russellb,Russell Bryant,"Red Hat, Inc., @vllm-project",,"Charleston, SC, USA",russell.bryant@gmail.com,,Distinguished Engineer @ Red Hat,,137,345,56,2010-06-19T07:30:49Z,2025-10-10T18:55:23Z
+reidliu41,Reid,,,,,,"JUST DO IT!
+",,22,11,8,2020-02-26T07:20:27Z,2025-06-28T11:58:54Z
+yewentao256,Wentao Ye,,wentao.site,Boston,,True,,,28,92,12,2018-11-11T13:56:10Z,2025-10-06T16:09:00Z
+zhuohan123,Zhuohan Li,vLLM / Meta,https://zhuohan.li, San Francisco Bay Area,zhuohan@cs.berkeley.edu,True,"building @vllm-project at Meta |
+🎓 cs phd @ 🌁 uc berkeley | 
+machine learning system | 
+the real agi is the friends we made along the way",zhuohan123,21,1453,131,2016-02-18T07:59:42Z,2025-11-05T07:23:04Z
+tlrmchlsmth,Tyler Michael Smith,Red Hat,,,,,"Chief Architect, Inference Engineering @ Red Hat | 
+Committer @vllm-project ",,36,114,58,2011-12-02T21:01:13Z,2025-11-04T12:28:02Z
+LucasWilkinson,Lucas Wilkinson,,,,,,,,33,55,5,2014-09-21T21:59:11Z,2025-11-05T05:00:48Z
+robertgshaw2-redhat,Robert Shaw,@RedHatOfficial,,Boston,,,vllm and llm-d,robertshaw21,75,217,136,2022-09-26T13:51:33Z,2025-11-05T21:54:37Z
+NickLucche,Nicolò Lucchesi,Red Hat,,,nicolo.lucchesi@gmail.com,,I like ML that runs fast (and sometimes works too).,,43,97,18,2015-01-26T09:34:44Z,2025-10-15T13:42:57Z
+heheda12345,Chen Zhang,Tsinghua University,heheda12345.github.io,,zhangch99@outlook.com,,,,46,283,52,2017-01-19T07:02:10Z,2025-10-30T22:38:54Z
+varun-sundar-rabindranath,Varun Sundar Rabindranath,Red Hat,,"Boston, MA",varunsundar08@gmail.com,,"Software Engineer interested in the research areas Machine Learning, Natural Language Processing, Information Retrieval, Program Synthesis and Computer Vision",,21,15,2,2013-01-22T10:08:14Z,2025-11-05T23:18:52Z
+chaunceyjiang,Chauncey,@DaoCloud ,,,chaunceyjiang@gmail.com,,"Karmada/OpenELB approver
+cilium/istio member
+
+",,79,109,79,2016-03-20T11:03:57Z,2025-10-25T11:31:10Z
+tdoublep,Thomas Parnell,@IBM ,https://researcher.watson.ibm.com/researcher/view.php?person=zurich-TPA,"Zürich, Switzerland",tom.parnell@gmail.com,,Principle Research Scientist @IBM | Committer @vllm-project ,,17,52,4,2014-06-20T16:38:43Z,2025-10-28T07:28:59Z
+bigPYJ1151,"Li, Jiang",@intel ,,,bigpyj64@gmail.com,,,,15,30,27,2019-02-18T12:15:19Z,2025-10-22T19:08:36Z
+comaniac,Cody Yu,@openai,https://comaniac.github.io,"San Francisco, CA",,,LLM systems,,56,390,11,2014-07-25T01:14:14Z,2025-04-29T18:32:43Z
+noooop,wang.yuqi,,,,,,"Hey, destroying stuff? That's easy. It's making stuff that's hard.
+- Swann StarCraft II",,14,21,1,2013-04-20T11:26:44Z,2025-11-06T03:21:38Z
+Yard1,Antoni Baum,Member of Technical Staff @openai,,,antoni.baum@protonmail.com,,Member of Technical Staff @openai | ex-@anyscale | Commiter @ray-project @vllm-project @pycaret ,,109,354,0,2015-01-01T13:09:09Z,2025-10-16T09:02:24Z
+gshtras,Gregory Shtrasberg,AMD,,,,,"PMTS Software Engineer @amd    
+a.k.a. @shtras",,4,17,0,2024-01-08T18:19:45Z,2025-10-02T20:48:33Z
+andyxning,Ning Xie,,,"Beijing, China",andy.xning@gmail.com,,"Infrastructure || LLM Inference 
+
+@kubernetes Member @nsqio Member",,99,240,56,2012-09-23T13:22:28Z,2025-11-06T07:03:09Z
+jikunshang,Kunshang Ji,Intel,,Shanghai,kunshang.ji@intel.com,,,,34,34,45,2019-05-22T03:29:32Z,2025-10-20T14:24:21Z
+alexm-redhat,Alexander Matveev,RedHat,https://redhat.com,"Boston, MA, USA",,,@vllm-project,,9,32,1,2020-01-11T14:11:57Z,2025-10-24T15:18:54Z
+dsikka,Dipika Sikka,"@neuralmagic, Columbia University",https://www.linkedin.com/in/dipika-sikka/,New York,ds3822@columbia.edu,,"Machine Learning Engineer @ Neural Magic ||
+
+University of Waterloo 🍁",,14,41,9,2016-09-17T16:39:04Z,2025-10-26T22:01:34Z
+ruisearch42,Rui Qiao,Anyscale,,,,,,ruisearch42,5,22,8,2024-02-28T08:17:09Z,2025-02-05T17:22:14Z
+bnellnm,,Red Hat,,,,,,,2,10,0,2019-03-27T20:54:01Z,2025-10-23T19:51:03Z
+rkooo567,SangBin Cho,"Member of Technical Staff, xAI",https://www.linkedin.com/in/sang-cho/,,rkooo567@gmail.com,,"MTS @ xAI
+| Previously @anyscale
+| Senior committer @ray-project
+| Committer @vllm-project & @sglang",,45,188,12,2016-04-17T07:31:53Z,2025-09-18T05:44:48Z
+houseroad,Lu Fang,,,,,,,,34,225,0,2017-07-19T00:32:18Z,2025-10-08T11:47:53Z
+markmc,Mark McLoughlin,Red Hat,https://crustyblaa.com/,"Dublin, Ireland",,,,,122,66,1,2008-06-27T16:08:05Z,2025-10-24T09:37:10Z
+bbeckca,Benji Beck,Meta,,"San Francisco, CA",,,,,5,1,6,2025-04-14T17:26:37Z,2025-10-25T03:51:01Z
+22quinn,,,,Singapore,,True,,,14,8,8,2017-10-28T11:37:18Z,2025-11-03T04:55:45Z
+ProExpertProg,Luka Govedič,Red Hat,proexpertprog.github.io,"Cambridge, MA",,,"@vllm-project maintainer | vLLM performance @redhatofficial |
+MIT B.S. 2022, M. Eng. 2023 |
+HPC, C++ & CUDA",,26,51,9,2015-03-07T18:05:19Z,2025-11-04T03:02:30Z
+aarnphm,Aaron Pham,,aarnphm.xyz,"Toronto, Canada",contact@aarnphm.xyz,True,,aarnphm_,44,479,176,2017-06-28T08:09:01Z,2025-11-01T10:51:56Z
+KuntaiDu,Kuntai Du,,https://kuntaidu.github.io/aboutme,"University of Chicago, Chicago, Illinois",kuntai@uchicago.edu,,"UChicago CS PhD, graduating",,32,301,30,2016-01-25T12:50:29Z,2025-10-20T15:59:35Z
+lengrongfu,rongfu.leng,@DaoCloud ,https://lengrongfu.github.io/,Chengdu Sichuan China,1275177125@qq.com,,,,303,58,120,2015-10-07T05:38:12Z,2025-09-29T06:30:10Z
+joerunde,Joe Runde,@IBM ,,"Denver, CO",joe@joerun.de,,IBM Research,,34,14,2,2012-04-16T04:16:23Z,2025-10-17T00:18:02Z
+alex-jw-brooks,Alex Brooks,IBM,,,,,Machine Learning Engineer @ IBM Research,,18,15,0,2015-01-28T11:06:02Z,2025-09-04T21:16:15Z
+lgeiger,Lukas Geiger,@plumerai @larq ,www.linkedin.com/in/lgeiger,London,lukas@plumerai.com,True,deep learning scientist | astroparticle physicist | software engineer,_lgeiger,181,284,53,2015-07-11T07:54:07Z,2025-10-25T23:22:40Z
+windsonsea,Michael Yao,DaoCloud,aikdocs.github.io/michaelyao,Shanghai,haifeng.yao@daocloud.io,,Writers live twice.,michaelyao63618,124,109,79,2021-03-01T06:28:31Z,2025-11-05T02:02:19Z
+zou3519,Richard Zou,,,,,,@pytorch core developer,,59,378,5,2013-10-10T01:51:13Z,2025-11-02T20:12:52Z
+LiuXiaoxuanPKU,Lily Liu,UC Berkeley,LiuXiaoxuanPKU.github.io,,,True,PhD student,eqhylxx,35,411,91,2015-12-03T15:33:51Z,2025-10-21T17:44:19Z
+wangxiyuan,wangxiyuan,,http://blog.wangxiyuan.top/,Dongguan,wangxiyuan1007@gmail.com,,"OpenStack, openEuler, CI, vLLM",,54,65,16,2015-02-07T03:36:55Z,2025-10-25T11:27:52Z
+tjtanaa,TJian,,,,,,,,139,40,36,2017-06-04T05:49:22Z,2025-09-06T14:12:09Z
+maxdebayser,Maximilien de Bayser,,,,,,Holistic debugger,,44,20,0,2011-12-28T23:41:52Z,2025-10-06T19:35:26Z
+MatthewBonanni,Matthew Bonanni,Red Hat,https://matthewbonanni.weebly.com/,,,,Machine Learning Engineer at Red Hat,,21,21,22,2016-10-05T23:31:44Z,2025-10-27T11:48:17Z
+Alexei-V-Ivanov-AMD,,,,,,,,,5,2,14,2024-01-08T18:34:01Z,2025-08-28T20:36:23Z
+yaochengji,Chengji Yao,Google,,Redmond,,,,,19,74,35,2014-06-29T09:05:34Z,2025-10-15T02:21:50Z
+MengqingCao,Mengqing Cao,,,,,,,,30,41,52,2019-06-26T11:49:15Z,2025-10-29T12:45:20Z
+vllmellm,,,,,,,,,3,2,0,2024-12-05T07:23:20Z,2025-10-30T05:15:38Z
+tjohnson31415,Travis Johnson,IBM,,,tsjohnso@us.ibm.com,True,,,16,7,2,2014-06-17T00:33:33Z,2025-08-04T15:58:48Z
+esmeetu,Roy Wang,,,Shanghai,jasonailu87@gmail.com,,love & peace,,10,39,20,2014-02-16T05:32:53Z,2025-11-04T15:26:26Z
+ZJY0516,Jiangyun Zhu,Nanjing University,https://riverclouds.net/,China,jyz@smail.nju.edu.cn,,[ML]SYS,,13,31,157,2021-06-30T00:48:58Z,2025-10-17T15:27:49Z
+sarckk,Yong Hoon Shin,@facebook,https://sarckk.github.io/,,,,Interested in bits and brains. ,,29,32,83,2019-03-12T09:35:30Z,2025-10-28T08:02:55Z
+terrytangyuan,Yuan Tang,Red Hat,https://terrytangyuan.github.io/about/,USA,terrytangyuan@gmail.com,,Senior Principal Engineer at Red Hat | Lead @argoproj @kubeflow @kserve @cncf | Maintainer @tensorflow XGBoost | Author | Speaker | Advisor,TerryTangYuan,165,3691,90,2013-04-27T02:01:53Z,2025-10-13T22:44:56Z
+pcmoritz,Philipp Moritz,Anyscale,http://www.cs.berkeley.edu/~pcmoritz/,Berkeley,,,,,97,220,1,2009-08-08T22:03:09Z,2025-10-26T23:40:38Z
+luccafong,Lucia Fang,,,,,,,,11,14,3,2022-10-21T22:56:32Z,2025-09-23T01:59:10Z
+kylesayrs,Kyle Sayers,@RedHatOfficial,,Boston,,,Accelerating ML inference @RedHatOfficial ,,56,38,80,2016-02-06T23:45:28Z,2025-11-06T20:08:22Z
+hongxiayang,Hongxia Yang,fb,,,,,"AI/ML Infra/Framework Software Engineer
+
+AMD",,18,23,5,2020-03-11T18:52:09Z,2025-10-31T20:12:20Z
+cadedaniel,Cade Daniel,@databricks,,San Francisco,,,Working on vLLM,cdnamz,21,113,32,2011-08-01T04:27:26Z,2025-10-26T05:39:09Z
+xuechendi,Chendi.Xue,,xuechendi.github.io,,chendi.xue@intel.com,True,Software engineer @ intel,,70,92,0,2013-05-06T15:03:54Z,2025-11-03T21:03:24Z
+SageMoore,Sage Moore,@neuralmagic,,,,,Software Engineer @neuralmagic ,,1,14,1,2014-02-20T18:56:47Z,2025-07-16T13:27:07Z
+yma11,Yan Ma,Intel Corporation,,Shanghai,yan.ma@intel.com,,,,26,11,3,2015-04-08T07:18:32Z,2025-04-07T02:55:52Z
+benchislett,Benjamin Chislett,NVIDIA,,"Toronto, Canada",chislett.ben@gmail.com,,I am a Computer Scientist and currently a Senior Systems Software Engineer @NVIDIA,,33,47,11,2017-09-08T00:40:15Z,2025-10-14T20:19:03Z
+huydhn,Huy Do,,,,,,,,47,43,0,2010-11-10T08:14:12Z,2025-10-29T04:10:54Z
+zhewenl,Zhewen Li,,,,,,LLM Inference @ Meta,,5,9,41,2025-03-25T22:58:36Z,2025-10-30T05:27:41Z
+jinzhen-lin,Jinzhen Lin,Ant Group,,"Hangzhou, China",jinzhen.ljz@antgroup.com,,,,19,41,13,2015-10-05T14:33:54Z,2025-08-07T06:42:00Z
+Jialin,Jialin Ouyang,Facebook,,San Jose,Jialin.Ouyang@gmail.com,,,,8,14,3,2012-07-25T21:51:02Z,2025-10-27T17:56:16Z
+dtrifiro,Daniele,Red Hat,,,,True,,,103,34,23,2018-02-05T19:33:42Z,2025-11-01T11:52:24Z
+didier-durand,Didier Durand,AWS,https://www.linkedin.com/in/ddurand/,Switzerland / France,,,"I work for AWS engineering: GenAI/LLM/ML. cloud+linux, mainframe migrations, k8s/containers, DevOps+CI/CD. Engineer by training, IT geek by passion.",didierdurand,103,121,2,2012-11-30T05:18:35Z,2025-08-30T14:55:33Z
+patrickvonplaten,Patrick von Platen,,,,,,,,97,2001,47,2016-11-12T20:26:02Z,2025-11-05T22:06:17Z
+zifeitong,,,,,,,,,19,5,3,2016-05-13T17:35:32Z,2025-10-29T06:01:35Z
+sighingnow,Tao He,@alibaba ,https://sighingnow.github.io,"Beijing, China",sighingnow@gmail.com,True,,,281,428,985,2014-04-03T00:41:11Z,2025-09-17T06:25:54Z
+pavanimajety,Pavani Majety,@nvidia,pavanimajety.github.io,"Santa Clara, CA",pavanimajety@gmail.com,True,"DL Compilers and Code Gen.
+
+",,13,21,3,2017-11-19T16:59:54Z,2025-10-09T20:01:28Z
+afeldman-nm,,,,,,,,,3,3,1,2024-01-15T15:29:30Z,2025-10-16T01:53:12Z
+lsy323,Siyuan Liu,Google,,SF Bay Area,,,,,19,17,7,2014-03-06T09:56:58Z,2025-11-03T22:14:39Z
+elvischenv,,,,,,,,,5,1,0,2025-07-04T05:07:12Z,2025-10-09T10:29:25Z
+rasmith,,,,,,,,,17,9,0,2009-06-23T03:16:28Z,2025-11-05T21:59:02Z
+sroy745,,,,,,,,,2,3,0,2023-08-12T03:11:12Z,2024-08-06T21:10:52Z
+Chenyaaang,,,,,,,,,4,1,1,2018-08-27T13:54:03Z,2025-09-29T21:32:46Z
+wwl2755,Wenlong Wang,,,,wangwenlong2755@gmail.com,True,Ph.D. @ UMN | AI System & Infra. Also at: @wwl2755-google,,13,26,15,2016-11-04T13:48:47Z,2025-10-10T15:57:42Z
+divakar-amd,Divakar Verma,,,,,,,,9,1,0,2023-06-26T17:10:24Z,2025-10-09T19:07:29Z
+ekagra-ranjan,Ekagra Ranjan,,https://ekagra-ranjan.github.io/,,,,"Cohere.ai - 
+Contributor to ML frameworks like vLLM, Pytorch Geometric, TorchVision, Huggingface, TorchSharp, Pytorch Lightning. ",,51,72,20,2012-12-24T15:11:10Z,2025-10-27T18:22:22Z
+tomeras91,,,,,,,,,4,1,0,2019-11-03T09:53:59Z,2025-08-29T12:34:10Z
+yeqcharlotte,Ye (Charlotte) Qi,@facebook,,Menlo Park,ye.charlotte.qi@gmail.com,,Software Engineer @ Meta MSL Inference Infra,,12,72,53,2014-04-12T03:26:04Z,2025-10-30T18:59:14Z
+kebe7jun,Kebe,DaoCloud,,Shanghai,mail@kebe7jun.com,,"Focus on Istio, Kubernetes, eBPF, WASM, Envoy.",,80,182,95,2014-04-15T14:34:51Z,2025-10-16T07:10:13Z
+QiliangCui,,,,,,,,stdvector,7,3,3,2014-10-13T22:53:17Z,2025-08-27T04:34:12Z
+lk-chen,lkchen,Anyscale,,Mountain View,github@lkchen.net,True,Software Engineer,,14,10,3,2013-11-20T08:22:35Z,2025-11-01T21:20:37Z
+minosfuture,Ming Yang,,,,,True,vLLM at Meta,minosfuture,7,7,33,2024-09-27T05:15:01Z,2025-09-30T17:27:15Z
+huachenheli,Chenheli Hua,"Meta Platforms, Inc.",,San Francisco Bay Area,,True,LLM Inference @ Meta,,4,35,43,2013-05-05T21:34:39Z,2025-10-29T05:30:06Z
+ElizaWszola,,,,,,,,,2,5,0,2017-03-22T09:40:24Z,2025-09-29T12:24:56Z
+davidxia,David Xia,@modal-labs ,https://www.davidxia.com,"New York, New York",david@davidxia.com,,I solve problems by programming computers.,davidxia_,176,127,6,2010-11-14T00:36:35Z,2025-10-25T21:20:18Z
+liangfu,Liangfu Chen,Amazon Web Services,https://liangfu.org,,,,,,149,173,67,2011-06-18T03:48:03Z,2025-08-22T00:18:26Z
+crypdick,Ricardo Decal,https://www.anyscale.com/,www.RicardoDecal.com,USA,,,"@Anyscale. Prev: Dendra.io, @Fairhall-Lab, @AllenInstitute",bae_theorem,164,99,193,2013-09-09T06:52:43Z,2025-10-26T23:57:23Z
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+vanbasten23,XiongfeiWei,,,USA,isaacwxf23@gmail.com,True,,,35,14,50,2013-08-21T15:33:15Z,2025-10-24T03:38:47Z
+ShangmingCai,Shangming Cai,Alibaba Cloud,,,csmthu@gmail.com,,"Currently working at Alibaba Cloud Apsara Lab.
+
+Research Interests: Efficient LLM serving system.",,8,127,25,2024-05-31T06:54:21Z,2025-10-07T12:12:30Z
+DefTruth,DefTruth,"@xlite-dev, @vipshop",https://github.com/xlite-dev,"Guangzhou, China",,,"AI Infra Engineer @vipshop, Owner @xlite-dev, Prev @PaddlePaddle🤖 ",,589,1904,172,2017-09-14T23:44:27Z,2025-11-06T13:41:15Z
+andoorve,Murali Andoorveedu,CentML,,,,,Previously also: @aws-murandoo,,15,16,13,2018-03-27T20:15:47Z,2025-10-03T23:14:21Z
+SolitaryThinker,William Lin,,,,,,,,50,23,12,2014-09-27T18:44:43Z,2025-09-28T23:42:15Z
+sasha0552,,,,,admin@sasha0552.org,,,,70,15,0,2018-11-16T22:31:47Z,2025-10-30T16:26:54Z
+BoyuanFeng,Boyuan Feng,,https://boyuanfeng.github.io/,,boyuan@ucsb.edu,,CS Ph.D. @ UC Santa Barbara; SWE@PyTorch,,14,46,100,2016-10-31T20:01:05Z,2025-09-29T15:53:20Z
+b8zhong,,,,,,,,,2,0,0,2024-10-06T20:48:08Z,2025-10-14T01:17:08Z
+Zerohertz,Hyogeun Oh (오효근),@mindsandcompany,zerohertz.github.io,"Seoul, Korea",ohg3417@gmail.com,True,,zerohertzkr,65,142,279,2018-08-13T06:16:44Z,2025-10-12T19:07:44Z
+shen-shanshan,Shanshan Shen,@Huawei,,"Dongguan, China",467638484@qq.com,,Salvation lies within.,,9,43,87,2021-07-26T07:47:38Z,2025-11-04T12:26:17Z
+vadiklyutiy,Vadim Gimpelson,,,,,,,,5,2,0,2024-01-11T12:19:36Z,2025-10-29T13:17:28Z
+yihong0618,yihong,@apache,yihong.run,China,zouzou0208@gmail.com,True,The best is yet to come.,yihong0618,154,6238,852,2015-11-23T07:03:26Z,2025-07-24T02:50:20Z
+gcalmettes,Guillaume Calmettes,@Scaleway,https://gcalmettes.github.io/projects,Bordeaux,,,AI Inference team @scaleway,,88,73,51,2011-09-11T15:20:01Z,2025-07-15T07:00:17Z
+charlifu,Charlie Fu,AMD,,,charlifu@amd.com,,"Charlie Fu
+MTS Software Engineer @AMD",,17,12,12,2013-04-06T11:13:32Z,2025-10-14T16:26:48Z
+rafvasq,Rafael Vasquez,@IBM,https://rafvasq.github.io/,"Toronto, Canada",rafvasq21@gmail.com,,Open Source Software Developer @IBM ,rafvasq,63,31,15,2015-02-17T23:55:50Z,2025-09-15T14:16:17Z
+ronensc,Ronen Schaffer,Red Hat,,,,,Working for IBM,,41,7,16,2018-03-27T06:20:38Z,2025-11-03T13:04:06Z
+eicherseiji,Seiji Eicher,@anyscale @ray-project,,"San Francisco, CA",,,,seiji_________,9,9,22,2019-12-17T02:19:59Z,2025-11-04T21:39:09Z
+zRzRzRzRzRzRzR,Yuxuan Zhang,Z.ai,,China,Yuxuan.Zhang2104@student.xjtlu.edu.cn,True,"I’m working at @zai-org , focusing on algorithms and open-source contributions.",zRdianjiao,25,876,25,2021-10-27T04:01:25Z,2025-11-01T04:59:49Z
+ilmarkov,Ilya Markov,,,,,,,,14,9,1,2014-09-18T17:34:45Z,2025-05-06T14:40:52Z
+david6666666,WeiQing Chen,Parallel Distributed Computing Laboratory,530634352@qq.com,China HangZhou,,,"vLLM, verl, Ray, Kubernetes",,14,13,5,2018-06-23T00:48:08Z,2025-09-26T08:17:05Z
+WangErXiao,Robin,vivo,https://wangerxiao.github.io/about/,HangZhou China,863579016@qq.com,,@vivo-ai-lab | ex @alibaba,,89,66,90,2013-09-27T13:52:18Z,2025-10-08T01:58:15Z
+maleksan85,Aleksandr Malyshev,AMD,,Seattle,,,,,6,1,1,2024-03-26T00:41:49Z,2025-10-06T17:33:40Z
+qthequartermasterman,Andrew Sansom,@protopia-ai,,,andrew@euleriancircuit.com,True,,,77,19,50,2016-05-20T21:46:46Z,2025-08-08T02:09:53Z
+qandrew,Andrew Xia,,https://qandrew.vercel.app/,"Santiago, Chile",,,MIT BS '17 MEng '18,,28,20,4,2012-05-17T22:09:54Z,2025-10-28T02:54:17Z
+mzusman,Mor Zusman,AI21 Labs,,Israel,mor.zusmann@gmail.com,,,MorZusman,16,9,7,2014-04-08T21:51:53Z,2025-09-23T15:09:26Z
+Abatom,Zhonghua Deng,mi.com,,Beijing,abzhonghua@gmail.com,,"《程序员进阶之路：缓存、网络、内存与案例》, working on @vllm-project now.",,22,61,61,2024-09-24T03:07:08Z,2025-10-08T05:41:47Z
+DamonFool,Jie Fu (傅杰),Tencent,,"Beijing, China",jiefu@tencent.com,,jiefu@tencent.com,,62,84,27,2016-06-14T06:58:25Z,2025-05-12T13:57:38Z
+wenscarl,Shu Wang,,,,,,Software Engineer at Nvidia,,35,5,17,2017-02-06T16:17:36Z,2025-10-22T07:49:18Z
+wallashss,Wallas Henrique,,,,,,,,44,13,5,2012-06-18T04:09:49Z,2025-10-28T14:47:40Z
+sangstar,Sanger Steel,@coreweave,sangstar.github.io,"Tampa, FL",sangersteel@gmail.com,,,,43,6,8,2019-05-30T10:27:01Z,2025-09-15T14:06:24Z
+rahul-tuli,Rahul Tuli,@redhat,,Dehradun,rtuli@redhat.com,,Machine Learning Engineer,,41,46,24,2017-01-27T05:12:21Z,2025-11-04T12:47:49Z
+skyloevil,ZiTian Zhao,tencentmusic,,Beijing,zhao.zitian@outlook.com,,AI & Search coder @tencentmusic,skyloevil,15,42,75,2014-08-01T05:58:52Z,2025-08-29T00:28:16Z
+calvin0327,Calvin Chen,@dynamia-ai,,"Shanghai, China",wen.chen@dynamia.ai,,,,17,37,72,2018-12-10T02:01:56Z,2025-11-05T12:58:48Z
+AllenDou,AllenDou,Alibaba,,Beijing,allen.dou@hotmail.com,,"High Performance Gateway(L7) for Alipay, SSL offload, Intel QAT/Cavium Nitrox tech, Altera/Xilinx FPGA, AliRedis author, K8S/Kubeflow, AI Beginner since 2024.",,30,21,6,2012-06-27T09:18:00Z,2025-10-10T03:51:16Z
+Josephasafg,Asaf Joseph Gardin,@AI21Labs ,,,,,,,27,4,1,2018-05-23T09:35:55Z,2025-10-25T10:27:35Z
+princepride,汪志鹏,Rakuten Asia Pte Ltd,https://princepride.github.io/personal-website/,Singapore,wangzhipeng628@gmail.com,,,,84,44,38,2017-07-03T03:24:21Z,2025-10-23T23:54:06Z
+Jeffwan,Jiaxin Shan,Bytedance,,"Seattle, WA",seedjeffwan@gmail.com,True,Software Engineer @ Bytedance,,205,541,318,2013-06-19T14:36:54Z,2025-11-01T06:15:59Z
+yankay,Kay Yan,DaoCloud,,"Shanghai, China ",yankaycom@gmail.com,,"不积跬步无以至千里，不积小流无以成江河
+(Rome was not built in one day.)",,129,273,340,2012-02-24T11:49:40Z,2025-09-05T04:59:42Z
+noamgat,Noam Gat,,,,,,,noamgat,27,29,0,2012-01-15T08:49:52Z,2025-08-10T08:27:34Z
+orozery,Or Ozeri,,,,,,,,16,12,0,2016-03-10T20:23:07Z,2025-11-03T18:10:58Z
+panpan0000,Peter Pan,DaoCloud,,,peter.pan@daocloud.io,,"Father, DogKeeper, Cloud Native Believer",,146,67,49,2015-08-31T05:31:56Z,2025-10-14T07:32:37Z
+hl475,Huamin Li,,,,,,,,14,124,0,2014-08-03T02:36:30Z,2025-10-04T02:37:28Z
+zyongye,Yongye Zhu,Princeton University,,"Princeton, NJ",yongye.zhu@princeton.edu,,PhD student at Princeton University,,27,39,18,2018-08-16T02:24:38Z,2025-11-01T19:44:43Z
+SzymonOzog,Szymon Ożóg,Aleph Alpha,,Berlin,,,,SzymonOzog_,45,84,9,2019-12-01T10:30:13Z,2025-11-04T10:41:35Z
+kouroshHakha,kourosh hakhamaneshi,Anyscale Inc.,,San Fransisco,,,,CyrusHakha,56,43,8,2017-08-30T16:17:54Z,2025-10-23T15:57:20Z
+petersalas,Peter Salas,,,"Seattle, WA",,,,,7,10,0,2013-02-02T18:58:43Z,2025-09-03T17:14:50Z
+kzawora-intel,Konrad Zawora,@HabanaAI @intel ,,"Gdańsk, Poland",,,gotta go fast,,6,5,0,2020-12-14T12:09:55Z,2025-03-10T09:09:17Z
+cyang49,Chih-Chieh Yang,IBM,,,,,Researcher @IBM ,,20,2,0,2014-04-21T18:30:22Z,2025-10-28T14:45:43Z
+JenZhao,Jennifer Zhao,OpenAI,,,,,,,0,27,11,2014-04-29T20:14:36Z,2025-11-05T22:19:22Z
+JartX,,,,España,,,,,41,7,10,2014-08-09T00:10:01Z,2025-11-02T15:26:50Z
+imkero,Kero Liang,@Tencent,https://imkero.net/,,hi@kero.im,,Software Engineer @Tencent,,27,28,21,2017-09-26T10:23:08Z,2025-11-06T07:39:57Z
+CSWYF3634076,,Chinese Academy of Sciences & Baidu,,,wangyafeng@baidu.com,,,,50,8,3,2019-11-30T08:21:27Z,2025-09-24T09:14:53Z
+alexeykondrat,Alexey Kondratiev(AMD),,,,,,,,2,0,0,2023-08-30T15:32:21Z,2025-10-28T02:20:13Z
+WrRan,Wang Ran (汪然),,,,,True,I AM LIVING. I AM DYING.,,53,64,101,2014-05-13T12:34:43Z,2025-07-26T02:26:56Z
+CRZbulabula,Yongzao,Tsinghua University,,BeiJing,,,Apache Committer,,24,34,52,2017-10-26T04:37:02Z,2025-10-21T11:52:37Z
+richardsliu,Richard Liu,Google,,,,,,,39,31,3,2018-05-16T00:01:40Z,2025-10-22T19:52:16Z
+beginlner,Jiashi Li,,,,,,,,4,260,8,2017-08-14T11:07:03Z,2025-06-14T05:19:00Z
+pooyadavoodi,Pooya Davoodi,Parasail,,"Santa Clara, CA, USA",pooyadavoodi@gmail.com,,Machine Learning Engineer at Parasail,,24,41,5,2014-03-27T02:46:48Z,2025-09-25T02:55:11Z
+nvpohanh,Po-Han Huang (NVIDIA),NVIDIA,,,,,"I am a deep learning software engineer at NVIDIA, focusing on performance optimizations for DL inference software.",,17,27,0,2019-08-08T21:24:32Z,2025-11-06T01:36:19Z
+sfeng33,Flora Feng,,,San Francisco,4florafeng@gmail.com,,Senior SDE @ Meta,,5,8,78,2025-02-24T23:30:31Z,2025-09-15T22:52:04Z
+npanpaliya,Nishidha Panpaliya,IBM,,India,nishidha.panpaliya@partner.ibm.com,,Linux on Power Ecosystem Development for IBM and RedHat,,118,6,0,2015-09-09T09:08:28Z,2025-09-18T08:34:12Z
+rickyyx,Ricky Xu ,Anyscale,,,xuchen727@hotmail.com,True,"hacking on @ray-project @vllm-project  with @anyscale 
+| ex @cmu-db",,45,70,106,2015-03-27T06:44:43Z,2025-06-13T05:11:30Z
+Akashcodes732,Akash kaothalkar,IBM,,Bangalore,,,Open source dev @ IBM | Optimizing vLLM & PyTorch for IBM POWER,,18,4,4,2020-03-09T05:42:32Z,2025-11-06T06:14:41Z
+andylolu2,Andy Lo,@mistralai ,https://andylolu2.github.io,United Kingdom,andylolu24@gmail.com,,AI Scientist,,41,50,16,2020-06-08T04:17:42Z,2025-10-25T21:03:49Z
+zixi-qi,qizixi,,,,,,,,47,11,10,2016-10-15T07:54:55Z,2025-11-04T19:18:20Z
+leiwen83,,,,,,,,,12,8,7,2016-04-24T07:41:04Z,2025-09-26T12:31:20Z
+googs1025,CYJiang,Open to new work opportunities.,googs1025@gmail.com,Chengdu,,,Cloud Native Beginner |  LLM learninger |  AI-infra learninger | ex-ByteDance | @kubernetes Member,googs1025,228,179,503,2021-06-24T02:28:54Z,2025-10-31T09:46:37Z
+ilya-lavrenov,Ilya Lavrenov,Intel Corporation,,"Dubai, UAE",Ilya.lavrenov.51@gmail.com,True,,,53,181,4,2012-10-15T19:26:15Z,2025-08-23T17:41:57Z
+jerryzh168,Jerry Zhang,@facebook,,Menlo Park,jerryzh168@gmail.com,,,,38,239,80,2013-07-07T12:45:31Z,2025-10-10T22:19:14Z
+kaixih,Kaixi Hou,@NVIDIA,https://kaixih.github.io/,Santa Clara,kaixih@nvidia.com,,"Deep learning, GPUs, High performance computing",,41,90,0,2013-03-29T01:26:21Z,2025-11-06T05:59:47Z
+Potabk,Li Wang,,,,wangli858794774@gmail.com,,,,21,11,21,2024-04-09T06:27:09Z,2025-10-09T14:25:31Z
+louie-tsai,Louie Tsai,intel,,US,louie.tsai@intel.com,,,,19,7,2,2016-09-02T06:42:06Z,2025-10-07T05:25:42Z
+schoennenbeck,Sebastian Schoennenbeck,,,"Bonn, Germany",,,"Machine learning developer, primarily interested in NLP applications of deep learning. 
+",,10,3,2,2016-09-19T06:28:53Z,2025-11-05T09:26:30Z
+HermitSun,Wen Sun,Tsinghua University,https://blog.csdn.net/HermitSun,"Beijing, China",,True,Born in 1866.11.12.,,88,69,23,2018-01-29T13:06:54Z,2025-10-20T16:30:22Z
+bwasti,Bram Wasti,@meta,,New York,,,https://twitter.com/bwasti,bwasti,125,248,7,2013-06-27T01:01:46Z,2025-11-03T02:09:58Z
+Xu-Wenqing,Xu Wenqing,Alibaba Cloud,,Beijing,,,,,3,5,0,2022-12-28T10:28:13Z,2025-08-01T08:49:37Z
+zhouyuan,Yuan,@apache @IBM,,,,,"database, storage, big data analytics, LLM, views on my own",,123,138,66,2009-01-03T10:12:23Z,2025-10-31T07:58:46Z
+dongbo910220,,,,,,,,,19,1,14,2017-10-08T09:16:32Z,2025-09-01T04:55:24Z
+kliuae,,,,,,,,,0,2,0,2016-02-20T05:38:41Z,2025-09-28T11:50:27Z
+zhenwei-intel,liuzhenwei,,,,zhenweiliu@habana.ai,,,,7,5,6,2022-07-13T00:34:16Z,2025-09-17T12:05:28Z
+chenxu2048,陈序,,,PRC,chenxu2048@gmail.com,,Thanks avatar from https://github.com/fangpenlin/avataaars-generator,,25,81,127,2015-10-13T16:04:11Z,2025-10-30T09:50:58Z
+yyzxw,yyzxw,,,,,,,,73,8,28,2017-12-18T04:47:43Z,2025-02-11T10:51:12Z
+yarongmu-google,,,,,,,,,4,4,1,2023-11-09T16:26:00Z,2025-11-06T16:58:22Z
+xwjiang2010,,,,,,,,,8,25,6,2021-07-19T20:39:57Z,2025-07-30T00:11:41Z
+whyiug,,,,,whyiug@hotmail.com,,"Pain is inevitable,  suffering is optional.",,23,9,53,2014-02-13T04:50:07Z,2025-03-12T11:23:58Z
+omrishiv,,,,,,,,,57,8,2,2010-07-09T16:28:36Z,2025-10-06T07:48:55Z
+fxmarty-amd,,,,,,,,,12,6,17,2024-09-02T10:20:16Z,2025-04-18T16:16:58Z
+angelayi,Angela Yi,,,,,,,,34,34,15,2015-02-07T22:11:07Z,2025-10-30T20:27:41Z
+aurickq,Aurick Qiao,@snowflakedb,http://aurick.net,,,,,AurickQ,16,80,9,2013-12-08T22:21:03Z,2025-11-03T01:05:59Z
+gaocegege,Ce Gao,@TensorChord,,,cegao@tensorchord.ai,,"AI Infrastructure / MLSys | Co-founder & CEO @TensorChord  | Co-chair @kubeflow | SJTU
+",gaocegege,440,3249,2298,2013-07-27T03:42:37Z,2025-09-22T12:17:28Z
+CatherineSue,Chang Su,Oracle,,"Los Angeles, CA",,True,,,9,72,12,2014-08-31T13:35:37Z,2025-11-03T17:41:36Z
+chaojun-zhang,Chaojun Zhang,,,shanghai,chzhang@habana.ai,True,,,40,22,32,2012-03-25T12:55:57Z,2025-11-06T09:04:42Z
+juliendenize,Julien Denize,Mistral AI,juliendenize.github.io/,France,,,ML Engineer @ Mistral AI,,24,22,7,2018-06-26T14:37:51Z,2025-09-23T15:41:03Z
+waltforme,Jun Duan,@IBM ,,,,,,,27,8,14,2014-09-02T20:28:50Z,2025-10-15T02:43:48Z
+aws-satyajith,Satyajith Chilappagari,AWS,,,,,,,3,0,0,2024-07-16T23:46:42Z,2025-10-23T01:17:30Z
+llsj14,Sungjae Lee,,llsj14.github.io,,,,"I'm a software engineer at NAVER Cloud
+",,11,26,25,2017-11-25T07:35:58Z,2025-10-24T07:29:24Z
+wseaton,Will Eaton,@RedHatOfficial,,"Raleigh, NC",,,python w/ a sprinkle of rust,ws_eaton,119,39,22,2016-01-13T04:29:50Z,2025-09-09T16:54:10Z
+xyang16,Xin Yang,@aws,,"Santa Clara, CA",,,SDE @ AWS SageMaker Inference Optimizations Team,,21,7,2,2022-05-17T16:57:33Z,2025-11-06T06:15:35Z
+liuyanyi,Yanyi Liu,Northeastern University China,,China,wolfsonliu@163.com,,,,60,34,35,2015-03-29T10:32:30Z,2025-10-31T04:43:16Z
+cascade812,cascade,Microsoft,,Redmond,,,Engineer at Microsoft,,7,10,3,2014-04-02T06:51:48Z,2025-10-01T21:14:47Z
+chenqianfzh,,,,,,,,,11,8,0,2019-06-14T16:42:10Z,2025-11-01T06:17:03Z
+fhl2000,,,,,,,Email: fanhlong@mail2.sysu.edu.cn,,4,9,1,2020-04-09T03:13:55Z,2025-09-26T09:21:55Z
+Imss27,Andy Dai,UCSD,,La Jolla,,,A graduate student,,35,9,13,2021-01-01T14:04:59Z,2025-07-18T02:47:52Z
+cjackal,,Samsung Electronics,,"Suwon, South Korea",,,,,16,5,3,2018-10-30T23:27:11Z,2025-09-03T23:57:24Z
+czhu-cohere,,,,,,,,,1,0,0,2025-04-14T17:07:19Z,2025-11-01T23:16:37Z
+ihb2032,,,,,,,,,12,1,0,2018-06-30T14:05:55Z,2025-10-23T06:43:25Z
+nvjullin,,,,,,,,,3,0,0,2025-01-09T02:42:07Z,2025-09-03T09:42:39Z
+shixianc,shixianc,,,,,,"Area of focus: 
+
+LLM Inference Optimization",,19,1,0,2019-04-11T23:48:01Z,2025-11-06T16:34:09Z
+zhaoyang-star,,,,Beijing,zhaoyangstar@foxmail.com,,Zhao Yang,,22,17,46,2016-12-01T08:56:29Z,2025-02-11T08:49:10Z
+HollowMan6,ℍ𝕠𝕝𝕝𝕠𝕨 𝕄𝕒𝕟,@AaltoUniversity,hollowman6.github.io/resume,"Otaniemi, Espoo, Finland",hollowman@opensuse.org,True,Doctoral Researcher in AI Infra @AaltoUniversity CS | SECCLO Erasmus Mundus Alumni @AaltoUniversity & @dtudk,HollowM186,98,1590,46,2018-10-09T13:40:02Z,2025-11-06T14:02:07Z
+elaineyz,Elaine Zhao,,,,,,,,1,3,1,2024-11-14T21:33:37Z,2025-10-21T19:42:38Z
+mawong-amd,Matt,,,,,,"I love hiking and, to a lesser extent, working on my beater. Sometimes at the same time
+:--]",,1,5,2,2024-01-08T20:34:38Z,2025-10-24T15:32:10Z
+hanzhi713,Hanzhi Zhou,OpenAI,,"San Francisco, CA",hanzhi713@gmail.com,,"Member of Technical Staff @openai | BS CS, UVa Class of 2022",,48,162,6,2016-08-15T07:55:35Z,2025-11-06T06:12:49Z
+B-201,B-201,,,,,,,,3,2,4,2022-10-25T10:17:14Z,2025-10-12T09:25:52Z
+djmmoss,Duncan Moss,NVIDIA,linkedin.com/in/duncan-moss-2a1b1060,United States,djm.moss@gmail.com,,,,26,15,1,2013-11-26T08:53:19Z,2025-10-22T05:04:58Z
+fadara01,Fadi Arafeh,Arm,,Manchester,,,The opinions expressed are my own views and not those of my employer,,7,2,0,2022-10-06T15:45:50Z,2025-11-05T15:16:47Z
+janimo,Jani Monoses,,,,jani.monoses@gmail.com,,,,80,70,0,2009-01-29T07:26:11Z,2025-10-29T15:13:51Z
+youngkent,Keyun Tong,Meta,,,,,,,2,3,0,2011-10-05T23:48:31Z,2025-02-19T22:23:15Z
+prashantgupta24,Prashant Gupta,IBM,pgupta.com,,prashantgupta24@gmail.com,True,AI engineer @IBM ,,84,68,2,2014-11-23T02:58:54Z,2025-10-20T11:41:05Z
+rabi,Rabi Mishra,Red Hat,,,ramishra@redhat.com,,,,77,14,0,2009-01-15T12:06:24Z,2025-10-15T14:13:57Z
+gau-nernst,Thien Tran,,,Singapore,gau.nernst@yahoo.com.sg,,,gaunernst,73,161,82,2017-04-06T01:29:49Z,2025-10-16T07:02:25Z
+yangw-dev,Yang Wang,,,,,,Husky the world,,5,3,2,2024-10-24T20:26:59Z,2025-10-30T00:57:40Z
+ApostaC,Yihua Cheng,TensorMesh,https://apostac.github.io/about.html,United States,yihua98@uchicago.edu,,"CTO @ TensorMesh;
+
+Core developer at @LMCache and @vllm-project ",,42,246,16,2017-01-13T14:18:36Z,2025-10-07T20:57:16Z
+linzebing,Zebing Lin,Meta,,Bay Area,linzebing1995@gmail.com,True,Software Engineer@Meta,,28,107,43,2014-10-26T15:01:05Z,2025-09-25T02:09:23Z
+ahao-anyscale,,,,,,,,,3,1,0,2025-08-25T22:02:59Z,2025-09-26T17:14:34Z
+ayushsatyam146,Ayush Satyam,Red Hat,ayushsatyam146.github.io,"Remote, India",ayushsatyam146@gmail.com,,SWE-II at Red Hat,,74,35,14,2019-09-27T15:25:39Z,2025-10-28T12:27:37Z
+samanamp,Saman A. Pour,,,"Toronto, Canada",,,,,42,12,8,2012-08-05T19:57:42Z,2025-10-26T23:17:26Z
+sergiopaniego,Sergio Paniego Blanco,@huggingface,https://sergiopaniego.github.io/,Madrid,sergio@huggingface.co,,"Machine Learning Engineer 
+@huggingface
+ 🤗
+
+AI PhD 🏳️‍🌈",sergiopaniego,70,336,74,2016-02-11T14:54:45Z,2025-11-04T08:45:29Z
+2015aroras,Shane A,,,,,,,,13,16,0,2016-06-02T03:31:24Z,2025-11-06T19:04:17Z
+842974287,Shiyan Deng,,,,,,,,20,3,1,2016-08-01T13:13:13Z,2025-08-26T20:13:59Z
+simondanielsson,Simon Danielsson,@bcg-emu,https://www.linkedin.com/in/simon-danielsson/,Stockholm,,,"Senior Data Scientist @ BCG. Ex-LinkedIn MLE. 
+
+I like NLP, deep learning, and backend dev",,33,5,5,2020-08-25T11:25:34Z,2025-11-03T08:17:52Z
+wenhuach21,Wenhua Cheng,,,,wenhua.cheng@intel.com,,,,10,13,0,2022-06-28T08:22:50Z,2025-10-11T01:38:11Z
+xiangxu-google,Xiang Xu,Google,,,,,,,6,7,1,2022-11-10T02:10:49Z,2025-08-07T04:23:52Z
+fyabc,Yang Fan,"Tongyi Lab, Alibaba Group",,"Beijing, China",suyang.fy@alibaba-inc.com,,"NLP Engineer in Qwen Team, Alibaba Group",,22,111,10,2015-04-26T07:08:09Z,2025-10-09T15:52:51Z
+yannicks1,Yannick Schnider,AI Research @IBM,,"Zurich, Switzerland",,,,,6,0,0,2018-09-24T19:29:13Z,2025-10-29T04:24:19Z
+Edwardf0t1,Zhiyu,,,,,,,,4,5,0,2017-01-02T06:24:08Z,2025-10-03T01:18:26Z
+pwschuurman,,Google LLC,,"Seattle, WA",,,,,41,1,0,2012-10-27T00:01:45Z,2025-11-05T16:11:04Z
+qscqesze,qscqesze,@MiniMax-AI,surprising.studio,"Beijing, China",qscqesze@gmail.com,,Software Engineer at @MiniMax-AI.,,53,89,4,2014-04-19T13:46:35Z,2025-10-12T08:35:51Z
+wuhang2014,wuhang,,,"Hangzhou, China",wuhang6@huawei.com,,,,6,2,7,2014-09-14T16:14:38Z,2025-10-29T12:33:34Z
+izhuhaoran,zhrrr,Tongyi Lab of Alibaba Group,,,,,Tongyi Lab of Alibaba Group,,15,16,9,2018-10-04T10:41:13Z,2025-10-16T23:04:37Z
+zspo,,,,,,,,,20,7,42,2017-04-02T01:57:42Z,2025-10-27T06:22:43Z
+wulipc,燃,,,"Xi'an, ShaanXi, China",wulipc@163.com,,Stay on the cutting edge.,,6,12,15,2017-02-28T10:36:40Z,2025-10-20T01:55:07Z
+gty111,Tianyu Guo,Sun Yat-sen University,https://gty111.github.io/info/,Guangzhou,guoty9@mail2.sysu.edu.cn,,"Ph.D. student of Sun Yat-Sen University, prior intern @Tencent.
+Simulators, GPU, architecture, AI Infra, MLSys",,23,124,109,2019-05-27T14:59:28Z,2025-10-27T09:27:51Z
+HwwwwwwwH,Alphi,,,,,,,,7,10,0,2019-07-02T14:05:04Z,2025-10-18T03:13:23Z
+alecsolder,Alec S,,,,,,,,3,3,0,2015-01-16T21:17:29Z,2025-10-14T16:12:16Z
+bbrowning,Ben Browning,Red Hat,https://thinkingconcurrently.com/,"Cambridge, MA",bbrownin@redhat.com,,,,141,109,10,2009-02-19T22:59:31Z,2025-10-13T15:42:04Z
+avshalomman,Avshalom Manevich,,,,,,,AvshalomM,21,9,2,2015-05-04T08:45:41Z,2025-08-04T12:07:16Z
+bbartels,Benjamin Bartels,G-Research,,United Kingdom,benjamin@bartels.dev,,.NET Foundation Member,,31,19,18,2016-10-25T16:02:15Z,2025-10-09T21:30:21Z
+abmfy,Bowen Wang,Tsinghua University,abmfy.github.io,"Berkeley, CA",abmfy@icloud.com,,"CS undergraduate @ THU, visiting Sky Computing Lab @ UC Berkeley",,22,177,49,2016-07-24T11:05:04Z,2025-10-22T12:49:06Z
+bringlein,Burkhard Ringlein,@IBM ,https://0xcaffee.blog,"Zurich, Switzerland",,,,,20,12,4,2014-10-21T13:29:50Z,2025-11-04T11:04:00Z
+chenxi-yang,Chenxi Yang,Meta,chenxi-yang.github.io,CA,cxyang@cs.utexas.edu,,"RS@Meta, PhD @ UT-Austin",chenxiyang_ut,36,26,19,2017-12-09T14:25:56Z,2025-10-08T11:51:05Z
+christian-pinto,Christian Pinto,IBM Research,,"Dublin, Ireland",,,,,14,15,2,2019-09-24T08:40:13Z,2025-11-05T11:36:54Z
+Concurrensee,,,,,yidawu@alumni.cmu.edu,,,,5,5,0,2021-02-04T22:43:42Z,2025-10-21T21:51:59Z
+gesanqiu,Ricardo Lu,,,"Beijing, China",,,Working smart before working hard.,,37,68,9,2018-03-10T08:19:07Z,2025-11-02T10:38:46Z
+zucchini-nlp,Raushan Turganbay,Hugging Face,,France,raushan@huggingface.co,,ML Engineer at 🤗 | Generation & Multimodality,RTurganbay,22,157,9,2022-03-01T17:31:47Z,2025-10-22T10:20:11Z
+Sanster,Qing,,https://www.panicbyte.xyz/,Shanghai,cwq1913@gmail.com,,Don't Panic. Here is your towel.,,121,714,441,2013-03-28T17:26:04Z,2025-10-27T14:21:40Z
+peng1999,Peng Guanwen,IPADS @ SJTU,https://blog.pg999w.cn/,"Shanghai, China",pg999w@outlook.com,,Have jumped out of the hole of ACM.,,83,127,33,2015-05-17T13:46:38Z,2025-11-01T15:15:33Z
+mspronesti,Massimiliano Pronesti,IBM Research,,"Dublin, Ireland",massimiliano.pronesti@gmail.com,,"AI  💻 @IBM | 
+Mainly interested in Deep Learning, NLP, Software Engineering, and HPC.",,41,136,14,2018-10-13T10:12:58Z,2025-10-27T12:08:25Z
+jsato8094,Junichi Sato,,,,,,,,15,1,0,2016-04-26T15:18:47Z,2025-06-19T05:30:29Z
+TheEpicDolphin,Giancarlo Delfin,,,,,,,,8,5,3,2017-10-21T18:17:26Z,2025-10-24T19:29:40Z
+gmarinho2,Gabriel Marinho,,,Brazil,,,Computer Science student,,12,26,28,2022-04-28T18:38:53Z,2025-11-03T23:56:41Z
+elvircrn,Elvir Crnčević,Red Hat,,Brno/Graz/Sarajevo,elvircrn@gmail.com,True,,,62,34,18,2013-08-23T17:49:44Z,2025-10-29T10:57:35Z
+elfiegg,Elfie Guo,Nvidia,,Santa Clara,,,Software Engineer,,6,7,2,2024-03-25T20:40:04Z,2025-11-03T21:51:43Z
+drisspg,Driss Guessous,@facebook,,Los Angeles,,,@pytorch core,,53,167,30,2017-10-13T01:22:31Z,2025-10-09T19:15:14Z
+dougbtv,Doug Smith,@redhatofficial,http://www.dougbtv.com,"Bolton, Vermont USA",douglaskippsmith@gmail.com,,"You can find me on twitter as dougbtv, too.",dougbtv,118,257,98,2013-09-16T18:28:42Z,2025-10-24T14:21:10Z
+jvlunteren,,,,,,,,,2,1,0,2024-03-01T11:29:10Z,2025-10-20T10:00:02Z
+jiahanc,,@Nvidia,,,,,,,4,1,0,2024-06-26T04:50:06Z,2025-09-15T15:52:18Z
+iAmir97,,,,,,,,,9,3,8,2020-09-18T14:28:50Z,2025-10-30T06:42:27Z
+gnovack,,,,,novackgm@gmail.com,,,,29,23,0,2019-05-09T23:19:50Z,2025-10-05T16:48:15Z
+daniel-salib,,,,,,,,,2,1,0,2025-01-30T21:47:01Z,2025-10-30T23:36:18Z
+courage17340,,,,,,,,,8,24,12,2014-07-23T08:42:13Z,2025-06-07T05:39:43Z
+co63oc,co63oc,,,,,,,,74,22,2,2013-06-05T03:31:01Z,2025-09-28T04:10:46Z
+cennn,,,,,,,,,2,1,4,2020-03-08T02:24:55Z,2025-10-29T08:01:53Z
+MoyanZitto,bigmoyan,MoonshotAI,,Shenzhen,moyan_work@foxmail.com,True,天选打杂人,,7,309,7,2015-01-27T12:43:24Z,2025-11-04T16:47:53Z
+amirkl94,,,,,,,,,3,0,0,2025-03-16T08:59:37Z,2025-10-20T13:08:44Z
+zhxchen17,Zhengxu Chen,Meta,,"Toronto, ON",,,,,31,45,9,2013-07-05T03:01:52Z,2025-09-30T15:51:56Z
+Michaelvll,Zhanghao Wu,"Sky Computing Lab, UC Berkeley",,"Berkeley, CA",zhanghao.wu@outlook.com,,"Ph.D. student @ UC Berkeley Sky Computing Lab;
+
+Previously, RA @ MIT HAN Lab; Undergrad @ SJTU ACM Honors Class",,52,920,184,2014-02-22T01:23:29Z,2025-10-28T11:34:15Z
+fabianlim,Yu Chin Fabian Lim,,,,,,,,38,3,1,2014-08-01T03:16:04Z,2025-10-26T02:28:35Z
+kylehh,kYLe,Nvidia (ex-AWS/Anyscale),,"Houston, TX",,,,,30,11,6,2016-11-28T04:31:09Z,2025-10-22T21:16:09Z
+kushanam,,,,,,,,,8,5,0,2018-08-14T16:27:29Z,2025-10-30T18:58:53Z
+litianjian,,,,,,,,,50,6,15,2018-12-12T10:03:50Z,2025-05-29T08:05:50Z
+liuyhwangyh,,,,,,,,,13,104,1,2013-01-05T07:02:22Z,2024-12-24T09:55:36Z
+nopperl,,,,,,True,,,63,18,5,2019-09-01T21:12:07Z,2025-11-05T23:53:05Z
+qli88,,,,,,,,,0,0,1,2024-08-19T17:14:41Z,2024-09-18T17:37:18Z
+samzong,samzong,@DaoCloud,,,samzong.lu@gmail.com,,Focus AI & Cloud Native. at @DaoCloud ,samzong_,65,112,36,2015-08-13T13:15:34Z,2025-11-06T15:45:48Z
+twaka,,,,,,,,,9,0,0,2014-07-06T14:04:38Z,2025-11-04T03:28:54Z
+wchen61,,,,,,,,,15,2,36,2016-12-24T12:53:44Z,2025-08-13T13:15:35Z
+whx-sjtu,whx,,,,,,"Shanghai Jiao Tong University,
+Currently working in Huawei",,19,9,0,2019-10-16T09:59:27Z,2025-11-05T02:18:14Z
+yansh97,yansh97,,,,yansh97@foxmail.com,,,,3,15,7,2017-03-25T08:46:53Z,2025-09-08T08:45:52Z
+youzhedian,hc,,hongchao@moonshot.cn,Beijing,,,,,12,8,7,2018-08-01T06:11:30Z,2025-09-28T07:09:19Z
+xffxff,zhou fan,,https://xffxff.github.io,"Beijing, China",,,日拱一卒，功不唐捐,,90,54,14,2017-07-18T06:31:04Z,2025-10-24T11:44:35Z
+zixuanzhang226,,,,,,,,,0,1,0,2024-06-05T23:46:48Z,2025-08-06T21:25:12Z
+dr75,Marko Rosenmueller,,,Berlin,,,,,5,1,0,2013-09-16T06:23:15Z,2025-09-16T06:00:14Z
+cyyever,Yuanyuan Chen,Nanyang Technological University,,Singapore,cyyever@outlook.com,,情不知所起，一往而深,,158,60,10,2016-03-03T14:38:27Z,2025-11-03T06:29:34Z
+br3no,Breno Faria,IntraFind,,Germany,,,,,8,6,11,2017-08-09T19:42:36Z,2025-08-29T06:10:36Z
+AaruniAggarwal,Aaruni Aggarwal,IBM,,Bangalore,,,,,49,2,0,2019-02-18T03:56:24Z,2025-10-03T18:04:17Z
+AzizCode92,Aziz,,,,,True,,,25,22,73,2016-05-23T21:48:57Z,2025-10-23T19:59:03Z
+luyuzhe111,Bryan Lu,Amazon Web Services,luyuzhe111.github.io,"Santa Clara, CA",,,Scientist @ AWS ,,33,52,142,2019-09-18T20:34:48Z,2025-06-09T07:10:55Z
+CAROLZXYZXY,Carol Zheng,Google,,Santa Clara,,,Software Engineer,,48,82,77,2016-12-20T07:43:22Z,2025-09-21T20:20:42Z
+CXIAAAAA,Chen Xia,Cohere,https://www.linkedin.com/in/chen-xia-3ba443160/,San Mateo,cxia0209@gmail.com,,MTS@Cohere | MLE@Nuro | Neulab@LTI@CMU | Tongji University,,24,24,31,2016-01-20T06:53:59Z,2025-11-03T20:03:14Z
+noemotiovon,Chenguang Li,@Huawei,,"Xian, China",,,,,19,17,57,2021-07-20T05:51:50Z,2025-11-03T06:26:47Z
+pliops-daniels,Daniel Serebrenik,pliops,pliops.com,,,,,,0,1,0,2020-11-18T07:40:52Z,2025-08-25T05:43:59Z
+sdavidbd,David Ben-David,Pliops,,,,,,,1,1,1,2024-12-18T07:55:01Z,2025-11-05T19:49:57Z
+dilipgb,Dilip Gowda Bhagavan,IBM India Systems Development labs,,Bangalore,,,Software Engineer @IBM India,,25,0,1,2022-07-29T10:50:32Z,2025-07-16T05:58:34Z
+dylanwhawk,Dylan Hawk,,,,,,,,5,0,2,2019-05-29T04:39:03Z,2025-11-04T09:53:17Z
+BloodAxe,Eugene Khvedchenya,@NVidia,https://computer-vision-talks.com,"Odesa, Ukraine",ekhvedchenya@gmail.com,,"Senior Deep Learning Engineer @NVidia
+Kaggle Grandmaster
+Author of pytorch-toolbelt
+Co-Author of albumentations (No more after 2022)p",,65,752,29,2010-12-21T18:43:25Z,2025-09-30T16:41:20Z
+hsliuustc0106,Hongsheng Liu,Huawei,,Shanghai,liuhongsheng4@huawei.com,,"Research Scienctist@Huawei
+Ph.D. in Statistics and Operations Research@UNC",,11,4,7,2025-07-23T01:40:51Z,2025-11-06T02:56:37Z
+ignaciosica,Ignacio Sica,,,,,,,,8,19,40,2021-12-08T21:00:26Z,2025-10-26T12:32:11Z
+jamestwhedbee,James Whedbee,,,,,,,,3,9,0,2015-05-06T23:37:40Z,2025-10-30T21:54:25Z
+YaoJiayi,Jiayi Yao,University of Chicago,,,,,"First-year PHD student at UChicago.
+Working on @LMCache.
+jiayi3@uchicago.edu",,14,126,16,2021-04-08T12:19:45Z,2025-11-05T08:46:22Z
+chenyang78,Yang Chen,Meta,http://www.cs.utah.edu/~chenyang,"Bellevue, WA",chenyang@cs.utah.edu,,,,12,51,0,2011-04-28T17:52:17Z,2025-09-25T05:45:40Z
+XiaobingSuper,XiaobingZhang,,,"Shanghai, China",xiaobingzhangupc@gmail.com,,,,52,49,12,2015-12-09T03:24:06Z,2025-07-20T13:47:46Z
+sywangyi,"Wang, Yi",Intel,,"Shanghai, China",yi.a.wang@intel.com,,,,28,39,2,2018-02-02T01:23:31Z,2025-03-11T12:01:34Z
+tywuAMD,Tianyuan Wu,AMD,,"Shanghai, China",tianyuan.wu@amd.com,,,,10,2,0,2016-12-30T16:54:51Z,2025-11-05T05:00:17Z
+skylee-01,Sky Lee,xiaomi,,BeiJing,skylee-01@foxmail.com,,sincere passion,,9,4,5,2019-01-14T12:35:30Z,2025-09-13T10:20:52Z
+bufferoverflow,Roger Meier,Siemens,,"Greifensee, Zürich, Switzerland",r.meier@siemens.com,,"Distinguished Engineer @siemens , Service Owner code.siemens.com , Open/Inner Source initiator and promoter, cross domain and discipline collaborator",,77,306,77,2010-08-28T11:46:50Z,2025-10-30T03:00:06Z
+rzabarazesh,Reza Barazesh,,Barazesh.me,"Los Angeles, CA",,True,Software engineer @facebookresearch ,,54,9,8,2012-12-29T05:08:47Z,2025-10-29T08:59:09Z
+Qubitium,Qubitium-ModelCloud,ModelCloud.ai,https://modelcloud.ai,Earth/Epoch 2.0,,,"Golang, Python, Kotlin. GPTQModel maintainer and OSS contributor to SGLang, vLLM, and others. 
+
+@ModelCloudAi founder",qubitium,75,82,89,2010-09-27T15:21:19Z,2025-07-02T11:54:14Z
+morrison-turnansky,Morrison Turnansky,Red Hat,,,,,Principal Machine Learning Engineer,,6,4,1,2025-05-29T19:52:45Z,2025-07-08T16:11:17Z
+mickaelseznec,Mickaël Seznec,,,,mickael.seznec@gmail.com,,,,30,5,2,2014-03-03T13:11:16Z,2025-10-01T14:56:30Z
+mmoskal,Michał Moskal,@OpenAI,https://moskal.me,"Seattle, WA, USA",michal@moskal.me,,,,118,206,0,2015-01-23T17:52:22Z,2025-10-21T19:40:52Z
+michaelfeil,Michael Feil,@basetenlabs,michaelfeil.eu,San Francisco,,,@basetenlabs | building infinity | M.Sc. ML/Robotics@TU-Munich,feilsystem,78,256,15,2020-04-12T23:06:04Z,2025-11-04T00:42:29Z
+megha95,Megha Agarwal,Databricks,,San Francisco,,,,,5,19,0,2015-12-03T05:44:08Z,2025-10-09T16:49:46Z
+draftbk,Lifans,Meta,,San Francisco Bay Area,draftbks@gmail.com,,,,72,49,33,2015-04-25T08:24:23Z,2025-10-25T01:13:13Z
+K-Mistele,Kyle Mistele,HumanLayer,blacklight.sh,San Francisco,kyle@mistele.com,,"CTO @ HumanLayer.dev
+Hacker, engineer, OSS contributor, OSCP.",0xBlacklight,92,75,12,2016-04-12T22:55:52Z,2025-10-11T23:45:42Z
+jmkuebler,Jonas M. Kübler,AWS,https://www.is.mpg.de/person/jmkuebler,"Tübingen, Germany",,,Senior Applied Scientist at AWS,jonas_kubler,16,12,8,2018-10-12T08:02:25Z,2025-11-04T12:54:12Z
+s3woz,Stan Wozniak,IBM Research,https://research.ibm.com/people/stanislaw-wozniak,Zürich,,,AI Researcher & Inventor,s3woz,2,2,0,2021-01-08T14:29:55Z,2025-10-21T07:03:39Z
+stas00,Stas Bekman,Stasosphere Online Inc. / ,https://stasosphere.com/machine-learning/,"BC, Canada",,,"Toolmaker. Author. Software creator, optimizer and harmonizer. Makes things work.
+
+Current domains: LLM/Training/Inference/Scalability/Machine Learning",StasBekman,145,2123,7,2015-01-23T20:42:18Z,2025-10-08T11:36:27Z
+p88h,Staszek Paśko,Snowflake,,"Gdansk, Poland",,,,,16,16,3,2013-10-08T14:30:01Z,2025-08-13T15:09:37Z
+SwapnilDreams100,Swapnil Parekh,IBM,https://www.linkedin.com/in/swapnil-parekh/,New York,swapnilbp100@gmail.com,,NLP : Data Science,,64,24,29,2017-06-02T18:38:27Z,2025-11-05T22:02:02Z
+taohui,Tao Hui,Tencent,http://weibo.com/taohui3,Beijing,,True,,,4,8,3,2014-09-02T04:21:00Z,2025-07-02T14:04:11Z
+teekenl,TeeKen Lau ,,,"Brisbane, QLD",,,Training/Inference,,93,18,17,2015-08-17T10:53:31Z,2025-08-12T14:52:15Z
+tterrysun,Terry,,,,,,,,3,0,0,2023-10-31T21:57:02Z,2024-03-21T22:14:07Z
+tristanleclercq,Tristan Leclercq,,,France,,,,,2,9,6,2019-04-17T00:05:27Z,2025-08-18T08:12:50Z
+vrdn-23,Vinay R Damodaran,@cisco,,"Seattle, WA",vrdn@hey.com,,,,29,10,1,2016-01-08T08:13:21Z,2025-09-16T17:01:53Z
+wayzeng,Wei Zeng,,,,,,,,2,4,2,2019-03-21T22:16:17Z,2025-09-10T07:46:05Z
+SmartManoj,மனோஜ்குமார் பழனிச்சாமி,,smartmanoj.com,"Kunnathur, Tamilnadu, India",,True,Raising an AI Software Engineer 🤖,smartmanoj42857,259,85,9,2014-04-08T20:57:10Z,2025-10-20T11:38:30Z
+Oliver-ss,Song,Duke University,,Shanghai,,,,,30,16,4,2018-10-13T16:18:59Z,2025-10-30T12:45:17Z
+southfreebird,Sergei Skvortsov,Nebius,,"London, UK",,,,,12,10,1,2016-10-15T20:58:14Z,2025-09-09T19:52:26Z
+scsudhak-intel,Sanju C Sudhakaran,,,,scsudhakaran@habana.ai,,,,3,1,1,2021-10-26T08:49:39Z,2025-03-17T10:25:01Z
+csy1204,Sangyeon Cho,@naver,,Seoul,josang1204@gmail.com,True,SW Engineer,,99,54,121,2016-03-24T00:25:55Z,2025-11-04T15:03:55Z
+rogeryoungh,Roger Young,,https://rogery.dev,,,,啥也不会,,41,55,151,2018-08-21T04:32:19Z,2025-11-06T06:26:52Z
+ratnampa,Ratnam Parikh,,,,,,AI Frameworks Engineer @Intel,,7,0,1,2022-09-30T19:37:52Z,2025-08-27T21:31:47Z
+paulpak58,Paul Pak,,,,,,__syncthreads() @Liquid4All,paulpak__,18,25,4,2019-07-03T22:07:14Z,2025-10-23T15:22:39Z
+NikolaBorisov,Nikola Borisov,Deep Infra,,"Los Altos, CA",,,,nikolaborisof,10,22,3,2010-01-18T02:37:03Z,2025-10-31T14:47:10Z
+nikhil-arm,Nikhil Gupta,Arm®,,United Kingdom,,,,,5,3,0,2024-06-13T09:59:02Z,2025-10-31T16:27:17Z
+namanlalitnyu,Naman Lalit,Meta,https://namanlalitnyu.github.io,California,nl2688@nyu.edu,True,SWE @ Meta | CS @ NYU Courant ,,24,4,6,2023-11-01T16:15:23Z,2025-11-05T05:37:05Z
+micah-wil,Micah Williamson,AMD,,"Austin,  TX",,,SDE @ AMD | UMich Alum,,1,0,0,2024-09-09T21:15:52Z,2025-11-05T03:35:34Z
+max-wittig,Max Wittig,@Siemens,,"Zürich, Switzerland",max.wittig@siemens.com,True,,,95,84,87,2014-02-10T13:18:04Z,2025-11-06T18:57:50Z
+lucas-tucker,Lucas Tucker,,,,,,software engineer @ adobe. into vLLM and open-source machine learning,,22,5,3,2019-02-01T20:35:42Z,2025-10-09T17:37:43Z
+zhyncs,Yineng Zhang,,https://zhyncs.com,"Bay Area, CA",,,Just for fun 🌁,zhyncs42,14,1884,16,2019-01-12T14:40:44Z,2025-10-25T09:26:59Z
+morgendave,zhiweiz,,,,,,,,24,4,7,2015-03-24T23:10:01Z,2025-11-06T20:46:15Z
+xendo,,,,,,,,,19,6,2,2010-05-26T11:22:08Z,2025-10-24T07:03:38Z
+weireweire,weiliang,,,,,,,,10,1,0,2016-08-09T07:53:32Z,2025-10-10T09:35:15Z
+wangshuai09,,Huawei,,"Xi'an, China",,,,,23,32,20,2017-01-12T03:26:21Z,2025-08-30T15:32:11Z
+sixsixcoder,sixgod,Zhipu AI,,"beijing, China",evethwillbeok@outlook.com,,"I hope for world peace.
+",,11,16,6,2024-09-02T10:28:22Z,2025-07-02T10:47:00Z
+quanliu1991,quanliu,,,,,,,,49,5,12,2017-11-07T12:09:56Z,2025-10-17T09:08:42Z
+jmswen,jmswen,@facebook ,,"Menlo Park, CA",jmswen@gmail.com,,,,16,157,4,2010-04-23T01:45:43Z,2025-10-05T16:51:20Z
+hissu-hyvarinen,,,,,,,,,2,0,0,2024-09-16T13:18:00Z,2025-03-20T14:42:15Z
+fzyzcjy,fzyzcjy,+=1 (seriously this is the name),,Solar system,,,"""Hello, world!\n""",,261,1599,34,2013-08-15T08:52:59Z,2024-09-14T03:08:41Z
+kingljl,fuchen.ljl,Alibaba,,beijing,yjqqqqdx_01@163.com,,ʕ•̫͡•ʔ-̫͡-ʕ•͓͡•ʔ-̫͡-ʕ•̫͡•ʔ,,176,27,28,2013-07-17T05:58:50Z,2025-09-01T07:04:49Z
+dongluw,,,,,,,,,6,3,2,2022-06-27T16:14:59Z,2025-10-19T00:02:25Z
+danielafrimi,,NVIDIA,,,,,,,22,0,1,2018-12-07T14:28:32Z,2025-10-15T09:29:44Z
+dtransposed,d.transposed,,,,,,,,62,52,2,2017-05-19T10:28:07Z,2025-10-26T14:05:51Z
+Prowindy,cong-meta,,,,,,,,16,8,1,2013-08-23T02:40:37Z,2025-09-05T06:55:45Z
+ant-yy,,,,,,,,,2,1,0,2025-04-14T07:59:56Z,2025-10-15T03:34:01Z
+yunfeng-scale,Yunfeng Bai,,,,,,,,11,5,0,2021-04-26T22:56:40Z,2025-01-06T17:44:24Z
+piood,Yu Jiaqi,Beijing University of Posts and Telecommunications,,Beijing,,,"Make it work, make it right, make it fast.",,19,5,19,2019-08-17T08:59:32Z,2025-10-31T15:53:37Z
+yuguo68,Yu Guo,,,,,,,,10,2,0,2021-04-07T22:59:32Z,2025-11-02T19:47:47Z
+hyongtao-code,Yongtao Huang,CAICT,,Beijing,,,,,29,35,66,2022-02-14T03:23:27Z,2025-10-17T15:49:04Z
+yinghai,Yinghai Lu,,,"San Franciso, CA",elvis.lu@gmail.com,,,,33,170,18,2011-10-03T21:20:04Z,2025-06-07T05:16:58Z
+zhengy001,Yang Zheng,,,,,,,,6,2,0,2019-05-03T05:23:06Z,2025-03-04T04:26:49Z
+xu-song,Xu Song,JD.com,https://huggingface.co/xu-song,"Beijing, China",xusong.vip@gmail.com,,,,105,94,546,2015-08-17T01:17:20Z,2025-11-06T11:48:56Z
+charlotte12l,Xingyu Liu,Harvard University,,,,,LLM Inference@Meta | SciPy&Pythran@GSoC'21.,,36,55,31,2018-04-10T09:14:54Z,2025-09-11T04:46:50Z
+Ximingwang-09,,Ant Group,,,,,,,8,2,1,2020-09-29T08:23:47Z,2025-10-08T16:13:53Z
+Lucaskabela,Lucas Kabela,@pytorch-labs ,https://lucaskabela.github.io/,,lucaskabela@meta.com,True,If I'm not pushing weights in the gym I'm probably pushing code 💪,,16,28,17,2016-08-11T01:25:51Z,2025-08-12T17:12:15Z
+kfhfar,Fardin Hoque,Amazon Web Services,,Seattle,kfhfar@amazon.com,,ML Software Engineer in AWS Bedrock. Currently working on Open Source Model Inference Optimizations.,,1,0,0,2025-08-01T17:56:48Z,2025-10-10T04:51:40Z
+faaany,Fanli Lin,Intel,,"Shanghai, China",fanli.lin@intel.com,,AI Frameworks Engineer,,23,24,24,2016-12-09T14:11:19Z,2025-09-24T11:03:54Z
+seemethere,Eli Uriegas,@pytorch,https://terriblecode.com,California,,,I'm on the team that does developer infrastructure for @pytorch and related projects!,_seemethere,220,319,52,2012-05-03T01:51:23Z,2025-10-28T04:49:28Z
+dllehr-amd,Douglas Lehr,AMD,,,,,Deep Learning @AMD,,20,6,1,2021-09-28T15:15:49Z,2025-07-25T22:31:22Z
+Dinghow,Dinghow Yang,NVIDIA,https://dinghow.site,"Hangzhou, China",DinghowYang@gmail.com,,"
+    Let life be beautiful like summer flowers~
+
+",,44,154,96,2017-01-12T10:02:13Z,2025-10-24T07:58:30Z
+dhiaEddineRhaiem,Dhia Eddine Rhaiem,@tiiuae,https://www.linkedin.com/in/dhia-eddine-rhayem-86857317a/,"Abu Dhabi, UAE",,,Quant | AI Research Engineer | Falcon LLM,DhiaRhayem,11,5,0,2024-03-12T07:33:30Z,2025-11-05T11:41:41Z
+dcampora,Daniel Cámpora,,,Spain,,,,,22,18,5,2011-08-05T13:02:24Z,2025-07-24T09:33:38Z
+coreylowman,Corey Lowman,"Lambda, Inc.",,,coreylowman1@gmail.com,True,,,47,235,2,2014-06-04T00:27:29Z,2025-11-01T23:05:17Z
+conroy-cheers,Conroy Cheers,,,"Melbourne, Australia",conroy@corncheese.org,,,,65,12,3,2014-10-19T22:36:19Z,2025-10-28T09:47:31Z
+smarterclayton,Clayton Coleman,Google,,North Carolina,smarterclayton@gmail.com,,Kubernetes maintainer and general repair bot,smarterclayton,210,1465,0,2011-10-31T18:34:38Z,2025-11-05T17:33:02Z
+chiragjn,Chirag Jain,@truefoundry ,https://chiragjn.github.io,"Mumbai, India",jain.chirag925@gmail.com,True,Machine Learning Engineer,,74,226,400,2014-12-25T09:14:24Z,2025-10-25T14:02:54Z
+fake0fan,Chenguang Zheng,,,Hong Kong,,,"CUHK CS Ph.D
+",,2,29,44,2015-10-11T04:15:33Z,2025-10-27T06:07:12Z
+Jason-CKY,Cheng Kuan Yong Jason,,,,jasoncky96@gmail.com,,Just a guy doing some code,,37,10,6,2017-04-16T06:37:45Z,2025-10-22T11:14:57Z
+Chen-0210,Chen1022,,,,chenjincong11@gmail.com,,,,4,4,5,2022-09-05T08:03:06Z,2025-11-06T06:56:10Z
+what-in-the-nim,Chatcharin Sangbutsarakum,,,,,,Biomedical Engineering | Mahidol University,,15,11,7,2020-07-02T16:48:21Z,2025-11-05T15:50:50Z
+casper-hansen,Casper,,,"Copenhagen, Denmark",,,,,45,705,1,2017-04-12T08:24:53Z,2025-10-21T08:42:57Z
+caiom,Caio Mendes,@Microsoft,,São Paulo,caioctmendes@gmail.com,,,,18,3,0,2015-02-05T14:11:05Z,2025-10-15T19:50:04Z
+h-brenoskuk,Breno Baldas Skuk,,,,,,,,1,0,0,2025-04-07T13:19:21Z,2025-07-31T13:03:48Z
+LunrEclipse,Brendan Wong,,,"Berkeley, California",,,EECS @ Berkeley '25,,15,20,12,2018-01-11T23:17:44Z,2025-11-02T12:53:39Z
+FurtherAI,Austin Veselka,Lighton,,,,,"Toward AGI.
+
+LLM R&D Engineer at Lighton.",,14,1,0,2019-05-15T02:12:56Z,2025-10-24T03:23:26Z
+wuisawesome,Alex Wu,,http://alexwu.io,"Berkeley, CA",,True,,,32,36,2,2013-03-27T01:32:46Z,2025-10-25T02:17:43Z
+sakogan,Alex Kogan,,alexkogan.info,"Burlington, MA",,,"Machine Learning, Performance Analysis, Parallel Programming and more",,5,2,0,2021-04-09T14:49:55Z,2025-08-18T12:58:18Z
+adobrzyn,Agata Dobrzyniewicz,,,,,,,,2,2,1,2024-02-16T11:52:06Z,2025-03-03T16:31:19Z
+Abirdcfly,,,abirdcfly.eth,Beijing,fp544037857@gmail.com,True,"Gophers, Kubernetes, Python, Vim; he/him; ",,359,151,743,2013-07-27T02:33:36Z,2025-09-11T14:34:26Z
+chi2liu,633WHU,PayPal,,"Shanghai, China",cliu_whu@yeah.net,True,,,25,91,26,2016-06-10T17:51:56Z,2025-07-30T17:01:41Z
+lionelvillard,Lionel Villard,IBM,http://researcher.watson.ibm.com/researcher/view.php?person=us-villard,"Yorktown Heights, NY",villard@us.ibm.com,,,,127,31,0,2014-02-05T20:39:23Z,2025-09-28T11:38:57Z
+Liangliang-Ma,Liangliang Ma,,,,liangliang.ma@intel.com,,,,17,5,4,2016-02-10T11:52:22Z,2025-09-15T08:06:34Z
+lhtin,Lehua Ding,Tencent,https://lhtin.github.io/01world/,Shenzhen,lehuading@qq.com,,diving into the binary world,,94,46,89,2015-07-04T05:48:21Z,2025-08-27T07:22:17Z
+IwakuraRein,Lain,Nvidia,thecger.com,"Santa Clara, CA",siyuanf@nvidia.com,,,AlexFu8304,58,29,25,2017-05-06T14:02:57Z,2025-10-23T17:15:44Z
+kyuyeunk,Kyuyeun Kim,,,,,,,,4,2,0,2020-03-10T14:35:31Z,2025-10-31T20:45:55Z
+kevin314,Kevin Lin,,,,,,,,15,3,1,2018-08-22T17:35:20Z,2025-11-02T09:23:16Z
+kerthcet,Kante Yin,,ky.dev,"Cambridge, UK",kerthcet@gmail.com,True,Building AI Infrastructure @hiverge @InftyAI ,kerthcet,112,214,0,2016-04-09T11:40:29Z,2025-11-05T18:35:03Z
+Jun-Howie,,,,,,,,,29,9,90,2020-03-30T05:18:31Z,2025-10-30T02:51:36Z
+jpvillam-amd,Juan Villamizar,,,,,,,,8,4,0,2022-02-22T20:22:19Z,2025-10-21T16:11:00Z
+jonghyunchoe,Jonghyun Choe,Carnegie Mellon University,jonghyunchoe.github.io,Pittsburgh,andy.choe729@gmail.com,,"MSCS @ Carnegie Mellon University
+
+",jonghyunc_,12,33,92,2019-07-04T05:37:54Z,2025-11-02T13:07:58Z
+jberkhahn,Jonathan Berkhahn,IBM,,,jaberkha@us.ibm.com,,,,50,23,2,2013-11-06T19:40:31Z,2025-11-05T20:31:43Z
+1195343015,Jiayi Yan,Northwestern Polytechnical University(NWPU),,中国-西安,,,,,16,2,5,2020-05-27T13:20:28Z,2025-09-16T04:10:35Z
+sfc-gh-zhwang,Flex Wang,,,,,,,,7,1,3,2023-05-30T19:07:09Z,2025-11-03T16:03:55Z
+flaviabeo,Flávia Béo,,https://linktr.ee/flaviajanine,,,,Research Software Engineer at IBM ,,22,8,2,2022-11-29T12:47:24Z,2025-09-22T16:59:17Z
+fpaupier,Frαnçois,fpaupier engineering services,https://fpaupier.fr,Paris,,True,Software  Engineer,fpaupier,81,65,214,2017-06-06T07:41:29Z,2025-06-18T15:06:15Z
+gracehonv,Grace Ho,NVIDIA,,Santa Clara,,,LLM inference performance,,4,1,0,2023-09-29T19:00:14Z,2025-07-02T21:13:14Z
+hbikki,Harsha vardhan manoj Bikki,,http://webster.csc.villanova.edu/~webber50/Myproject.php,Seattle,,True,Graduate Student in computer science.,,10,1,0,2018-05-17T16:10:39Z,2025-05-19T22:09:42Z
+hyoon1,Hosang,,,,,,,,25,1,0,2024-01-08T22:29:29Z,2025-11-03T20:48:39Z
+hliuca,Hui Liu,,,,,,,,1,8,1,2021-12-14T16:31:31Z,2025-02-21T18:35:13Z
+hyeygit,Hyesoo Yang,Google,,,,,,,8,25,0,2018-11-20T18:13:43Z,2025-09-18T00:31:44Z
+eltociear,Ikko Eltociear Ashimine,,,"Tokyo, Japan",,,"AI-driven developer @ Tokyo.
+Loves 🎸/🐈/🍛/🏝/⛰",,61,1248,6,2016-10-05T07:58:42Z,2025-10-20T01:14:54Z
+Etelis,Itay Etelis,,,,,,Researcher @ IBM,,46,10,8,2021-10-10T07:53:59Z,2025-10-21T05:13:12Z
+JJJYmmm,JJJYmmm,,jjjymmm.cn,,,,Prev Intern@Qwen,,22,44,5,2021-10-12T15:09:23Z,2025-11-05T05:10:35Z
+jianzs,Jade Zheng,,,"Hangzhou, China",zheng.shoujian@outlook.com,,Keep Thinking.,,22,53,83,2016-06-27T05:11:01Z,2025-09-19T06:08:37Z
+JArnoldAMD,Jeremy Arnold,AMD,,"Rochester, MN",,,,,2,0,0,2022-04-12T21:44:50Z,2025-08-10T05:23:16Z
+xiao,Xiao Ma,Medium,https://medium.com/@xiaoma,,,,Hacker/scientist. I believe the ultimate goal of technology is to help people live better. Build systems @Medium @PatternInsight PhD @IllinoisCS @UCSanDiego,,2,93,19,2012-04-25T08:10:02Z,2025-01-24T05:06:05Z
+wes,Wes Edling,Joe Designs,https://joedesigns.com,Albuquerque,wes@joedesigns.com,True,,,36,43,15,2008-12-05T09:36:48Z,2025-10-31T06:44:24Z
+wenxiang,Wenxiang Wu,Zopim Technologies Pte Ltd,http://www.zopim.com,Singapore,wx@wenxiang.me,,,,13,15,1,2010-01-06T07:43:49Z,2025-09-21T22:45:56Z
+wrh,Wendelin Reich,VIRTUAL BEINGS,https://virtualbeings.co/,France,,,CEO of VIRTUAL BEINGS. We make AI characters come to life!,,14,3,1,2012-04-29T20:57:02Z,2025-10-01T08:29:45Z
+zhuofan,,,,,,,,,1,0,0,2019-02-05T02:55:28Z,2022-05-28T11:04:08Z
+Zhikaiiii,,Tsinghua University,,Beijing,,,,,16,12,5,2019-09-28T12:16:51Z,2025-10-25T00:40:16Z
+YunMeng,丶CccoccC,,,,,,,,0,0,0,2015-02-26T03:12:57Z,2016-02-28T01:44:31Z
+Yu-Zhou,YuZhou_Isabella,"Roku, Inc.",https://yu-zhou.github.io/personal-blog,"Sunnyvale, CA",,True,Search Relevance & Deep Learning,,6,2,1,2015-02-26T19:50:18Z,2025-06-15T18:06:15Z
+YiWenC,,,,,,,,,6,0,0,2018-12-17T12:52:50Z,2023-03-29T03:17:01Z
+shaoting,Fiona Duan,Adobe,,"Beijing, China",,,,,0,0,0,2012-08-17T00:58:12Z,2025-07-11T02:07:31Z
+serena,,,,,,,,,0,8,0,2008-08-21T16:48:18Z,2022-06-22T19:43:23Z
+SeongHyeon,,,,,,,,,0,0,0,2012-06-17T07:31:32Z,2015-04-07T15:59:12Z
+roy,Roy van der Meij,Undeveloped,http://royvandermeij.com,Netherlands,roy@royapps.nl,,,,36,26,7,2008-03-04T11:26:13Z,2025-07-23T17:59:04Z
+RonaldBXu,,,,,,,,,3,1,1,2020-10-12T13:45:35Z,2025-07-09T05:39:26Z
+vladimir,Vladimir Milošević,@logicandrhythm,http://milosevic.org/,"San Francisco, California",,,,vkm,0,44,1,2010-10-09T05:03:05Z,2024-11-13T01:08:21Z
+vensen,,,,,,,,,0,0,0,2014-03-17T15:25:20Z,2016-02-27T14:46:59Z
+uranus,,,,,,,,,0,1,1,2012-08-31T10:40:42Z,2025-07-20T19:55:52Z
+TimWang,timspac,G-Net,,Beijing,tim.spac@gmail.com,,,,1,1,0,2011-01-14T07:43:20Z,2015-04-09T20:19:13Z
+usberkeley,,,,,,,,,12,2,17,2023-11-15T03:51:45Z,2025-08-21T08:46:09Z
+toncao,toncao,,,,,,ton@cyan.kiwi,,8,0,0,2023-04-13T16:45:59Z,2025-11-03T12:32:54Z
+tc-mb,,,,,,,,,9,32,1,2024-01-19T10:41:33Z,2025-10-24T08:48:20Z
+tastelikefeet,tastelikefeet,,,,,,,,24,83,0,2019-12-02T06:12:59Z,2025-10-09T07:40:23Z
+sumitd2,Sumit Dubey,IBM,www.ibm.com,India,,,IBM Power (ppc64le) Porting Team Member,,27,4,0,2021-09-27T05:53:13Z,2025-08-19T10:43:40Z
+sstamenk,Strahinja Stamenkovic,AMD,,"Nis, Serbia",strahinja.stamenkovic@amd.com,,,,6,1,0,2024-05-23T12:47:12Z,2025-10-21T12:24:45Z
+simpx,simpx,,,,simpxx@gmail.com,,,,87,63,69,2010-08-15T14:22:02Z,2025-10-11T04:35:58Z
+sfbemerk,,,,,,,,,2,2,0,2011-04-15T13:36:35Z,2025-07-23T20:38:15Z
+rouchenzi,rouchenzi,,,,,,,,4,2,0,2018-07-05T00:22:57Z,2025-09-30T03:57:53Z
+omer-dayan,,,,,,,,,13,6,1,2014-12-05T12:52:37Z,2025-06-07T16:06:06Z
+nunjunj,,,,,,,,,6,2,0,2022-05-26T08:40:21Z,2025-10-27T02:37:45Z
+ztang2370,,,,,,,,,6,0,6,2025-04-10T12:57:29Z,2025-09-17T16:44:12Z
+zhaotyer,,,,,,,,,14,1,8,2021-08-23T06:26:20Z,2025-09-11T15:16:02Z
+ywfang,,,,,,,,,0,0,0,2015-11-21T05:59:25Z,2016-02-28T14:34:08Z
+yugong333,,,,,,,,,1,0,0,2025-09-18T19:14:28Z,2025-10-21T16:06:33Z
+yitingdc,,,,,,,,,15,2,0,2019-12-30T07:52:14Z,2025-09-11T01:28:54Z
+xyxinyang,zhouchong,,,,,,,,6,0,0,2018-10-03T16:02:56Z,2025-11-06T13:42:50Z
+xsank,xsank,Alibaba,,"Hangzhou, China",xsank@foxmail.com,True,i am always on my way...,,26,97,28,2012-04-20T01:29:39Z,2025-09-28T03:30:27Z
+xiao-llm,xiao-llm,,,,,,,,1,0,0,2025-08-04T21:38:38Z,2025-09-04T01:17:17Z
+xiangze-arm,,,,,Xiangze.Zhang@arm.com,,,,2,0,0,2025-08-15T03:28:53Z,2025-08-15T03:30:16Z
+xcnick,xcnick,,,Wuhan,xcnick0412@gmail.com,,,,18,1,0,2011-11-23T14:19:44Z,2024-09-23T04:17:48Z
+wenxindongwork,,,,,,,,,16,2,0,2024-02-23T23:14:23Z,2025-10-01T03:36:58Z
+wangln19,,,,,,,,,8,1,0,2021-12-20T01:17:20Z,2025-10-27T07:32:04Z
+haoyangli-amd,,,,,lihaoyang0109@gmail.com,,,,9,1,2,2025-07-28T07:54:02Z,2025-09-19T08:20:09Z
+gmagogsfm,,,,,,,,,24,29,8,2012-06-05T03:14:42Z,2025-09-25T16:57:15Z
+fyuan1316,fyuan1316,alauda.io,,beijing,yuanfang@alauda.io,,,,82,2,2,2018-08-10T08:04:07Z,2025-10-10T09:44:40Z
+felixzhu555,,,,,,,,,13,6,4,2021-02-19T19:58:12Z,2025-10-15T05:54:32Z
+explainerauthors,,,,,,,,,3,0,0,2023-11-26T17:36:22Z,2023-11-26T17:36:22Z
+ericehanley,,,,,,,,,12,0,0,2025-04-03T18:23:18Z,2025-06-23T21:31:57Z
+dsinghvi,Deep Singhvi,@fern-api,https://buildwithfern.com/,NYC,deep@buildwithfern.com,,SDKs and Docs for your API,,140,75,28,2015-02-05T18:20:06Z,2025-11-05T21:13:03Z
+danieljannai21,,,,,,,,,4,0,0,2022-02-27T13:27:42Z,2025-04-09T17:52:31Z
+dancingpipi,,,,,,,,,7,5,11,2016-07-18T07:06:37Z,2025-11-03T10:51:40Z
+codethazine,,,,,,,bunch of stuff,codethazine,22,22,13,2018-07-23T14:28:32Z,2024-03-04T18:40:27Z
+bingchen-mi,,,,,,,,,2,1,0,2025-08-26T07:31:17Z,2025-09-02T08:49:34Z
+billishyahao,,AMD,,,yahao.he@gmail.com,,,,38,19,49,2021-12-20T05:29:29Z,2025-10-29T10:31:37Z
+baonudesifeizhai,,stevens institute of technology,,,,,,,60,5,200,2021-05-31T04:35:43Z,2025-10-10T08:10:37Z
+ajayvohra2005,,AWS,,Michigan,ajayvohr@amazon.com,,"Amazon
+University of Michigan",,22,8,0,2013-03-15T01:56:13Z,2025-10-28T00:29:38Z
+milo157,,,,,,,,,13,4,0,2018-09-06T07:31:47Z,2025-11-04T03:33:06Z
+milesial,,NVIDIA,https://milesial.github.io,,,,,,28,206,2,2017-07-16T00:05:07Z,2025-10-03T01:18:29Z
+maobaolong,maobaolong,Tencent.com,https://blog.csdn.net/maobaolong/article/details/107971688,Beijing,307499405@qq.com,,"say you say me say it together naturally 
+https://blog.csdn.net/maobaolong
+https://www.yuque.com/maobaolong/
+",,69,148,124,2016-02-19T05:24:20Z,2025-10-28T03:24:21Z
+maang-h,maang-h,,,,,,,,6,3,3,2019-09-09T08:31:20Z,2025-06-24T06:14:05Z
+li2haipeng,,,,,,,,,20,4,2,2018-10-22T22:58:33Z,2025-09-06T18:54:20Z
+leon-seidel,,,,,,,,,12,7,7,2021-05-10T20:34:54Z,2025-09-06T05:56:45Z
+ldwang,Long(Daniel) Wang,,,"Calgary, Canada",,,,,26,4,5,2011-11-02T16:14:28Z,2025-10-05T02:59:31Z
+jon-chuang,,,,San Francisco,,,"Jonathan Chuang |
+Part-time neocortical rewirer",,82,191,302,2014-10-08T20:52:57Z,2025-10-15T23:23:23Z
+jennyyyyzhen,,Meta,,,,,,,2,2,1,2019-01-24T21:21:42Z,2025-10-05T23:22:21Z
+inkcherry,,,,,,,mingzhi.liu@amd.com,,50,73,134,2017-04-15T14:17:15Z,2025-10-10T11:50:19Z
+hustxiayang,,,,,,,,,25,3,20,2014-11-01T03:22:02Z,2025-07-30T04:38:55Z
+hhzhang16,,,,,,,,,5,6,0,2019-08-13T03:11:05Z,2025-09-09T01:45:40Z
+hfan,,,,,,,,,18,18,0,2011-12-15T21:06:39Z,2025-09-22T16:47:50Z
+harrywu,,,,,,,,,1,0,0,2012-07-08T03:52:07Z,2021-06-16T00:42:21Z
+ExtReMLapin,,Alphabet boys,,Stacking up at your door,,,"I used to be writing lua for gmod, now I glow in the dark.
+
+Pinned projects are Lua, contributions are mostly python",,73,93,0,2013-03-19T12:54:40Z,2025-10-28T14:58:07Z
+eric,Eric Lindvall,@fancybits ,http://bitmonkey.net,"Seattle, WA",eric@5stops.com,,,lindvall,211,272,40,2008-02-20T00:45:54Z,2025-10-16T01:29:26Z
+DearPlanet,,NetEase,,"Guangzhou, China",junsong.zhang2021.work@outlook.com,,,,5,1,5,2023-10-29T12:06:25Z,2025-09-26T12:41:33Z
+Daisy-Ma-coder,,,,,,,,,1,1,0,2025-06-05T07:20:13Z,2025-10-24T16:31:09Z
+Csrayz,,,,,,,,,10,0,0,2017-11-14T13:23:52Z,2025-10-31T12:12:03Z
+Hanchenli,,,,,,,"Adding bio to Github user Hanchenli...
+Profile picture ""©§©"" could not be resolved! 
+Program Aborted",,31,22,9,2020-03-04T03:43:02Z,2025-09-23T18:43:25Z
+haichuan,,,,,,,,,4,1,1,2012-02-16T14:47:53Z,2015-04-07T15:32:14Z
+h,Samuel Hoffstaetter,,linkedin.com/in/hoffstaetter,San Francisco,,, CTO @ Short Story,,21,157,13,2013-03-13T14:47:30Z,2025-10-21T04:26:10Z
+GuanLuo,,Nvidia Corporation,gluo@nvidia.com,Santa Clara,,,alias: @GHLghhh,,5,32,1,2018-07-17T00:29:38Z,2025-10-23T17:57:30Z
+FlorianJoncour,,,,France,,,,,4,1,0,2023-10-15T17:40:18Z,2025-08-31T16:30:52Z
+sydarb,Areeb Syed,,,,areebsyed237@gmail.com,,,,26,1,5,2021-02-13T13:36:42Z,2025-09-11T13:42:54Z
+AoyuQC,Aoyu,AWS Applied Scientist,,,aoyuzhang1989@gmail.com,,,,153,17,6,2013-06-29T06:27:12Z,2025-11-04T12:50:54Z
+annapendleton,Anna Pendleton,Google,https://www.linkedin.com/in/anna-pendleton-14601aba,,pendleton@google.com,,,,10,9,0,2015-08-14T06:33:21Z,2025-08-28T06:11:37Z
+atalman,Andrey Talman,Meta,,"Montreal, QC",,,,,41,48,0,2014-05-12T22:33:45Z,2025-11-04T23:26:10Z
+garg-amit,Amit Garg,,https://www.linkedin.com/in/garg-amit/,USA,,,Senior Data Scientist@Microsoft ,,36,8,32,2016-06-07T05:56:18Z,2025-08-06T22:02:19Z
+tmm1,Aman Karmani,,,California,aman@tmm1.net,,"building Cursor @anysphere.
+
+formerly @github, creator of the merge button.
+
+founder @fancybits contributor to golang and ffmpeg.",tmm1,438,2961,138,2008-03-08T02:10:31Z,2025-11-03T14:41:58Z
+c3-ali,Ali Panahi,,,,,,,,5,3,6,2020-04-20T13:38:48Z,2025-04-19T08:15:28Z
+anmarques,Alexandre Marques,Neural Magic,,"Somerville, Massachusetts USA",almarque@redhat.com,,Scientist specialized in numerical models and computational algorithms. Focus on Machine Learning.,,5,9,0,2016-04-12T15:40:50Z,2025-10-01T19:32:41Z
+AlexHe99,AlexHe99,AMD,,Shanghai,alehe@amd.com,,Alex He currently the role that focuses on expanding AMD's AI Solution from Datacenter to Edge.,,15,4,4,2024-06-07T04:27:35Z,2025-08-22T07:03:44Z
+Akshat-Tripathi,Akshat Tripathi,Krai,,London,Akshat.tripathi6568@gmail.com,,R&D @ Krai,,27,28,26,2017-08-11T18:10:30Z,2025-09-10T11:39:32Z
+adabeyta,Adrian Abeyta,RedHat,,,aabeyta@redhat.com,,,,2,0,0,2025-08-18T22:13:01Z,2025-08-25T21:29:09Z
+nie3e,Adrian,,,,,,,,16,0,0,2020-07-30T18:17:27Z,2024-03-27T20:18:16Z
+agt,Adam Tilghman,University of California San Diego,,"La Jolla, CA",agt@ucsd.edu,,"Higher-ed systems integration, development.",,11,5,1,2015-03-25T03:03:31Z,2025-09-22T20:03:55Z
+Tostino,Adam Brusselback,"Retired, for now.",,"Tampa, FL",adambrusselback@gmail.com,,,,59,16,5,2014-07-21T18:54:04Z,2025-10-30T14:01:46Z
+abhigoyal1997,Abhinav Goyal,,,,,,Senior Data Scientist at Flipkart,,14,15,3,2016-01-12T16:53:16Z,2025-07-18T12:48:00Z
+aaron-ang,Aaron Ang,UC San Diego,aaron-ang.notion.site,,,True,,,38,26,6,2020-06-23T11:50:43Z,2025-11-03T18:16:05Z
+vermouth1992,Chi Zhang,USC -> ByteDance,https://sites.google.com/view/chizhang-usc/,Los Angeles -> Shanghai,czhangseu@gmail.com,,Applied Machine Learning/Machine Learning Systems,,35,277,22,2015-01-24T15:23:06Z,2025-10-31T05:54:26Z
+cli99,Cheng Li,Black Forest Labs,cli99.com,,,,@black-forest-labs. ex-Databricks Mosaic AI. ex-Microsoft DeepSpeed. UIUC PhD. I build efficient AI training and inference systems with GPUs.,,74,114,9,2016-02-22T22:51:18Z,2025-09-16T16:53:43Z
+wcwuwc,Chen Wu,,,"Beijing, China",,,,,2,1,11,2020-10-14T05:31:52Z,2025-10-21T11:11:40Z
+wangchen615,Chen Wang,"Red Hat,  @IBM",https://research.ibm.com/people/chen-wang,Yorktown Heights,,,,wangchen615,90,100,168,2018-05-23T23:03:34Z,2025-10-25T02:02:13Z
+chanh,Chanh Nguyen,Linkedin,,"Bay Area, CA",chanhnguyen@gmail.com,,,,11,8,1,2010-11-12T22:54:40Z,2025-10-17T22:01:53Z
+CalebDu,Caleb_Du,ZheJiang University,,shanghai,,,"MLsys, ML, HPC, AI accelerator",,17,42,20,2020-01-05T10:14:21Z,2025-09-18T17:59:01Z
+chu-tianxiang,CHU Tianxiang,Alibaba,http://twistypuzzles.cn/,China,chutianxiang@gmail.com,,,,11,56,1,2016-09-18T11:06:09Z,2025-07-23T02:54:29Z
+bvrockwell,Brittany,,,,,,,,4,1,0,2017-01-05T21:13:59Z,2025-11-05T14:21:26Z
+BowenBao,Bowen Bao,@AMD,,,bowenbao@amd.com,,,,73,79,21,2014-10-24T03:55:38Z,2025-10-31T15:23:55Z
+bong-furiosa,Bongwon Jang,,,,,,bongwon.jang@furiosa.ai,,3,0,0,2023-11-29T23:32:44Z,2024-10-29T01:51:48Z
+FoolPlayer,Bin Jia,ByteDance Seed,,Singapore,,,MLSys | Computer Science Master @ NUS,,15,46,17,2018-12-04T11:16:06Z,2025-08-21T12:27:12Z
+kzjeef,Asher,,,,,True,,,71,26,30,2009-08-10T02:04:51Z,2025-10-27T18:30:25Z
+ariG23498,Aritra Roy Gosthipaty,@huggingface,ariG23498.github.io,"Kolkata,WestBengal",aritra.born2fly@gmail.com,,MLE at @huggingface,ariG23498,109,378,13,2018-02-26T16:22:45Z,2025-10-08T13:41:02Z
+MoeedDar,,,,,,,,,18,12,1,2017-07-09T16:04:01Z,2025-10-01T22:52:55Z
+rex,ᴘɪᴇʀᴄᴇ ᴍᴏᴏʀᴇ™,@driveshack ,https://piercemoore.com,"Dallas, Texas",,True,Senior DevOps Engineer at @driveshack ,PierceMakes,73,53,16,2013-04-24T17:16:19Z,2025-11-05T08:56:16Z
+ram,,,,,,,,,1,17,0,2008-12-12T17:53:38Z,2022-09-18T13:54:34Z
+raghavan,Raghavan Lakshmana,,www.raghavan.studio,United States,,,Software Engineer,raghavan_kl,50,34,15,2009-09-26T12:56:23Z,2025-10-07T11:50:50Z
+Pradyun92,,,,,,,,,4,2,0,2023-08-22T02:53:49Z,2025-11-04T18:31:48Z
+percy,Percy,,https://percy.io,San Francisco,hello@percy.io,,Your all-in-one visual review platform.,percy_io,110,88,0,2015-05-05T20:09:42Z,2025-09-12T12:50:07Z
+Naveassaf,Nave Assaf,NVIDIA  ,,,,,,,10,2,1,2019-09-08T16:59:10Z,2025-10-19T10:21:57Z
+icey,,,,,,,,,1,0,0,2012-06-04T06:14:12Z,2015-04-07T15:56:17Z
+lifans,,,,,,,,,2,0,0,2014-07-26T08:37:44Z,2021-03-08T11:00:48Z
+Kwai-Keye,,,,,,,,,5,31,0,2025-06-17T07:29:40Z,2025-10-30T14:33:35Z
+joe,,,,,,,,,5,26,0,2008-02-25T00:03:12Z,2024-02-22T13:59:25Z
+Jingru,Adspectum,,,,,,,,6,7,0,2013-04-30T04:20:29Z,2025-10-17T12:31:55Z
+xuruiyang,Ruiyang Xu,,,,,,,,14,5,0,2013-09-07T19:58:55Z,2025-09-19T23:23:39Z
+YHPeter,,,https://yhpeter.github.io/,Canada,,,"Mila, McGill CS M.S., interested in NLP, RAG and Data Analysis.",,18,14,2,2018-10-14T00:27:28Z,2025-11-05T04:00:09Z
+YajieWang,,,,,,,,,2,0,0,2015-09-11T05:40:23Z,2020-11-16T22:24:06Z
+YamPengLi,Yanpeng Li,,,,,,,,6,5,0,2025-02-25T09:58:10Z,2025-07-20T11:51:20Z
+Zuxin,Zuxin,,https://soundcloud.com/zuxin,,,,真实猛男,,4,12,49,2015-09-13T05:39:35Z,2024-08-03T02:19:55Z
+weicheng,,,,,,,,,2,4,0,2010-01-13T18:05:13Z,2025-06-16T21:20:57Z
+wei,Wei He,,wei.sh,Florida,github@weispot.com,True,👨‍💻 Full Stack Engineer | ☁️ Solutions Architect Expert | 💼 M.B.A.,weicodes,134,965,242,2013-11-07T16:02:43Z,2025-10-18T21:25:55Z
+wanghuaqiang,,,,,,,,,2,0,0,2016-01-06T05:51:24Z,2016-02-28T15:58:51Z
+wanmok,Yunmo Chen,The Johns Hopkins University,https://omnuy.me,"Baltimore, MD US",,,learn to learn,,10,28,25,2015-12-13T04:30:38Z,2025-11-02T05:08:21Z
+www,,,,,,,,,0,0,0,2025-10-28T16:47:29Z,2025-10-28T17:02:55Z
+wangwei,,,,,,,,,1,2,0,2011-01-23T05:55:56Z,2013-12-27T18:02:48Z
+selali,,,,,,,,,0,0,1,2019-11-17T08:22:35Z,2019-11-17T08:22:36Z
+XERXES,,,,,,,,,0,6,0,2010-01-15T16:59:30Z,2020-05-05T22:24:37Z
+Went-Liang,Went-Liang,,,,wenteng_liang@163.com,,,,13,20,4,2021-09-24T08:02:21Z,2025-07-02T07:30:59Z
+zinccat,ZincCat,,https://shiji.xin,,,,Randomness is all you need,,102,172,736,2019-07-04T00:10:14Z,2025-10-25T11:49:32Z
+zhiyu,SuperHulk,,,"Beijing,China",zhengzhiyu@yeah.net,True,,,34,187,19,2010-05-28T07:13:52Z,2025-11-06T09:05:00Z
+amirai21,,,,,,,,,18,0,0,2021-09-01T08:35:31Z,2025-07-21T08:06:22Z
+ameyanjarlekar,,IIT Bombay,https://ameyanjarlekar.github.io/,Mumbai,,,,,23,4,2,2018-07-04T14:56:20Z,2025-10-04T00:16:15Z
+Amaleshvemula,,,,,,,,,0,0,0,2016-12-14T18:44:18Z,2022-09-19T16:37:29Z
+almersawi,,,,,,,,,27,2,5,2018-10-07T10:47:04Z,2025-10-11T06:50:49Z
+aladerran,,MS@Brown,,"Providence, RI",,,,,10,6,8,2022-07-01T12:26:55Z,2025-11-02T22:33:46Z
+akxxsb,akxxsb,,,,,,,,14,10,10,2015-07-05T03:10:53Z,2025-09-07T13:21:51Z
+akhoroshev,,,,Saint-Petersburg ,,,,,27,10,5,2017-03-12T21:06:28Z,2025-10-15T06:24:10Z
+aiyiwang2025,,Tencent,,,aiyiwang@tencent.com,,,,1,1,0,2025-06-26T03:05:19Z,2025-07-10T17:08:17Z
+aisensiy,aisensiy,,,,,,,,271,0,0,2011-03-10T12:15:52Z,2025-10-20T08:14:14Z
+ai-jz,,,,,,,,,13,0,1,2024-01-18T05:26:36Z,2025-10-26T01:20:29Z
+adityagoel14,,,,,,,,,3,0,0,2024-05-20T20:46:09Z,2024-07-12T14:16:49Z
+acisseJZhong,,,,,,,,,21,7,3,2018-06-21T14:49:38Z,2025-02-10T05:47:24Z
+abhisheksheth28,,,,,,,,,2,1,1,2025-06-10T19:09:11Z,2025-07-31T15:57:13Z
+a2q1p,,,,,,,,,3,2,11,2025-04-03T11:32:57Z,2025-04-26T08:15:18Z
+a120092009,,,,,,,,,10,4,1,2017-10-29T20:21:23Z,2025-11-05T01:20:40Z
+Zzz9990,,,,,,,,,0,0,0,2025-02-27T09:01:17Z,2025-10-28T12:44:41Z
+yiming,,,,,,,,,10,6,3,2010-07-15T19:58:52Z,2025-10-25T11:33:39Z
+Zazzle516,,,,,,,,,17,2,10,2021-01-20T10:02:07Z,2025-10-16T14:35:34Z
+ZSL98,,,,,,,,,54,45,6,2018-02-08T01:34:30Z,2025-09-23T09:08:27Z
+York-RDWang,,,,,,,,,2,0,0,2022-04-16T06:26:08Z,2025-05-27T02:59:16Z
+yizhou,,,,,,,,,5,5,1,2012-12-12T07:59:45Z,2024-08-19T22:09:42Z
+YingchaoX,,,,,,,,,10,6,5,2013-03-14T06:05:26Z,2025-10-16T02:58:32Z
+Se7eN,,,,,,,,,0,5,0,2009-05-31T22:45:09Z,2019-12-17T01:27:38Z
+Sara-KS,,,,,,,,,9,1,0,2019-05-03T19:51:29Z,2025-09-17T19:13:26Z
+samit,,,,,,,,,11,2,0,2011-08-03T20:20:05Z,2021-05-17T04:37:23Z
+sherry,SHERRY,,,,,,Well-Brewed Web Development Solution,,1,0,0,2018-11-21T10:30:36Z,2018-11-21T16:56:01Z
+RoadToNowhereX,,,,,,,,,15,1,0,2018-03-16T10:39:31Z,2025-07-28T11:59:22Z
+RishiAstra,,,,,,,,,8,2,1,2018-06-27T20:36:01Z,2025-08-30T16:16:24Z
+Richardomu,,,,,,,,,38,0,0,2017-11-12T06:03:34Z,2021-11-16T07:36:04Z
+remy,Remy Sharp,Left Logic / @leftlogic ,https://remysharp.com,"Brighton, UK",remy@leftlogic.com,True,JavaScript (node + client side) developer with web experience starting in 1999. Contact me for any work or questions about JS I might be able to help you with.,,355,7814,5,2008-06-14T07:24:29Z,2025-10-12T11:10:32Z
+ReinForce-II,Reinforce-II,,,,,,是银发兽耳百合萝莉!,,67,66,19,2016-07-31T06:32:32Z,2025-01-25T08:17:34Z
+Sage,Sage,,http://www.sage.com,"Newcastle, UK and worldwide",,,,,123,513,0,2008-09-11T17:35:18Z,2025-10-27T18:42:17Z
+RunningLeon,RunningLeon,openmmlab,https://runningleon.github.io,Shanghai Xuhui,,True,You are special.,,63,62,48,2017-05-13T11:46:18Z,2025-07-25T11:29:44Z
+TianyuLi0,,,,,,,,,6,3,0,2022-10-26T07:19:54Z,2025-08-19T02:08:25Z
+Tialo,,,,,,,,,35,7,1,2020-05-15T08:26:24Z,2025-08-27T17:25:05Z
+TechxGenus,TechxGenus,USTC,https://techxgenus.github.io/,,,,Study in University of Science and Technology of China at present.,,59,39,62,2020-02-27T09:08:31Z,2025-11-05T02:55:10Z
+vincent,Vincent Lark,,,France,vincent.lark@gmail.com,,,,122,98,76,2008-04-07T17:52:22Z,2025-09-21T09:39:40Z
+umesh,,,,,,,,,0,10,0,2008-08-05T09:22:24Z,2021-04-06T07:42:46Z
+SorenDreano,,,,,,,,,11,0,0,2020-09-23T06:51:41Z,2025-10-17T16:04:15Z
+snowcharm,,,,,,,,,0,0,0,2017-12-07T14:03:30Z,2022-05-06T09:34:15Z
+snehlata,,,,,,,,,0,0,0,2012-06-18T11:42:25Z,2015-04-07T15:59:23Z
+sin,Mateusz Sienkan,,,Poland,sin.mateusz@gmail.com,True,,s21n,39,38,14,2009-04-08T00:57:45Z,2025-10-30T02:16:14Z
+simon,Simon Lelievre,OVH ,,"Montreal, QC, Canada",,,,,24,61,18,2010-03-07T18:23:56Z,2025-10-15T15:22:31Z
+silencio,,,,,,,,,11,0,0,2012-06-05T21:34:25Z,2025-08-28T08:28:49Z
+sibi,,,,,,,,,0,3,0,2010-04-05T20:12:46Z,2015-04-09T19:50:59Z
+TankNee,TankNee,HITsz && HUST,https://www.tanknee.cn,ShenZhen WhuHan,nee@tanknee.cn,,Harbin Institute of Technology (ShenZhen) Postgraduate Student,,75,51,16,2018-10-08T11:09:16Z,2025-11-02T12:01:51Z
+TaehyunKim,Taehyun Kim,INISOFT,,Seoul,,,,,1,0,2,2014-03-25T16:03:42Z,2023-09-04T12:32:53Z
+Sugar-zsg,Sugar,,,"Beijing, China",,,"Don't be chaotic in your heart, don't be trapped by love. Don't fear the future, don't dwell on the past.",,6,1,3,2020-05-04T09:26:20Z,2025-11-03T13:02:48Z
+sugar,Michael V,,,"Los Angeles, California",dev@michaelv.co,True,dot connector,,5,3,0,2015-08-31T20:37:50Z,2025-09-16T05:24:47Z
+StanHatko,,,,,,,,,12,0,0,2018-04-12T02:08:50Z,2025-04-08T14:14:13Z
+sergey-tinkoff,,,,,,,,,1,0,0,2024-04-20T07:46:15Z,2024-06-09T07:32:05Z
+saumya-saran,,,,,,,,,1,0,0,2015-04-07T22:36:07Z,2025-09-28T05:44:43Z
+sangbumlikeagod,sangbumlikeagod,SOOP,,Seoul,,,,,17,18,24,2022-01-20T06:07:35Z,2025-11-05T13:47:06Z
+sakunkun,zhou.qianjun,ZTE Corporation,,,zhou.qianjun@zte.com.cn,,,,4,0,1,2021-04-26T08:56:13Z,2025-06-03T06:30:11Z
+runzhen,rz,,,USA,,,,,24,1,5,2017-09-26T08:06:33Z,2025-10-22T18:04:11Z
+roikoren755,,,,,,,,,36,3,0,2017-04-02T09:26:12Z,2025-10-24T11:42:02Z
+rohithkrn,,AWS,,Santa Clara,,,,,39,3,0,2012-07-07T19:23:22Z,2025-06-10T16:57:08Z
+rivos-shreeasish,,,,,,,,,1,0,0,2025-05-15T18:02:43Z,2025-09-15T18:55:56Z
+rishitdholakia13,,,,,,,,,2,0,0,2023-01-23T14:49:00Z,2025-10-31T05:27:36Z
+redmoe-moutain,,,,,,,,,4,5,0,2025-04-29T03:42:06Z,2025-10-31T13:16:23Z
+rebel-hongseok,,,,,,,,,1,1,0,2024-05-07T01:43:29Z,2025-10-27T14:44:37Z
+raywanb,Ray Wan,,,,,,EECS undergrad at UC Berkeley,,15,4,2,2022-08-27T05:55:39Z,2025-09-19T06:05:15Z
+rainkert,,,,,,,,,5,2,4,2021-11-02T07:32:08Z,2025-10-31T08:46:43Z
+zzh142857,zzh142857,,,,,True,,,5,4,4,2017-03-29T02:49:16Z,2025-11-05T17:53:56Z
+ttbachyinsda,ttbachyinsda,,,,zjkgfz@sina.com,,Coding...,,9,3,0,2015-10-10T05:17:07Z,2024-03-04T11:13:23Z
+tracelogfb,,,,,,,,,3,0,1,2019-03-21T20:34:03Z,2025-08-31T23:04:32Z
+tou,,,,,,,,,7,17,1,2012-07-14T13:48:10Z,2025-01-30T03:25:57Z
+tlipoca9,,@Tencent,,,,,,,27,2,3,2024-02-21T12:01:26Z,2025-10-21T03:45:56Z
+strinczer,,,,,strinczer@icloud.com,,,,1,0,0,2017-01-12T21:16:31Z,2025-10-28T14:18:32Z
+sohamparikh,,,,,,,,,32,5,0,2015-04-07T08:02:47Z,2025-08-12T04:30:41Z
+shunxing12345,,,,,,,,,12,2,0,2024-04-25T10:12:35Z,2025-09-12T03:18:59Z
+shunxing1234,,,,,,,,,25,10,0,2017-11-18T06:02:54Z,2023-11-02T07:42:58Z
+shivampr,,Amazon,,Seattle,,,"Senior Software Engineer @ Amazon 
+
+Architecting high-performance, cost-efficient commerce platforms at scale. ",,4,0,0,2017-06-06T11:14:43Z,2025-10-31T05:53:12Z
+shineran96,Wang changran,,,,,,,,1,0,0,2025-06-17T14:32:40Z,2025-11-05T08:36:48Z
+shengshiqi-google,,,,,,,,,5,0,4,2024-02-15T20:57:12Z,2025-10-29T22:55:24Z
+shaochangxu,,,,,,,,,8,0,0,2021-06-01T07:08:01Z,2025-06-26T03:01:02Z
+omahs,omahs,,,,,,,,2703,385,4,2020-11-05T06:36:51Z,2025-05-09T17:05:11Z
+noiji,,,,,,,,,14,3,4,2019-06-27T23:32:51Z,2025-06-13T04:33:07Z
+nishith-fujitsu,,,,,,,,,4,0,0,2023-07-17T04:14:30Z,2025-05-30T07:54:31Z
+nguyenhoangthuan99,,,,,,,,,37,4,2,2018-01-09T08:39:42Z,2025-11-06T00:40:57Z
+ngrozae,,,,,,,,,2,1,0,2022-04-20T12:05:42Z,2025-09-22T08:16:19Z
+nathan,Nathan,,,,,,,,0,0,0,2012-03-27T01:03:14Z,2025-10-26T22:59:07Z
+nadavkluger,,,,,,,,,5,0,3,2017-04-22T15:57:49Z,2025-09-04T13:16:44Z
+myselvess,,,,,,,,,2,1,0,2016-11-25T16:16:06Z,2025-07-31T06:58:33Z
+muzian666,,,,,,,,,16,4,17,2021-11-10T03:15:50Z,2025-11-04T13:54:10Z
+mohankku,,,,,,,,,37,0,7,2014-08-16T17:33:26Z,2025-11-04T18:09:13Z
+mofanke,,,,,,,,,33,2,4,2019-08-18T15:13:03Z,2025-11-04T15:54:22Z
+mobicham,,Dropbox,,"Berlin, Germany",,,,,3,43,3,2018-03-08T11:27:27Z,2025-11-05T08:53:23Z
+minmin,,,,,,,,,0,5,0,2010-02-01T10:28:17Z,2022-09-15T10:56:52Z
+mgazz,,IBM Research,,Dublin,michele.gazzetti1@ibm.com,,,,33,3,0,2014-04-29T12:08:04Z,2025-09-16T08:34:13Z
+qux-bbb,,,,,,,,,74,24,43,2016-04-21T15:14:22Z,2025-10-09T14:34:18Z
+Qizixi,,,,,,,,,0,1,1,2016-03-06T08:56:03Z,2018-09-03T01:29:36Z
+pyc96,Charles Chen,,,,,,,,5,0,0,2024-08-12T17:25:21Z,2025-10-14T00:36:50Z
+py-andy-c,Andy Chen,,,,,,,,20,0,1,2018-03-08T05:06:41Z,2025-09-11T04:11:07Z
+pushan,,,,,,,,,0,0,0,2011-07-19T10:16:03Z,2015-04-07T14:56:48Z
+ptarasiewiczNV,,,,,,,,,3,4,0,2022-05-04T12:51:41Z,2025-07-03T08:23:49Z
+pramenku,,,,Hyderabad,,,,,1,3,1,2014-05-22T03:13:42Z,2025-10-09T07:31:47Z
+phantomLei,,,,,,,,,0,0,0,2016-06-16T01:22:34Z,2018-12-13T18:37:26Z
+pengyuange,,,,,,,,,384,6,83,2014-08-04T15:28:33Z,2025-09-19T13:05:03Z
+paolovic,,,,,,,,,12,0,1,2021-09-21T18:59:55Z,2025-10-29T22:13:19Z
+pansicheng,pansicheng,,,,sicheng.pan.chn@gmail.com,,,,5,11,6,2017-04-16T04:03:32Z,2025-10-24T02:29:26Z
+panda,Steven Kotwal,,https://kotw.al,Florida,,,"devops enjoyer, software enthusiast ",,45,65,25,2014-06-14T06:27:26Z,2025-11-01T11:28:50Z
+orellavie1212,,,,,,,,,4,0,1,2023-02-26T13:19:17Z,2025-08-04T12:55:02Z
+orangeng,,,,,,,,,19,19,56,2017-11-11T00:33:24Z,2025-10-06T20:18:25Z
+zyddnys,,,,,,,,,53,206,17,2016-03-12T12:34:13Z,2025-10-09T04:37:18Z
+zxfan-cpu,,,,,,,,,1,0,0,2024-09-06T07:18:43Z,2025-10-22T08:44:33Z
+zsolt-borbely-htec,,,,,,,,,1,0,0,2024-10-22T14:19:44Z,2025-10-28T08:56:11Z
+zichongli5,,,,,,,,,12,2,1,2019-07-25T20:21:18Z,2025-11-02T00:19:35Z
+zhangjf,,,,,,,,,1,1,0,2011-04-10T07:27:44Z,2015-04-07T14:42:48Z
+zhang-prog,,,,,,,,,10,2,2,2020-08-12T02:44:21Z,2025-10-17T13:07:16Z
+zeppombal,,,,,,,,,9,2,2,2021-02-14T11:04:22Z,2025-10-23T12:47:23Z
+zejunchen-zejun,,,,,,,AMD developer,,4,1,6,2025-07-11T01:25:00Z,2025-11-05T04:31:27Z
+yyweiss,,,,,,,,,3,0,0,2020-09-02T03:40:29Z,2025-11-04T19:47:54Z
+yury-tokpanov,,,,,,,,,1,2,0,2020-06-15T18:45:03Z,2025-10-30T01:21:58Z
+yurhett,,Earth Inc,,,,,,,66,12,27,2019-01-06T13:21:39Z,2025-10-29T11:33:25Z
+yulei,,,,,,,,,58,16,1,2011-04-10T12:14:14Z,2025-10-10T12:25:23Z
+yueshen2016,,,,,,,,,2,3,1,2018-05-11T21:59:59Z,2025-06-06T22:45:12Z
+yudian0504,,,,,,,,,2,5,28,2023-07-07T07:39:08Z,2025-09-17T15:16:10Z
+yuafng,,,,,,,,,1,0,0,2025-09-30T05:00:13Z,2025-09-30T21:29:05Z
+yt0428,,,,,,,,,2,0,0,2019-06-07T02:52:52Z,2025-10-24T14:30:50Z
+zzhxxx,,,,,,,,,1,0,0,2020-02-21T03:27:27Z,2020-02-21T03:28:16Z
+wuhang,Wu Hang,,,Singapore,,,too young too simple sometimes naive,,30,8,31,2012-11-10T16:22:11Z,2025-09-13T21:55:48Z
+wnma,,,,,,,,,0,0,0,2012-05-03T08:30:22Z,2016-02-27T02:09:52Z
+wenyujin333,,,,,,,,,3,1,0,2024-03-12T03:25:53Z,2025-10-09T10:28:40Z
+wenjun93,wenjun93,,,,,,,,16,16,13,2016-01-21T13:47:57Z,2025-07-07T02:29:40Z
+weiliang,,,,,,,,,0,2,0,2011-04-27T17:21:46Z,2015-04-07T14:45:13Z
+wBn,Paolo C,,,,,,,,1,0,0,2013-02-25T17:14:32Z,2025-06-14T08:28:59Z
+wangcx18,Chenxiao Wang,,https://supaezai.com/,Earth,wangcx18@hotmail.com,True,,,19,14,68,2018-12-10T14:44:23Z,2025-10-15T08:26:14Z
+vlsav,,,,,,,,,8,0,0,2012-07-10T10:12:11Z,2025-11-05T21:24:42Z
+viravera,,,,,,,,,7,0,1,2012-10-24T04:36:21Z,2025-10-17T06:41:38Z
+vie-serendipity,,,,HangZhou,,,,,39,11,31,2020-01-20T03:31:24Z,2025-11-01T12:15:26Z
+tvirolai-amd,,,,,,,,,1,0,0,2024-11-08T11:14:15Z,2025-09-02T08:34:28Z
+tvalentyn,,,,,,,,,19,11,0,2014-10-26T22:59:45Z,2025-09-15T17:15:37Z
+yiz-liu,Yizhou,,,,,,,,3,3,0,2023-06-16T09:21:24Z,2025-10-16T12:59:57Z
+yhu422,,,,,,,,,4,0,0,2021-10-11T21:08:19Z,2025-08-26T03:08:38Z
+yhlskt23,,,,,,,,,1,0,0,2023-09-26T03:18:24Z,2025-08-28T13:40:42Z
+yasu52,,,,,,,,,23,1,2,2020-05-09T05:58:47Z,2025-10-23T06:25:19Z
+yanxiyue,yanxiyue,Cooder,cooder.org,,alex.yueye@gmail.com,,Do the right thing!,,39,10,8,2015-01-17T08:08:59Z,2025-10-29T14:17:14Z
+yankooo,yankooo,,www.ppxai.com,shenzhen,michael.liu1024@gmail.com,,,,91,22,107,2017-09-14T07:43:09Z,2025-10-08T12:01:07Z
+yangzhibin,,,,,,,,,0,1,0,2011-01-15T07:17:24Z,2020-04-25T01:00:52Z
+yancong,Yan Cong,,,,,,,,3,2,0,2014-01-28T16:28:03Z,2023-03-08T22:50:25Z
+xzbdmw,xzbdmw,Tencent,,China,,,:),,63,10,3,2022-01-16T18:04:40Z,2025-10-24T00:49:56Z
+xuyi,xuyi,,,,,,,,57,13,2,2012-03-11T05:52:20Z,2025-04-13T15:24:40Z
+xiaoji,,,,,,,,,0,6,0,2013-05-17T09:50:12Z,2016-02-27T08:39:01Z
+xiaobochen123,xiaobochen,,,,,,,,11,10,0,2018-01-17T04:44:55Z,2025-11-03T03:07:17Z
+xaguilar-amd,,,,,,,,,2,0,0,2025-02-11T10:11:50Z,2025-08-04T12:26:20Z
+wxsm,,,,,,,,,0,0,0,2015-01-22T14:47:48Z,2015-01-22T14:47:48Z
+eigen,,,,,,,,,0,14,3,2008-09-10T23:18:25Z,2014-07-31T12:33:14Z
+egortolmachev,,,,,,,,,0,0,0,2023-11-10T09:50:38Z,2024-05-13T12:07:19Z
+dylan,Dylan Wreggelsworth,BVR,https://bvr.design,"Saint Augustine, FL",,True,"Developer, Designer, Artist.",,46,101,171,2008-09-07T01:12:21Z,2025-10-18T23:46:01Z
+dubejf,,,,,,,,,4,19,0,2014-09-04T00:28:21Z,2025-08-29T12:01:26Z
+dpxa,Andrew Maciborski,AAA,,"Costa Mesa, CA",,,Computer Science senior at UC Riverside with professional experience in enterprise systems at AAA.,,6,0,0,2023-10-26T22:42:59Z,2025-10-27T23:12:32Z
+Double7,Adrian.Liu,,,,jsnjlc77@hotmail.com,,,,2,0,1,2013-04-16T02:46:20Z,2022-11-25T00:23:57Z
+dolpm,,,dolpm.com,,,,systems,,9,0,0,2017-12-10T15:29:49Z,2025-09-06T05:30:34Z
+dhuangnm,,Neural Magic,https://neuralmagic.com/,Boston,,,,,1,9,0,2020-11-23T20:00:47Z,2025-03-24T01:05:17Z
+deven-labovitch,,,,,,,,,1,1,0,2024-10-29T17:21:20Z,2025-10-10T18:04:53Z
+daquexian,daquexian,Skywork AI,,China,daquexian566@gmail.com,,Working at Skywork AI. ONNX approver.,,97,1410,57,2015-03-23T04:43:53Z,2025-09-22T02:23:22Z
+damon,Damon Clinkscales,,http://damonc.com/,"Austin, TX",,,Shepherd.,,16,146,94,2008-02-17T20:29:46Z,2025-02-20T03:49:38Z
+dakotamahan-stability,,,,,,,,,2,0,0,2023-07-18T21:37:53Z,2024-02-01T22:37:24Z
+cronoik-inceptionai,,,,,,,,,2,0,0,2025-03-21T09:12:46Z,2025-11-03T06:15:26Z
+coolcloudcol,,,,,,,,,5,5,19,2023-04-19T07:38:49Z,2025-08-07T06:50:32Z
+cnorman,,,,,,,,,0,0,0,2012-12-20T20:20:48Z,2016-02-27T05:18:42Z
+lirong,,,,,,,,,0,0,0,2011-08-11T05:41:17Z,2024-07-17T20:29:07Z
+heeju-kim2,,,,,,,,,6,0,1,2024-01-22T04:55:46Z,2025-10-21T13:01:52Z
+hax0r31337,,,,mc.theWorld,,,Abandoning your uniqueness is equivalent to dying. ,,67,366,52,2020-05-17T18:00:38Z,2025-10-22T11:17:36Z
+h-avsha,Avshalom Manevich,,,,,,,,1,0,0,2025-05-05T09:34:00Z,2025-11-06T13:16:11Z
+gujing,Gin,,,,,,,,12,4,1,2010-12-21T12:11:49Z,2025-07-30T06:49:32Z
+gottlike,,,,Germany / Switzerland,,,,,0,9,0,2010-05-17T00:07:26Z,2025-10-27T14:37:08Z
+gopalsarda,,,,,gopal.sarda@servicenow.com,,,,1,2,0,2020-03-12T22:54:22Z,2025-10-11T20:28:27Z
+gjgjos,gjgjos,,,,,,,,9,4,5,2021-01-01T09:01:00Z,2025-11-06T07:54:44Z
+frankie,og frankie,,,,,,,,0,2,0,2019-09-13T11:25:10Z,2019-09-13T11:34:50Z
+forpanyang,,,,,,,,,2,1,2,2023-06-29T02:50:50Z,2023-11-23T07:33:36Z
+firebook,firebook,,,广州,dzzf@163.com,,Share share share,,6,1,4,2012-07-13T06:26:08Z,2025-10-11T08:03:37Z
+fenghuizhang,,,,,,,,,5,3,0,2024-02-08T15:08:58Z,2025-08-16T21:28:35Z
+fangpings,,,,,,,,,24,9,3,2016-09-17T03:43:18Z,2025-10-01T01:34:36Z
+elijah,Elijah Wright,,,Tennessee,elijah.wright@gmail.com,,,,87,162,2042,2008-12-29T16:31:10Z,2025-11-06T21:16:43Z
+ekuznetsov139,,,,San Diego,,,,,27,5,1,2015-05-02T02:14:22Z,2025-11-04T17:47:55Z
+blueceiling,,,,,,,,,2,0,0,2023-10-20T00:09:16Z,2025-10-01T01:26:59Z
+bk-TurbaAI,Babar Khan ,ex-AI stealth startup,,"Darmstadt, Germany ",,,system (software/hardware co-design) engineer,,14,0,0,2024-07-29T14:28:00Z,2025-10-14T23:17:07Z
+bjmsong,,,,Shanghai,wq.songbob@gmail.com,,,,20,14,44,2015-09-07T00:37:06Z,2025-10-16T02:53:36Z
+bingps,,SJTU,,,,,,,17,10,2,2019-01-17T07:44:48Z,2025-10-23T13:30:08Z
+bigshanedogg,,,,,,,,,35,8,1,2016-03-26T10:28:10Z,2025-07-25T07:02:06Z
+baxingpiaochong,,,,,,,,,2,0,0,2025-06-24T06:35:43Z,2025-10-29T15:07:29Z
+aws-patlange,,@aws,,,,,,,3,0,0,2021-09-15T21:46:18Z,2025-10-06T19:42:47Z
+avideci,,,,,,,,,7,9,7,2020-03-01T12:35:10Z,2023-12-12T16:10:33Z
+artetaout,Li Xi,Xi'an Jiaotong University,,Xi'an Jiaotong University,,,"My name Li Xi, a student in Xi'an Jiaotong University. I am eager to learn on GitHub and contribute my part to this community.",,2,4,15,2023-03-16T11:40:35Z,2025-11-06T03:59:06Z
+arkohut,arkohut,,,,,,,,17,48,2,2018-05-22T13:55:58Z,2025-08-18T05:27:56Z
+arakowsk-amd,,,,,,,,,3,0,0,2024-09-25T16:24:54Z,2025-10-24T17:39:44Z
+antrec,,,,,,,,,8,1,0,2016-07-29T14:16:52Z,2025-10-05T12:03:41Z
+anthonsu,,,,"Bellevue, WA",,,,,7,0,0,2019-05-01T21:47:53Z,2025-10-13T18:41:55Z
+aniaan,aniaan,,,,hi@aniaan.dev,True,Don’t settle.,,153,30,145,2018-07-04T02:45:50Z,2025-11-06T08:31:48Z
+amit,Amit Chakradeo,,http://amit.chakradeo.net/,,,True,,journeyer,41,36,22,2008-05-05T17:56:09Z,2025-09-12T00:17:56Z
+cndoit18,cndoit18,@ByteDance,cndoit18.cn,"China,Beijing",cndoit18@outlook.com,,A software engineer from China,,223,133,150,2019-09-13T14:19:48Z,2025-11-04T16:49:08Z
+cloudhan,,,,,,,"Deprecating Human.
+
+@guangyunh-nv",,70,79,87,2011-12-22T06:07:22Z,2025-10-14T09:52:12Z
+cloud11665,,,https://cld.sh,,,True,,cloud11665,36,308,47,2019-12-18T18:24:55Z,2025-11-01T22:42:01Z
+chunxiaozheng,,,,,1179548172@qq.com,,,,20,7,3,2019-09-18T02:11:31Z,2025-08-13T02:21:19Z
+chun,,,,,,,,,3,11,3,2009-05-01T17:43:26Z,2021-06-28T00:04:59Z
+chooper1,,,,,,,,,22,17,0,2019-09-05T22:17:53Z,2025-10-06T05:59:46Z
+chenxiaobing,,,,,,,,,29,0,0,2014-06-26T06:24:07Z,2025-10-28T08:22:27Z
+chenlang,,,,,,,,,0,0,0,2013-05-05T09:59:10Z,2016-02-27T08:22:20Z
+cduk,,,,,,,,,27,5,61,2016-06-13T21:22:23Z,2025-10-13T08:56:56Z
+casinca,,,,,,,,,12,30,0,2019-02-06T20:43:12Z,2025-07-21T13:07:01Z
+cascade,Cascade,,,,,,"Platform to empower analysts to answer business questions by offering a no-code building-block approach to transform, clean, and analyze data.",,3,2,0,2019-12-10T22:35:29Z,2024-03-10T08:00:34Z
+bwshen-mi,,,,,,,,,2,16,3,2025-04-26T09:52:29Z,2025-10-16T06:53:27Z
+bppps,bppps,,,,,,,,7,3,1,2018-10-20T15:41:28Z,2025-10-28T15:08:21Z
+boydfd,,,,,boydfd@163.com,,,,54,48,1,2015-04-26T04:14:13Z,2025-10-15T04:21:37Z
+bogdanm,Bogdan Marinescu,,http://www.eluaproject.net,"Bucharest, Romania",bogdan.marinescu@gmail.com,,,,18,51,0,2010-02-26T21:22:56Z,2025-10-26T11:39:53Z
+limingshu,,,,,,,,,2,0,0,2016-05-20T22:08:48Z,2017-02-07T06:18:49Z
+liiliiliil,,,,,781102525@qq.com,,,,8,4,8,2016-01-28T13:14:28Z,2025-10-02T07:38:59Z
+lianyibo,,,,,,,,,0,0,0,2020-09-27T13:22:45Z,2020-09-27T13:33:14Z
+liangwen12year,,,,,,,"Senior Software Engineer in Red Hat | IBM
+
+Email: liangwen12year@gmail.com",,41,6,0,2018-01-31T15:32:53Z,2025-09-17T01:16:02Z
+liangel-02,,,,,,,,,5,0,0,2025-08-05T22:10:23Z,2025-10-25T18:51:25Z
+li-jinpeng,,,,,,,,,30,3,3,2020-09-23T04:20:47Z,2025-10-06T14:25:47Z
+lewtun,,@huggingface,https://lewtun.github.io/blog/,"Bern, Switzerland",lewis.c.tunstall@gmail.com,,Cowboy post-training @ Hugging Face,_lewtun,91,1451,0,2017-04-02T21:24:05Z,2025-11-05T17:35:22Z
+leopardracer,leopardracer,,,"Odesa, Ukraine",,True,Web3 + Ethereum Builder focusing on emerging markets ☕,le01pardracer,1043,0,0,2023-06-14T13:15:08Z,2025-10-03T15:57:42Z
+leoneo,,,,,,,,,0,0,0,2015-03-12T14:07:51Z,2025-07-25T14:26:38Z
+leo-pony,Nengjun Ma,"Huawei Technology Co., Ltd.",,china xi'an,nengjunma@outlook.com,,,,16,14,7,2024-10-12T02:44:46Z,2025-11-06T01:56:06Z
+leegohi04517,,,,,,,,,18,1,11,2019-11-21T02:14:20Z,2025-08-11T15:16:45Z
+learner0810,,,,,,,,,53,8,8,2018-05-18T07:28:29Z,2025-10-29T09:40:51Z
+laneeee,,,,,,,,,0,0,0,2020-06-19T02:21:14Z,2020-10-19T18:44:06Z
+lacora,Ye Hu,,,,,,MSL Inference @Meta,,3,3,1,2014-10-24T13:33:52Z,2025-10-01T03:50:44Z
+mezuzza,Prasanth Somasundar,,,,,,,,6,2,2,2011-09-30T18:36:17Z,2025-11-06T03:58:43Z
+metacryptom,,,,,,,,,6,1,0,2022-01-19T16:33:52Z,2025-10-16T16:51:01Z
+mcalman,,,,,,,,,11,1,1,2020-07-20T19:19:13Z,2025-10-13T21:23:48Z
+maximzubkov,maximzubkov,,,Zurich,,,Researcher & Engineer,,42,59,93,2019-02-15T09:36:21Z,2025-10-16T20:38:57Z
+maor-ps,,,,,,,,,3,2,0,2023-12-24T08:31:42Z,2024-04-30T11:44:50Z
+majianpeng,majianpeng,HYGON,https://github.com/majianpeng/majianpeng.github.io,"Shanghai, China",majianpeng@gmail.com,,,,27,43,7,2011-11-30T11:25:25Z,2025-10-19T11:29:38Z
+madt2709,,,,,,,Theo Dias,,15,0,1,2019-09-26T16:31:47Z,2024-11-27T23:24:05Z
+lsz05,,,,,,True,,,5,1,3,2015-08-24T04:36:04Z,2025-10-30T04:06:20Z
+lots-o,lots-o,Lotte Innovate,,"Seoul, Republic of Korea",,,,,18,5,4,2018-05-08T00:24:12Z,2025-10-22T09:17:14Z
+look,Luke Francl,,http://luke.francl.org,"San Francisco, CA",look@recursion.org,,Product-oriented software developer. I like learning new programming languages.,lof,58,336,21,2008-05-13T18:28:50Z,2025-08-11T16:08:17Z
+llmpros,ning.zhang,TikTok,,bay area,,,"working on hardware + software acceleration, llm inference",,14,2,0,2015-01-14T00:49:03Z,2024-06-30T22:25:17Z
+liusiqian-tal,,,,,,,,,5,0,0,2023-08-08T10:45:24Z,2025-10-24T06:40:34Z
+lirui,,,,,,,,,3,0,0,2012-02-06T07:21:29Z,2019-12-11T01:43:51Z
+JerryZhuang,,,,,,,,,0,0,0,2022-04-24T01:19:45Z,2022-04-24T01:19:45Z
+jeongin601,Jeongin Bae,NAVER Cloud,,,,,,,11,2,2,2021-02-05T11:05:57Z,2025-08-05T07:11:08Z
+jacobthebanana,,Mila- Quebec AI Institute,https://www.linkedin.com/in/jacob-junqi-tian/,"Montreal, QC, CA",,True,Outspoken JAX advocate.,,37,24,18,2019-04-28T09:03:34Z,2025-08-26T19:40:52Z
+jack,,,,,,,U2FsdGVkX1+WrzGgSa8TvrsBqfXmFzMC81RAGXfvlqnMrUT2gVmAsxcbTz04Hpb4,,0,0,0,2021-06-15T13:35:42Z,2025-09-19T15:49:44Z
+ismael-dm,Ismael Delgado,HPE,,Madrid,,,AI & Data Engineer,,8,5,2,2016-09-29T16:13:55Z,2025-11-03T10:31:20Z
+isharif168,,ARM,,UK,,,,,3,0,0,2025-05-09T09:38:44Z,2025-10-07T10:12:03Z
+iongpt,,,,,,True,,,27,17,2,2023-06-05T05:56:00Z,2025-06-26T08:29:04Z
+intervitens,,,,,,,,,21,4,0,2024-01-05T07:35:15Z,2025-08-21T08:42:42Z
+ifsheldon,,,,,,,专注踩坑二十年 AKA a non-wannabe pro bugsweeper,,86,57,43,2018-05-10T08:37:30Z,2025-10-27T15:16:10Z
+idouba,idouba,@Huawei Technologies,idouba.com,"hangzhou, China",,,,,72,50,6,2014-02-16T00:50:56Z,2025-10-15T07:07:52Z
+ilegend,,,,,,,,,1,0,0,2012-07-17T02:28:48Z,2015-04-07T16:08:19Z
+hxer7963,,NJU,,NanJing,hxer7963@outlook.com,,,,33,8,40,2016-08-30T11:43:49Z,2025-06-06T08:22:06Z
+huafeng,,,,,,,,,3,0,0,2012-07-27T10:20:35Z,2025-10-20T07:14:36Z
+homeffjy,,,,,,True,,,1,1,18,2020-11-05T22:51:44Z,2025-10-29T11:43:11Z
+hijkzzz,,,hujian.website,,janhu9527@gmail.com,,RLer + MLSyser / 2  + NLPer / 2,,33,639,52,2016-06-08T02:49:26Z,2025-11-04T19:25:58Z
+KYT,,,,,,,,,0,0,0,2017-09-26T15:33:22Z,2022-06-22T20:50:14Z
+kota-iizuka,,,,,,,,,16,0,0,2020-04-21T06:29:36Z,2025-10-12T10:57:11Z
+kimbochen,,,,,,,,,47,12,0,2018-06-22T16:02:22Z,2025-11-02T19:14:10Z
+kg6-sleipnir,chazen,,cnodev.com,,,,AI/ML enthusiast and advocate for emoticons instead of emojis,,10,1,1,2018-11-20T00:24:24Z,2025-09-26T19:02:47Z
+kewang-xlnx,,,,,,,,,2,1,0,2020-10-28T07:14:11Z,2025-10-21T03:15:10Z
+kczimm,Kevin Zimmerman,,,,,True,Principal Software Engineer @spiceai and former medical imaging researcher,,45,11,1,2013-06-19T00:44:06Z,2025-09-23T12:24:42Z
+kakao-kevin-us,,,,,,,,,2,0,0,2024-10-11T06:19:19Z,2025-03-12T08:01:45Z
+jvmncs,,,,"Brooklyn, NY",,,ML research & engineering,jvmncs,79,159,94,2014-06-15T01:25:34Z,2025-11-04T17:42:32Z
+juncheoll,,,,,,,,,19,9,7,2023-03-10T01:53:22Z,2025-10-29T09:04:48Z
+jiqing-feng,,,,,jiqing.feng@intel.com,,,,47,12,12,2022-06-21T08:46:51Z,2025-04-23T07:12:52Z
+jinqinn,,,,,,,,,9,3,2,2016-05-26T09:42:17Z,2025-09-09T03:29:56Z
+Jinghanhu,,,,,,,,,1,0,0,2017-09-09T20:54:13Z,2017-09-29T19:52:36Z
+jianzheng,,,,,,,,,1,0,0,2013-12-01T22:06:01Z,2016-02-27T12:38:45Z
+jianyizh,,,,,jianyi.zhang@intel.com,,,,9,4,4,2021-02-18T01:54:03Z,2025-11-05T02:22:48Z
+jiangjiadi,,,,,,,,,4,1,2,2017-11-30T15:15:58Z,2025-04-11T08:31:26Z
+jglaser,,Oak Ridge National Laboratory,jensglaser.com,"Oak Ridge, TN",,,Computational Scientist,,80,30,0,2012-06-27T18:30:14Z,2025-10-11T18:45:46Z
+David-Wen,Wen,,,,,,,,14,0,1,2017-12-06T13:26:07Z,2022-08-17T05:13:35Z
+egor,egor,,,,egor.developer@gmail.com,,,,34,1,0,2012-06-01T08:26:05Z,2025-06-17T10:38:02Z
+EduardDurech,,,,,,,,,21,6,0,2018-05-24T04:52:25Z,2025-11-02T12:13:06Z
+Earthwalker,,,,,,True,,,18,0,0,2012-10-16T14:22:48Z,2025-11-03T02:54:38Z
+Duyi-Wang,,,,,duyi.wang@amd.com,,,,7,9,0,2021-05-06T04:18:06Z,2025-08-04T03:59:24Z
+DriverSong,ChiaveQiu,Boss Zhipin,,"beijing, China",,,AI Research and Development Engineer,,15,7,15,2017-09-13T13:31:28Z,2025-10-11T03:54:24Z
+chris,Chris Bailey,NatureQuant,http://naturequant.com,"Bend, OR",chris@cobaltedge.com,,"Co-founder & CTO at NatureQuant. Previously, Co-founder & Chief Architect @ HotelTonight (acquired by Airbnb). Ex Adobe, DealBase, Hyperion, etc.",,35,81,2,2008-02-17T04:13:11Z,2024-11-14T17:07:48Z
+chen1022,,,,,,,,,0,0,0,2018-06-12T16:49:55Z,2018-06-12T16:49:56Z
+Daniele,Dani Metilli,University College London,https://metilli.com,Italy,,True,Research Fellow at UCL @sloanelab-org ,dmetilli,4,16,5,2009-02-07T23:07:32Z,2025-11-05T08:19:09Z
+daniel,Daniel Eriksson,Overstellar,,Enköping,,True,Web and mobile developer,,40,71,1,2008-02-22T17:46:59Z,2025-05-07T07:04:11Z
+DaividFrank,,,,,,,,,4,1,2,2019-04-03T19:06:47Z,2025-11-01T21:53:06Z
+DAIZHENWEI,Zhenwei Dai,,,,,,,,33,9,2,2017-09-20T06:30:11Z,2025-06-23T20:18:51Z
+clouddude,,,,,,,,,1,0,1,2018-07-27T12:58:13Z,2023-07-28T16:36:14Z
+clayton,Clayton Lengel-Zigich,,http://www.claytonlz.com,"Arizona, USA",,,,claytonlz,110,43,4,2008-04-10T22:14:54Z,2025-09-05T21:34:15Z
+george,George,,,"Texas, US",,,"20, SWE",,5,63,10,2008-02-22T17:22:18Z,2025-10-14T20:43:57Z
+GeauxEric,GeauxEric,Nvidia,,CA USA,,True,"infra, autonomous driving, mapping,  etc.
+",,78,12,12,2012-11-16T04:20:09Z,2025-09-17T05:00:19Z
+Gamhang,감행 : 감성여행을 감행하다,,https://www.figma.com/design/qoboEIap2kOEx7inILGjOe/2%EC%B0%A8-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C---%EA%B0%90%ED%96%89?node-id=0-1&t=9TYnrKh4VVlLMrOO-1,"Korea, South",,,빠르고 편리한 국내 항공 & 숙소 예약 서비스 감행입니다.,,3,0,0,2025-07-11T12:47:26Z,2025-07-14T22:55:25Z
+FuryMartin,,,,,furymartin9910@outlook.com,,,,39,31,74,2018-07-10T09:28:37Z,2025-08-31T04:23:07Z
+Fluder-Paradyne,A S Rakesh Krishna,@superagi @contlo ,,Bengaluru,,,,asrakeshkrishna,39,32,7,2023-01-02T09:11:47Z,2025-09-30T05:22:44Z
+fish,Fisher Jepsen,,,,,,,,6,4,0,2011-12-28T21:42:45Z,2025-10-02T17:54:48Z
+fengjinchen,,,,,,,,,0,0,0,2023-07-18T13:13:11Z,2023-07-18T13:31:46Z
+HDCharles,,,,,,,,,12,23,0,2018-05-23T03:43:25Z,2025-10-15T20:45:14Z
+GoHomeToMacDonal,,,,,,,,,4,3,0,2023-08-25T14:00:33Z,2025-10-22T13:21:27Z
+giantcroc,GiantCroc,,,,wangchangran666@163.com,,ML-sys && AI infra,,47,6,9,2016-07-29T10:55:26Z,2025-06-17T13:54:18Z
+GhaziSyed,,,,,,,,,15,1,0,2022-10-14T12:54:48Z,2025-04-04T11:49:21Z
+Gh0u1L5,Gh0u1L5,University of Waterloo,,"University of Waterloo, Canada",Gh0u1L5@outlook.com,True,,,12,575,37,2013-10-27T05:10:31Z,2025-10-23T16:02:31Z
+gerald,Gerald Abrencillo,,,,,,,,5,13,0,2009-01-13T08:49:24Z,2025-10-02T08:10:46Z
+erkinsagiroglu,,,,,,,,,0,0,0,2017-04-09T23:02:41Z,2017-04-09T23:02:41Z
+ErezSC42,,,,,,,,,14,0,0,2017-06-05T20:04:51Z,2025-10-07T19:38:38Z
+elinx,Elinx,,,Hangzhou,xizzuli@163.com,,,,52,13,92,2013-02-27T03:21:27Z,2025-10-18T00:59:51Z
+FEI,FEI,,www.fei.com,,,,,,0,0,0,2013-12-06T07:42:23Z,2015-07-07T20:02:08Z
+federico,,,,,,,,,0,8,0,2008-04-04T16:04:50Z,2023-07-27T12:28:05Z
+Falko1,,,,,,,,,6,1,0,2020-03-04T09:08:14Z,2025-09-23T16:48:14Z
+AmadeusChan,,,,,,,Bachelor in Computer Science and Technology at Tsinghua ---> Ph.D. student in Computer Engineering at USC => CS Ph.D. candidate at Purdue,,74,90,43,2016-04-30T15:41:23Z,2025-05-10T00:47:12Z
+Always-Naive,,,,,,,,,13,0,1,2022-01-05T01:22:20Z,2025-11-01T09:24:42Z
+AlpinDale,,,https://pygmalion.chat,,,,"All things ML.
+On the job market!",AlpinDale,88,453,10,2019-06-21T15:02:52Z,2025-10-29T23:00:33Z
+AlonKejzman,,,,,,,,,1,0,0,2017-06-28T16:35:30Z,2025-10-20T15:00:46Z
+allen,Allen Chang,Launch Tabletop,https://www.launchtabletop.com,"Gold Coast, Australia",,,"Chief solutions officer at Launch Tabletop Ltd, a tech-focused Tabletop games production company.",RNGCake,10,66,8,2008-09-17T07:47:24Z,2025-10-24T00:18:37Z
+AlexZhao,Zhe Zhao,,,HangZhou,zhe.alex.zhao@gmail.com,,"Computer science enthusiast.
+
+Write different SW as hobby with some understanding about BSD and Linux system.  
+
+Currently Working at SUPCON",,20,8,7,2012-12-20T15:01:08Z,2025-11-03T11:41:29Z
+anion,Stan,,,,,,,,0,1,0,2014-02-26T07:33:17Z,2025-02-01T10:20:51Z
+andy,Andrew Zaitsev-Zotov,,,"Yerevan, Armenia",,,🏋🏿,,5,56,33,2008-03-17T16:04:33Z,2025-10-21T13:07:28Z
+Adeline,,,,,,,,,1,0,0,2013-01-22T15:19:17Z,2019-08-10T00:48:16Z
+Accelerator1996,,,,,,,,,32,6,1,2018-04-24T09:51:54Z,2025-08-26T01:55:16Z
+Abraham-Xu,Abraham-Xu,,,,,,,,35,2,7,2018-01-12T01:19:19Z,2025-10-09T02:33:37Z
+A-Mahla,,,,,,,,,22,41,1,2021-08-30T00:13:36Z,2025-10-15T12:30:26Z
+947132885,,,,,947132885@qq.com,,,,2,1,0,2016-10-21T15:07:05Z,2025-10-23T00:34:20Z
+7mile,Xiaofei Wang,,,Melbourne,netant83@163.com,,,,6,1,0,2014-03-03T12:38:16Z,2025-07-02T00:03:33Z
+44670,,,,,,True,,,147,425,170,2012-12-30T11:54:53Z,2025-09-30T06:04:03Z
+alex,Alex Gaynor,Anthropic,https://alexgaynor.net,Washington D.C.,alex.gaynor@gmail.com,,"I program computers, and build teams that program computers, with a heavy focus on security.",,490,10408,38,2008-02-24T20:44:41Z,2025-10-26T13:18:22Z
+alec,Alec Berryman,,,San Francisco,alec@thened.net,,,,2,19,1,2008-09-21T14:03:47Z,2025-10-15T08:34:16Z
+Albert,Albert Hwang,,http://albert-hwang.com,"Seattle, WA",,,YouTube Dance Technologist.  YouTube VR Geek.  AR/VR/MR prototyper/designer.  New Media artist.,,33,70,10,2008-08-07T16:23:13Z,2025-10-16T20:47:59Z
+Aidyn-A,,,,,,,,,16,22,34,2017-09-11T16:08:44Z,2025-10-13T11:10:59Z
+AguirreNicolas,,UTN / UTT,,France,,,,,5,1,1,2018-03-29T03:28:00Z,2025-10-28T22:10:49Z
+bram,Bram,,,Netherlands,,True,,,0,5,0,2012-12-14T11:21:28Z,2025-08-07T12:24:55Z
+blueyo0,Haoyu Wang,Shanghai Jiao Tong University,,Shanghai,,,"Applied AI developer, ARPG player",,37,30,17,2017-07-30T03:05:42Z,2025-10-23T07:24:10Z
+charent,Charent,XDU,https://charent.github.io/,,,,Welcome to charent's github page.,,14,106,1,2016-05-25T01:57:23Z,2025-10-02T14:27:52Z
+COSMOPlat,,,,,,,,,0,0,0,2017-05-17T08:09:40Z,2021-05-24T01:06:44Z
+atlas,Atlas,,,,,,,,7,3,0,2011-07-18T11:04:49Z,2021-12-09T13:48:12Z
+Atilla,Anton Tsigularov,Ardoq,,"Oslo, Norway",,,,,5,21,11,2008-03-03T14:19:52Z,2025-09-19T08:46:19Z
+asher,Asher Feldman,,,San Francisco,,,,,44,31,3,2009-03-04T06:58:33Z,2025-11-01T02:29:37Z
+Arthur,,,,,,,,,7,36,20,2008-02-27T07:59:17Z,2025-07-04T07:44:37Z
+AnyISalIn,AnyISalIn,,,,anyisalin@gmail.com,,Stable Diffusion | Containerization | Infrastructure,,123,76,80,2016-01-28T12:41:09Z,2025-11-05T13:20:50Z
+anton,Anton Haglund,,,,,,,,13,35,16,2008-03-02T12:39:39Z,2025-05-28T11:19:10Z
+ben,Ben Straub,@zendesk,http://ben.straub.cc,"Portland, OR, USA",ben@straub.cc,,Author of @progit. Formerly @github and @gridium.,,93,491,4,2008-12-11T19:40:31Z,2025-10-20T11:27:49Z
+Bellk17,,,,,,,,,9,2,0,2013-04-09T22:49:44Z,2025-09-22T23:46:44Z
+Beim,Beim,,,,beim2015@outlook.com,,"Software Engineer, New Zealand",,13,16,9,2016-02-08T12:36:11Z,2025-09-22T02:44:02Z
+bayang,,,,North - France,,,,,47,13,1,2015-03-19T16:10:48Z,2025-08-19T14:18:29Z
+BasicCoder,,,,,,,,,42,19,25,2014-06-13T00:21:45Z,2025-08-10T06:41:39Z
+MingzhenHan,,,,,hanmingzhen2002@outlook.com,,A student from TONGJI & SJTU,,16,2,1,2023-02-06T09:41:53Z,2025-10-20T06:59:55Z
+Maybewuss,,,,,,,,,15,4,14,2018-04-07T11:03:03Z,2025-09-13T08:34:53Z
+Liuchenlong,,Xiaohongshu Inc.,,shanghai,,,,,4,3,1,2016-05-18T16:01:49Z,2025-08-28T03:54:18Z
+LikeSundayLikeRain,,,,,,,,,33,1,1,2015-07-07T15:43:00Z,2025-10-07T11:38:33Z
+Liang,,,,,,,,,3,7,9,2009-04-28T15:09:27Z,2025-04-14T02:29:33Z
+marco,Marco,@mercor-io / @harvard '25 ,marco.how,United States,marco@marco.how,,,,47,89,38,2016-02-15T21:34:59Z,2025-10-06T23:51:13Z
+Lumina,Emily,,,"Seattle, WA",,,,,5,7,0,2010-05-28T04:52:44Z,2025-09-16T18:55:28Z
+LukasBluebaum,,,,,,,,,19,5,0,2018-04-17T15:07:28Z,2025-10-23T13:59:35Z
+lukas,Lukas Biewald,Weights and Biases,lukasbiewald.com,San Francisco,lukas@wandb.com,,Founder of Weights and Biases (wandb.ai),l2k,50,699,20,2008-01-15T12:50:02Z,2025-11-05T22:17:12Z
+param,,,,,,,,,0,11,0,2021-08-06T09:47:56Z,2025-06-03T06:47:08Z
+PapaGoose,,,,,,,,,14,2,0,2019-10-16T12:01:39Z,2025-08-21T11:04:03Z
+RUTHLESS-BOT,,China Merchants Bank,,,wujiafeng@cmbchina.com,,,,2,0,0,2025-08-11T02:33:51Z,2025-11-03T07:48:50Z
+red,Red Programming Language,,http://red-lang.org,Planet Earth (aiming for Mars),red-lang@googlegroups.com,,Red programming language organization,,30,84,0,2013-06-05T23:45:18Z,2021-08-03T02:19:00Z
+quentin,Quentin Sabah,nuant,,France,quentin.sabah@gmail.com,,,,27,30,8,2008-12-22T13:45:47Z,2025-10-11T09:03:19Z
+qiu,QiuTianXia,QiuTianXia,http://qiu.com,Xiamen City,dev@qiu.com,,,,0,0,0,2013-10-30T04:32:13Z,2016-02-27T11:59:49Z
+qqsong,,,,,,,,,0,0,0,2011-06-30T07:24:44Z,2015-04-07T14:54:05Z
+punitvara,Punitvara,Machine Learning Engineer - III at Moneyview,https://www.youtube.com/@punitvara.,"Bangalore, India",punitvara@gmail.com,True,"Experienced Machine Learning Engineer
+
+Curious to read and follow almost all things ML ",punitvara,113,53,78,2014-11-03T13:22:50Z,2025-11-04T06:14:37Z
+NekoMimiUnagi,,,,,rxl190028@utdallas.edu,,CS Ph.D. student at UT Dallas,,6,5,5,2022-03-18T03:41:32Z,2025-10-28T14:35:05Z
+mrm,Matthijs Meulenbrug,,,Utrecht,,,,,10,7,3,2009-10-19T18:54:16Z,2025-09-03T10:56:34Z
+MoonRide303,,,,Poland,,,Curious about learning and creativity,moonride303,5,127,38,2023-04-11T10:36:47Z,2025-07-09T05:25:40Z
+PHILO-HE,,Intel,,,feilong.he@intel.com,,PPMC member of Apache Gluten (incubating),,44,33,3,2015-08-15T06:16:46Z,2025-07-08T03:12:29Z
+nir,Nir Aides,,,,,,,,10,14,1,2009-09-07T11:27:43Z,2025-09-09T20:18:51Z
+jason,Jason,,,CA,,True,,,45,28,6,2008-02-29T00:39:48Z,2025-07-03T14:07:26Z
+kinfey,Kinfey,Microsoft,https://x.com/Ljh8304,China,,,Microsoft Senior Cloud Advocate,,91,469,27,2021-10-26T01:14:41Z,2025-11-03T05:35:25Z
+jiaxiang,Lujiaxiang,RRLT,,Shanghai,jiaxianglu@gmail.com,True,,,6,3,12,2013-08-15T12:31:43Z,2020-11-06T04:44:38Z
+JialinOuyang-Meta,,,,,,,,,1,0,1,2025-01-16T01:50:09Z,2025-07-17T22:10:11Z
+jihuazhong,,,,,,,,,0,0,0,2021-06-19T00:43:05Z,2022-06-16T01:00:27Z
+jerry,Jerry Richardson,,http://jerryr.com/,"Westfield, Indiana",jerry@jerryr.com,,I build things by working with people (and typing).,,15,72,88,2008-02-27T23:06:04Z,2025-09-15T18:16:03Z
+Huarong,,,,,,,,,56,7,10,2012-03-01T08:05:31Z,2025-08-19T09:43:19Z
+HoangCongDuc,,,,,,,,,10,1,0,2019-09-17T17:17:53Z,2025-11-06T04:00:35Z
+happy,happy,,,"New York, NY",,,,,7,10,0,2012-02-22T07:34:26Z,2023-08-16T17:26:32Z
+HandH1998,HandH1998,,https://scholar.google.com/citations?hl=zh-CN&user=MBR97ZIAAAAJ,Beijing,007aabbcc411@gmail.com,,,,36,70,62,2018-10-16T12:18:27Z,2025-07-29T03:50:09Z
+Haco,Nicolas Scheidler,,,Germany,,,,,24,1,2,2013-02-14T11:14:17Z,2025-04-30T15:31:53Z
+hwh,Henrik Witt-Hansen,Nota,,,hwh@nota.nu,,,,4,0,0,2012-02-07T10:44:37Z,2018-05-01T20:24:53Z
+Jackmin801,,,,"San Francisco, CA",,,"Machines teach me how to learn
+
+",jackminong,49,137,91,2019-10-21T15:05:12Z,2025-10-30T04:24:38Z
+JaceyShao,,,,,,,,,2,0,0,2020-05-11T08:39:50Z,2025-08-07T05:29:47Z
+JGSweets,,,,,,,,,15,9,0,2014-05-28T16:20:31Z,2025-09-10T23:29:23Z
+jfduan,,,,,,,,,0,0,0,2020-08-10T07:15:32Z,2020-08-10T07:15:33Z
+Kevinzz,,,,,,,,,0,0,0,2014-02-26T03:41:42Z,2016-02-27T14:20:14Z
+keming,,,,,,,,,0,0,0,2013-05-12T22:15:33Z,2025-04-08T21:03:25Z
+kdump,可达书院,可达书院,www.kdump.org,"Jiangsu, China",acheng@kdump.cn,True,,,1,2,0,2011-09-15T14:08:20Z,2016-02-27T00:48:51Z
+KazusatoOoko,,,,,,,,,1,0,0,2019-04-14T12:04:43Z,2025-11-05T05:47:41Z
+LastWhisper,whisper,,,,,,,,6,0,3,2014-12-22T03:03:18Z,2023-09-27T02:53:41Z
+lancer,Lancer,,,,,,,,1,0,0,2012-05-23T09:45:28Z,2024-05-23T15:42:09Z
+lain,Casey 'Lain' Williams,Lain Mobile,"http://github,com/lain/","Madison, West Virginia",,True,Owner of Microcode© Ltd (http://Microcode.Ltd) Working on Unifying the web with universal frameworks and multiple api's that we plan to host for free.,,11,6,0,2009-07-01T06:10:44Z,2020-12-25T15:17:06Z
+LJH-LBJ,Junhong Liu,HUAWEI,,"Shenzhen, China",,,,,3,0,2,2022-01-31T07:48:31Z,2025-10-29T15:55:33Z
+Kunjan,Kunjan Kshetri,Quickbase,https://bitbucket.org/Kunjan_Kshetri/,NY,kkshetri@quickbase.com,,,,4,11,24,2011-05-12T03:14:58Z,2025-08-11T17:54:28Z
+johnny,Jonas von Andrian,,,,,,,,27,49,4,2008-02-15T10:33:46Z,2025-10-18T11:23:47Z
+johnsaxon,,,,,,,,,0,0,0,2017-11-03T00:09:37Z,2017-11-03T00:09:38Z
+joel,Joel AZEMAR,,https://medium.com/@joel-azemar,UK,joel.azemar@gmail.com,,"Passionate Software Engineer
+
+",,155,40,56,2008-04-08T08:09:37Z,2025-11-06T11:40:19Z
+jintao,,,,,,,,,22,0,0,2012-07-19T12:03:24Z,2016-02-27T02:47:34Z
+jinheng,,,,,,,,,1,0,0,2013-10-22T01:37:18Z,2019-12-22T15:04:15Z
+kky,K Young,,http://kyou.ng,,,,,,1,13,0,2010-05-26T19:48:00Z,2025-08-01T18:04:14Z

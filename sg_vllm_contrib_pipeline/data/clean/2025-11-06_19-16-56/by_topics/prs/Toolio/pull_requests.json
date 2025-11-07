@@ -1,0 +1,86 @@
+[
+  {
+    "number": 39,
+    "title": "MLX-provided enhancements: prompt caching and 4-bit KV quantization",
+    "user": "uogbuji",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-09-02T18:06:52Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/OoriData/Toolio/pull/39"
+  },
+  {
+    "number": 36,
+    "title": "Rearchitecting to take advantage of the latest in mlx_lm",
+    "user": "uogbuji",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-01-14T00:11:44Z",
+    "closed_at": "2025-05-25T00:56:19Z",
+    "merged_at": "2025-05-25T00:56:19Z",
+    "state": "closed",
+    "html_url": "https://github.com/OoriData/Toolio/pull/36"
+  },
+  {
+    "number": 31,
+    "title": "First pass at 'vendoring' llm_structured_output into Toolio",
+    "user": "uogbuji",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-01-08T02:04:51Z",
+    "closed_at": "2025-01-08T18:42:42Z",
+    "merged_at": "2025-01-08T18:42:41Z",
+    "state": "closed",
+    "html_url": "https://github.com/OoriData/Toolio/pull/31"
+  },
+  {
+    "number": 28,
+    "title": "Identified more problems affecting tool use performance",
+    "user": "uogbuji",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-12-09T06:50:17Z",
+    "closed_at": "2024-12-09T06:50:35Z",
+    "merged_at": "2024-12-09T06:50:35Z",
+    "state": "closed",
+    "html_url": "https://github.com/OoriData/Toolio/pull/28"
+  },
+  {
+    "number": 19,
+    "title": "18 prompt overriding",
+    "user": "uogbuji",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-08-07T06:46:42Z",
+    "closed_at": "2024-08-07T06:47:17Z",
+    "merged_at": "2024-08-07T06:47:17Z",
+    "state": "closed",
+    "html_url": "https://github.com/OoriData/Toolio/pull/19"
+  },
+  {
+    "number": 6,
+    "title": "Support for gemma models",
+    "user": "uogbuji",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-07-08T18:21:00Z",
+    "closed_at": "2024-07-08T18:21:34Z",
+    "merged_at": "2024-07-08T18:21:34Z",
+    "state": "closed",
+    "html_url": "https://github.com/OoriData/Toolio/pull/6"
+  },
+  {
+    "number": 5,
+    "title": "Comply with OpenAI server by making schema optional.",
+    "user": "namin",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-07-07T06:57:06Z",
+    "closed_at": "2024-07-08T18:30:04Z",
+    "merged_at": "2024-07-08T18:30:04Z",
+    "state": "closed",
+    "html_url": "https://github.com/OoriData/Toolio/pull/5"
+  }
+]

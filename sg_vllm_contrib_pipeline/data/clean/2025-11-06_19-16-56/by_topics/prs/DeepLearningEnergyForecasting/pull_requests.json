@@ -1,0 +1,50 @@
+[
+  {
+    "number": 4,
+    "title": "Bump requests from 2.31.0 to 2.32.2",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2024-09-30T14:38:15Z",
+    "closed_at": "2024-09-30T14:38:38Z",
+    "merged_at": "2024-09-30T14:38:38Z",
+    "state": "closed",
+    "html_url": "https://github.com/AhmetZamanis/DeepLearningEnergyForecasting/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Deploy Transformer model with Docker",
+    "user": "AhmetZamanis",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-09-30T14:31:41Z",
+    "closed_at": "2024-09-30T14:31:50Z",
+    "merged_at": "2024-09-30T14:31:50Z",
+    "state": "closed",
+    "html_url": "https://github.com/AhmetZamanis/DeepLearningEnergyForecasting/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Restructure repo, refactor notebooks",
+    "user": "AhmetZamanis",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-09-13T12:57:04Z",
+    "closed_at": "2024-09-13T12:57:15Z",
+    "merged_at": "2024-09-13T12:57:15Z",
+    "state": "closed",
+    "html_url": "https://github.com/AhmetZamanis/DeepLearningEnergyForecasting/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "GP regression with GPyTorch",
+    "user": "AhmetZamanis",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-04-16T07:01:32Z",
+    "closed_at": "2024-04-16T07:01:53Z",
+    "merged_at": "2024-04-16T07:01:53Z",
+    "state": "closed",
+    "html_url": "https://github.com/AhmetZamanis/DeepLearningEnergyForecasting/pull/1"
+  }
+]

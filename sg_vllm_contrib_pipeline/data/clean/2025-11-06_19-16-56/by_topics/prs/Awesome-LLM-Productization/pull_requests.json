@@ -1,0 +1,26 @@
+[
+  {
+    "number": 3,
+    "title": "include embedding and some deployment libraries.",
+    "user": "asdfjupyter",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-07-30T03:43:21Z",
+    "closed_at": "2024-07-30T03:43:37Z",
+    "merged_at": "2024-07-30T03:43:37Z",
+    "state": "closed",
+    "html_url": "https://github.com/oscinis-com/Awesome-LLM-Productization/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Update README.md",
+    "user": "unable12",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-07-01T01:34:05Z",
+    "closed_at": "2025-01-23T08:08:22Z",
+    "merged_at": "2025-01-23T08:08:22Z",
+    "state": "closed",
+    "html_url": "https://github.com/oscinis-com/Awesome-LLM-Productization/pull/2"
+  }
+]

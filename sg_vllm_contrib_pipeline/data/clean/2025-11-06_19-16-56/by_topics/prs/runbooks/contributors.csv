@@ -1,0 +1,6 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+brandonjbjelland,Brandon J. Bjelland,@protectai,protectai.com,"Seattle -> St. Paul, MN",,True,"Multiplier w past lives @Google PSO, Cloud infra @Apple, WebOps @Tableau, Infra delivery @salesforce... but I'll be the first to tell you: experience ≠ impact",,93,215,128,2012-10-06T21:42:52Z,2025-09-10T01:40:10Z
+d3287t328,Lingua Latina Machina,,https://www.lingualatinamachina.com,,,,I'm the Director of AI at LLM. I like writing software and will be adding software meant for the classical Latin language and other open source.,LinguaMachina,87,10,21,2023-02-18T02:34:46Z,2025-10-16T12:53:47Z
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+nstogner,Nick Stogner,,,,,True,Cloud & Kubernetes,,90,49,13,2014-12-22T21:56:25Z,2025-11-04T20:21:28Z
+samos123,Sam Stoelinga,,https://www.kubeai.org/,San Francisco Bay Area,,True,"Creator of KubeAI, a K8s operator to serve LLMs in production.",,169,143,89,2010-09-06T00:51:35Z,2025-11-06T23:48:20Z

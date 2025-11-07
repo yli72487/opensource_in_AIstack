@@ -1,0 +1,14 @@
+[
+  {
+    "number": 4,
+    "title": "Support for return_full_text inference API parameter",
+    "user": "milkowski",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-10-14T11:42:00Z",
+    "closed_at": "2023-10-15T07:14:01Z",
+    "merged_at": "2023-10-15T07:14:01Z",
+    "state": "closed",
+    "html_url": "https://github.com/wangcx18/llm-vscode-inference-server/pull/4"
+  }
+]

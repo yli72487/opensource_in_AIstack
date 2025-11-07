@@ -1,0 +1,74 @@
+[
+  {
+    "number": 11,
+    "title": "feature dashboard",
+    "user": "mouachan",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-06-27T14:01:05Z",
+    "closed_at": "2023-06-27T14:28:49Z",
+    "merged_at": "2023-06-27T14:28:49Z",
+    "state": "closed",
+    "html_url": "https://github.com/adrien-legros/rhods-mnist/pull/11"
+  },
+  {
+    "number": 10,
+    "title": "Streaming feature",
+    "user": "mouachan",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-06-23T08:18:13Z",
+    "closed_at": "2023-06-26T09:16:10Z",
+    "merged_at": "2023-06-26T09:16:10Z",
+    "state": "closed",
+    "html_url": "https://github.com/adrien-legros/rhods-mnist/pull/10"
+  },
+  {
+    "number": 6,
+    "title": "Revert \"add edge termination to minio\"",
+    "user": "adrien-legros",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-05-23T09:58:33Z",
+    "closed_at": "2023-05-23T09:59:25Z",
+    "merged_at": "2023-05-23T09:59:25Z",
+    "state": "closed",
+    "html_url": "https://github.com/adrien-legros/rhods-mnist/pull/6"
+  },
+  {
+    "number": 5,
+    "title": "add missing service account",
+    "user": "strangiato",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-04-28T22:44:49Z",
+    "closed_at": "2023-05-02T14:47:12Z",
+    "merged_at": "2023-05-02T14:47:11Z",
+    "state": "closed",
+    "html_url": "https://github.com/adrien-legros/rhods-mnist/pull/5"
+  },
+  {
+    "number": 3,
+    "title": "add edge termination to minio",
+    "user": "strangiato",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-04-25T17:00:43Z",
+    "closed_at": "2023-05-23T09:57:42Z",
+    "merged_at": "2023-05-23T09:57:42Z",
+    "state": "closed",
+    "html_url": "https://github.com/adrien-legros/rhods-mnist/pull/3"
+  },
+  {
+    "number": 1,
+    "title": "update serverless serving to v1beta1 api",
+    "user": "strangiato",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-04-25T16:13:30Z",
+    "closed_at": "2023-04-26T08:06:12Z",
+    "merged_at": "2023-04-26T08:06:12Z",
+    "state": "closed",
+    "html_url": "https://github.com/adrien-legros/rhods-mnist/pull/1"
+  }
+]

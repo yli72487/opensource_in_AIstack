@@ -1,0 +1,38 @@
+[
+  {
+    "number": 18,
+    "title": "Fixed potential out of bounds access",
+    "user": "tsoj",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-06-11T16:08:07Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/ksasso1028/EasyOCR-cpp/pull/18"
+  },
+  {
+    "number": 3,
+    "title": "add support for build with docker",
+    "user": "BBO-repo",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-01-01T17:09:29Z",
+    "closed_at": "2024-04-13T21:41:13Z",
+    "merged_at": "2024-04-13T21:41:13Z",
+    "state": "closed",
+    "html_url": "https://github.com/ksasso1028/EasyOCR-cpp/pull/3"
+  },
+  {
+    "number": 1,
+    "title": "fix linux build",
+    "user": "BBO-repo",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-12-22T21:04:38Z",
+    "closed_at": "2023-12-28T16:18:56Z",
+    "merged_at": "2023-12-28T16:18:56Z",
+    "state": "closed",
+    "html_url": "https://github.com/ksasso1028/EasyOCR-cpp/pull/1"
+  }
+]

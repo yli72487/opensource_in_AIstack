@@ -1,0 +1,26 @@
+[
+  {
+    "number": 2,
+    "title": "chore: rename txt file to be Experiment_SML.txt",
+    "user": "eriksszva",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-09-06T07:01:03Z",
+    "closed_at": "2025-09-06T07:01:21Z",
+    "merged_at": "2025-09-06T07:01:21Z",
+    "state": "closed",
+    "html_url": "https://github.com/eriksszva/resume-classifier-pipeline/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Integrate overall systems into main branch",
+    "user": "eriksszva",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-06-29T08:32:44Z",
+    "closed_at": "2025-06-29T08:33:08Z",
+    "merged_at": "2025-06-29T08:33:08Z",
+    "state": "closed",
+    "html_url": "https://github.com/eriksszva/resume-classifier-pipeline/pull/1"
+  }
+]

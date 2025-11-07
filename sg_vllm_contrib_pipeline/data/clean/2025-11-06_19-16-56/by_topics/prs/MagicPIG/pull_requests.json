@@ -1,0 +1,14 @@
+[
+  {
+    "number": 11,
+    "title": "Added support for AWQ models",
+    "user": "annanyapr",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-01-27T00:21:44Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/Infini-AI-Lab/MagicPIG/pull/11"
+  }
+]

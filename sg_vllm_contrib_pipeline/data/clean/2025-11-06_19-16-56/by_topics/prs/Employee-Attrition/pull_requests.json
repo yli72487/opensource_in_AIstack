@@ -1,0 +1,74 @@
+[
+  {
+    "number": 6,
+    "title": "Bump werkzeug from 1.0.1 to 2.2.3",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2023-02-16T01:49:14Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/DebarshiChanda/Employee-Attrition/pull/6"
+  },
+  {
+    "number": 5,
+    "title": "Bump certifi from 2020.6.20 to 2022.12.7",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2022-12-08T11:09:29Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/DebarshiChanda/Employee-Attrition/pull/5"
+  },
+  {
+    "number": 4,
+    "title": "Bump joblib from 0.17.0 to 1.2.0",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2022-09-30T19:00:01Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/DebarshiChanda/Employee-Attrition/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Bump numpy from 1.19.2 to 1.22.0",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2022-06-22T03:34:51Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/DebarshiChanda/Employee-Attrition/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Bump jinja2 from 2.11.2 to 2.11.3",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2021-03-20T04:42:48Z",
+    "closed_at": "2021-06-08T00:18:06Z",
+    "merged_at": "2021-06-08T00:18:06Z",
+    "state": "closed",
+    "html_url": "https://github.com/DebarshiChanda/Employee-Attrition/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Bump bleach from 3.1.0 to 3.1.4",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2020-07-13T12:41:11Z",
+    "closed_at": "2020-07-13T12:44:27Z",
+    "merged_at": "2020-07-13T12:44:27Z",
+    "state": "closed",
+    "html_url": "https://github.com/DebarshiChanda/Employee-Attrition/pull/1"
+  }
+]

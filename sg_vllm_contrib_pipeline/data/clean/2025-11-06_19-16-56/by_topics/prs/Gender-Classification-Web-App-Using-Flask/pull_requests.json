@@ -1,0 +1,14 @@
+[
+  {
+    "number": 1,
+    "title": "LICENSE",
+    "user": "kanchitank",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2021-04-19T19:21:23Z",
+    "closed_at": "2021-04-19T19:21:29Z",
+    "merged_at": "2021-04-19T19:21:29Z",
+    "state": "closed",
+    "html_url": "https://github.com/kanchitank/Gender-Classification-Web-App-Using-Flask/pull/1"
+  }
+]

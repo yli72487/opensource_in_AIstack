@@ -1,0 +1,26 @@
+[
+  {
+    "number": 2,
+    "title": "Add Docker & Docker Compose",
+    "user": "barabum0",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-01-14T10:44:59Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/bentoml/CLIP-API-service/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "feat: add notebook example",
+    "user": "xianml",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-10-19T10:09:31Z",
+    "closed_at": "2023-10-24T12:52:10Z",
+    "merged_at": "2023-10-24T12:52:10Z",
+    "state": "closed",
+    "html_url": "https://github.com/bentoml/CLIP-API-service/pull/1"
+  }
+]

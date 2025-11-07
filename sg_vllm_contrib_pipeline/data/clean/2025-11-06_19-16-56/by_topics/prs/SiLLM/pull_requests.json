@@ -1,0 +1,26 @@
+[
+  {
+    "number": 15,
+    "title": "Feature: WandB support",
+    "user": "n0kovo",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-02-02T10:25:26Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/armbues/SiLLM/pull/15"
+  },
+  {
+    "number": 3,
+    "title": "Wrong parameters passed in dpo.py, generate",
+    "user": "ivanfioravanti",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-04-16T04:46:27Z",
+    "closed_at": "2024-04-17T07:25:11Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/armbues/SiLLM/pull/3"
+  }
+]

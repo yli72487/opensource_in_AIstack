@@ -1,0 +1,50 @@
+[
+  {
+    "number": 4,
+    "title": "add Halide support",
+    "user": "zpye",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-06-05T10:51:44Z",
+    "closed_at": "2023-06-05T10:56:51Z",
+    "merged_at": "2023-06-05T10:56:51Z",
+    "state": "closed",
+    "html_url": "https://github.com/zpye/SimpleInfer/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "ci(xmake): update xmake yaml",
+    "user": "zpye",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-06-02T02:41:06Z",
+    "closed_at": "2023-06-02T03:25:21Z",
+    "merged_at": "2023-06-02T03:25:21Z",
+    "state": "closed",
+    "html_url": "https://github.com/zpye/SimpleInfer/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Pybind11",
+    "user": "zpye",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-05-24T16:39:50Z",
+    "closed_at": "2023-05-24T16:40:15Z",
+    "merged_at": "2023-05-24T16:40:15Z",
+    "state": "closed",
+    "html_url": "https://github.com/zpye/SimpleInfer/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "add winograd for 3x3s1 convolution",
+    "user": "zpye",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-05-21T15:28:48Z",
+    "closed_at": "2023-05-21T15:29:47Z",
+    "merged_at": "2023-05-21T15:29:46Z",
+    "state": "closed",
+    "html_url": "https://github.com/zpye/SimpleInfer/pull/1"
+  }
+]

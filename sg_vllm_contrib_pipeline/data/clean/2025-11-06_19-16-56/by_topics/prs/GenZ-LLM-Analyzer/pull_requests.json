@@ -1,0 +1,26 @@
+[
+  {
+    "number": 6,
+    "title": "Feat lora support",
+    "user": "jithinAB",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-05-28T11:13:30Z",
+    "closed_at": "2025-06-11T19:04:35Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/abhibambhaniya/GenZ-LLM-Analyzer/pull/6"
+  },
+  {
+    "number": 5,
+    "title": "Adding quality of models on different benchmarks",
+    "user": "ritikraj7",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-11-21T04:26:57Z",
+    "closed_at": "2024-11-21T05:11:55Z",
+    "merged_at": "2024-11-21T05:11:55Z",
+    "state": "closed",
+    "html_url": "https://github.com/abhibambhaniya/GenZ-LLM-Analyzer/pull/5"
+  }
+]

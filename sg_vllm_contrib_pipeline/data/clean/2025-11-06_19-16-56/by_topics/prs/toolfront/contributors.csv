@@ -1,0 +1,6 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+antidmg,gavin,@statespace-tech,,UnderNet,,True,building open source AI environments,,14,40,48,2014-08-31T19:28:57Z,2025-10-30T19:35:36Z
+lwsinclair,Lawrence Sinclair,@EastAgile ,http://eastagile.com,"San Jose, California",,,"CEO @EastAgile.com @Skydeck.ai
+",lwsinclair,4606,98,28,2012-11-18T23:34:35Z,2025-10-15T12:25:10Z
+safranchik,Esteban,,,"Seattle, Washington",,,Improving data science one sample at a time,safranchik_e,3,15,5,2016-10-31T02:03:35Z,2025-10-31T15:41:16Z
+seanchen1991,Sean Chen,@informalsystems,,Chicago,seanchen11235@gmail.com,,Developer advocate and Rust OSS contributor. Recurse Center alumni. Computer science instructor.,,205,221,32,2013-05-30T17:17:20Z,2025-11-03T21:26:01Z

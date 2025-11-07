@@ -1,0 +1,48 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+AryanSalmanpour,Aryan Salmanpour,AMD,https://ca.linkedin.com/in/aryansalmanpour,San Francisco Bay Area,aryan.salmanpour@amd.com,True,,,9,12,0,2016-12-01T14:34:51Z,2025-10-29T20:49:19Z
+Bazifrasool,Bazif Rasool,,,Bangalore,,,Senior Software Engineer @ Qualcomm | May the source be with you ⚔️,,27,21,17,2018-11-18T17:18:45Z,2025-10-08T14:32:42Z
+HazarathKumarM,,,,,,,,,4,0,0,2022-11-28T06:56:14Z,2025-10-14T07:02:10Z
+Indumathi31,,,,,,,,,5,2,0,2020-01-02T12:13:53Z,2022-12-29T11:28:34Z
+LakshmiKumar23,Lakshmi Kumar,AMD,,,,,,,30,0,3,2017-04-15T16:46:36Z,2024-10-19T00:19:12Z
+LisaDelaney,Lisa,Amazon,,Seattle,,True,Programmer Writer,,0,3,8,2011-10-07T09:02:13Z,2025-11-03T15:13:27Z
+LokeshBonta,Lokesh Bonta,,,,lokeshpsn93@gmail.com,,,,31,2,1,2016-09-07T15:25:56Z,2024-05-20T07:07:12Z
+MuraliAvugaddi,,,,,,,,,3,0,1,2024-05-05T14:23:33Z,2025-11-05T19:05:22Z
+Reza-Najafi,Rey,,,,,,,,12,2,2,2014-08-01T19:43:53Z,2022-10-30T08:37:39Z
+SundarRajan28,Sundar Rajan Vaithiyanathan,Multicoreware,,,,,,,2,1,1,2022-02-07T04:27:27Z,2025-09-23T13:14:23Z
+SundarRajan98,Sundar Rajan Vaithiyanathan,,,,svaithiy@amd.com,,,,3,0,1,2022-10-31T04:50:51Z,2025-10-28T05:21:33Z
+abhimeda,,,,,,,,,42,1,0,2023-07-05T17:32:01Z,2024-07-29T17:23:40Z
+acxz,Akash Patel,"@ACDSLab, @gtri, @draperlaboratory",,,,,,,57,109,75,2016-02-08T23:46:13Z,2025-10-30T14:54:04Z
+adeljo-amd,Adel Johar,,,,,,,,12,4,0,2025-01-17T15:05:40Z,2025-10-17T11:56:32Z
+arvindcheru,,,,,,,,,48,1,1,2021-09-15T15:14:19Z,2025-10-15T21:07:58Z
+bijayraj,Bijay Raj Paudel,Southern Illinois University,,USA,bijaybzzay@gmail.com,,,bzzay,19,3,0,2014-12-01T11:21:42Z,2025-09-13T05:54:41Z
+danielsu-amd,Daniel Su,AMD,,,,,Co-Op - ML SW SDK,,3,3,0,2024-05-08T15:44:51Z,2025-06-30T16:00:58Z
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+eidenyoshida,Eiden Yoshida,@amd,,,,,,,41,6,0,2019-01-30T22:31:19Z,2025-10-22T15:59:48Z
+emerth,,,,,,,,,4,0,0,2018-11-12T22:54:36Z,2025-09-24T02:12:51Z
+fiona-gladwin,Fiona-MCW,,,,,,,,6,4,8,2020-09-09T04:39:20Z,2025-06-02T04:12:36Z
+frepaul,,,,,,,,,2,1,0,2020-09-21T18:35:57Z,2025-10-03T00:19:07Z
+hansely,Hansel Yang,AMD @GPUOpen-ProfessionalCompute-Libraries ,,Santa Clara,hansyang@amd.com,,,,14,1,1,2016-11-07T05:58:58Z,2025-01-23T00:00:21Z
+hyongtao,,,,,,,,,2,0,1,2021-06-23T11:07:41Z,2021-07-08T03:55:14Z
+jayhawk-commits,Joseph Macaranas,AMD,,Toronto,,,,,15,4,1,2023-09-19T17:21:48Z,2025-11-04T15:26:11Z
+jl-icuro,Jeremiah Liou,ICURO,,Santa Clara,,,,,1,0,0,2018-06-29T16:22:36Z,2020-02-26T04:58:25Z
+jonatluu,,,,,,,,,26,1,0,2024-12-12T16:51:47Z,2025-10-29T19:56:49Z
+kiritigowda,Kiriti Gowda,AMD,,"Santa Clara, CA",,,,,72,68,2,2016-01-05T00:27:11Z,2025-10-19T11:40:00Z
+lawruble13,Lauren Wrubleski,AMD,,Calgary,Lauren.Wrubleski@amd.com,,,,75,48,1,2014-09-28T04:28:05Z,2025-09-29T23:17:19Z
+paveltc,Pavel Tcherniaev,,,,Pavel.Tcherniaev@amd.com,,,,8,1,0,2016-02-23T19:50:58Z,2025-07-24T21:37:58Z
+peterjunpark,,AMD,,"Markham, ON",,,,,26,11,4,2022-10-04T20:34:18Z,2025-09-30T16:23:27Z
+pjaaskel,Pekka Jääskeläinen,Tampere University,,"Tampere, Finland",,,,,18,40,18,2012-04-17T17:05:46Z,2025-11-04T16:28:25Z
+pruthvistony,Pruthvi Madugundu,AMD,,Austin TX,pmagundu@amd.com,True,Systems/Deep Learning - GPUs,,59,23,7,2017-09-08T04:59:52Z,2025-06-24T17:23:12Z
+r-abishek,Abishek,@multicoreware @amd @rocm @GPUOpen-ProfessionalCompute-Libraries @ucla,,"San Jose, CA",,,Computer Vision Performance,abishekr92,19,6,4,2019-06-25T16:57:54Z,2025-10-04T21:01:34Z
+randyh62,,,,,,,,,7,3,1,2018-08-02T18:51:37Z,2025-10-01T16:48:43Z
+raramakr,,,,,,,,,49,1,0,2021-09-22T16:37:22Z,2025-10-30T08:02:18Z
+rrawther,Rajy Rawther,AMD,,,,,,,29,4,1,2016-02-23T19:50:05Z,2025-09-15T16:59:45Z
+rsudheerk001,,,,,,,,,2,1,0,2018-12-28T06:30:52Z,2025-09-24T05:00:47Z
+samjwu,Sam Wu,@AMD,samjwu.github.io,,,,Computer Engineer,,159,28,8,2016-09-17T19:12:38Z,2025-10-27T21:45:54Z
+sampath1117,,,,,,,,,2,1,2,2021-08-19T10:18:10Z,2024-08-02T16:41:49Z
+satyanveshd,Satyanvesh Dittakavi,AMD,,Hyderabad,,,,,4,0,1,2019-07-26T09:56:46Z,2025-10-22T08:18:53Z
+shobana-mcw,,,,,,,,,6,1,1,2016-06-09T10:44:36Z,2025-09-16T07:18:28Z
+spolifroni-amd,,,,,,,,,21,3,0,2024-07-08T17:26:27Z,2025-07-23T18:00:20Z
+swetha097,,,,,,,,,13,1,2,2020-01-02T08:18:38Z,2025-10-29T10:47:52Z
+utk4r-sh,Utkarsh Raj,,,,encode.sh@protonmail.com,,,,5,1,0,2023-12-23T04:43:12Z,2025-11-05T13:24:24Z
+yhuiYH,Young Hui - AMD,,,,,,,,1,1,0,2023-09-19T17:33:00Z,2025-10-03T16:00:15Z
+zichguan-amd,,,,,,,,,12,0,0,2024-09-16T14:31:55Z,2025-10-22T15:00:50Z

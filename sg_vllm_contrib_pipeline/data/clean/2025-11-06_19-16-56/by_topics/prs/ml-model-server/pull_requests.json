@@ -1,0 +1,14 @@
+[
+  {
+    "number": 1,
+    "title": "Bump flask-cors from 3.0.8 to 3.0.9",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2021-05-06T19:50:12Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/dipayan90/ml-model-server/pull/1"
+  }
+]

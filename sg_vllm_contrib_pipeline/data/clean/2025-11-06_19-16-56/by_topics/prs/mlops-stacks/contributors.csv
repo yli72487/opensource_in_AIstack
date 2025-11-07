@@ -1,0 +1,36 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+DayneSorvisto,dzxabc,,,,,True,,,18,5,3,2014-01-26T12:13:05Z,2025-06-03T03:59:37Z
+JackKilvingtonNew,,,,,,,,,1,1,0,2024-10-07T12:19:16Z,2025-11-04T15:21:40Z
+JaiLaff,Jai Lafferty,V2 AI,https://www.v2.ai,"Melbourne, Australia",,,,,2,11,0,2017-06-01T01:03:40Z,2025-10-20T00:45:24Z
+JoseLogically,,,,,,,,,1,0,0,2024-06-20T11:49:03Z,2024-07-17T07:39:35Z
+ThomasHenckel,Thomas H.,@Novo Nordisk,,Denmark,,,,,28,5,0,2013-03-23T11:41:59Z,2025-02-21T15:23:45Z
+alexbaur,Alex Baur,,,Seattle,alex.wolfgang.baur@gmail.com,,,,16,3,5,2015-11-05T19:16:29Z,2025-09-22T18:35:37Z
+aliazzzdat,,,,,,,,,8,0,0,2022-10-05T09:48:18Z,2025-09-29T09:47:25Z
+aravind-segu,Aravind Segu,,,,,,Software Engineer 👨‍💻,,30,7,3,2016-11-14T01:22:33Z,2025-10-07T17:00:27Z
+arpitjasa-db,Arpit Jasapara,,,,,,,,6,3,0,2021-07-26T18:29:06Z,2025-10-23T22:12:25Z
+bali0019,Jas Bali,@databricks ,,"Atlanta, US",jas.bali@databricks.com,,Lead SSA @Databricks,,8,11,6,2016-04-18T18:35:05Z,2025-09-02T03:34:30Z
+eric-golinko-db,,@Databricks,,,,,Senior Data Scientist,,5,0,0,2022-12-13T13:55:59Z,2025-09-03T13:37:26Z
+farnaz2018,Farnaz Sadeghi,,,Ottawa,,True,👋 I'm a Ph.D. graduate in Computer Science with a passion for leveraging Machine Learning and AI to handle streaming data effectively. ,,94,2,11,2018-11-08T15:41:56Z,2025-09-07T17:15:59Z
+hengrumay,,,hengrumay.github.io,,,,,,145,32,165,2014-09-02T18:49:55Z,2025-10-31T02:27:33Z
+isaacdtaylor,Isaac Taylor,Accenture,https://www.linkedin.com/in/isaacdt/,,,True,"Engineer to data analyst, always staying curious about the world.",,2,0,0,2017-10-24T17:49:54Z,2025-08-20T02:37:57Z
+jerrylian-db,Jerry Liang,,,,,,,,7,2,4,2020-05-29T21:33:58Z,2025-06-27T21:32:57Z
+karolinarb,Karolina,,,,,,,,10,0,0,2020-05-20T14:25:50Z,2025-07-31T17:27:50Z
+kriscon-db,Kris Concepcion,,,,,,,,7,4,0,2021-05-24T18:08:52Z,2025-10-09T01:40:04Z
+lbcommer,Luis Bronchal,,,,,True,Passionate about Big Data and Machine Learning.,,38,12,4,2015-06-29T22:58:57Z,2025-09-18T05:41:06Z
+michael-chi,Michael SH Chi,,https://www.linkedin.com/in/michael-chi-54a5a94/,Taiwan,,,"Software development engineer, IoT, Blockchain, Chatbot and Cloud",,34,56,2,2015-05-27T03:00:29Z,2025-10-26T07:45:59Z
+mingyu89,Mingyu Li,DB,,,,,,,7,1,2,2015-06-03T15:58:52Z,2025-02-10T20:01:33Z
+mniels17,Mark Nielsen,,,,,,,,1,0,0,2023-11-09T19:33:35Z,2025-05-14T16:26:47Z
+mohamad-arabi,,,,,,,,,3,2,0,2020-10-27T16:52:46Z,2023-01-16T14:42:52Z
+niall-turbitt,Niall Turbitt,Databricks,,,,,AI Engineer @databricks ,,18,24,2,2019-06-24T14:24:36Z,2025-11-06T20:05:57Z
+pietern,Pieter Noordhuis,,http://twitter.com/pnoordhuis,,pcnoordhuis@gmail.com,,,,53,747,4,2008-05-09T22:53:45Z,2025-11-04T20:53:27Z
+qili86,,,,,,,,,7,0,0,2021-12-15T20:36:07Z,2025-08-14T17:27:25Z
+s-udhaya,Sivaudha,,,Germany,,,@databricks ,,61,6,3,2012-08-25T03:55:20Z,2025-11-03T14:19:04Z
+shichengzhou-db,Shicheng Zhou,,,,,,,,5,2,0,2023-08-14T16:59:38Z,2025-11-06T02:58:03Z
+shreyas-goenka,,,,,,,,,3,1,0,2021-08-03T08:59:39Z,2025-08-01T14:03:18Z
+smurching,Siddharth Murching,,,,,,,,57,41,1,2012-09-16T21:02:27Z,2025-07-25T14:29:36Z
+sunishsheth2009,Sunish Sheth,@databricks. Ex LinkedIn,https://sunish.dev/,California,sunishsheth2009@gmail.com,True,,sunishsheth2009,45,20,10,2013-10-06T07:23:43Z,2025-10-09T16:23:06Z
+vadim,Vadim Patsalo,Databricks,,"San Diego, CA",,,,vadim,18,11,0,2009-05-20T12:52:22Z,2025-08-26T18:28:30Z
+valx,Valerio,,,UK,valerio.pa@gmail.com,True,,,9,4,2,2013-01-17T00:53:25Z,2025-04-24T23:08:09Z
+vladimirk-db,Vladimir Kolovski,,,,,,,,5,0,0,2022-05-04T00:03:43Z,2025-08-12T04:54:57Z
+yinxi-db,Yinxi-Databricks,Databricks,,,,,,,12,4,1,2021-03-16T14:31:37Z,2025-06-25T16:31:19Z
+zhe-db,Zhe Wang,,,San Francisco Bay Area,,,║▌│█│║▌║││█║▌║▌██▌║█││║▌│█║▌,,64,40,60,2017-01-18T01:23:39Z,2025-10-20T18:11:05Z

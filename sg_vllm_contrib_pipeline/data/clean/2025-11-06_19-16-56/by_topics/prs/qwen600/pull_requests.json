@@ -1,0 +1,26 @@
+[
+  {
+    "number": 3,
+    "title": "softmax: parallel block reduction with shared broadcast; use THREADS_PER_BLOCK launcher",
+    "user": "Taskrwu",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-09-08T14:14:13Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/yassa9/qwen600/pull/3"
+  },
+  {
+    "number": 1,
+    "title": "fix: terminal color bleeding affecting emoji rendering",
+    "user": "ServeurpersoCom",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-09-07T21:12:01Z",
+    "closed_at": "2025-09-08T18:20:04Z",
+    "merged_at": "2025-09-08T18:20:04Z",
+    "state": "closed",
+    "html_url": "https://github.com/yassa9/qwen600/pull/1"
+  }
+]

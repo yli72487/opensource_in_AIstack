@@ -1,0 +1,33 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+A-Artemis,Aurélien Adriaenssens,Intel,,"Groningen, Netherlands",,,AI Frameworks Engineer | Software developer for Intel Geti,,0,5,4,2017-10-02T10:23:18Z,2025-11-06T11:55:37Z
+AlbertvanHouten,Albert van Houten,@Intel,,Netherlands,albert.van.houten@intel.com,,AI Frameworks Engineer @ Intel,,1,0,0,2021-08-19T07:40:39Z,2025-10-22T06:41:05Z
+AlexB1986,Alexander Barabanov,,,Ireland,,,"Application Security Engineer, Ph.D., CISSP, CSSLP",,12,2,0,2016-10-01T08:24:35Z,2025-04-17T14:16:52Z
+AlexanderBarabanov,Alexander Barabanov,Intel,,Ireland,,,,,8,1,0,2022-01-10T12:40:42Z,2025-10-31T11:03:39Z
+Daankrol,Daan Krol,Intel,,,daan.krol@intel.com,,"💼 AI Research Scientist/Engineer @ Intel
+💼 Founder/Mobile App Developer @ reBRND
+🎓MSc Artificial Intelligence @ University of Groningen
+🏠 The Netherlands",,17,4,4,2014-04-05T10:16:39Z,2025-10-29T09:50:25Z
+HiteshManglani123,,,,,,,,,7,0,1,2017-10-09T21:45:18Z,2025-10-01T16:57:23Z
+JortBergfeld,Jort Bergfeld,Intel,,,Jort.Bergfeld@intel.com,,Software developer,,1,1,0,2021-05-14T06:21:04Z,2025-10-22T08:21:10Z
+adamczap,Adam Czapski,@intel,,,,,,,7,0,0,2019-03-19T14:37:44Z,2024-12-15T12:51:35Z
+bjornrun,Bjorn Runaker,Tiepoint,http://runaker.se,"Stockholm, Sweden",,,,,72,21,30,2010-03-11T11:33:17Z,2025-11-01T07:54:14Z
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+dnoliver,Nicolas Oliver,Intel Corporation,,"Hillsboro, Oregon",dario.n.oliver@intel.com,,,,58,16,9,2014-05-29T01:28:23Z,2025-08-28T07:37:28Z
+gdlg,Grégoire Payen de La Garanderie,iGent AI,https://gdlg.github.io/,,github@hochet.info,,,,52,48,7,2015-10-13T09:40:25Z,2025-11-04T00:10:17Z
+harimkang,Harim Kang,,https://www.linkedin.com/in/harim-kang-hk1129,"Seoul, Korea",harimkang4422@gmail.com,,AI Engineer,,19,88,40,2018-04-03T15:16:12Z,2025-09-01T17:14:35Z
+igor-davidyuk,Igor Davidyuk,,,,daveduke@outlook.com,,,,14,4,9,2020-12-22T03:54:30Z,2025-09-25T03:45:17Z
+jcchr,Jacek Chrapkowski,,,,jacek.chrapkowski@intel.com,,,,2,1,0,2017-09-05T12:51:39Z,2025-10-24T11:59:12Z
+jihyeonyi,Jihyeon Yi,,,,,,,,0,3,0,2020-12-10T07:17:37Z,2024-12-03T08:30:11Z
+leoll2,Leonardo Lai,Intel Corporation,https://www.linkedin.com/in/leonardo-lai/,Netherlands,leonardo.lai@intel.com,,"Yet another Software Engineer
+
+",,38,77,65,2017-10-29T13:45:52Z,2025-10-28T12:00:41Z
+ljcornel,Ludo Cornelissen,@intel,,,ludo.cornelissen@intel.com,,,,0,1,1,2021-09-29T10:02:28Z,2025-01-15T10:31:54Z
+maxxgx,Max Xiang,,,,xiangxiang.ma@intel.com,,Computer goes beep boop,,20,1,7,2014-12-30T14:50:41Z,2025-10-09T08:23:45Z
+oep-renovate[bot],,,,,,,,,0,0,0,2025-05-21T18:23:47Z,2025-05-21T18:23:47Z
+operepel,Olga Perepelkina,Intel,,,olga.perepelkina@intel.com,,,,5,3,3,2021-01-11T14:45:11Z,2025-10-30T19:34:34Z
+paularamo,Paula Ramos,@voxel51,https://www.linkedin.com/in/paula-ramos-phd,"Raleigh, NC, USA",pjramg@gmail.com,,"Research in new technologies based on image and signal processing, control and automation, robotics, machine learning, embedded systems, and mobile devices.",,52,32,12,2015-02-10T11:37:46Z,2025-10-20T18:16:05Z
+rajeshgangireddy,Rajesh Gangireddy,Intel,,Netherlands,rajesh.gangireddy@intel.com,True,Inside Intel ,,13,6,5,2016-07-17T09:38:34Z,2025-10-16T11:40:41Z
+samet-akcay,Samet Akcay,Intel,https://www.linkedin.com/in/sametakcay,"Durham, UK",samet.akcay@intel.com,,AI Research Engineer at Intel,,11,180,9,2016-03-01T16:59:24Z,2025-10-29T11:50:46Z
+sovrasov,Vladislav Sovrasov,@opencv @intel,https://www.linkedin.com/in/vladislav-sovrasov-173b23104/,"Munich, Germany",vladislav.sovrasov@intel.com,,,,65,116,0,2013-09-03T14:02:42Z,2025-09-03T22:03:20Z
+step-security-bot,StepSecurity Bot,StepSecurity,https://www.stepsecurity.io/,,bot@stepsecurity.io,,@step-security bot account for creating PRs. Fix GitHub Actions security issues using https://app.stepsecurity.io/securerepo,,2988,57,0,2021-08-22T03:32:01Z,2025-08-14T03:10:32Z
+warrkan,Evgeny Romanov,Intel,,,evgeny.romanov@gmail.com,,,,2,1,0,2014-11-18T09:59:29Z,2025-10-27T12:20:43Z

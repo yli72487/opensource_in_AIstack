@@ -1,0 +1,62 @@
+[
+  {
+    "number": 5,
+    "title": "Update README.md",
+    "user": "andandandand",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-02-06T15:48:02Z",
+    "closed_at": "2024-02-06T15:49:15Z",
+    "merged_at": "2024-02-06T15:49:15Z",
+    "state": "closed",
+    "html_url": "https://github.com/aihpi/mlops-docker/pull/5"
+  },
+  {
+    "number": 4,
+    "title": "Update README.md",
+    "user": "johanna-reiml-hpi",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-11-16T14:50:16Z",
+    "closed_at": "2023-11-16T14:50:55Z",
+    "merged_at": "2023-11-16T14:50:55Z",
+    "state": "closed",
+    "html_url": "https://github.com/aihpi/mlops-docker/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Update README.md",
+    "user": "felix-boelter-hpi",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-11-13T13:26:08Z",
+    "closed_at": "2023-11-13T13:26:17Z",
+    "merged_at": "2023-11-13T13:26:17Z",
+    "state": "closed",
+    "html_url": "https://github.com/aihpi/mlops-docker/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Update README.md",
+    "user": "felix-boelter-hpi",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-11-07T08:53:22Z",
+    "closed_at": "2023-11-07T08:53:30Z",
+    "merged_at": "2023-11-07T08:53:30Z",
+    "state": "closed",
+    "html_url": "https://github.com/aihpi/mlops-docker/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Update README.md",
+    "user": "felix-boelter-hpi",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-11-06T09:59:53Z",
+    "closed_at": "2023-11-06T10:00:08Z",
+    "merged_at": "2023-11-06T10:00:08Z",
+    "state": "closed",
+    "html_url": "https://github.com/aihpi/mlops-docker/pull/1"
+  }
+]

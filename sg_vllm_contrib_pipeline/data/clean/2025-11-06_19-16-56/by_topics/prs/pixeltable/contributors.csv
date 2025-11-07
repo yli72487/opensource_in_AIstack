@@ -1,0 +1,30 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+2pk03,Alexander Alten-Lorenz,@scalytics,novatechflow.com,earth,,,"PPMC Apache Wayang, co-founder @scalytics, author.",mapredit,41,51,3,2012-01-12T02:56:09Z,2025-09-19T07:32:37Z
+Yann-CV,Yann Chéné,,,Paris,,,"Computer vision engineer working on the full ML cycle (research, ops, integration)",,3,5,1,2019-09-02T10:00:08Z,2025-08-18T09:15:41Z
+aaron-siegel,Aaron Siegel,,,San Francisco,,,,,12,38,1,2012-07-20T23:34:01Z,2025-10-19T19:56:00Z
+amithadke,amit hadke,pixeltable,,san francisco,amit.hadke@gmail.com,,,,6,3,0,2012-12-17T20:28:11Z,2025-10-31T19:05:31Z
+anushas,,,,,,,,,2,2,0,2013-02-27T09:32:53Z,2024-12-20T18:41:06Z
+apreshill,Alison Presmanes Hill,Pixeltable,https://www.apreshill.com,"Bozeman, MT",,True,,apreshill,275,1362,56,2015-04-28T21:26:33Z,2025-08-25T18:58:41Z
+brucearctor,,,,,,,,,80,8,0,2013-07-17T15:52:10Z,2025-11-05T12:29:22Z
+denise-k,Denise Kutnick,,,"Seattle, WA",,,"Building something new ✨ 
+Previously: AI R&D at OctoAI, Intel, Georgia Tech",,10,26,0,2019-05-13T15:19:26Z,2025-10-16T15:52:08Z
+fossabot,fossabot,@fossas,https://fossa.com,Dependency Heaven,support@fossa.io,,Your friendly neighborhood FOSSA bot. Opens PRs to add a @fossas scan status to your README. Also opens PRs to remediate vulnerabilities in your dependencies.,,24160,424,0,2017-06-30T06:04:31Z,2025-11-03T16:19:54Z
+goodlux,Rob Kunkle,,,,,,Epistemological Ontologist,lux,57,38,168,2008-10-30T13:40:28Z,2025-11-07T02:21:57Z
+jacobweiss2305,Jacob Weiss,,,"Westcliffe, CO",,,,,7,81,0,2017-03-28T19:35:09Z,2025-10-15T03:05:49Z
+jeronimodeleon,Jeronimo De Leon,Welcome.AI,http://www.jdeleon.com,New York,jdeleon@jdeleon.com,,AI & NLP enthusiast: constantly experimenting and building innovative systems. Founder of www.Welcome.AI.,,40,13,16,2013-08-13T10:58:50Z,2025-10-30T17:30:42Z
+jpeterson-pxt,,,,,,,,,1,3,0,2025-01-21T22:32:03Z,2025-03-28T03:33:16Z
+kamir,Mirko Kämpf,IT-Service Kämpf UG,http://www.semanpix.de,"Frankleben, Sachsen-Anhalt, Germany",mirko.kaempf@gmail.com,,,,171,24,25,2011-12-05T07:49:09Z,2025-10-25T10:35:11Z
+metadaddy,Pat Patterson,Backblaze,http://about.me/patpatterson,"San Jose, CA",metadaddy@gmail.com,,"Dad, Husband, Runner, Chief Technical Evangelist at @Backblaze.
+
+Previously at @Citrix, @StreamSets and @Salesforce",metadaddy,186,339,3,2011-04-11T22:00:36Z,2025-03-27T06:24:23Z
+mkornacker,Marcel Kornacker,,,Oakland,,,,,2,18,0,2010-12-01T02:06:37Z,2025-03-05T17:19:12Z
+orm011,Oscar Moll,,https://orm011.github.io,,rimoll@gmail.com,,Engineer @ Databricks,,65,32,44,2011-01-14T21:28:19Z,2025-10-04T23:54:33Z
+pierrebrunelle,Pierre Brunelle,Pixeltable,pixeltable.com,Seattle,,,"Doing New Things. ex-founder 
+@noteable-io (acq by 
+@confluentinc
+) | formerly 
+Amazon, AWS, & Siemens
+… Decision Scientist & Structural Engineer",pjlbrunelle,41,19,9,2020-09-03T02:14:16Z,2025-10-16T12:13:39Z
+resilient-maximus,,,,,,,,,9,0,0,2019-07-08T12:38:19Z,2024-04-18T03:17:24Z
+sergey-mkhitaryan,,,,,,,,,2,0,0,2022-06-02T22:49:47Z,2025-10-29T05:04:43Z
+spillai,Sudeep Pillai,VLM Run,https://vlm.run,"San Francisco, CA",sudeep.pillai@gmail.com,True,Building VLMs @vlm-run | Ex-ML Engineering Lead @ToyotaResearchInstitute | CS PhD@MIT. ,sudeeppillai,160,354,769,2012-04-02T19:32:50Z,2025-10-27T14:28:55Z

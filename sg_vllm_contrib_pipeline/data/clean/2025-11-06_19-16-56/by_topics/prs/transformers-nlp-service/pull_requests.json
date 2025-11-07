@@ -1,0 +1,110 @@
+[
+  {
+    "number": 10,
+    "title": "chore(deps): bump follow-redirects from 1.15.2 to 1.15.6",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2024-03-16T09:25:52Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/bentoml/transformers-nlp-service/pull/10"
+  },
+  {
+    "number": 9,
+    "title": "chore(deps): bump follow-redirects from 1.15.2 to 1.15.4",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2024-01-10T16:00:47Z",
+    "closed_at": "2024-03-16T09:25:54Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/bentoml/transformers-nlp-service/pull/9"
+  },
+  {
+    "number": 8,
+    "title": "chore(deps): bump axios from 1.4.0 to 1.6.0",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2023-11-11T12:19:25Z",
+    "closed_at": "2023-11-12T09:36:36Z",
+    "merged_at": "2023-11-12T09:36:36Z",
+    "state": "closed",
+    "html_url": "https://github.com/bentoml/transformers-nlp-service/pull/8"
+  },
+  {
+    "number": 6,
+    "title": "feat(ci): migrate to use official BentoML CI action",
+    "user": "aarnphm",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-08-20T10:53:09Z",
+    "closed_at": "2025-07-04T15:37:00Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/bentoml/transformers-nlp-service/pull/6"
+  },
+  {
+    "number": 5,
+    "title": "Updating Documentation",
+    "user": "jianshen92",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-05-03T15:18:37Z",
+    "closed_at": "2023-05-09T23:47:55Z",
+    "merged_at": "2023-05-09T23:47:55Z",
+    "state": "closed",
+    "html_url": "https://github.com/bentoml/transformers-nlp-service/pull/5"
+  },
+  {
+    "number": 4,
+    "title": "Update README.md",
+    "user": "parano",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-04-28T09:16:36Z",
+    "closed_at": "2023-04-28T23:17:01Z",
+    "merged_at": "2023-04-28T23:17:01Z",
+    "state": "closed",
+    "html_url": "https://github.com/bentoml/transformers-nlp-service/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "update readme",
+    "user": "parano",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-04-28T08:32:26Z",
+    "closed_at": "2023-04-28T09:01:52Z",
+    "merged_at": "2023-04-28T09:01:51Z",
+    "state": "closed",
+    "html_url": "https://github.com/bentoml/transformers-nlp-service/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "feat: add docker images",
+    "user": "aarnphm",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-04-27T12:31:19Z",
+    "closed_at": "2023-04-27T12:42:18Z",
+    "merged_at": "2023-04-27T12:42:18Z",
+    "state": "closed",
+    "html_url": "https://github.com/bentoml/transformers-nlp-service/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "feat: publish images",
+    "user": "aarnphm",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-04-27T11:55:07Z",
+    "closed_at": "2023-04-27T12:20:46Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/bentoml/transformers-nlp-service/pull/1"
+  }
+]

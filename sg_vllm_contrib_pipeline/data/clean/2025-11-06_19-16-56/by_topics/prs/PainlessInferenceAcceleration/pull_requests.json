@@ -1,0 +1,86 @@
+[
+  {
+    "number": 43,
+    "title": "Add min_p parameter to sample_from_logit benchmark",
+    "user": "zlH518",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-10-28T15:27:38Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/alipay/PainlessInferenceAcceleration/pull/43"
+  },
+  {
+    "number": 42,
+    "title": "V0.0.5",
+    "user": "hjyai94",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-10-14T09:32:07Z",
+    "closed_at": "2025-10-14T09:32:18Z",
+    "merged_at": "2025-10-14T09:32:18Z",
+    "state": "closed",
+    "html_url": "https://github.com/alipay/PainlessInferenceAcceleration/pull/42"
+  },
+  {
+    "number": 41,
+    "title": "V0.0.5",
+    "user": "hjyai94",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-10-14T09:12:05Z",
+    "closed_at": "2025-10-14T09:12:32Z",
+    "merged_at": "2025-10-14T09:12:32Z",
+    "state": "closed",
+    "html_url": "https://github.com/alipay/PainlessInferenceAcceleration/pull/41"
+  },
+  {
+    "number": 40,
+    "title": "V0.0.5",
+    "user": "hjyai94",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-09-28T07:30:31Z",
+    "closed_at": "2025-09-28T07:45:30Z",
+    "merged_at": "2025-09-28T07:45:30Z",
+    "state": "closed",
+    "html_url": "https://github.com/alipay/PainlessInferenceAcceleration/pull/40"
+  },
+  {
+    "number": 38,
+    "title": "Create benchmark.py",
+    "user": "Mewo518",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-04-17T05:08:23Z",
+    "closed_at": "2025-04-17T05:14:00Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/alipay/PainlessInferenceAcceleration/pull/38"
+  },
+  {
+    "number": 33,
+    "title": "merge V0.0.4",
+    "user": "zheyishine",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-03-08T09:45:22Z",
+    "closed_at": "2025-03-08T09:48:53Z",
+    "merged_at": "2025-03-08T09:48:53Z",
+    "state": "closed",
+    "html_url": "https://github.com/alipay/PainlessInferenceAcceleration/pull/33"
+  },
+  {
+    "number": 8,
+    "title": "Update README.md",
+    "user": "eltociear",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-01-21T15:45:12Z",
+    "closed_at": "2024-01-22T02:34:10Z",
+    "merged_at": "2024-01-22T02:34:10Z",
+    "state": "closed",
+    "html_url": "https://github.com/alipay/PainlessInferenceAcceleration/pull/8"
+  }
+]

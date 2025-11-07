@@ -1,0 +1,86 @@
+[
+  {
+    "number": 13,
+    "title": "Bump jinja2 from 3.1.2 to 3.1.3",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2024-01-11T21:15:07Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/wellcometrust/sage/pull/13"
+  },
+  {
+    "number": 12,
+    "title": "Bump urllib3 from 1.26.16 to 1.26.18",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2023-10-26T20:19:54Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/wellcometrust/sage/pull/12"
+  },
+  {
+    "number": 11,
+    "title": "Update cli.py",
+    "user": "ArneRobben",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-09-01T11:50:42Z",
+    "closed_at": "2023-10-17T11:27:47Z",
+    "merged_at": "2023-10-17T11:27:47Z",
+    "state": "closed",
+    "html_url": "https://github.com/wellcometrust/sage/pull/11"
+  },
+  {
+    "number": 9,
+    "title": "Deploy any LLM using sage",
+    "user": "nsorros",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-08-11T07:01:50Z",
+    "closed_at": "2023-08-11T07:02:19Z",
+    "merged_at": "2023-08-11T07:02:18Z",
+    "state": "closed",
+    "html_url": "https://github.com/wellcometrust/sage/pull/9"
+  },
+  {
+    "number": 8,
+    "title": "Update on local deployments",
+    "user": "josejuanmartinez",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-08-01T13:19:02Z",
+    "closed_at": "2023-08-11T07:02:16Z",
+    "merged_at": "2023-08-11T07:02:16Z",
+    "state": "closed",
+    "html_url": "https://github.com/wellcometrust/sage/pull/8"
+  },
+  {
+    "number": 7,
+    "title": "Small changes about local deployment",
+    "user": "josejuanmartinez",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-08-01T12:33:42Z",
+    "closed_at": "2023-08-01T12:34:25Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/wellcometrust/sage/pull/7"
+  },
+  {
+    "number": 2,
+    "title": "Add sage code",
+    "user": "AndreiXYZ",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-05-15T10:47:05Z",
+    "closed_at": "2023-06-01T10:26:01Z",
+    "merged_at": "2023-06-01T10:26:01Z",
+    "state": "closed",
+    "html_url": "https://github.com/wellcometrust/sage/pull/2"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "number": 13,
+    "title": "Add support for model Load and Unload endpoints",
+    "user": "Avendor7",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-07-01T03:18:40Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/ArdaGnsrn/ollama-php/pull/13"
+  },
+  {
+    "number": 8,
+    "title": "Fix models/list - \"families\" may be null",
+    "user": "sixty-nine",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-12-25T22:32:34Z",
+    "closed_at": "2024-12-25T22:33:51Z",
+    "merged_at": "2024-12-25T22:33:51Z",
+    "state": "closed",
+    "html_url": "https://github.com/ArdaGnsrn/ollama-php/pull/8"
+  },
+  {
+    "number": 7,
+    "title": "Check if ollama is running or not",
+    "user": "sixty-nine",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-12-20T10:11:28Z",
+    "closed_at": "2024-12-23T09:15:54Z",
+    "merged_at": "2024-12-23T09:15:54Z",
+    "state": "closed",
+    "html_url": "https://github.com/ArdaGnsrn/ollama-php/pull/7"
+  },
+  {
+    "number": 6,
+    "title": "Add Optional Auth Token Support",
+    "user": "ChobPT",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-11-20T12:33:15Z",
+    "closed_at": "2024-11-20T12:48:23Z",
+    "merged_at": "2024-11-20T12:48:23Z",
+    "state": "closed",
+    "html_url": "https://github.com/ArdaGnsrn/ollama-php/pull/6"
+  },
+  {
+    "number": 2,
+    "title": "Update pestphp/pest requirement from ^2.20 to ^3.0",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2024-09-09T10:16:46Z",
+    "closed_at": "2024-09-09T10:27:30Z",
+    "merged_at": "2024-09-09T10:27:30Z",
+    "state": "closed",
+    "html_url": "https://github.com/ArdaGnsrn/ollama-php/pull/2"
+  }
+]

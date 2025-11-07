@@ -1,0 +1,26 @@
+[
+  {
+    "number": 2,
+    "title": "code/rag-app-using-llm",
+    "user": "AyaFergany",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-05-05T00:34:40Z",
+    "closed_at": "2024-05-05T00:34:50Z",
+    "merged_at": "2024-05-05T00:34:50Z",
+    "state": "closed",
+    "html_url": "https://github.com/AyaFergany/RAG-App-Using-a-LLM/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "code/rag-with-weaviate",
+    "user": "AyaFergany",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-05-04T23:24:51Z",
+    "closed_at": "2024-05-04T23:25:03Z",
+    "merged_at": "2024-05-04T23:25:03Z",
+    "state": "closed",
+    "html_url": "https://github.com/AyaFergany/RAG-App-Using-a-LLM/pull/1"
+  }
+]

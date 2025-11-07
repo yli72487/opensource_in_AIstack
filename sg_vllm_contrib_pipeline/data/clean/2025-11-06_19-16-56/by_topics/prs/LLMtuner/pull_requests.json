@@ -1,0 +1,14 @@
+[
+  {
+    "number": 3,
+    "title": "Update README.md",
+    "user": "trigaten",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-01-13T07:57:27Z",
+    "closed_at": "2024-01-13T10:32:58Z",
+    "merged_at": "2024-01-13T10:32:58Z",
+    "state": "closed",
+    "html_url": "https://github.com/promptslab/LLMtuner/pull/3"
+  }
+]

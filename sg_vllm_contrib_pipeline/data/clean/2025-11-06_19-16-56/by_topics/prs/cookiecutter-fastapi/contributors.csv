@@ -1,0 +1,8 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+SourceryAI,SourceryAI,@sourcery-ai,https://sourcery.ai,,,,,,1456,57,0,2020-02-03T13:42:31Z,2025-10-11T12:09:57Z
+arthurhenrique,Arthur Henrique,,,"são paulo, br",,True,"simplicity is complicated
+",,51,98,0,2013-01-21T14:59:03Z,2025-11-01T03:19:43Z
+cwang,Chen Wang,,https://chenwang.org,"London, UK",,,,cwang,36,14,2,2009-12-12T18:15:10Z,2025-10-29T15:25:43Z
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+jnemeth1,,,,,,,,,4,0,0,2023-11-03T16:33:12Z,2025-05-22T20:09:38Z
+renovate[bot],,,,,,,,,0,0,0,2017-06-02T07:04:12Z,2017-06-14T20:22:02Z

@@ -1,0 +1,14 @@
+[
+  {
+    "number": 1,
+    "title": "Updates and corrections",
+    "user": "filtoid",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2020-03-25T08:34:07Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/tobymcclean/edge-inference-intro/pull/1"
+  }
+]

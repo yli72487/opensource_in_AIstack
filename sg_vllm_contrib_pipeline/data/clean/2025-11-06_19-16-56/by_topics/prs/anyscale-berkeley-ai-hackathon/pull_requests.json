@@ -1,0 +1,50 @@
+[
+  {
+    "number": 4,
+    "title": "Update aviary notebook",
+    "user": "tchordia",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-06-17T01:17:35Z",
+    "closed_at": "2023-06-17T01:21:12Z",
+    "merged_at": "2023-06-17T01:21:12Z",
+    "state": "closed",
+    "html_url": "https://github.com/ray-project/anyscale-berkeley-ai-hackathon/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "rename supplementary dict to fine tuning ",
+    "user": "AmeerHajAli",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-06-17T00:50:48Z",
+    "closed_at": "2023-06-17T00:51:02Z",
+    "merged_at": "2023-06-17T00:51:02Z",
+    "state": "closed",
+    "html_url": "https://github.com/ray-project/anyscale-berkeley-ai-hackathon/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Add aviary notebook",
+    "user": "tchordia",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-06-17T00:20:48Z",
+    "closed_at": "2023-06-17T00:21:36Z",
+    "merged_at": "2023-06-17T00:21:36Z",
+    "state": "closed",
+    "html_url": "https://github.com/ray-project/anyscale-berkeley-ai-hackathon/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "added contents",
+    "user": "kamil-kaczmarek",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-06-16T21:22:14Z",
+    "closed_at": "2023-06-16T21:22:24Z",
+    "merged_at": "2023-06-16T21:22:24Z",
+    "state": "closed",
+    "html_url": "https://github.com/ray-project/anyscale-berkeley-ai-hackathon/pull/1"
+  }
+]

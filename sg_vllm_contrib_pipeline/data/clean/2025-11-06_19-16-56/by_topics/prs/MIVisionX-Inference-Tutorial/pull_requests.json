@@ -1,0 +1,86 @@
+[
+  {
+    "number": 8,
+    "title": "changes to lib and arg names",
+    "user": "LakshmiKumar23",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-05-18T20:10:32Z",
+    "closed_at": "2019-05-18T20:11:56Z",
+    "merged_at": "2019-05-18T20:11:55Z",
+    "state": "closed",
+    "html_url": "https://github.com/kiritigowda/MIVisionX-Inference-Tutorial/pull/8"
+  },
+  {
+    "number": 7,
+    "title": "merging files and renaming",
+    "user": "LakshmiKumar23",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-05-16T20:24:27Z",
+    "closed_at": "2019-05-17T18:38:34Z",
+    "merged_at": "2019-05-17T18:38:34Z",
+    "state": "closed",
+    "html_url": "https://github.com/kiritigowda/MIVisionX-Inference-Tutorial/pull/7"
+  },
+  {
+    "number": 6,
+    "title": "seg image mode fix",
+    "user": "LakshmiKumar23",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-05-14T21:22:36Z",
+    "closed_at": "2019-05-14T23:50:12Z",
+    "merged_at": "2019-05-14T23:50:12Z",
+    "state": "closed",
+    "html_url": "https://github.com/kiritigowda/MIVisionX-Inference-Tutorial/pull/6"
+  },
+  {
+    "number": 4,
+    "title": "bug Fixes",
+    "user": "LakshmiKumar23",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-05-14T01:36:40Z",
+    "closed_at": "2019-05-14T19:48:11Z",
+    "merged_at": "2019-05-14T19:48:11Z",
+    "state": "closed",
+    "html_url": "https://github.com/kiritigowda/MIVisionX-Inference-Tutorial/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Detection & Segmentation support",
+    "user": "LakshmiKumar23",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-05-11T03:19:07Z",
+    "closed_at": "2019-05-13T20:21:38Z",
+    "merged_at": "2019-05-13T20:21:38Z",
+    "state": "closed",
+    "html_url": "https://github.com/kiritigowda/MIVisionX-Inference-Tutorial/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "classification+detection",
+    "user": "LakshmiKumar23",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-05-10T21:00:34Z",
+    "closed_at": "2019-05-13T14:31:15Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/kiritigowda/MIVisionX-Inference-Tutorial/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "update to support grayscale",
+    "user": "hansely",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-04-19T00:49:31Z",
+    "closed_at": "2019-04-19T17:45:35Z",
+    "merged_at": "2019-04-19T17:45:35Z",
+    "state": "closed",
+    "html_url": "https://github.com/kiritigowda/MIVisionX-Inference-Tutorial/pull/1"
+  }
+]

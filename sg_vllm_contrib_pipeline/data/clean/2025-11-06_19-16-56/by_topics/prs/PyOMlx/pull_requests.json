@@ -1,0 +1,14 @@
+[
+  {
+    "number": 6,
+    "title": "using mlx_lm server directly.",
+    "user": "kspviswa",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-12-31T23:22:27Z",
+    "closed_at": "2024-12-31T23:22:47Z",
+    "merged_at": "2024-12-31T23:22:47Z",
+    "state": "closed",
+    "html_url": "https://github.com/kspviswa/PyOMlx/pull/6"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "number": 3,
+    "title": "Update README.md",
+    "user": "cbergh",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-05-07T18:59:34Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/Pythondeveloper6/Awesome-MLOPS/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Update free courses list",
+    "user": "mohammad-oghli",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-12-14T12:29:30Z",
+    "closed_at": "2023-12-15T21:57:00Z",
+    "merged_at": "2023-12-15T21:57:00Z",
+    "state": "closed",
+    "html_url": "https://github.com/Pythondeveloper6/Awesome-MLOPS/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Adding new MLOps Resources by Mohamad Oghli",
+    "user": "mohammad-oghli",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-12-07T14:21:56Z",
+    "closed_at": "2023-12-07T15:23:09Z",
+    "merged_at": "2023-12-07T15:23:09Z",
+    "state": "closed",
+    "html_url": "https://github.com/Pythondeveloper6/Awesome-MLOPS/pull/1"
+  }
+]

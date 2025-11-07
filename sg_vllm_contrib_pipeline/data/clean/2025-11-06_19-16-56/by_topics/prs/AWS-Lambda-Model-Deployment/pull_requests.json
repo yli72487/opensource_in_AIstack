@@ -1,0 +1,26 @@
+[
+  {
+    "number": 2,
+    "title": "Bump minimist from 1.2.5 to 1.2.6",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2022-04-03T09:10:38Z",
+    "closed_at": "2022-04-03T09:12:05Z",
+    "merged_at": "2022-04-03T09:12:05Z",
+    "state": "closed",
+    "html_url": "https://github.com/saadhaxxan/AWS-Lambda-Model-Deployment/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "[ImgBot] Optimize images",
+    "user": "imgbot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2022-02-04T14:23:13Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/saadhaxxan/AWS-Lambda-Model-Deployment/pull/1"
+  }
+]

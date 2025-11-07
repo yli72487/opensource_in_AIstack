@@ -1,0 +1,26 @@
+[
+  {
+    "number": 5,
+    "title": "Fix readme typo",
+    "user": "erjanmx",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-11-17T19:00:55Z",
+    "closed_at": "2024-05-16T12:23:06Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/CoderLSF/fast-llama/pull/5"
+  },
+  {
+    "number": 2,
+    "title": "fix: missing include in utility.h",
+    "user": "AlpinDale",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-11-07T20:44:37Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/CoderLSF/fast-llama/pull/2"
+  }
+]

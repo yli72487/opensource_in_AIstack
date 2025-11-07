@@ -1,0 +1,14 @@
+[
+  {
+    "number": 2,
+    "title": "For CLA",
+    "user": "JustinPihony",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-05-30T00:31:52Z",
+    "closed_at": "2019-05-30T00:31:59Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/lightbend/fdp-speculative-model-serving/pull/2"
+  }
+]

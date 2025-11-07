@@ -1,0 +1,16 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+alokpattani,Alok Pattani,Google,,"Mountain View, CA",,,Developer Advocate at Google Cloud,alokpattani,12,18,0,2019-05-31T18:25:58Z,2024-12-12T09:10:17Z
+awelburn,Andrew Welburn,,,"Sandhurst, UK",,,,,7,1,0,2015-03-13T08:25:10Z,2025-07-06T07:33:25Z
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+erwinh85,Erwin Huizenga,Google,,,,,Machine Learning ,,5,36,0,2022-08-18T08:19:24Z,2025-08-06T10:48:10Z
+iamthuya,Thu Ya Kyaw,Google,https://www.linkedin.com/in/thuyakyaw/,Singapore,,,"Developer Advocate, Google Cloud",iamthuya,20,86,13,2016-09-16T03:09:01Z,2025-11-05T11:09:23Z
+inardini,Ivan Nardini,Google Cloud ,,San Francisco,,,"As AI/ML DevRel engineer, I'm dedicated to helping people like you utilize AI/ML on @GoogleCloudPlatform.",ivnardini,20,58,2,2021-08-10T06:08:31Z,2025-09-29T10:39:05Z
+lily-nicholls,,,,,,,,,2,2,1,2021-03-25T15:06:44Z,2024-04-29T14:23:00Z
+mandieq,Mandie Quartly,Google,,UK,,,Geek. Mum of two. ML / AI. Google Cloud. Astro PhD. Views are my own.,mandieq,16,6,9,2017-11-01T15:26:25Z,2025-10-15T11:05:04Z
+nwipfli,Nicolas Wipfli,Google,https://www.linkedin.com/in/nwipfli/,Switzerland,n.wipfli@gmail.com,,,,6,1,2,2016-06-15T05:41:37Z,2025-10-29T12:45:11Z
+polong-lin,Polong Lin,@GoogleCloudPlatform ,https://www.linkedin.com/in/polonglin/,"London, UK",,True,"Agent Development Kit
+
+Staff Developer Advocacy Manager, Generative AI, Google Cloud",polonglin,32,169,3,2014-01-22T16:10:21Z,2025-10-31T10:45:49Z
+renovate-bot,Mend Renovate,@mend,https://mend.io/renovate/,,renovate@whitesourcesoftware.com,,Mend Renovate is a bot to keep dependencies up-to-date using Pull Requests. To install: https://github.com/apps/renovate,renovatebot,12545,2114,0,2017-01-17T16:55:44Z,2025-09-26T10:07:49Z
+saeedaghabozorgi,Saeed Aghabozorgi,,,Canada,,,,,67,206,4,2014-09-05T03:45:33Z,2025-07-25T02:38:43Z
+trentmifsud,Trent Mifsud,,,"Melbourne, Australia",,,,,11,2,1,2014-10-06T11:23:55Z,2025-06-28T10:57:15Z

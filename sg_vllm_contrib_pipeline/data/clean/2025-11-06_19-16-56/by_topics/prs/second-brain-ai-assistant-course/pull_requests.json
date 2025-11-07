@@ -1,0 +1,110 @@
+[
+  {
+    "number": 15,
+    "title": "update the model_id and consider temperature and top_p combinations",
+    "user": "KunyiLiu",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-08-20T03:44:38Z",
+    "closed_at": "2025-08-20T03:48:36Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course/pull/15"
+  },
+  {
+    "number": 13,
+    "title": "Add `local-infrastructure-down` target in online Makefile",
+    "user": "yangnyc1024",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-05-13T04:01:26Z",
+    "closed_at": "2025-05-19T09:14:14Z",
+    "merged_at": "2025-05-19T09:14:14Z",
+    "state": "closed",
+    "html_url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course/pull/13"
+  },
+  {
+    "number": 10,
+    "title": "Add Docker cleanup target (make local-infrastructure-down) to Makefile",
+    "user": "yangnyc1024",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-04-12T19:45:24Z",
+    "closed_at": "2025-04-15T14:52:47Z",
+    "merged_at": "2025-04-15T14:52:47Z",
+    "state": "closed",
+    "html_url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course/pull/10"
+  },
+  {
+    "number": 9,
+    "title": "chore: typographical",
+    "user": "NeuralEmpowerment",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-03-23T22:17:24Z",
+    "closed_at": "2025-03-25T20:06:22Z",
+    "merged_at": "2025-03-25T20:06:22Z",
+    "state": "closed",
+    "html_url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course/pull/9"
+  },
+  {
+    "number": 8,
+    "title": "chore: update summary_density_judge.py",
+    "user": "eltociear",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-03-23T09:21:47Z",
+    "closed_at": "2025-03-25T20:07:10Z",
+    "merged_at": "2025-03-25T20:07:10Z",
+    "state": "closed",
+    "html_url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course/pull/8"
+  },
+  {
+    "number": 5,
+    "title": "Added warning for Mongodb container + unsloth installation",
+    "user": "915-Muscalagiu-AncaIoana",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-02-23T16:41:26Z",
+    "closed_at": "2025-02-24T09:41:23Z",
+    "merged_at": "2025-02-24T09:41:23Z",
+    "state": "closed",
+    "html_url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course/pull/5"
+  },
+  {
+    "number": 3,
+    "title": "feat: Implement crawling",
+    "user": "iusztinpaul",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-01-20T17:23:23Z",
+    "closed_at": "2025-01-22T17:15:20Z",
+    "merged_at": "2025-01-22T17:15:20Z",
+    "state": "closed",
+    "html_url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Feature: second brain online RAG pipeline and Gradio fronent PR notes…",
+    "user": "iusztinpaul",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-01-20T14:49:43Z",
+    "closed_at": "2025-01-22T10:12:28Z",
+    "merged_at": "2025-01-22T10:12:28Z",
+    "state": "closed",
+    "html_url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "feat(pipeline): Add foundational ZenML-based pipeline stack with Local MongoDB Atlas integration and related updates",
+    "user": "Cre4T3Tiv3",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-01-15T22:49:32Z",
+    "closed_at": "2025-01-16T15:28:13Z",
+    "merged_at": "2025-01-16T15:28:12Z",
+    "state": "closed",
+    "html_url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course/pull/1"
+  }
+]

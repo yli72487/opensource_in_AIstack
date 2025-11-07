@@ -1,0 +1,8 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+AlmogBaku,Almog Baku,,http://www.AlmogBaku.com,Israel,almog.baku@gmail.com,True,LLM hacker,AlmogBaku,134,87,4,2009-06-25T20:54:27Z,2025-10-30T14:31:14Z
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+epec254,Eric Peter,,https://www.linkedin.com/in/ericcpeter/,"Marin, CA",,,,,52,7,0,2014-09-20T21:44:11Z,2025-10-24T14:37:02Z
+fossabot,fossabot,@fossas,https://fossa.com,Dependency Heaven,support@fossa.io,,Your friendly neighborhood FOSSA bot. Opens PRs to add a @fossas scan status to your README. Also opens PRs to remediate vulnerabilities in your dependencies.,,24160,424,0,2017-06-30T06:04:31Z,2025-11-03T16:19:54Z
+orazoulay,,,,,,,,,10,0,1,2016-10-27T20:09:05Z,2025-06-09T08:47:53Z
+shaharco,shahar cohen,,,,shahar.cohen@zscaler.com,,,,2,0,0,2016-08-01T07:39:35Z,2025-10-29T09:05:39Z
+tamirfri,Tamir Friedman,,,Israel,,,,,24,0,0,2016-10-30T15:58:01Z,2025-10-08T17:21:50Z

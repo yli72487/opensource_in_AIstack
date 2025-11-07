@@ -1,0 +1,98 @@
+[
+  {
+    "number": 8,
+    "title": "ingress class",
+    "user": "alickwong",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-10-24T12:17:25Z",
+    "closed_at": "2025-10-24T21:19:33Z",
+    "merged_at": "2025-10-24T21:19:33Z",
+    "state": "closed",
+    "html_url": "https://github.com/aws-solutions-library-samples/guidance-for-scalable-model-inference-and-agentic-ai-on-amazon-eks/pull/8"
+  },
+  {
+    "number": 7,
+    "title": "Riv2025 - added ingress class",
+    "user": "alickwong",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-10-24T12:15:44Z",
+    "closed_at": "2025-10-24T12:16:05Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/aws-solutions-library-samples/guidance-for-scalable-model-inference-and-agentic-ai-on-amazon-eks/pull/7"
+  },
+  {
+    "number": 6,
+    "title": "Fixing for EKS Auto Mode",
+    "user": "alickwong",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-10-22T07:18:31Z",
+    "closed_at": "2025-10-22T19:11:03Z",
+    "merged_at": "2025-10-22T19:11:03Z",
+    "state": "closed",
+    "html_url": "https://github.com/aws-solutions-library-samples/guidance-for-scalable-model-inference-and-agentic-ai-on-amazon-eks/pull/6"
+  },
+  {
+    "number": 5,
+    "title": "Update README.md",
+    "user": "dzilbermanvmw",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-09-17T23:40:04Z",
+    "closed_at": "2025-09-26T05:37:48Z",
+    "merged_at": "2025-09-26T05:37:48Z",
+    "state": "closed",
+    "html_url": "https://github.com/aws-solutions-library-samples/guidance-for-scalable-model-inference-and-agentic-ai-on-amazon-eks/pull/5"
+  },
+  {
+    "number": 4,
+    "title": "added agent branch",
+    "user": "tohwsw",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-08-21T07:14:07Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/aws-solutions-library-samples/guidance-for-scalable-model-inference-and-agentic-ai-on-amazon-eks/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Bump transformers from 4.46.0 to 4.50.0 in /ray-server",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2025-04-29T16:35:15Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/aws-solutions-library-samples/guidance-for-scalable-model-inference-and-agentic-ai-on-amazon-eks/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Bump ray from 2.39.0 to 2.43.0 in /ray-server",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2025-03-06T22:36:45Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/aws-solutions-library-samples/guidance-for-scalable-model-inference-and-agentic-ai-on-amazon-eks/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Bump transformers from 4.46.0 to 4.48.0 in /ray-server",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2025-02-11T16:33:11Z",
+    "closed_at": "2025-04-29T16:35:17Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/aws-solutions-library-samples/guidance-for-scalable-model-inference-and-agentic-ai-on-amazon-eks/pull/1"
+  }
+]

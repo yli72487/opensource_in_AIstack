@@ -1,0 +1,14 @@
+[
+  {
+    "number": 2,
+    "title": "Initial manifests",
+    "user": "terrytangyuan",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-01-26T05:24:13Z",
+    "closed_at": "2022-01-26T05:24:19Z",
+    "merged_at": "2022-01-26T05:24:19Z",
+    "state": "closed",
+    "html_url": "https://github.com/terrytangyuan/distributed-ml-patterns/pull/2"
+  }
+]

@@ -1,0 +1,26 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+HoussemDellai,Houssem Dellai,Microsoft,youtube.com/HoussemDellai,Paris,houssem.dellai@microsoft.com,True,"Engineer at Microsoft
+(Azure / Kubernetes / DevOps / Terraform)
+Previously Microsoft MVP",HoussemDellai,219,3363,21,2014-01-30T21:07:48Z,2025-10-27T23:55:39Z
+JawadAminMSFT,Jawad Amin,@microsoft,,,,,,,6,4,0,2024-02-21T16:37:01Z,2025-11-03T19:48:16Z
+Ritaja,Ritaja Sengupta,Microsoft Corp,linkedin.com/in/ritajasengupta/,"Zurich, Switzerland",ritaja.sengupta@gmail.com,True,"AI & Data @ Azure, Microsoft",,34,6,0,2013-10-24T10:53:38Z,2025-07-13T14:44:47Z
+akritim,akriti mehta,,,,,,,,18,2,1,2015-02-23T08:35:10Z,2025-09-19T15:52:39Z
+arun13go,Arunkumar Gopalan,,,,,,,,12,1,0,2021-12-15T16:13:08Z,2025-10-16T10:00:20Z
+azeltov,Alex Zeltov,Microsoft Corporation,,,,,,,182,24,10,2013-11-06T19:48:01Z,2025-10-29T13:25:38Z
+chrey-gh,,,,,,,,,17,4,0,2019-11-25T15:40:28Z,2025-10-31T19:33:54Z
+cindyweng,Cindy Weng,,,,,,,,14,21,0,2014-09-23T15:53:45Z,2025-11-05T15:37:39Z
+drosevear,David Rosevear,,,,,,,,3,0,0,2022-07-20T22:49:12Z,2025-10-19T18:27:44Z
+ezwiefel,Erik Zwiefel,@Google,https://www.linkedin.com/in/erikzwiefel,Minnesota,,,Generative AI Technical Solutions Architect,,45,24,7,2014-09-25T04:15:28Z,2025-10-31T02:33:12Z
+gallogiulia,Giulia Gallo,Microsoft,https://scholar.google.com/citations?user=tDInBkQAAAAJ&hl=en,Long Beach,giulia.arche@gmail.com,,"Senior Technical Specialist, Data & AI. Ph.D. in Computer Science. Based in Long Beach, California. ",,52,11,67,2016-09-01T19:29:24Z,2025-10-28T19:43:59Z
+jalalkhan001,,,,,,,,,11,0,0,2024-10-23T13:28:42Z,2025-11-04T12:21:01Z
+lostmygithubaccount,Cody Peterson,@ascend-io,dkdc.dev,Florida,,,Product @ Ascend,,67,56,1,2019-09-02T17:01:09Z,2025-11-05T15:38:02Z
+mariamedp,María Medina,@microsoft,,"Madrid, Spain / Amsterdam, Netherlands",,,,mariamedp,31,54,8,2016-04-07T16:42:55Z,2025-08-22T08:07:25Z
+microsoft-github-policy-service[bot],,,,,,,,,0,0,0,2021-01-10T19:27:33Z,2021-09-23T20:33:32Z
+ncostar,Noah Costar,Aware,,Auckland,,,Data Scientist & Team Lead,noahcostar,7,14,18,2019-10-28T08:52:34Z,2025-10-28T00:47:03Z
+ppazure,,,,,,,,,1,0,0,2024-06-05T06:33:30Z,2024-06-05T17:45:48Z
+rahulbourai,Rahul Bourai,,,,,True,,,0,0,0,2016-02-13T19:21:41Z,2025-10-12T11:40:25Z
+sdonohoo,Scott Donohoo,,,"Pittsburgh, PA",,,ML/AI Specialist,,51,17,12,2012-02-21T14:42:41Z,2025-05-08T16:22:44Z
+setuc,Setu Chokshi,Microsoft,,Singapore,,,,setuc,147,38,22,2014-10-19T13:08:49Z,2025-11-05T05:50:39Z
+strugdt,Deepanshu Tyagi,Amazon Web Services,,Singapore,,,,,1,0,0,2016-01-11T17:17:42Z,2025-10-17T11:34:33Z
+timschps,Tim Schaeps,Microsoft,https://www.timschaeps.be,"Antwerp, Belgium",,,Cloud Solution Architect at Microsoft,timschaeps,26,11,13,2015-06-29T07:54:47Z,2025-08-01T11:19:43Z
+yelizkilinc,,,,,,,,,22,2,0,2019-09-24T10:14:17Z,2025-10-29T12:10:16Z

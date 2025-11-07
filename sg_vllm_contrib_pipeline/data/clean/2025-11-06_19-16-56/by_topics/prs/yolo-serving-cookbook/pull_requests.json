@@ -1,0 +1,14 @@
+[
+  {
+    "number": 1,
+    "title": "Create tech stack docs (techstack.yml and techstack.md)",
+    "user": "stack-file[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2024-05-15T13:00:25Z",
+    "closed_at": "2024-05-15T13:11:59Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/Zerohertz/yolo-serving-cookbook/pull/1"
+  }
+]

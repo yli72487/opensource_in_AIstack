@@ -1,0 +1,122 @@
+[
+  {
+    "number": 10,
+    "title": "LLM Tinyllama UI",
+    "user": "NavishaShetty",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-10-11T23:10:44Z",
+    "closed_at": "2025-10-11T23:10:55Z",
+    "merged_at": "2025-10-11T23:10:55Z",
+    "state": "closed",
+    "html_url": "https://github.com/NavishaShetty/Scaling-with-Kubernetes/pull/10"
+  },
+  {
+    "number": 9,
+    "title": "Phase 1 complete",
+    "user": "NavishaShetty",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-10-07T23:25:57Z",
+    "closed_at": "2025-10-07T23:30:34Z",
+    "merged_at": "2025-10-07T23:30:34Z",
+    "state": "closed",
+    "html_url": "https://github.com/NavishaShetty/Scaling-with-Kubernetes/pull/9"
+  },
+  {
+    "number": 8,
+    "title": "build docker image and push to registry",
+    "user": "NavishaShetty",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-10-07T02:03:28Z",
+    "closed_at": "2025-10-07T02:03:34Z",
+    "merged_at": "2025-10-07T02:03:34Z",
+    "state": "closed",
+    "html_url": "https://github.com/NavishaShetty/Scaling-with-Kubernetes/pull/8"
+  },
+  {
+    "number": 7,
+    "title": "gpu detection script",
+    "user": "NavishaShetty",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-08-13T02:12:59Z",
+    "closed_at": "2025-08-13T02:13:06Z",
+    "merged_at": "2025-08-13T02:13:06Z",
+    "state": "closed",
+    "html_url": "https://github.com/NavishaShetty/Scaling-with-Kubernetes/pull/7"
+  },
+  {
+    "number": 6,
+    "title": "k8s",
+    "user": "NavishaShetty",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-08-08T03:11:02Z",
+    "closed_at": "2025-08-08T03:11:10Z",
+    "merged_at": "2025-08-08T03:11:10Z",
+    "state": "closed",
+    "html_url": "https://github.com/NavishaShetty/Scaling-with-Kubernetes/pull/6"
+  },
+  {
+    "number": 5,
+    "title": "final bash script for deploying kubernetes and kubectl",
+    "user": "NavishaShetty",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-08-07T02:12:05Z",
+    "closed_at": "2025-08-07T02:12:13Z",
+    "merged_at": "2025-08-07T02:12:13Z",
+    "state": "closed",
+    "html_url": "https://github.com/NavishaShetty/Scaling-with-Kubernetes/pull/5"
+  },
+  {
+    "number": 4,
+    "title": "kubectl configuration",
+    "user": "NavishaShetty",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-08-06T01:54:07Z",
+    "closed_at": "2025-08-06T01:54:17Z",
+    "merged_at": "2025-08-06T01:54:17Z",
+    "state": "closed",
+    "html_url": "https://github.com/NavishaShetty/Scaling-with-Kubernetes/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Sync",
+    "user": "NavishaShetty",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-08-06T00:08:11Z",
+    "closed_at": "2025-08-06T00:09:44Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/NavishaShetty/Scaling-with-Kubernetes/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "deploy clusterFeature",
+    "user": "NavishaShetty",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-07-27T01:17:02Z",
+    "closed_at": "2025-07-27T01:17:11Z",
+    "merged_at": "2025-07-27T01:17:11Z",
+    "state": "closed",
+    "html_url": "https://github.com/NavishaShetty/Scaling-with-Kubernetes/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "test connection by getting machine information",
+    "user": "NavishaShetty",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-07-26T22:42:13Z",
+    "closed_at": "2025-07-26T22:42:20Z",
+    "merged_at": "2025-07-26T22:42:20Z",
+    "state": "closed",
+    "html_url": "https://github.com/NavishaShetty/Scaling-with-Kubernetes/pull/1"
+  }
+]

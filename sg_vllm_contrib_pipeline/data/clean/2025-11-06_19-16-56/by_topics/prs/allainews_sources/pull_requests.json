@@ -1,0 +1,50 @@
+[
+  {
+    "number": 4,
+    "title": "Add Tool Use to README.md",
+    "user": "MikeBirdTech",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-04-04T15:07:54Z",
+    "closed_at": "2025-11-04T21:52:40Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/foorilla/allainews_sources/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Adding turing post to the readme",
+    "user": "wschenk",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-02-05T00:46:30Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/foorilla/allainews_sources/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Updated sources.md",
+    "user": "IPratikMali",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-12-01T05:54:28Z",
+    "closed_at": "2023-12-25T09:12:53Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/foorilla/allainews_sources/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Update README.md",
+    "user": "PubliusAu",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-05-11T15:56:05Z",
+    "closed_at": "2023-05-22T10:09:47Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/foorilla/allainews_sources/pull/1"
+  }
+]

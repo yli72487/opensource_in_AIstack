@@ -1,0 +1,86 @@
+[
+  {
+    "number": 7,
+    "title": "Revert \"feat: add setup_env script\"",
+    "user": "ArjitJ",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-12-23T22:30:33Z",
+    "closed_at": "2024-12-23T22:30:47Z",
+    "merged_at": "2024-12-23T22:30:47Z",
+    "state": "closed",
+    "html_url": "https://github.com/TurboML-Inc/colab-notebooks/pull/7"
+  },
+  {
+    "number": 6,
+    "title": "feat: add setup_env script",
+    "user": "0xn4utilus",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-12-21T23:02:06Z",
+    "closed_at": "2024-12-22T00:56:53Z",
+    "merged_at": "2024-12-22T00:56:53Z",
+    "state": "closed",
+    "html_url": "https://github.com/TurboML-Inc/colab-notebooks/pull/6"
+  },
+  {
+    "number": 5,
+    "title": "feat: update install_turboml.sh",
+    "user": "0xn4utilus",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-12-18T17:31:19Z",
+    "closed_at": "2024-12-18T17:36:33Z",
+    "merged_at": "2024-12-18T17:36:33Z",
+    "state": "closed",
+    "html_url": "https://github.com/TurboML-Inc/colab-notebooks/pull/5"
+  },
+  {
+    "number": 4,
+    "title": "feat: use pip",
+    "user": "0xn4utilus",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-12-14T20:39:16Z",
+    "closed_at": "2024-12-14T20:42:55Z",
+    "merged_at": "2024-12-14T20:42:55Z",
+    "state": "closed",
+    "html_url": "https://github.com/TurboML-Inc/colab-notebooks/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "fix: handle existing dataset error in notebooks",
+    "user": "zayed-haque",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-12-14T19:14:02Z",
+    "closed_at": "2024-12-14T19:46:59Z",
+    "merged_at": "2024-12-14T19:46:59Z",
+    "state": "closed",
+    "html_url": "https://github.com/TurboML-Inc/colab-notebooks/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "fix: handle existing dataset error in quickstart",
+    "user": "zayed-haque",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-12-14T18:35:03Z",
+    "closed_at": "2024-12-14T18:37:13Z",
+    "merged_at": "2024-12-14T18:37:13Z",
+    "state": "closed",
+    "html_url": "https://github.com/TurboML-Inc/colab-notebooks/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "fix: notebooks",
+    "user": "0xn4utilus",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-12-12T12:46:46Z",
+    "closed_at": "2024-12-12T12:53:06Z",
+    "merged_at": "2024-12-12T12:53:06Z",
+    "state": "closed",
+    "html_url": "https://github.com/TurboML-Inc/colab-notebooks/pull/1"
+  }
+]

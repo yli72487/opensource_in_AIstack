@@ -1,0 +1,122 @@
+[
+  {
+    "number": 74,
+    "title": "tests: add script to check that stanc3 recognizes entry points",
+    "user": "kyleam",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-03-05T19:11:18Z",
+    "closed_at": "2025-03-06T21:42:50Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/metrumresearchgroup/Torsten/pull/74"
+  },
+  {
+    "number": 64,
+    "title": "Add documentation for one/two compartment + effect compartment models",
+    "user": "yizhang-yiz",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-11-10T17:49:46Z",
+    "closed_at": "2024-11-14T22:30:48Z",
+    "merged_at": "2024-11-14T22:30:48Z",
+    "state": "closed",
+    "html_url": "https://github.com/metrumresearchgroup/Torsten/pull/64"
+  },
+  {
+    "number": 63,
+    "title": "Remove pmx_integrate_ode_group Stan examples",
+    "user": "yizhang-yiz",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-11-09T07:09:21Z",
+    "closed_at": "2024-11-14T22:26:55Z",
+    "merged_at": "2024-11-14T22:26:55Z",
+    "state": "closed",
+    "html_url": "https://github.com/metrumresearchgroup/Torsten/pull/63"
+  },
+  {
+    "number": 46,
+    "title": "Support compiling with gcc13",
+    "user": "chriselrod",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-09-06T00:22:50Z",
+    "closed_at": "2023-09-09T06:32:35Z",
+    "merged_at": "2023-09-09T06:32:35Z",
+    "state": "closed",
+    "html_url": "https://github.com/metrumresearchgroup/Torsten/pull/46"
+  },
+  {
+    "number": 45,
+    "title": "update poppk model example",
+    "user": "yizhang-yiz",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-01-04T05:22:35Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/metrumresearchgroup/Torsten/pull/45"
+  },
+  {
+    "number": 37,
+    "title": "debug action",
+    "user": "yizhang-yiz",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2021-11-04T16:13:01Z",
+    "closed_at": "2021-11-04T16:13:10Z",
+    "merged_at": "2021-11-04T16:13:10Z",
+    "state": "closed",
+    "html_url": "https://github.com/metrumresearchgroup/Torsten/pull/37"
+  },
+  {
+    "number": 25,
+    "title": "v0.87.2",
+    "user": "yizhang-yiz",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-12-04T03:55:02Z",
+    "closed_at": "2019-12-04T03:55:24Z",
+    "merged_at": "2019-12-04T03:55:24Z",
+    "state": "closed",
+    "html_url": "https://github.com/metrumresearchgroup/Torsten/pull/25"
+  },
+  {
+    "number": 23,
+    "title": "update MPI installation description",
+    "user": "yizhang-yiz",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-11-27T17:03:15Z",
+    "closed_at": "2019-11-27T17:03:33Z",
+    "merged_at": "2019-11-27T17:03:32Z",
+    "state": "closed",
+    "html_url": "https://github.com/metrumresearchgroup/Torsten/pull/23"
+  },
+  {
+    "number": 21,
+    "title": "Add enhancement evid8",
+    "user": "csetraynor",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-11-06T23:04:14Z",
+    "closed_at": "2020-10-01T16:23:18Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/metrumresearchgroup/Torsten/pull/21"
+  },
+  {
+    "number": 7,
+    "title": "Bugfix/issue 6 manual",
+    "user": "charlesm93",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-04-01T22:01:54Z",
+    "closed_at": "2019-08-29T23:25:58Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/metrumresearchgroup/Torsten/pull/7"
+  }
+]

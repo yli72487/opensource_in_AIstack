@@ -1,0 +1,122 @@
+[
+  {
+    "number": 11,
+    "title": "Resize - Iterpolation method",
+    "user": "kiritigowda",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2020-11-02T20:43:08Z",
+    "closed_at": "2020-11-17T20:31:11Z",
+    "merged_at": "2020-11-17T20:31:11Z",
+    "state": "closed",
+    "html_url": "https://github.com/kiritigowda/mivisionx-inference-analyzer/pull/11"
+  },
+  {
+    "number": 10,
+    "title": "Adding flow for input without validation text file",
+    "user": "LakshmiKumar23",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-12-05T21:30:46Z",
+    "closed_at": "2019-12-10T01:53:38Z",
+    "merged_at": "2019-12-10T01:53:38Z",
+    "state": "closed",
+    "html_url": "https://github.com/kiritigowda/mivisionx-inference-analyzer/pull/10"
+  },
+  {
+    "number": 9,
+    "title": "LGTM Fix",
+    "user": "kiritigowda",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-10-24T20:50:03Z",
+    "closed_at": "2019-10-24T21:11:17Z",
+    "merged_at": "2019-10-24T21:11:17Z",
+    "state": "closed",
+    "html_url": "https://github.com/kiritigowda/mivisionx-inference-analyzer/pull/9"
+  },
+  {
+    "number": 8,
+    "title": "H/gui",
+    "user": "hansely",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-10-04T18:38:10Z",
+    "closed_at": "2019-10-04T18:40:07Z",
+    "merged_at": "2019-10-04T18:40:07Z",
+    "state": "closed",
+    "html_url": "https://github.com/kiritigowda/mivisionx-inference-analyzer/pull/8"
+  },
+  {
+    "number": 7,
+    "title": "adat fix",
+    "user": "LakshmiKumar23",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-10-04T18:23:30Z",
+    "closed_at": "2019-10-04T18:28:46Z",
+    "merged_at": "2019-10-04T18:28:46Z",
+    "state": "closed",
+    "html_url": "https://github.com/kiritigowda/mivisionx-inference-analyzer/pull/7"
+  },
+  {
+    "number": 6,
+    "title": "overwrite setup and replaceMode fixes",
+    "user": "LakshmiKumar23",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-10-01T21:29:26Z",
+    "closed_at": "2019-10-01T23:31:48Z",
+    "merged_at": "2019-10-01T23:31:48Z",
+    "state": "closed",
+    "html_url": "https://github.com/kiritigowda/mivisionx-inference-analyzer/pull/6"
+  },
+  {
+    "number": 5,
+    "title": "setup bug fix",
+    "user": "hansely",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-10-01T00:41:47Z",
+    "closed_at": "2019-10-01T17:16:21Z",
+    "merged_at": "2019-10-01T17:16:21Z",
+    "state": "closed",
+    "html_url": "https://github.com/kiritigowda/mivisionx-inference-analyzer/pull/5"
+  },
+  {
+    "number": 4,
+    "title": "H/gui",
+    "user": "hansely",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-09-30T23:42:16Z",
+    "closed_at": "2019-10-01T00:20:06Z",
+    "merged_at": "2019-10-01T00:20:06Z",
+    "state": "closed",
+    "html_url": "https://github.com/kiritigowda/mivisionx-inference-analyzer/pull/4"
+  },
+  {
+    "number": 2,
+    "title": "setup file to start demo initializer",
+    "user": "LakshmiKumar23",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-09-19T20:26:53Z",
+    "closed_at": "2019-09-20T17:33:18Z",
+    "merged_at": "2019-09-20T17:33:18Z",
+    "state": "closed",
+    "html_url": "https://github.com/kiritigowda/mivisionx-inference-analyzer/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Support for preprocessing of each RGB channels ",
+    "user": "hansely",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-09-06T23:20:56Z",
+    "closed_at": "2019-09-06T23:26:02Z",
+    "merged_at": "2019-09-06T23:26:02Z",
+    "state": "closed",
+    "html_url": "https://github.com/kiritigowda/mivisionx-inference-analyzer/pull/1"
+  }
+]

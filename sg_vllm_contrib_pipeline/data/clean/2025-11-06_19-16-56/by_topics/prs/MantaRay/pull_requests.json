@@ -1,0 +1,14 @@
+[
+  {
+    "number": 1,
+    "title": "Provide in-code documentation of implementation.",
+    "user": "TheBlackPlague",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-05-27T12:39:29Z",
+    "closed_at": "2023-05-27T13:42:43Z",
+    "merged_at": "2023-05-27T13:42:43Z",
+    "state": "closed",
+    "html_url": "https://github.com/TheBlackPlague/MantaRay/pull/1"
+  }
+]

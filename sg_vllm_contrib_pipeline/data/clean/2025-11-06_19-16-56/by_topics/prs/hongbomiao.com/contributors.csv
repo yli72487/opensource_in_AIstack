@@ -1,0 +1,14 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+codacy-badger,Codacy Badger,Codacy,https://www.codacy.com,Lisbon,,,"Review less, merge faster. Check code style, security, duplication, complexity and coverage on every change while tracking code quality throughout your sprints.",,9,222,0,2016-11-23T16:54:54Z,2025-04-15T10:36:16Z
+dependabot-preview[bot],,,,,,,,,0,0,0,2017-04-21T12:03:36Z,2019-05-23T08:20:18Z
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+depfu[bot],,,,,,,,,0,0,0,2016-11-24T09:25:59Z,2017-07-04T07:42:53Z
+eltociear,Ikko Eltociear Ashimine,,,"Tokyo, Japan",,,"AI-driven developer @ Tokyo.
+Loves 🎸/🐈/🍛/🏝/⛰",,61,1248,6,2016-10-05T07:58:42Z,2025-10-20T01:14:54Z
+fossabot,fossabot,@fossas,https://fossa.com,Dependency Heaven,support@fossa.io,,Your friendly neighborhood FOSSA bot. Opens PRs to add a @fossas scan status to your README. Also opens PRs to remediate vulnerabilities in your dependencies.,,24159,424,0,2017-06-30T06:04:31Z,2025-11-03T16:19:54Z
+google-labs-jules[bot],,,,,,,,,0,0,0,2024-02-26T18:41:52Z,2025-02-21T02:39:29Z
+greenkeeper[bot],,,,,,,,,0,0,0,2016-10-24T20:19:55Z,2016-11-25T06:41:43Z
+hongbo-miao,Hongbo Miao,Archer Aviation | www.archer.com,www.hongbomiao.com,California,,True,˗ˏˋ ♡ ˎˊ˗,,552,584,1023,2013-01-25T00:37:01Z,2025-11-01T22:56:49Z
+imgbot[bot],,,,,,,,,0,0,0,2017-08-24T04:59:23Z,2017-08-24T04:59:23Z
+renovate[bot],,,,,,,,,0,0,0,2017-06-02T07:04:12Z,2017-06-14T20:22:02Z
+snyk-bot,Snyk bot,@Snyk,https://snyk.io,,,,"Snyk's bot, opens pull requests to fix known vulnerabilities in your dependencies. Check out https://snyk.io/ to learn more.",,4,1114,0,2016-06-03T16:01:12Z,2025-10-31T13:43:04Z

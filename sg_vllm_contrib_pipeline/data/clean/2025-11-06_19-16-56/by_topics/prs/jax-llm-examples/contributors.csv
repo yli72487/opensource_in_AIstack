@@ -1,0 +1,12 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+SamuelMarks,Samuel Marks,@offscale,http://SamuelMarks.github.io,,,True,,,538,169,0,2011-05-24T13:46:59Z,2025-10-03T18:13:20Z
+adonath,Axel Donath,Center for Astrophysics | Harvard & Smithsonian,https://axeldonath.com,"Cambridge, MA",,,I'm a postdoctoral researcher at the Center for Astrophysics. I work on statistical methods and machine learning for analysis of low counts astronomical data.,axeldonath,90,73,10,2013-02-27T11:59:55Z,2025-10-10T17:48:22Z
+gpolovets1,,,,,,,,,3,0,0,2016-08-15T07:28:06Z,2025-09-18T18:06:20Z
+jakevdp,Jake Vanderplas,Google,http://www.vanderplas.com,Oakland CA,,,Python ML & Data Science,jakevdp,239,18776,6,2011-05-11T14:39:53Z,2025-06-10T16:49:57Z
+jenriver,Jen Ha,Google,jiyounha.com,Mountain View,,,machine running learning machine,jenhriver,57,55,16,2017-01-12T01:34:37Z,2025-11-01T22:37:42Z
+martin-marek,Martin Marek,NYU,marek.cc,New York,,,,,14,40,26,2015-05-26T17:49:35Z,2025-11-01T20:56:00Z
+mattjj,Matthew Johnson,Google,people.csail.mit.edu/~mattjj,San Francisco,mattjj@google.com,,research scientist @ Google Brain,,81,2008,138,2012-02-21T20:31:41Z,2025-10-28T04:52:21Z
+rdyro,Robert Dyro,JAX @ Google,robertdyro.com,"Mountain View, CA",robert.dyro@gmail.com,,,,74,53,0,2015-04-28T23:13:58Z,2025-10-13T20:47:03Z
+skye,Skye Wanderman-Milne,,,,skyewm@google.com,,,,22,232,0,2009-05-26T17:22:02Z,2025-11-06T23:27:45Z
+superbobry,Sergei Lebedev,Software Engineer at @deepmind,,"London, UK",,,,,118,546,40,2010-01-20T00:49:54Z,2025-11-06T12:24:01Z
+wang2yn84,Lance Wang,Google,,,,,,,24,5,0,2015-07-01T12:11:17Z,2025-10-20T18:22:09Z

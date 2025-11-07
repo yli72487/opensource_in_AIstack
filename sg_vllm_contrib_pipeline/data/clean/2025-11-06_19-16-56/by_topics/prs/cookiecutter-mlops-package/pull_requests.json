@@ -1,0 +1,26 @@
+[
+  {
+    "number": 2,
+    "title": "feat(release): create v4.1.0 from mlops-python-package",
+    "user": "fmind",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-03-06T20:03:37Z",
+    "closed_at": "2025-03-06T20:05:42Z",
+    "merged_at": "2025-03-06T20:05:42Z",
+    "state": "closed",
+    "html_url": "https://github.com/fmind/cookiecutter-mlops-package/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "feat(upgrade): upgrade to v3 of the mlops-python-package, replacing p…",
+    "user": "fmind",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-12-15T12:00:17Z",
+    "closed_at": "2024-12-15T12:34:17Z",
+    "merged_at": "2024-12-15T12:34:17Z",
+    "state": "closed",
+    "html_url": "https://github.com/fmind/cookiecutter-mlops-package/pull/1"
+  }
+]

@@ -1,0 +1,15 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+AlmogBaku,Almog Baku,,http://www.AlmogBaku.com,Israel,almog.baku@gmail.com,True,LLM hacker,AlmogBaku,134,87,4,2009-06-25T20:54:27Z,2025-10-30T14:31:14Z
+MarckK,Kara de la Marck,Microsoft ,https://www.linkedin.com/in/karadelamarck,,,,,KaraMarck,168,83,62,2015-10-08T12:07:40Z,2025-10-22T04:47:58Z
+cyberskye,kcscofield,Blonde Bad Wolf,https://www.blondebadwolf.ca,,kscofield@blondebadwolf.ca,,,,18,2,5,2015-03-21T00:16:58Z,2025-09-09T17:09:39Z
+danlopez00,Dan Lopez,,,,,,,,155,17,9,2011-04-13T16:18:14Z,2025-10-20T19:51:37Z
+enricforn,Enric Forn,,https://enricforn.github.io/,Espelt,,,Agile ALM consultant. DevOps advocate,,18,0,0,2014-12-04T15:31:21Z,2025-10-29T13:48:48Z
+epec254,Eric Peter,,https://www.linkedin.com/in/ericcpeter/,"Marin, CA",,,,,52,7,0,2014-09-20T21:44:11Z,2025-10-24T14:37:02Z
+hamelsmu,Hamel Husain,Parlance Labs,http://hamel.dev,"Portland, OR",,True,https://hamel.dev,HamelHusain,379,2269,126,2012-02-29T02:56:50Z,2025-09-24T23:44:03Z
+ianhellstrom,Ian Hellström,,https://ianhellstrom.org,,,,,,0,11,0,2019-03-28T09:26:40Z,2025-10-24T14:34:56Z
+lemonez,Ezra Citron,@thetradedesk,,"Seattle, WA",,,,,46,1,2,2018-02-11T21:21:35Z,2025-07-11T17:53:49Z
+markjacksonfishing,Mark Jackson,,,Midwest,,,"Driving innovation with a focus on AI and software development, passionate about culinary exploration, SF Giants die-hard, and a bass angler.",,499,277,4,2016-01-11T21:19:27Z,2025-10-21T10:11:15Z
+michaelneale,Michael Neale,,www.michaelneale.net,"Blue Mountains, Australia",michael.neale@gmail.com,,co-founder CloudBees. Enjoys long walks with varied programming languages on the beach. ,,295,394,24,2008-06-25T10:53:04Z,2025-10-24T11:22:47Z
+skaegi,Simon Kaegi,IBM,,"Ottawa, Canada",,,,,26,31,8,2010-12-30T02:40:03Z,2025-10-02T22:05:06Z
+stefanodallapalma,Stefano Dalla Palma,Adyen,,,stefano.dallapalma0@gmail.com,,,,40,35,28,2016-03-27T12:27:55Z,2025-10-27T11:44:47Z
+tdcox,,,,,,,,,34,15,0,2015-10-07T21:10:05Z,2025-11-03T14:57:53Z

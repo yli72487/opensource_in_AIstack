@@ -1,0 +1,38 @@
+[
+  {
+    "number": 16,
+    "title": "Fix iOS/iPadOS build and broken UI",
+    "user": "kkebo",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-04-13T17:40:03Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/preternatural-explore/mlx-swift-chat/pull/16"
+  },
+  {
+    "number": 12,
+    "title": "Minor enhancements",
+    "user": "ookamitai",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-08-10T10:35:36Z",
+    "closed_at": "2024-08-21T20:25:23Z",
+    "merged_at": "2024-08-21T20:25:23Z",
+    "state": "closed",
+    "html_url": "https://github.com/preternatural-explore/mlx-swift-chat/pull/12"
+  },
+  {
+    "number": 9,
+    "title": "Allow select and copy of Completion text",
+    "user": "arubinst",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-03-05T13:31:07Z",
+    "closed_at": "2024-03-07T06:06:22Z",
+    "merged_at": "2024-03-07T06:06:22Z",
+    "state": "closed",
+    "html_url": "https://github.com/preternatural-explore/mlx-swift-chat/pull/9"
+  }
+]

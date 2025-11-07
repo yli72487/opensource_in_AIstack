@@ -1,0 +1,34 @@
+{
+  "run_timestamp": "2025-11-06_16-43-25",
+  "outputs": {
+    "sgl-project/sglang": {
+      "owner": "sgl-project",
+      "repo": "sglang",
+      "outputs": {
+        "contributors_csv": "/Users/liyue/Downloads/sg_vllm_contrib_pipeline/data/clean/2025-11-06_16-43-25/sglang/contributors.csv",
+        "contributor_stats_json": "/Users/liyue/Downloads/sg_vllm_contrib_pipeline/data/clean/2025-11-06_16-43-25/sglang/contributor_stats.json",
+        "users_csv": "/Users/liyue/Downloads/sg_vllm_contrib_pipeline/data/clean/2025-11-06_16-43-25/sglang/users.csv"
+      },
+      "counts": {
+        "contributors": 774,
+        "users": 612,
+        "stats_entries": 100
+      }
+    },
+    "vllm-project/vllm": {
+      "owner": "vllm-project",
+      "repo": "vllm",
+      "outputs": {
+        "contributors_csv": "/Users/liyue/Downloads/sg_vllm_contrib_pipeline/data/clean/2025-11-06_16-43-25/vllm/contributors.csv",
+        "contributor_stats_json": "/Users/liyue/Downloads/sg_vllm_contrib_pipeline/data/clean/2025-11-06_16-43-25/vllm/contributor_stats.json",
+        "users_csv": "/Users/liyue/Downloads/sg_vllm_contrib_pipeline/data/clean/2025-11-06_16-43-25/vllm/users.csv"
+      },
+      "counts": {
+        "contributors": 1760,
+        "users": 949,
+        "stats_entries": 100
+      }
+    }
+  },
+  "notes": "Add GITHUB_TOKEN for better rate limits."
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "number": 2,
+    "title": "add youtube demo link",
+    "user": "DAVIDNYARKO123",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-04-12T21:10:23Z",
+    "closed_at": "2024-04-12T21:26:07Z",
+    "merged_at": "2024-04-12T21:26:07Z",
+    "state": "closed",
+    "html_url": "https://github.com/DAVIDNYARKO123/edge-tpu-silva/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "add_yolov9_model",
+    "user": "DAVIDNYARKO123",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-04-10T14:00:57Z",
+    "closed_at": "2024-04-10T14:01:06Z",
+    "merged_at": "2024-04-10T14:01:06Z",
+    "state": "closed",
+    "html_url": "https://github.com/DAVIDNYARKO123/edge-tpu-silva/pull/1"
+  }
+]

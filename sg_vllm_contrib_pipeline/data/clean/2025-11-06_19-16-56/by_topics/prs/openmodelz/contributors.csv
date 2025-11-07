@@ -1,0 +1,13 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+allcontributors[bot],,,,,,,,,0,0,0,2019-01-07T12:57:03Z,2019-01-07T12:57:03Z
+cutecutecat,cutecutecat,@tensorchord ,,"Shanghai, China",,,"AI infra, Kubernetes, LLM
+",,51,34,5,2016-06-07T14:30:36Z,2025-09-15T07:06:40Z
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+gaocegege,Ce Gao,@TensorChord,,,cegao@tensorchord.ai,,"AI Infrastructure / MLSys | Co-founder & CEO @TensorChord  | Co-chair @kubeflow | SJTU
+",gaocegege,440,3250,2298,2013-07-27T03:42:37Z,2025-09-22T12:17:28Z
+kemingy,Keming,@tensorchord,https://blog.mapotofu.org,172.17.0.1,,True,418 I'm a teapot,,151,209,164,2015-06-20T04:20:18Z,2025-10-30T02:53:50Z
+singeleaf,,,,,,,,,11,0,0,2020-09-24T08:04:30Z,2025-10-09T07:42:10Z
+tddschn,T,@teddy-co ,http://d.teddysc.me/rr,http://d.teddysc.me/aa,,True,,,110,109,449,2018-12-05T01:16:55Z,2025-06-22T08:12:54Z
+xieydd,xieydd,@Tensorchord,https://blog.xieydd.top/en,"ShangHai,China",xieydd@gmail.com,,"AI Infra , Contributor of Cloud Native and DeepLearning",xieydd_,316,164,404,2016-07-07T01:34:40Z,2025-06-22T11:37:22Z
+yihong0618,yihong,@apache,yihong.run,China,zouzou0208@gmail.com,True,The best is yet to come.,yihong0618,154,6238,852,2015-11-23T07:03:26Z,2025-07-24T02:50:20Z
+zwpaper,Wei Zhang,@TabbyML,https://kweizh.com,ShenZhen,,,,kweizh,150,120,149,2013-03-04T12:13:40Z,2025-10-21T06:54:28Z

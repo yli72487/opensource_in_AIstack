@@ -1,0 +1,69 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+AmrAlaaYassen,Amr Alaa Yassen ,@Celonis,,"Bavaria, Germany",,True,always achieve more ...,,35,74,196,2017-02-15T17:49:39Z,2025-10-01T19:02:36Z
+AnaisUrlichs,Anais Urlichs,,https://anaisurl.com,London,,,Platform Engineer,urlichsanais,105,868,49,2017-11-11T15:28:14Z,2025-03-20T18:42:22Z
+Benedikt1992,Benedikt Bock,,benedikt1992.de,Germany,,,,,32,12,3,2013-10-12T17:24:11Z,2022-08-01T19:18:14Z
+Itamar-BY,Itamar Ben Yair,,https://datree.io,,,,,,13,1,0,2022-01-09T14:25:22Z,2023-11-16T13:38:23Z
+KOCEAN33,Juyeob Maeng,,,"Seoul, Korea",,,DevOps,,9,4,19,2022-09-09T16:56:51Z,2025-11-06T10:11:25Z
+LinuxSuRen,Rick,@opensource-f2f,https://linuxsuren.github.io/open-source-best-practice/,"Beijing, China",,True,"Dev and a host of open-source Podcasts 
+@opensource-f2f",linuxsuren,1884,966,5,2012-02-19T06:28:06Z,2025-11-01T11:37:41Z
+LukeMwila,Lukonde Mwila,@AWS,,"Johannesburg, South Africa",,,Product Manager @AWS ,LuKE9ine,173,529,95,2017-07-20T13:28:04Z,2025-11-06T00:56:34Z
+MichaelCade,Michael Cade,@KastenHQ @Veeam,https://vzilla.co.uk/,United Kingdom,michael.cade@veeam.com,,"Field CTO / Technologist @Veeam
+All Things DATA, learning in public - Kubernetes, Cloud-Native, DevOps & the Future of Software #90DaysOfDevOps",MichaelCade1,93,2766,41,2015-04-06T18:15:44Z,2025-11-05T08:21:54Z
+Nold360,nold,Lib[re]42,https://wiki.nold.in/,,,,Hacking for Freedom since 1990,,151,55,48,2012-02-17T07:02:38Z,2025-10-30T07:51:35Z
+SG60,Sam Greening,Guildhall School of Music and Drama / University of Cambridge,www.samgreening.com,United Kingdom,,True,Composer,,38,2,14,2012-10-13T16:51:29Z,2025-08-27T19:25:14Z
+adamchengtkc,Adam Cheng,,,,,,,,17,4,0,2019-07-05T13:14:41Z,2025-11-03T14:26:10Z
+adinhodovic,Adin Hodovic,@authzed,https://hodovi.cc,Remote,hodovicadin@gmail.com,True,,,107,77,38,2015-04-22T10:04:56Z,2025-11-04T17:49:37Z
+andreyvelich,Andrey Velichkevich,Apple,https://www.linkedin.com/in/andrey-velichkevich/,London,andrey.velichkevich@gmail.com,True,@kubeflow Steering Committee | @kubernetes WG Batch | Work at Apple,andreyvelichk,64,148,4,2017-08-17T20:28:56Z,2025-10-09T15:02:27Z
+arnarg,Arnar,,https://codedbearder.com,Austria,,,"Señor DevOps person. Into golang, NixOS and long walks on the beach.
+",,52,47,1,2011-12-28T23:24:50Z,2025-06-30T06:46:54Z
+batazor,Victor Login,,https://batazor.ru,,batazor111@gmail.com,True,Full-stack programmer,batazor,66,93,74,2012-04-14T19:53:31Z,2025-11-05T12:11:12Z
+chiukapoor,Chirayu Kapoor,@akuity,,,dev.csociety@gmail.com,True,Senior Software Engineer @akuity | Cloud Native Golang Developer | ex @rancher @purestorage @nutanix @infracloudio,,94,12,15,2017-09-19T05:39:33Z,2025-11-04T12:54:22Z
+christianh814,Christian Hernandez,@cisco,https://chernand.io,"Los Angeles, CA",,,"GitOps Guru, Amateur Gopher, and all around cool guy",christianh814,183,400,43,2015-01-12T17:35:34Z,2025-10-22T21:55:18Z
+cmuriukin,,,,,,,,,149,7,12,2019-02-08T05:37:16Z,2025-10-20T23:58:13Z
+danielhelfand,Daniel Helfand,,,Chicago,,,It's all about the experience. ,,161,32,27,2017-12-05T02:21:20Z,2025-06-16T21:09:11Z
+darksworm,Ilmārs,,,,,,,,77,10,1,2014-11-28T09:52:00Z,2025-09-07T13:40:11Z
+diabhey,Abhimanyu Selvan,heartbyte.io,https://diabhey.com,The Earth,,True,building & breaking services at heartbyte.io - not necessarily in that order!,diabhey,54,34,42,2018-03-07T07:21:47Z,2025-10-26T11:47:15Z
+dirien,Engin Diri,Pulumi,https://blog.ediri.io,"Heilbronn, Germany",info@ediri.de,,,_ediri,309,540,213,2018-04-12T15:06:16Z,2025-11-04T13:13:31Z
+fharper,Frédéric Harper,Tiugo Technologies,https://fred.dev,Montréal,hi@fred.dev,True,"Senior Developer Relations Manager at Tiugo Technologies w/ a focus on TinyMCE, ex npm, Mozilla, Microsoft, DigitalOcean & Fitbit, Apress author, #crazycatman",fharper,98,214,17,2011-11-03T22:23:23Z,2025-10-28T22:39:45Z
+flaviuvadan,Flaviu Vadan,@orion-Medicines,https://flaviuvadan.github.io,"Seattle, Washington, United States",flaviuvadan@gmail.com,,Senior Software Engineer @Orion-Medicines ,flaviuvadan,39,28,8,2016-03-29T21:20:44Z,2025-10-25T16:32:35Z
+gajananan,Kugamoorthy Gajananan,Vivanti,https://sites.google.com/view/gajananan,Melbourne,gajananan@gmail.com,,"Senior cloud security engineer at Vivanti, Melbourne",,39,10,12,2013-11-04T04:13:15Z,2025-08-08T23:08:21Z
+ggkhrmv,Gosha,@accenture,,Erfurt,,,,,11,16,56,2021-10-06T18:34:30Z,2025-11-01T12:50:53Z
+gosharo,GoshaDozoretz,,,,gosha@rookout.com,,,,11,1,1,2022-06-06T13:29:41Z,2023-11-22T13:55:39Z
+greut,Yoan Blanc,,http://yoan.dosimple.ch/,Switzerland,,True,:fondue: ,,223,300,624,2008-02-28T01:54:10Z,2025-11-03T07:49:00Z
+jannfis,Jann Fischer,Red Hat,,The Great White North,,,"I'm just a random nerd, believing in the power of sharing.
+
+C6E3 1C77 F79F A8F3 19ED  D27A 07E3 4825 A909 B250",,61,100,2,2013-03-22T15:50:35Z,2025-08-23T12:26:34Z
+kapad,Rohan Kapadia,,,"Bengaluru, India",,,,,11,28,42,2012-07-21T11:40:52Z,2025-10-25T18:18:26Z
+kostis-codefresh,Kostis (Codefresh),Codefresh/Octopus Deploy,https://codefresh.io/,Athens Greece,,,"Kostis is a software engineer/technical-writer dual class character. He lives and breathes automation, good testing practices and stress-free deployments.",,132,245,1,2018-05-31T13:05:51Z,2025-10-01T14:08:58Z
+mariuszmichalowski,Mariusz Michalowski,,,,,,Community Manager @ Spacelift,MariuszMichaow3,159,40,2,2021-10-07T11:02:43Z,2025-04-29T13:36:55Z
+maruina,Matteo Ruina,@datadog,,Barcelona,matteo.ruina@datadoghq.com,,Engineer at @datadog,ruio,62,60,31,2013-06-25T17:16:51Z,2025-10-24T21:17:53Z
+morey-tech,Nicholas Morey,@akuity,,Canada,gcdcai6k@duck.com,,Solution Architech @ Red Hat | Building cloud-native solutions and teaching others to do the same.,,83,99,16,2013-04-21T01:25:38Z,2025-10-27T23:04:16Z
+naqvis,Ali Naqvi,,,Shenyang,,True,,,31,0,0,2014-12-04T17:31:06Z,2025-10-16T05:25:39Z
+nitishm,Nitish Malhotra,Veeam,www.letsgopherit.com,San Diego CA,nitish.malhotra@gmail.com,True,"Veeam VDC Platform ex-@apple SRE
+ex-@microsoft C+AI
+University of Pennsylvania Alum
+Past:Oracle/CSPi/HERE technologies
+Focus: Golang, Kubernetes, Istio",nitishmalhotra9,89,61,49,2012-03-02T18:40:27Z,2025-11-03T17:37:01Z
+oprinmarius,Oprin Marius,@cloudnative-solutions,https://marius.oprin.ro,"Timisoara, Romania",marius@oprin.ro,True,Cloud Engineer,oprinmarius,49,18,34,2016-04-22T07:36:19Z,2025-11-03T15:50:00Z
+reikamoon,Anjelica,Mirantis,,,,True,,,138,0,0,2019-08-17T05:21:02Z,2025-11-07T04:48:53Z
+ricklamers,Rick Lamers,,https://ricklamers.io/about,Amsterdam + Palo Alto,,,"I like building software, open source, reading papers and generally working with optimistic people!",ricklamers,153,596,32,2012-01-06T12:32:07Z,2025-10-29T06:53:10Z
+rverchere,Rémi Verchère,,https://www.vrchr.fr,"Aubagne, France",remi@verchere.fr,,,,39,47,102,2010-03-29T07:46:16Z,2025-11-06T21:40:33Z
+saiyam1814,Saiyam Pathak,Kubesimplify,https://kubesimplify.com,"Chandigarh, India",saiyam911@gmail.com,,Building stuff,saiyampathak,197,1159,8,2014-07-17T10:15:13Z,2025-11-06T14:59:22Z
+saumeya,Saumeya Katyal,Red Hat,,India,saumeyakatyal@gmail.com,,Software Engineer @ OpenShift GitOps,,47,10,0,2016-03-10T20:22:51Z,2024-12-03T16:43:29Z
+schnatterer,,@cloudogu ,https://schnatterer.info,Germany,,,"I'm building and running things with people and computers.
+
+Tech lead infra team @cloudogu, occasional author and speaker. 
+GitOps, cloud, security, …",,113,100,36,2012-06-06T22:40:25Z,2025-10-29T15:38:29Z
+shini4i,Vadim Gedz,,,"Riga, Latvia",github@shini4i.dev,,,,22,14,0,2015-12-25T09:39:59Z,2025-08-30T11:26:22Z
+shuangkun,shuangkun tian,aliyun,,beijing,,,Managed Argo Workflows | ACKOne | AliababCloud ,,13,19,10,2020-09-29T04:08:52Z,2025-07-16T08:36:00Z
+softwarebloat,Nicoló Lino,Spotify,nlino.com,eu-south-1,,,Work hard but don't forget to live!,,13,17,15,2016-01-04T13:47:53Z,2025-07-09T14:45:30Z
+terrytangyuan,Yuan Tang,Red Hat,https://terrytangyuan.github.io/about/,USA,terrytangyuan@gmail.com,,Senior Principal Engineer at Red Hat | Lead @argoproj @kubeflow @kserve @cncf | Maintainer @tensorflow XGBoost | Author | Speaker | Advisor,TerryTangYuan,165,3694,90,2013-04-27T02:01:53Z,2025-10-13T22:44:56Z
+thesuperzapper,Mathew Wicks,@aranui-solutions,https://www.aranui.solutions/,San Francisco Bay Area,,,AI/ML on Kubernetes | Kubeflow Lead | deployKF | Airflow Helm Chart,MathewWicks,114,153,2,2013-10-21T08:05:45Z,2025-09-26T15:22:32Z
+thiago4int,Thiago Bittencourt Gil,AB  InBev,https://datastopshop.com/,,thiago@cloudfinops.org,,Emeritus Ambassador at FinOps Foundation | Co-Chair Cloud Native AI @ KubeCon / CloudNativeCon,,42,31,5,2021-02-18T21:34:48Z,2025-09-16T07:27:56Z
+tico24,Tim Collins,@pipekit,,England,,,,,27,20,1,2018-11-26T07:42:49Z,2025-10-22T12:09:44Z
+todaywasawesome,Dan Garfield,Codefresh,https://todaywasawesome.com/,"Salt Lake City, UT",dan@codefresh.io,,Co-Founder & Chief Open Source Officer at Codefresh | GitOps Co-chair | Google Developer Expert | Forbes Tech Council | X-Atlassian | #Devops #Kubernetes #Argo,todaywasawesome,134,198,11,2013-03-13T04:01:16Z,2025-10-27T14:47:03Z
+tzing,Tzu-Ting,,,"Taipei, TW",,,,,24,22,40,2014-12-15T13:03:53Z,2025-10-14T15:53:20Z
+vishalvivekm,Vivek Vishal,,,,vishalvivek488@gmail.com,,,vishalvivekm,83,104,120,2022-08-05T12:37:40Z,2025-11-06T12:51:43Z
+werne2j,Jake Wernette,,,United States,,,,,23,24,1,2013-11-18T20:45:43Z,2025-11-04T12:35:04Z
+wojtekidd,Wojtek Cichoń,CKEditor,,Poorland,wojtek.cichon@protonmail.com,,"Connecting the dots between product, marketing, and community. Pulling strings. Poking words.",wojtekidd,50,27,12,2013-12-09T21:03:20Z,2025-11-04T12:00:13Z
+yangtian9999,Timothy Tian Yang,,,,,,,,14,3,1,2019-09-08T07:42:37Z,2025-10-27T07:38:06Z

@@ -1,0 +1,30 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+0x2b3bfa0,Helio Machado,@iterative,,Spain,,,"Evergreen polymath with a taste for security, open technologies and expressive code.",,143,179,299,2015-03-09T09:56:06Z,2025-10-11T09:51:02Z
+DavidGOrtega,,,,,,,"Conjuror | Founder | Techstars alumn | ML engineer
+",,12,84,69,2010-09-24T22:22:00Z,2025-06-02T12:03:36Z
+DhanushNehru,Dhanush ,,chat-portfolio-dhanushnehru.netlify.app,127.0.0.1:IN,dhanushxenocrate@gmail.com,True,R&D Engineer 👨‍💻 Full Stack | DevOps | Opensource | Cybersecurity 🕷️ Chess Player♟️,Dhanush_Nehru,229,673,10,2016-10-20T09:31:19Z,2025-10-23T14:31:15Z
+MKhalusova,Maria Khalusova,Unstructured.io,,"Montreal, Canada",,,,mariakhalusova,57,170,2,2011-09-20T15:35:46Z,2025-09-02T17:46:10Z
+VaibhavWakde52,Vaibhav Wakde,,,,,,,,55,2,0,2023-10-31T12:45:12Z,2024-11-07T13:18:58Z
+aguschin,Alexander Guschin,,https://aguschin.com,,1aguschin@gmail.com,True,Machine Learning Engineer and teacher,,48,253,30,2014-02-26T20:06:34Z,2025-08-30T18:00:18Z
+aliabbasjaffri,Ali Abbas Jaffri,,https://aliabbasjaffri.github.io/,"Munich, Germany",,True,,,118,36,23,2013-06-20T13:20:15Z,2025-10-25T00:44:46Z
+casperdcl,Casper da Costa-Luis,,https://cdcl.ml,"London, UK",casper.dcl@physics.org,True,"Open Core Software Consultant & Technical Product Manager; Computational Physicist; member of IEEE, IOP, & @python Software Foundation",,131,608,1,2015-01-30T23:22:57Z,2025-11-03T11:04:04Z
+dacbd,Daniel Barnes,@wandb ,,Seattle/Seoul,dabarnes2b@gmail.com,,,,101,49,37,2011-10-05T20:01:36Z,2025-03-18T22:31:22Z
+danieljimeneznz,Daniel Jimenez,,,"Auckland, New Zealand",,,Software Creator,danieljimeneznz,17,10,4,2015-06-23T01:49:52Z,2025-10-28T11:41:17Z
+dberenbaum,Dave Berenbaum,,,"Fairfax, VA",dave.berenbaum@gmail.com,,,,89,22,1,2012-09-08T20:53:38Z,2025-10-16T19:51:36Z
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+dmpetrov,Dmitry Petrov,datachain.ai,https://twitter.com/fullstackml,"San Francisco Bay Area, CA",,,Creator of DVC - Data Version Control. Ex-Data Scientist at Microsoft. PhD in CS.,,4,194,3,2014-12-05T02:11:29Z,2025-11-07T04:45:21Z
+elleobrien,Elle O'Brien,@umsi ,elle-obrien.com,"Ann Arbor, Michigan",,,Researcher & faculty @umsi ,,60,486,9,2017-06-26T21:07:10Z,2025-10-31T15:13:36Z
+felipeweb,Felipe Oliveira,@PicPay @funccloud ,https://felipeweb.dev,Brazil - São Paulo - SP,fpo@felipeweb.dev,,Founder and CEO at @funccloud | Principal Engineer at @PicPay,_felipeweb,177,309,215,2013-06-28T21:48:35Z,2025-09-17T15:34:53Z
+gurobokum,Guro Bokum,,,,,,,,168,42,76,2011-02-05T12:19:14Z,2025-10-13T13:23:51Z
+jendefig,Jenifer De Figueiredo,,https://www.jendefig.com,"Woodinville, WA",,,,jendefig,20,16,24,2017-12-05T23:58:08Z,2025-10-01T17:21:23Z
+kaaloo,Luis Arias,@refugies-info ,,France,luis@refugies.info,True,"Luis is a veteran in the French startup scene with strong experience in  software development, document management, web applications and artificial intelligence",,50,36,15,2009-03-25T13:57:46Z,2025-09-29T09:24:17Z
+karajan1001,Yanxiang Gao,,,,,,,,49,27,19,2014-02-21T07:16:14Z,2025-07-31T09:46:25Z
+ludelafo,Ludovic Delafontaine,@HEIG-VD,https://ludelafo.ch,"Yverdon-les-Bains, Switzerland",,,Software engineer working at @artios-sarl and @HEIG-VD.,,5,39,13,2013-07-18T07:57:44Z,2025-11-05T12:29:22Z
+mjasion,Marcin Jasion,@eeveebank,https://mjasion.pl,"Warsaw, Poland",,True,See mjasion/README.md ➡️ ,,48,20,26,2013-07-21T11:31:12Z,2025-10-25T15:11:13Z
+omesser,Oded Messer,(╯°□°)╯︵ ┻━┻,,,odedmesser@gmail.com,,I make stuff. I break stuff,,90,17,7,2016-03-31T03:48:53Z,2025-11-05T12:27:12Z
+redouan-rhazouani,Redouan El Rhazouani,,,Hamburg Germany,,,,,12,3,0,2021-03-29T15:34:34Z,2025-10-20T17:03:50Z
+renovate[bot],,,,,,,,,0,0,0,2017-06-02T07:04:12Z,2017-06-14T20:22:02Z
+restyled-io[bot],,,,,,,,,0,0,0,2017-10-10T21:47:29Z,2017-10-10T21:47:29Z
+sjawhar,Sami Jawhar,,,Earth,sami@thecybermonk.com,,,CyberMonkSam,60,36,0,2013-07-23T15:54:28Z,2025-11-04T13:36:53Z
+tasdomas,Domas Monkus,,domas.monkus.lt,"Vilnius, Lithuania",,,,,20,32,2,2009-08-25T09:39:32Z,2025-10-30T11:49:31Z
+thejasmeetsingh,Jasmeet Singh,,https://portfolio.jasmeet.co.in/,"New Delhi, India",,True,Senior Software Engineer,,41,3,0,2019-06-01T15:48:06Z,2025-10-26T10:10:46Z

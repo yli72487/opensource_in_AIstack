@@ -1,0 +1,38 @@
+[
+  {
+    "number": 3,
+    "title": "revert back to use KUBERNETES_SERVICE_HOST",
+    "user": "alongubkin",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-06-07T19:51:02Z",
+    "closed_at": "2022-06-08T16:30:40Z",
+    "merged_at": "2022-06-08T16:30:40Z",
+    "state": "closed",
+    "html_url": "https://github.com/aporia-ai/inferencedb/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Add support for mTLS, improved logging & shorter HTTP timeouts",
+    "user": "alongubkin",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-06-05T22:18:16Z",
+    "closed_at": "2022-06-06T00:37:42Z",
+    "merged_at": "2022-06-06T00:37:42Z",
+    "state": "closed",
+    "html_url": "https://github.com/aporia-ai/inferencedb/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Update links in README",
+    "user": "alongubkin",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-03-01T08:47:20Z",
+    "closed_at": "2022-03-01T08:48:29Z",
+    "merged_at": "2022-03-01T08:48:29Z",
+    "state": "closed",
+    "html_url": "https://github.com/aporia-ai/inferencedb/pull/1"
+  }
+]

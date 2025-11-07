@@ -1,0 +1,50 @@
+[
+  {
+    "number": 5,
+    "title": "Add BemiDB as a Columnar OLAP Database",
+    "user": "exAspArk",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-03-27T12:41:30Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/pracdata/awesome-open-source-data-engineering/pull/5"
+  },
+  {
+    "number": 3,
+    "title": "Update README.md",
+    "user": "cbergh",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-05-07T18:32:48Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/pracdata/awesome-open-source-data-engineering/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Adding Timeplus Proton as streaming SQL engine",
+    "user": "jovezhong",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-04-03T05:54:32Z",
+    "closed_at": "2024-10-30T06:07:25Z",
+    "merged_at": "2024-10-30T06:07:25Z",
+    "state": "closed",
+    "html_url": "https://github.com/pracdata/awesome-open-source-data-engineering/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Add RudderStack headless CDP",
+    "user": "gitcommitshow",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-02-22T14:38:18Z",
+    "closed_at": "2024-02-25T07:10:06Z",
+    "merged_at": "2024-02-25T07:10:06Z",
+    "state": "closed",
+    "html_url": "https://github.com/pracdata/awesome-open-source-data-engineering/pull/1"
+  }
+]

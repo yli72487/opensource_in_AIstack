@@ -1,0 +1,110 @@
+[
+  {
+    "number": 10,
+    "title": "Bump actions/checkout from 3 to 4",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2023-09-04T23:05:27Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/nogibjj/rust-mlops-template/pull/10"
+  },
+  {
+    "number": 8,
+    "title": "Update README.md",
+    "user": "noahgift",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-02-20T15:16:55Z",
+    "closed_at": "2023-02-20T15:17:00Z",
+    "merged_at": "2023-02-20T15:17:00Z",
+    "state": "closed",
+    "html_url": "https://github.com/nogibjj/rust-mlops-template/pull/8"
+  },
+  {
+    "number": 7,
+    "title": "merge",
+    "user": "noahgift",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-02-16T11:57:34Z",
+    "closed_at": "2023-02-16T11:57:40Z",
+    "merged_at": "2023-02-16T11:57:40Z",
+    "state": "closed",
+    "html_url": "https://github.com/nogibjj/rust-mlops-template/pull/7"
+  },
+  {
+    "number": 6,
+    "title": "links",
+    "user": "noahgift",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-01-30T12:51:29Z",
+    "closed_at": "2023-01-30T12:51:37Z",
+    "merged_at": "2023-01-30T12:51:37Z",
+    "state": "closed",
+    "html_url": "https://github.com/nogibjj/rust-mlops-template/pull/6"
+  },
+  {
+    "number": 5,
+    "title": "Update README.md",
+    "user": "noahgift",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-01-12T14:49:31Z",
+    "closed_at": "2023-01-12T14:49:38Z",
+    "merged_at": "2023-01-12T14:49:38Z",
+    "state": "closed",
+    "html_url": "https://github.com/nogibjj/rust-mlops-template/pull/5"
+  },
+  {
+    "number": 4,
+    "title": "docker ",
+    "user": "noahgift",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-01-05T21:45:37Z",
+    "closed_at": "2023-01-05T21:45:43Z",
+    "merged_at": "2023-01-05T21:45:43Z",
+    "state": "closed",
+    "html_url": "https://github.com/nogibjj/rust-mlops-template/pull/4"
+  },
+  {
+    "number": 3,
+    "title": "Bump actions/checkout from 1 to 3",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2023-01-05T14:17:06Z",
+    "closed_at": "2023-01-05T21:52:17Z",
+    "merged_at": "2023-01-05T21:52:17Z",
+    "state": "closed",
+    "html_url": "https://github.com/nogibjj/rust-mlops-template/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "merge",
+    "user": "noahgift",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-01-05T14:15:03Z",
+    "closed_at": "2023-01-05T14:16:47Z",
+    "merged_at": "2023-01-05T14:16:47Z",
+    "state": "closed",
+    "html_url": "https://github.com/nogibjj/rust-mlops-template/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "sync of work today",
+    "user": "noahgift",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2022-12-23T00:09:54Z",
+    "closed_at": "2022-12-23T00:10:00Z",
+    "merged_at": "2022-12-23T00:10:00Z",
+    "state": "closed",
+    "html_url": "https://github.com/nogibjj/rust-mlops-template/pull/1"
+  }
+]

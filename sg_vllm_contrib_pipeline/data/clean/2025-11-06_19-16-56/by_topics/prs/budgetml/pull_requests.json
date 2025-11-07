@@ -1,0 +1,98 @@
+[
+  {
+    "number": 17,
+    "title": "Bump python-multipart from 0.0.5 to 0.0.7 in /server",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2024-02-12T17:29:23Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/ebhy/budgetml/pull/17"
+  },
+  {
+    "number": 16,
+    "title": "Bump fastapi from 0.65.2 to 0.109.1 in /server",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2024-02-05T17:53:51Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/ebhy/budgetml/pull/16"
+  },
+  {
+    "number": 15,
+    "title": "Update google-cloud-storage requirement",
+    "user": "upgradvisor-bot",
+    "user_type": "User",
+    "is_human": false,
+    "created_at": "2023-05-02T00:43:30Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/ebhy/budgetml/pull/15"
+  },
+  {
+    "number": 14,
+    "title": "Small fixes",
+    "user": "strickvl",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-01-17T10:42:25Z",
+    "closed_at": "2023-01-17T11:31:49Z",
+    "merged_at": "2023-01-17T11:31:49Z",
+    "state": "closed",
+    "html_url": "https://github.com/ebhy/budgetml/pull/14"
+  },
+  {
+    "number": 13,
+    "title": "fix typo & idiomatic language",
+    "user": "strickvl",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2021-08-22T18:26:36Z",
+    "closed_at": "2021-08-23T09:36:52Z",
+    "merged_at": "2021-08-23T09:36:52Z",
+    "state": "closed",
+    "html_url": "https://github.com/ebhy/budgetml/pull/13"
+  },
+  {
+    "number": 12,
+    "title": "Bump fastapi from 0.63.0 to 0.65.2 in /server",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2021-07-06T17:32:17Z",
+    "closed_at": "2021-07-06T17:33:01Z",
+    "merged_at": "2021-07-06T17:33:01Z",
+    "state": "closed",
+    "html_url": "https://github.com/ebhy/budgetml/pull/12"
+  },
+  {
+    "number": 7,
+    "title": "Improve HTTP status codes",
+    "user": "bradleybonitatibus",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2021-02-11T16:55:52Z",
+    "closed_at": "2021-02-11T19:11:06Z",
+    "merged_at": "2021-02-11T19:11:06Z",
+    "state": "closed",
+    "html_url": "https://github.com/ebhy/budgetml/pull/7"
+  },
+  {
+    "number": 3,
+    "title": "Update README.md",
+    "user": "kasimte",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2021-02-02T05:42:20Z",
+    "closed_at": "2021-02-02T06:11:09Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/ebhy/budgetml/pull/3"
+  }
+]

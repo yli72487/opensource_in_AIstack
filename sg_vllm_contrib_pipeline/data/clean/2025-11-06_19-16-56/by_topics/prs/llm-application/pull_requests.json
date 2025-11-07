@@ -1,0 +1,26 @@
+[
+  {
+    "number": 2,
+    "title": "add cell to determine the remote (non-head) node and run a task there to pre-cache llm model weights",
+    "user": "adbreind",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-06-14T01:52:13Z",
+    "closed_at": "2023-06-14T02:26:32Z",
+    "merged_at": "2023-06-14T02:26:32Z",
+    "state": "closed",
+    "html_url": "https://github.com/ray-project/llm-application/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "LLMs in Production - iteration 1",
+    "user": "kamil-kaczmarek",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-06-13T00:49:17Z",
+    "closed_at": "2023-06-13T00:49:55Z",
+    "merged_at": "2023-06-13T00:49:54Z",
+    "state": "closed",
+    "html_url": "https://github.com/ray-project/llm-application/pull/1"
+  }
+]

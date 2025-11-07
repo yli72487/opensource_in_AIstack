@@ -1,0 +1,14 @@
+[
+  {
+    "number": 1,
+    "title": "Bump eslint from 3.19.0 to 4.19.1 in /2.Edge_AI_Fundamentals_with_OpenVINO/Lesson_5-Deploying_an_Edge_App/13.Exercise_Server_Communications/webservice/ui",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2020-06-21T18:05:03Z",
+    "closed_at": "2020-06-21T19:04:15Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/MrinmoiHossain/Udacity-Intel-Edge-AI-for-IoT-Developers-Nanodegree/pull/1"
+  }
+]

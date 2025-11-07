@@ -1,0 +1,14 @@
+[
+  {
+    "number": 1,
+    "title": "sync upstream",
+    "user": "nonPointer",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-04-26T17:28:04Z",
+    "closed_at": "2024-04-26T17:32:05Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/IvanLuLyf/bunny-llm/pull/1"
+  }
+]

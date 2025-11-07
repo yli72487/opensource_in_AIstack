@@ -1,0 +1,14 @@
+[
+  {
+    "number": 1,
+    "title": "feat: Add int8 quant",
+    "user": "chuanbosi666",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-10-22T11:04:37Z",
+    "closed_at": "2025-10-22T11:12:22Z",
+    "merged_at": "2025-10-22T11:12:22Z",
+    "state": "closed",
+    "html_url": "https://github.com/gitctrlx/llama.go/pull/1"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "number": 3,
+    "title": "Bump tensorflow from 2.4.2 to 2.5.3 in /aws/mo-utility",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2022-02-10T02:43:19Z",
+    "closed_at": "2022-05-19T17:47:06Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/intel/openvino-demos/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Bump tensorflow from 2.4.2 to 2.5.2 in /aws/mo-utility",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2021-11-10T20:20:36Z",
+    "closed_at": "2022-02-10T02:43:21Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/intel/openvino-demos/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Bump tensorflow from 2.4.2 to 2.5.1 in /aws/mo-utility",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2021-08-25T15:05:37Z",
+    "closed_at": "2021-11-10T20:20:38Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/intel/openvino-demos/pull/1"
+  }
+]

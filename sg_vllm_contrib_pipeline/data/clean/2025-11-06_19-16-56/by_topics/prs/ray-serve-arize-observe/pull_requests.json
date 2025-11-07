@@ -1,0 +1,14 @@
+[
+  {
+    "number": 1,
+    "title": "added content",
+    "user": "kamil-kaczmarek",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-04-21T03:24:29Z",
+    "closed_at": "2023-04-21T03:30:40Z",
+    "merged_at": "2023-04-21T03:30:40Z",
+    "state": "closed",
+    "html_url": "https://github.com/ray-project/ray-serve-arize-observe/pull/1"
+  }
+]

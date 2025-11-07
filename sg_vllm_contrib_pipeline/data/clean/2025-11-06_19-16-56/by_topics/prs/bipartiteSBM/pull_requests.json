@@ -1,0 +1,14 @@
+[
+  {
+    "number": 11,
+    "title": "correct spelling of Kernighan in 4 places",
+    "user": "erikj540",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2019-10-01T15:37:30Z",
+    "closed_at": "2019-10-01T19:03:17Z",
+    "merged_at": "2019-10-01T19:03:17Z",
+    "state": "closed",
+    "html_url": "https://github.com/junipertcy/bipartiteSBM/pull/11"
+  }
+]

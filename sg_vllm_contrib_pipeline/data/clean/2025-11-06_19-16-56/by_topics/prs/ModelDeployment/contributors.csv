@@ -1,0 +1,7 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+coatless,James J Balamuta,,https://thecoatlessprofessor.com,United States,,True,"omnipresent explorer of the unknown, fashionably caffeinated informatics phd, amorous cavalier. design, build, analyze. #rstats #python @tmsalab",axiomsofxyz,59,370,25,2011-06-06T20:51:14Z,2025-10-23T07:38:22Z
+dselivanov,Dmitry Selivanov,rexy.ai,,Dubai,,,,rexyai,104,374,137,2013-07-30T19:21:40Z,2025-09-16T16:40:22Z
+jameslamb,James Lamb,NVIDIA,,"Chicago, IL",,,(he/him) RAPIDS packaging at NVIDIA. LightGBM maintainer. Economist at heart. ,,34,703,290,2014-05-17T05:32:21Z,2025-09-28T01:43:01Z
+juliasilge,Julia Silge,@posit-dev,https://juliasilge.com/,"Salt Lake City, UT",,,"Data science and MLOps with #rstats, text mining, 💖",,125,3233,16,2015-05-19T02:51:23Z,2025-11-07T04:23:10Z
+kevinykuo,Kevin Kuo,,kevinykuo.com,,kevinykuo@gmail.com,,,,151,162,25,2013-10-01T03:55:54Z,2025-08-21T07:05:17Z
+shrektan,Xianying Tan,Allianz Insurance AMC,https://shrektan.com,"Beijing, China",shrektan@126.com,,"Hacker, R, Python, C++11, Rust. Asset Management. Actuarial Science. R encoding issue solver. CFA Charterholder.",shrektan89,145,196,183,2014-08-06T01:02:57Z,2025-11-07T00:49:17Z

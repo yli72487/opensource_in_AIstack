@@ -1,0 +1,14 @@
+[
+  {
+    "number": 1,
+    "title": "Restructure package for pip installation using src-layout",
+    "user": "Copilot",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2025-11-01T12:55:01Z",
+    "closed_at": "2025-11-02T07:43:08Z",
+    "merged_at": "2025-11-02T07:43:08Z",
+    "state": "closed",
+    "html_url": "https://github.com/KroxenStudios/KroxAI-Mini/pull/1"
+  }
+]

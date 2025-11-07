@@ -1,0 +1,86 @@
+[
+  {
+    "number": 37,
+    "title": "Fix llama.cpp submodule build failures",
+    "user": "danemadsen",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-07-30T23:42:18Z",
+    "closed_at": "2025-07-30T23:58:27Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/Mobile-Artificial-Intelligence/llama_sdk/pull/37"
+  },
+  {
+    "number": 31,
+    "title": "rename",
+    "user": "danemadsen",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-04-09T00:26:49Z",
+    "closed_at": "2025-04-09T00:28:40Z",
+    "merged_at": "2025-04-09T00:28:40Z",
+    "state": "closed",
+    "html_url": "https://github.com/Mobile-Artificial-Intelligence/llama_sdk/pull/31"
+  },
+  {
+    "number": 22,
+    "title": "Dev",
+    "user": "danemadsen",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-03-11T00:10:48Z",
+    "closed_at": "2025-03-11T00:10:54Z",
+    "merged_at": "2025-03-11T00:10:54Z",
+    "state": "closed",
+    "html_url": "https://github.com/Mobile-Artificial-Intelligence/llama_sdk/pull/22"
+  },
+  {
+    "number": 20,
+    "title": "OuteTTS",
+    "user": "danemadsen",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-03-06T02:00:35Z",
+    "closed_at": "2025-03-07T03:48:32Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/Mobile-Artificial-Intelligence/llama_sdk/pull/20"
+  },
+  {
+    "number": 7,
+    "title": "[ImgBot] Optimize images",
+    "user": "imgbot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2024-06-02T03:47:12Z",
+    "closed_at": "2024-06-02T04:15:02Z",
+    "merged_at": "2024-06-02T04:15:02Z",
+    "state": "closed",
+    "html_url": "https://github.com/Mobile-Artificial-Intelligence/llama_sdk/pull/7"
+  },
+  {
+    "number": 2,
+    "title": "Remove unused packages",
+    "user": "davidmigloz",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-04-10T20:19:41Z",
+    "closed_at": "2024-04-10T21:51:19Z",
+    "merged_at": "2024-04-10T21:51:19Z",
+    "state": "closed",
+    "html_url": "https://github.com/Mobile-Artificial-Intelligence/llama_sdk/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "work on isolating init",
+    "user": "danemadsen",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-03-10T00:54:02Z",
+    "closed_at": "2024-03-10T00:54:13Z",
+    "merged_at": "2024-03-10T00:54:13Z",
+    "state": "closed",
+    "html_url": "https://github.com/Mobile-Artificial-Intelligence/llama_sdk/pull/1"
+  }
+]

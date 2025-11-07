@@ -1,0 +1,31 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+ArturNiederfahrenhorst,Artur Niederfahrenhorst,@anyscale ,arturn.dev,Cologne,,,,,4,20,14,2014-10-22T19:42:34Z,2025-11-06T21:45:28Z
+ChaosEternal,,,,"Sydney, Australia",,,,,48,30,7,2012-03-02T07:18:59Z,2025-10-11T04:12:07Z
+FerdinandZhong,Zhong Qishuai,,,Singapore,FerdinandZhong@gmail.com,,PhD Candidate @ NTU | Building GenAI Platforms in the Bank,,49,19,32,2015-08-14T01:35:05Z,2025-10-09T01:35:55Z
+JGSweets,,,,,,,,,15,9,0,2014-05-28T16:20:31Z,2025-09-10T23:29:23Z
+NeelamMandavia,,,,,,,,,1,0,1,2023-12-15T08:03:08Z,2025-10-08T13:14:31Z
+YQ-Wang,Yiqing Wang,@Roblox ,,"San Mateo, CA",,,,,20,4,3,2016-06-26T06:18:39Z,2025-03-30T03:59:19Z
+Yard1,Antoni Baum,Member of Technical Staff @openai,,,antoni.baum@protonmail.com,,Member of Technical Staff @openai | ex-@anyscale | Commiter @ray-project @vllm-project @pycaret ,,109,355,0,2015-01-01T13:09:09Z,2025-10-16T09:02:24Z
+akshay-anyscale,,,,,,,,,3,2,0,2023-01-11T01:24:55Z,2025-04-25T18:36:02Z
+alanwguo,Alan Guo,,www.aguo.software,"Mountain View, CA",aguo@anyscale.com,,,,21,8,1,2011-04-05T23:59:38Z,2025-11-05T12:25:39Z
+avnishn,Avnish Narayan,nvidia,,"Bay Area, CA",,,"Senior Research Engineer @Nvidia GEAR Lab
+
+Formerly Ray RLlib Maintainer",,19,32,9,2018-05-01T00:49:37Z,2025-11-06T05:14:59Z
+csivanich,Chris Sivanich,@anyscale,,"San Francisco, CA",,True,Unanimously voted top-2 SREs @ray-project @anyscale,,24,21,3,2013-08-14T16:12:43Z,2025-08-29T22:38:28Z
+eltociear,Ikko Eltociear Ashimine,,,"Tokyo, Japan",,,"AI-driven developer @ Tokyo.
+Loves 🎸/🐈/🍛/🏝/⛰",,61,1249,6,2016-10-05T07:58:42Z,2025-10-20T01:14:54Z
+enori,Rina Ueno,Hitachi Inc.,,"Tokyo, Japan",rina.ueno.yt@hitachi.com,,,,12,0,0,2016-10-29T05:32:12Z,2025-09-23T07:25:23Z
+ethanyanjiali,Ethan Yanjia Li,Snapchat,yanjia.li,Los Angeles,,,"Machine Learning @ Meta, Snap; MBA @ UC Berkeley Haas; CIS @ Cornell
+",,54,53,5,2014-09-06T16:52:48Z,2025-07-29T04:34:40Z
+gvspraveen,Praveen,,,,,,,,29,8,3,2011-01-02T02:28:38Z,2025-10-09T00:13:54Z
+kevin85421,Kai-Hsun Chen,@xai-org @ray-project @apache ,https://www.linkedin.com/in/kaihsun1996/,United States,kaihsun@apache.org,,Pretraining @ xAI | KubeRay maintainer | Ray committer | Apache Submarine PMC,,91,187,77,2016-06-23T12:09:11Z,2025-10-31T23:07:42Z
+kylehh,kYLe,Nvidia (ex-AWS/Anyscale),,"Houston, TX",,,,,30,11,6,2016-11-28T04:31:09Z,2025-10-22T21:16:09Z
+leon-g-xu,Leon Xu,,,Seattle,,,,,1,4,12,2012-01-10T09:22:56Z,2025-03-03T17:21:39Z
+marov,,,,,,,,,17,1,0,2012-07-13T07:28:23Z,2025-10-09T01:59:56Z
+richardliaw,Richard Liaw,@anyscale,http://people.eecs.berkeley.edu/~rliaw/,Berkeley,,,@anyscale - feel free to reach out,,111,259,79,2013-05-25T21:36:07Z,2025-10-31T06:42:19Z
+roelschr,Igor Gustavo Hoelscher,@miroapp,,"Amsterdam, NL",,True,Data Science | ML in Production | MLOps | Computer Vision,roelschr,24,10,7,2016-05-24T18:05:15Z,2025-10-06T20:22:30Z
+shrekris-anyscale,,,,,,,,,14,1,0,2021-10-11T22:54:04Z,2024-10-17T07:18:57Z
+sihanwang41,Sihan Wang,@vmware ,,,sihanwang41@gmail.com,,,,30,2,0,2014-01-27T15:06:38Z,2025-08-22T04:49:22Z
+uvikas,Vikas U,"University of California, Berkeley",,"Berkeley, CA",,,,,7,9,14,2020-07-06T08:02:43Z,2025-11-03T13:40:02Z
+viirya,Liang-Chi Hsieh,@apache @databricks,http://www.viirya.org,Seattle,,True,"Apache Arrow, DataFusion and Spark Committer and PMC member",,246,447,0,2009-03-31T08:29:07Z,2025-04-08T17:23:23Z
+xwu-intel,Xiaochang Wu,@intel ,,,xiaochang.wu@intel.com,,,,30,5,2,2016-11-19T03:42:57Z,2025-10-18T02:25:42Z

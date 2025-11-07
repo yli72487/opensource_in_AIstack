@@ -1,0 +1,14 @@
+[
+  {
+    "number": 1,
+    "title": "Feature/v0.7.5 ai mentor",
+    "user": "AmariahAK",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-10-09T12:58:21Z",
+    "closed_at": "2025-10-09T12:58:30Z",
+    "merged_at": "2025-10-09T12:58:30Z",
+    "state": "closed",
+    "html_url": "https://github.com/AmariahAK/commit-checker/pull/1"
+  }
+]

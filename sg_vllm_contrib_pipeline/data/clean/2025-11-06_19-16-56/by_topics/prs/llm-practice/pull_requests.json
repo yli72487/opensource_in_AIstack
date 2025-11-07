@@ -1,0 +1,26 @@
+[
+  {
+    "number": 2,
+    "title": "Develop",
+    "user": "ehsanghaffar",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-10-29T01:23:19Z",
+    "closed_at": "2023-10-29T01:23:32Z",
+    "merged_at": "2023-10-29T01:23:32Z",
+    "state": "closed",
+    "html_url": "https://github.com/ehsanghaffar/llm-practice/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Update Dockerfile with GCC 11 installation",
+    "user": "ehsanghaffar",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-10-28T21:59:22Z",
+    "closed_at": "2023-10-28T21:59:45Z",
+    "merged_at": "2023-10-28T21:59:45Z",
+    "state": "closed",
+    "html_url": "https://github.com/ehsanghaffar/llm-practice/pull/1"
+  }
+]

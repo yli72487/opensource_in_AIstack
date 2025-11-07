@@ -1,0 +1,38 @@
+[
+  {
+    "number": 3,
+    "title": "Bump scipy from 1.3.1 to 1.10.0",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2023-07-06T21:49:59Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/hasanamanet/ML-Deployment/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "Bump requests from 2.22.0 to 2.31.0",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2023-05-22T22:44:50Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/hasanamanet/ML-Deployment/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "Bump flask from 1.1.1 to 2.3.2",
+    "user": "dependabot[bot]",
+    "user_type": "Bot",
+    "is_human": false,
+    "created_at": "2023-05-01T21:24:25Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/hasanamanet/ML-Deployment/pull/1"
+  }
+]

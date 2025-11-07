@@ -1,0 +1,37 @@
+login,name,company,blog,location,email,hireable,bio,twitter_username,public_repos,followers,following,created_at,updated_at
+AndrewCloete,Andrew,,,,,,,,50,3,3,2015-01-28T07:38:33Z,2025-08-27T07:51:01Z
+Ciniesta,Carmen Iniesta,,,,,,,,9,5,15,2015-03-05T10:01:51Z,2025-10-29T19:51:29Z
+Deep145757,Deep Isane,International Institute Of Information Technology,,,,,,,64,7,5,2023-09-29T12:56:45Z,2025-10-28T10:06:49Z
+VaibhavWakde52,Vaibhav Wakde,,,,,,,,55,2,0,2023-10-31T12:45:12Z,2024-11-07T13:18:58Z
+albertnadal,Albert Nadal Garriga,,http://albiasoft.com,Manresa (Barcelona),,,Software Engineer,anadalg,50,61,265,2011-07-19T18:54:38Z,2025-09-22T09:29:48Z
+alekece,Alexis Le Provost,,,France,alexis.leprovost@outlook.com,True,Rust enthusiast enjoying new technologies.,,29,12,15,2013-11-26T16:38:43Z,2025-08-04T10:22:48Z
+anastasds,Anastas Stoyanovsky,,http://anastas.eu,"New York City, NY",contact@anastas.eu,True,,,38,15,4,2010-06-07T02:20:16Z,2025-08-25T13:48:24Z
+bilalmirza74,Bilal Mirza,,,hyd,,,Software Engineer & Systems Enthusiast,,44,7,3,2021-05-18T11:58:36Z,2025-10-24T07:43:49Z
+bloodbare,Ramon Navarro Bosch,@nuclia,https://nuclia.com,"Manresa, Catalunya",ramon.nb@gmail.com,,,bloodbare,39,57,7,2010-11-18T11:45:34Z,2025-10-30T17:38:29Z
+carlesonielfa,Carles Onielfa,@nuclia ,onielfa.com,Barcelona,,,Machine Learning Engineer @ Nuclia,,15,15,9,2017-09-12T08:23:30Z,2025-10-26T15:31:06Z
+ccasimiro88,Casimiro,,,Barcelona,,,Machine Learning Researcher/Engineer (NLP),,12,11,8,2016-10-02T23:04:28Z,2025-10-27T11:26:10Z
+clayrisse,Claudia Layrisse,Nuclia,,Barcelona,,,,,93,4,16,2020-05-31T11:24:06Z,2025-09-20T18:23:02Z
+danilopsss,Danilo P,,,Spain,,True,,,16,8,11,2020-10-24T20:26:27Z,2025-11-06T14:26:05Z
+daper,David Peralta,Auth0,https://daper.org,"Tudela, Navarra, Spain",david@daper.email,,,,41,25,10,2013-08-28T06:55:52Z,2025-11-01T12:52:03Z
+dependabot[bot],,,,,,,,,0,0,0,2019-04-16T22:34:25Z,2019-05-23T08:22:16Z
+drf7,,,,,,,,,4,0,1,2021-04-28T14:05:49Z,2025-10-30T14:58:48Z
+ebrehault,Eric BREHAULT,Progress,,"Toulouse, France",ebrehault@gmail.com,,,,100,70,4,2010-10-30T18:00:35Z,2025-10-23T14:20:50Z
+emmanuel-ferdman,Emmanuel Ferdman,,,Israel,,,MS Computer Science with a focus on Machine Learning and Computer Vision. Full-time software developer at @Intel.,,40,105,0,2018-01-15T22:24:08Z,2025-10-23T14:52:27Z
+ferpizza,Fer Pizzabiocche,Nuclia,,Barcelona,,,,,4,0,0,2019-12-10T09:23:12Z,2025-09-10T10:47:38Z
+fjmoronreyes,Fran,,https://www.linkedin.com/in/fjmoronreyes/,Seville,,,Programming lover. I like creating stories through my programs.,,4,1,1,2021-01-26T12:22:51Z,2025-09-11T06:49:13Z
+fossabot,fossabot,@fossas,https://fossa.com,Dependency Heaven,support@fossa.io,,Your friendly neighborhood FOSSA bot. Opens PRs to add a @fossas scan status to your README. Also opens PRs to remediate vulnerabilities in your dependencies.,,24159,424,0,2017-06-30T06:04:31Z,2025-11-03T16:19:54Z
+funollet,Jordi Funollet,,,,,,,,53,38,7,2009-01-02T19:39:21Z,2025-09-23T09:15:46Z
+hermeGarcia,Herme,,http://medium.com/@HermeG,,,,Computer Science | Compilers | Systems Programming | Rust | Formal Methods,,12,8,3,2018-10-13T16:12:39Z,2025-09-17T07:59:12Z
+javitonino,Javier Torres,,,"Madrid, Spain",,,,,31,28,0,2014-05-13T13:32:06Z,2025-10-24T12:38:03Z
+jotare,Joan Antoni RE,@nuclia,,Spain/Netherlands,,,,,22,5,2,2017-03-17T10:02:21Z,2023-10-18T10:07:08Z
+kezhenxu94,kezhenxu94,@tetrateio ,https://kezhenxu94.me,,kezhenxu94@apache.org,,,kezhenxu94,35,575,23,2015-11-22T10:47:52Z,2025-10-28T11:43:47Z
+lferran,Ferran Llamas,,,,,,,,12,18,16,2015-04-06T22:33:29Z,2025-10-24T05:51:33Z
+pyrokin5,,At1,,,,,,,64,0,0,2017-08-02T23:52:12Z,2025-09-19T18:46:50Z
+r3bu1ld3r,Anton Velikanov,InDrive,,,,True,Staff engineer,,20,8,13,2020-03-10T00:38:02Z,2025-10-04T06:03:44Z
+rastut,Carlos Lopez,,,,,,,,20,1,1,2014-10-08T09:24:39Z,2025-10-15T15:08:42Z
+sunbit,Carles Bruguera Artero,,,,,,,,31,6,1,2010-12-03T10:01:42Z,2025-11-03T14:05:52Z
+swallez,Sylvain Wallez,@rerun-io,https://bluxte.net,"Toulouse, France",,True,,bluxte,75,178,6,2010-03-02T07:52:38Z,2025-10-27T10:23:55Z
+tarekziade,Tarek Ziade,@mozilla,https://ziade.org,"Turcey, Burgundy, France",,,,,213,609,0,2010-04-22T16:33:17Z,2025-10-15T07:45:35Z
+unbekanntes-pferd,Octavio Simone,@dracoon,unbekanntespferd.com,"Regensburg, Germany",,,,,27,16,30,2020-09-05T09:49:11Z,2025-11-04T15:10:55Z
+vangheem,Nathan Van Gheem,,https://nathanvangheem.com,"Raleigh, NC",,,Software engineer,,104,64,3,2010-12-15T14:48:14Z,2025-10-28T17:27:38Z
+zepellin,Martin Danko,,,Barcelona,,,,,18,0,0,2018-12-20T22:38:39Z,2025-11-02T14:08:24Z

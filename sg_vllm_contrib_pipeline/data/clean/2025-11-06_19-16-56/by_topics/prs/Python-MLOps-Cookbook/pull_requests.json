@@ -1,0 +1,62 @@
+[
+  {
+    "number": 9,
+    "title": "Update pythonapp.yml",
+    "user": "AhmedBnKhalil",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-06-01T12:41:24Z",
+    "closed_at": null,
+    "merged_at": null,
+    "state": "open",
+    "html_url": "https://github.com/noahgift/Python-MLOps-Cookbook/pull/9"
+  },
+  {
+    "number": 8,
+    "title": "changed to requirmeents.txt",
+    "user": "daniwils",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-12-16T13:27:31Z",
+    "closed_at": "2024-12-16T13:27:41Z",
+    "merged_at": null,
+    "state": "closed",
+    "html_url": "https://github.com/noahgift/Python-MLOps-Cookbook/pull/8"
+  },
+  {
+    "number": 7,
+    "title": "Fixed Grammatical Errors in README.md File",
+    "user": "Arthavruksha",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-06-18T18:29:55Z",
+    "closed_at": "2023-06-20T07:50:43Z",
+    "merged_at": "2023-06-20T07:50:43Z",
+    "state": "closed",
+    "html_url": "https://github.com/noahgift/Python-MLOps-Cookbook/pull/7"
+  },
+  {
+    "number": 6,
+    "title": "deleted extra lines in imports",
+    "user": "alonmar",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2021-12-02T20:38:40Z",
+    "closed_at": "2023-06-20T07:51:00Z",
+    "merged_at": "2023-06-20T07:51:00Z",
+    "state": "closed",
+    "html_url": "https://github.com/noahgift/Python-MLOps-Cookbook/pull/6"
+  },
+  {
+    "number": 2,
+    "title": "README update",
+    "user": "Makinuh",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2021-05-01T20:33:06Z",
+    "closed_at": "2021-05-01T20:38:57Z",
+    "merged_at": "2021-05-01T20:38:57Z",
+    "state": "closed",
+    "html_url": "https://github.com/noahgift/Python-MLOps-Cookbook/pull/2"
+  }
+]

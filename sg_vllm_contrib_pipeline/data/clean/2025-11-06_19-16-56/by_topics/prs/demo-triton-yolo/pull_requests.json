@@ -1,0 +1,62 @@
+[
+  {
+    "number": 9,
+    "title": "refactor: clean up deployment probes and update image versions",
+    "user": "bkoz",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-06-02T21:37:08Z",
+    "closed_at": "2025-06-02T21:37:15Z",
+    "merged_at": "2025-06-02T21:37:15Z",
+    "state": "closed",
+    "html_url": "https://github.com/redhat-na-ssa/demo-triton-yolo/pull/9"
+  },
+  {
+    "number": 8,
+    "title": "Bkoz dev",
+    "user": "bkoz",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2025-05-21T15:30:19Z",
+    "closed_at": "2025-05-21T15:30:28Z",
+    "merged_at": "2025-05-21T15:30:28Z",
+    "state": "closed",
+    "html_url": "https://github.com/redhat-na-ssa/demo-triton-yolo/pull/8"
+  },
+  {
+    "number": 3,
+    "title": "Cleanup",
+    "user": "codekow",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-10-25T20:02:28Z",
+    "closed_at": "2024-10-25T20:10:16Z",
+    "merged_at": "2024-10-25T20:10:16Z",
+    "state": "closed",
+    "html_url": "https://github.com/redhat-na-ssa/demo-triton-yolo/pull/3"
+  },
+  {
+    "number": 2,
+    "title": "update: demo to include yolo",
+    "user": "codekow",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-10-24T16:03:46Z",
+    "closed_at": "2024-10-24T23:53:29Z",
+    "merged_at": "2024-10-24T23:53:29Z",
+    "state": "closed",
+    "html_url": "https://github.com/redhat-na-ssa/demo-triton-yolo/pull/2"
+  },
+  {
+    "number": 1,
+    "title": "move: files from other repo",
+    "user": "codekow",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2024-10-18T01:39:07Z",
+    "closed_at": "2024-10-18T06:01:16Z",
+    "merged_at": "2024-10-18T06:01:16Z",
+    "state": "closed",
+    "html_url": "https://github.com/redhat-na-ssa/demo-triton-yolo/pull/1"
+  }
+]

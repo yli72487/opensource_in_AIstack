@@ -1,0 +1,14 @@
+[
+  {
+    "number": 1,
+    "title": "Added onnx weights for yolov7-tiny",
+    "user": "AnweshCR7",
+    "user_type": "User",
+    "is_human": true,
+    "created_at": "2023-01-22T20:42:44Z",
+    "closed_at": "2023-01-22T20:43:06Z",
+    "merged_at": "2023-01-22T20:43:06Z",
+    "state": "closed",
+    "html_url": "https://github.com/AnweshCR7/onnx-inference-yolo/pull/1"
+  }
+]
